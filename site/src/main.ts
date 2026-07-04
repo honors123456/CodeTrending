@@ -176,7 +176,7 @@ async function renderHome(): Promise<void> {
   );
 }
 
-type Tab = "velocity" | "acceleration" | "new";
+type Tab = "velocity" | "acceleration" | "new" | "stars";
 let currentTab: Tab = "velocity";
 
 async function renderLang(id: string): Promise<void> {
@@ -193,6 +193,7 @@ async function renderLang(id: string): Promise<void> {
   const tabs: { key: Tab; label: string; desc: string; repos: RepoMetrics[] }[] = [
     { key: "velocity", label: "增速榜", desc: "近 7 天日均新增 star 最高", repos: board.velocityTop },
     { key: "acceleration", label: "黑马榜", desc: "增速变化最大（正在爆发）", repos: board.accelerationTop },
+    { key: "stars", label: "Star 排行", desc: "按 star 总数排序", repos: board.starsTop },
     { key: "new", label: "新星榜", desc: "创建不满 90 天的新项目按增速排序", repos: board.newStars },
   ];
   const active = tabs.find((t) => t.key === currentTab) ?? tabs[0];

@@ -150,6 +150,8 @@ export interface LanguageBoard {
   accelerationTop: RepoMetrics[];
   /** 新星榜（创建 <90 天） */
   newStars: RepoMetrics[];
+  /** Star 排行（按 star 总数降序） */
+  starsTop: RepoMetrics[];
 }
 
 export interface SummaryLang {

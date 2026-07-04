@@ -149,6 +149,7 @@ export function compute(): Summary {
       .filter((r) => r.ageDays < 90)
       .sort((a, b) => b.starVelocity! - a.starVelocity!)
       .slice(0, BOARD_SIZE);
+    const starsTop = [...repos].sort((a, b) => b.stars - a.stars).slice(0, BOARD_SIZE);
 
     const board: LanguageBoard = {
       language: lang.id,
@@ -157,6 +158,7 @@ export function compute(): Summary {
       velocityTop,
       accelerationTop,
       newStars,
+      starsTop,
     };
     writeJson(path.join(SITE_DATA_DIR, "lang", `${lang.id}.json`), board);
 
