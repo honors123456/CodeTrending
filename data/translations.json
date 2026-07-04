@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-04T16:32:07.997Z",
+ "updatedAt": "2026-07-04T16:44:50.704Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3892,6 +3892,42 @@
   "librenms/librenms": {
    "src": "Community-based GPL-licensed network monitoring system",
    "zh": "基于社区的 GPL 许可网络监控系统"
+  },
+  "DenverCoder1/github-readme-streak-stats": {
+   "src": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+   "zh": "🔥 保持动力，展示你的贡献连续性！🌟 在你的 GitHub 个人资料 README 中显示你的总贡献、当前连续性和最长连续性"
+  },
+  "kanboard/kanboard": {
+   "src": "Kanban project management software",
+   "zh": "看板项目管理软件"
+  },
+  "solidtime-io/solidtime": {
+   "src": "Modern open-source time-tracking app",
+   "zh": "现代开源时间追踪应用"
+  },
+  "MISP/MISP": {
+   "src": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+   "zh": "MISP（核心软件）- 开源威胁情报与共享平台"
+  },
+  "espocrm/espocrm": {
+   "src": "EspoCRM – Open Source CRM Application",
+   "zh": "EspoCRM – 开源 CRM 应用"
+  },
+  "mahdiMGF2/mirzabot": {
+   "src": "bot pro for sell vpn",
+   "zh": "出售 VPN 的机器人专业版"
+  },
+  "cedar2025/Xboard": {
+   "src": "High-performance panel based on V2board secondary development supporting new protocols and new features",
+   "zh": "基于 V2board 二次开发的高性能面板，支持新协议和新功能"
+  },
+  "docker-archive-public/docker.labs": {
+   "src": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+   "zh": "这是一个关于如何使用 Docker 与各种工具的教程集合。欢迎贡献。"
+  },
+  "predis/predis": {
+   "src": "A flexible and feature-complete Redis/Valkey client for PHP.",
+   "zh": "一个灵活且功能完整的 PHP 的 Redis/Valkey 客户端。"
   }
  }
 }
