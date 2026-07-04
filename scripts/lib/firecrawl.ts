@@ -1,16 +1,33 @@
-import { fetchRetry, requireEnv } from "./util.js";
+import { fetchRetry } from "./util.js";
 
-const API = "https://api.firecrawl.dev/v1/scrape";
+/**
+ * Firecrawl 接入点：
+ * - 自部署（CI 内临时 docker compose 或自有服务器）：设 FIRECRAWL_API_URL，无需 key（鉴权已关，送占位 token）
+ * - 云端：设 FIRECRAWL_API_KEY
+ */
+function endpoint(): { api: string; token: string } {
+  const base = process.env.FIRECRAWL_API_URL?.replace(/\/+$/, "");
+  const key = process.env.FIRECRAWL_API_KEY;
+  if (!base && !key) {
+    console.error("需要 FIRECRAWL_API_URL（自部署）或 FIRECRAWL_API_KEY（云端）之一，见 .env.example");
+    process.exit(1);
+  }
+  return {
+    api: `${base ?? "https://api.firecrawl.dev"}/v1/scrape`,
+    token: key || "self-hosted-no-auth",
+  };
+}
 
 /** Firecrawl 抓取单页，返回 markdown */
 export async function scrapeMarkdown(url: string): Promise<string> {
+  const { api, token } = endpoint();
   const res = await fetchRetry(
-    API,
+    api,
     {
       method: "POST",
       headers: {
         "content-type": "application/json",
-        authorization: `Bearer ${requireEnv("FIRECRAWL_API_KEY")}`,
+        authorization: `Bearer ${token}`,
       },
       body: JSON.stringify({ url, formats: ["markdown"], onlyMainContent: true }),
     },

@@ -32,12 +32,40 @@ jobs:
 
       - run: npm ci
 
+      - name: 启动自部署 Firecrawl（runner 内临时实例，用完随 runner 销毁）
+        run: |
+          git clone --depth 1 https://github.com/mendableai/firecrawl.git /tmp/firecrawl
+          cd /tmp/firecrawl
+          cat > .env <<'EOF'
+          PORT=3002
+          INTERNAL_PORT=3002
+          HOST=0.0.0.0
+          USE_DB_AUTHENTICATION=false
+          REDIS_URL=redis://redis:6379
+          REDIS_RATE_LIMIT_URL=redis://redis:6379
+          PLAYWRIGHT_MICROSERVICE_URL=http://playwright-service:3000/scrape
+          EOF
+          docker compose up -d --build
+
+      - name: 等待 Firecrawl 就绪
+        run: |
+          for i in $(seq 1 60); do
+            if curl -sf http://localhost:3002/ > /dev/null; then
+              echo "Firecrawl 就绪（等待 $((i*5)) 秒）"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::Firecrawl 启动超时"
+          docker compose -f /tmp/firecrawl/docker-compose.yaml logs --tail 100
+          exit 1
+
       - name: 采集 + 计算榜单
         run: npm run collect
         env:
           # PAT（无 scope），内置 GITHUB_TOKEN 只有 1000 次/小时不够用
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          FIRECRAWL_API_URL: http://localhost:3002
 
       - name: 提交快照数据
         run: |

@@ -31,19 +31,23 @@ Vite 静态站（GitHub Pages），GitHub Actions cron 驱动
 ## 本地运行
 
 ```bash
-cp .env.example .env   # 填 GITHUB_TOKEN（无 scope 的 PAT）和 FIRECRAWL_API_KEY
+cp .env.example .env   # 填 GITHUB_TOKEN（无 scope 的 PAT）；Firecrawl 二选一见 .env.example
 npm install
 npm run collect        # 发现 + 采集 + 快照 + 刷量检测 + 计算
 npm run dev            # 本地预览 http://localhost:5173
 ```
 
+Firecrawl 走自部署（开源，AGPL）：CI 每轮在 runner 里用官方 docker compose 临时拉起一个实例，
+用完随 runner 销毁，不依赖云端付费额度。本地想跑真实采集时，可以 docker 起同样的实例，
+或临时用云端 key（免费 500 credits 足够验证几十轮）。
+
 冷启动可选：`npm run bootstrap` 用带时间戳的 stargazers API 为小体量仓库回填近 14 天 star 历史，让增速第一天就可用（加速度仍需约 6 天真实快照）。
 
 ## 部署（GitHub Actions）
 
-1. 仓库 Settings → Secrets and variables → Actions 添加 `GH_PAT`、`FIRECRAWL_API_KEY`
+1. 仓库 Settings → Secrets and variables → Actions 添加 `GH_PAT`（无 scope 的 PAT）
 2. Settings → Pages → Source 选 **GitHub Actions**
-3. 手动触发一次 `collect-and-deploy` workflow 验证全链路
+3. 手动触发一次 `collect-and-deploy` workflow 验证全链路（Firecrawl 由 workflow 自动临时启动）
 
 ## 开发约定
 

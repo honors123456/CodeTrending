@@ -49,7 +49,8 @@ npm run build      # vite build
 
 ## 密钥规则
 
-- `GITHUB_TOKEN`（PAT，无需 scope）、`FIRECRAWL_API_KEY` 只存两处：本地 `.env`（已 gitignore）、GitHub Actions secrets
+- `GITHUB_TOKEN`（PAT，无需 scope）只存两处：本地 `.env`（已 gitignore）、GitHub Actions secret `GH_PAT`
+- Firecrawl 走自部署：CI 在 runner 内临时 docker compose 启动（无鉴权，`FIRECRAWL_API_URL=http://localhost:3002`）；本地开发可用同样方式或临时用云端 `FIRECRAWL_API_KEY`
 - 密钥不进代码、不进 commit、不进日志；脚本打日志前过滤 env
 
 ## 红线
