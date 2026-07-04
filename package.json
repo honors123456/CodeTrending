@@ -1,0 +1,25 @@
+{
+  "name": "codetrending",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "collect": "tsx scripts/run.ts",
+    "discover": "tsx scripts/discover.ts",
+    "enrich": "tsx scripts/enrich.ts",
+    "compute": "tsx scripts/compute.ts",
+    "bootstrap": "tsx scripts/bootstrap.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "dev": "vite site",
+    "build": "vite build site",
+    "preview": "vite preview site"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.0.0",
+    "vitest": "^3.0.0"
+  }
+}
