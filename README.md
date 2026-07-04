@@ -19,7 +19,7 @@
 ## 架构
 
 ```
-Firecrawl 抓 github.com/trending（候选发现，官方无 API）
+抓取 github.com/trending HTML（curl/fetch，零依赖，零部署成本）
         ↓
 GitHub GraphQL/REST 拉精确指标（每天 3 次快照 → data/history/）
         ↓
@@ -31,15 +31,11 @@ Vite 静态站（GitHub Pages），GitHub Actions cron 驱动
 ## 本地运行
 
 ```bash
-cp .env.example .env   # 填 GITHUB_TOKEN（无 scope 的 PAT）；Firecrawl 二选一见 .env.example
+cp .env.example .env   # 填 GITHUB_TOKEN（无 scope 的 PAT）
 npm install
 npm run collect        # 发现 + 采集 + 快照 + 刷量检测 + 计算
 npm run dev            # 本地预览 http://localhost:5173
 ```
-
-Firecrawl 走自部署（开源，AGPL）：CI 每轮在 runner 里用官方 docker compose 临时拉起一个实例，
-用完随 runner 销毁，不依赖云端付费额度。本地想跑真实采集时，可以 docker 起同样的实例，
-或临时用云端 key（免费 500 credits 足够验证几十轮）。
 
 冷启动可选：`npm run bootstrap` 用带时间戳的 stargazers API 为小体量仓库回填近 14 天 star 历史，让增速第一天就可用（加速度仍需约 6 天真实快照）。
 
@@ -47,7 +43,7 @@ Firecrawl 走自部署（开源，AGPL）：CI 每轮在 runner 里用官方 doc
 
 1. 仓库 Settings → Secrets and variables → Actions 添加 `GH_PAT`（无 scope 的 PAT）
 2. Settings → Pages → Source 选 **GitHub Actions**
-3. 手动触发一次 `collect-and-deploy` workflow 验证全链路（Firecrawl 由 workflow 自动临时启动）
+3. 手动触发一次 `collect-and-deploy` workflow 验证全链路
 
 ## 开发约定
 

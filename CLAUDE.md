@@ -4,7 +4,7 @@
 
 ## 架构
 
-- **发现**：Firecrawl 抓 `github.com/trending/{lang}`（daily + weekly，12 种语言）→ 候选池 `data/pool.json`
+- **发现**：`curl` / `fetch` 拉 `github.com/trending/{lang}` HTML（daily + weekly，12 种语言），正则解析 → 候选池 `data/pool.json`
 - **采集**：GitHub GraphQL（50 repo/查询批量）+ REST（contributors、participation、stargazers）→ 快照 `data/history/YYYY-MM-DD.json`
 - **计算**：`scripts/compute.ts` 纯读快照历史，产出榜单 JSON 到 `site/public/data/`
 - **前端**：Vite + 原生 TS 静态站，无框架、无外部请求，只读本地 JSON
@@ -50,8 +50,12 @@ npm run build      # vite build
 ## 密钥规则
 
 - `GITHUB_TOKEN`（PAT，无需 scope）只存两处：本地 `.env`（已 gitignore）、GitHub Actions secret `GH_PAT`
-- Firecrawl 走自部署：CI 在 runner 内临时 docker compose 启动（无鉴权，`FIRECRAWL_API_URL=http://localhost:3002`）；本地开发可用同样方式或临时用云端 `FIRECRAWL_API_KEY`
 - 密钥不进代码、不进 commit、不进日志；脚本打日志前过滤 env
+
+## 代理
+
+本地 Windows 环境若有代理（`HTTPS_PROXY`），`discover.ts` 自动走 curl 配合代理抓 trending 页；
+CI（GitHub Actions）无代理，`scrapeMarkdown` 自动切到原生 Node fetch。
 
 ## 红线
 

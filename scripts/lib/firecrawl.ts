@@ -1,46 +1,29 @@
-import { fetchRetry } from "./util.js";
+import { spawnSync } from "node:child_process";
 
 /**
- * Firecrawl 接入点：
- * - 自部署（CI 内临时 docker compose 或自有服务器）：设 FIRECRAWL_API_URL，无需 key（鉴权已关，送占位 token）
- * - 云端：设 FIRECRAWL_API_KEY
+ * 爬取 github.com/trending HTML。
+ * trending 页是服务端渲染的 HTML。
+ * 优先用 Node fetch（CI 环境直通公网）；若 HTTPS_PROXY 已设（本地有代理），
+ * 退到底层 curl 绕过 Node 的 fetch 代理盲区。两种路径都能跑。
  */
-function endpoint(): { api: string; token: string } {
-  const base = process.env.FIRECRAWL_API_URL?.replace(/\/+$/, "");
-  const key = process.env.FIRECRAWL_API_KEY;
-  if (!base && !key) {
-    console.error("需要 FIRECRAWL_API_URL（自部署）或 FIRECRAWL_API_KEY（云端）之一，见 .env.example");
-    process.exit(1);
-  }
-  return {
-    api: `${base ?? "https://api.firecrawl.dev"}/v1/scrape`,
-    token: key || "self-hosted-no-auth",
-  };
-}
-
-/** Firecrawl 抓取单页，返回 markdown */
 export async function scrapeMarkdown(url: string): Promise<string> {
-  const { api, token } = endpoint();
-  const res = await fetchRetry(
-    api,
-    {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-        authorization: `Bearer ${token}`,
-      },
-      body: JSON.stringify({ url, formats: ["markdown"], onlyMainContent: true }),
-    },
-    3,
-  );
+  // 有代理走 curl（Windows 本地常用），否则走 Node fetch（CI）
+  if (process.env.HTTPS_PROXY || process.env.HTTP_PROXY) {
+    const argv = ["-sL", url, "-H", "User-Agent: Mozilla/5.0"];
+    if (process.env.HTTPS_PROXY) argv.unshift("-x", process.env.HTTPS_PROXY);
+    const r = spawnSync("curl", argv, { timeout: 30_000, encoding: "utf-8" });
+    if (r.error) throw new Error(`curl 失败: ${r.error.message}`);
+    if (r.status !== 0) throw new Error(`curl 非零退出 (${r.status}): ${(r.stderr || "").slice(0, 200)}`);
+    return r.stdout;
+  }
+
+  const res = await fetch(url, {
+    headers: { "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" },
+  });
   if (!res.ok) {
-    throw new Error(`Firecrawl 抓取失败 ${url}: HTTP ${res.status} ${await res.text()}`);
+    throw new Error(`抓取失败 ${url}: HTTP ${res.status}`);
   }
-  const json = (await res.json()) as { success: boolean; data?: { markdown?: string }; error?: string };
-  if (!json.success || !json.data?.markdown) {
-    throw new Error(`Firecrawl 返回异常 ${url}: ${json.error ?? "无 markdown"}`);
-  }
-  return json.data.markdown;
+  return res.text();
 }
 
 /** github.com 上不是仓库 owner 的一级路径 */
@@ -54,16 +37,20 @@ const NON_REPO_OWNERS = new Set([
 ]);
 
 /**
- * 从 trending 页 markdown 提取 owner/repo 列表（按出现顺序去重，最多 max 个）。
- * trending 页每个条目标题是指向仓库的链接；解析所有 github.com 两段路径链接再过滤。
+ * 从 trending 页 HTML 提取 owner/repo 列表（按出现顺序去重，最多 max 个）。
+ * 解析 HTML 中所有 `/owner/repo` 两段路径链接，过滤非仓库路径。
+ * 不依赖 DOM 解析库，纯正则——快速且可靠。
  */
-export function parseTrendingRepos(markdown: string, max = 25): string[] {
+export function parseTrendingRepos(html: string, max = 25): string[] {
   const seen = new Set<string>();
   const out: string[] = [];
-  const re = /https:\/\/github\.com\/([A-Za-z0-9_.-]+)\/([A-Za-z0-9_.-]+?)(?=[)\s"'\\#?]|$)/g;
-  for (const m of markdown.matchAll(re)) {
-    const owner = m[1];
-    const name = m[2];
+  const re = /href="\/([A-Za-z0-9_.-]+(?:\/[A-Za-z0-9_.-]+)?)"/g;
+  for (const m of html.matchAll(re)) {
+    const full = m[1];
+    const slash = full.indexOf("/");
+    if (slash < 1) continue;
+    const owner = full.slice(0, slash);
+    const name = full.slice(slash + 1);
     if (NON_REPO_OWNERS.has(owner.toLowerCase())) continue;
     if (name.toLowerCase() === "sponsors") continue;
     const repo = `${owner}/${name}`;
