@@ -55,14 +55,13 @@ export async function enrich(pool: Pool): Promise<RepoSnapshot[]> {
   return snapshots;
 }
 
-/** 把本次运行追加进当日历史文件 */
+/** 写入当日历史文件：当日内新运行覆盖前次（序列计算只用末次，见 history.ts），紧凑格式控制体量 */
 export function appendSnapshots(snapshots: RepoSnapshot[], t: string = nowISO()): string {
   const date = dateCN();
   const file = path.join(HISTORY_DIR, `${date}.json`);
-  const history = readJson<HistoryFile>(file, { date, runs: [] });
-  history.runs.push({ t, snapshots });
-  writeJson(file, history);
-  console.log(`[enrich] 快照写入 ${file}（当日第 ${history.runs.length} 次运行）`);
+  const history: HistoryFile = { date, runs: [{ t, snapshots }] };
+  writeJson(file, history, true);
+  console.log(`[enrich] 快照写入 ${file}（覆盖当日，单 run 紧凑格式）`);
   return file;
 }
 

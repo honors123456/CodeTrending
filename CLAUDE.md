@@ -16,7 +16,7 @@
 | `scripts/` | 采集与计算脚本 | 入口 `run.ts`；共享逻辑放 `scripts/lib/` |
 | `scripts/lib/types.ts` | 全部数据 schema | 改动数据结构必须先改这里 |
 | `data/pool.json` | 候选池 | 30 天未再上 trending 的 repo 淘汰出池（历史保留） |
-| `data/history/` | 快照，每日一文件 | 只追加，不回改；文件名 `YYYY-MM-DD.json`（UTC+8 日期） |
+| `data/history/` | 快照，每日一文件 | 当日内新运行覆盖前次（只留末次，紧凑 JSON）；跨日只追加、不回改；文件名 `YYYY-MM-DD.json`（UTC+8 日期） |
 | `data/translations.json` | 简介中文翻译缓存 | 采集时经 GitHub Models（复用 GITHUB_TOKEN）增量翻译；原文变更自动重翻 |
 | `site/public/data/` | 前端榜单 JSON | 由 compute.ts 生成，**不手改、不提交**（gitignore） |
 | `site/src/` | 前端代码 | 中文文案；图表实现前先读 dataviz skill |

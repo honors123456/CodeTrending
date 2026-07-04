@@ -41,7 +41,11 @@ jobs:
           else
             git commit -m "chore(data): snapshot $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M') (+8)"
             git fetch origin master
-            git rebase FETCH_HEAD || git rebase --abort && git pull --no-edit && echo "rebase 失败改用 merge"
+            if ! git rebase FETCH_HEAD; then
+              echo "rebase 失败改用 merge"
+              git rebase --abort
+              git pull --no-edit
+            fi
             git push
           fi
 

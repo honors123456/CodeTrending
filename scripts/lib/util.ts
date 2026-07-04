@@ -39,9 +39,9 @@ export function readJson<T>(file: string, fallback: T): T {
   return JSON.parse(fs.readFileSync(file, "utf8")) as T;
 }
 
-export function writeJson(file: string, data: unknown): void {
+export function writeJson(file: string, data: unknown, compact = false): void {
   fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, JSON.stringify(data, null, 1), "utf8");
+  fs.writeFileSync(file, JSON.stringify(data, null, compact ? 0 : 1), "utf8");
 }
 
 export function sleep(ms: number): Promise<void> {
