@@ -12,7 +12,7 @@ import { BACKFILL_FILE, buildRepoHistories, loadHistoryFiles, type Backfill } fr
 import { DATA_DIR, dateCN, loadEnv, mapLimit, readJson, writeJson } from "./lib/util.js";
 
 const MAX_STARS = 5000;
-const PAGES = 5; // 最多回看 500 个 stargazer
+const MAX_GAZERS = 500; // 最多回看 500 个最近加星者
 const BACK_DAYS = 14;
 const DAY_MS = 86400_000;
 
@@ -32,10 +32,6 @@ async function main(): Promise<void> {
 
   const remaining = await rateLimitRemaining();
   console.log(`[bootstrap] 目标 ${targets.length} 个仓库（<${MAX_STARS} star），REST 配额余量 ${remaining ?? "未知"}`);
-  if (remaining !== null && remaining < targets.length * (PAGES + 1)) {
-    console.error(`[bootstrap] 配额不足（预计需 ~${targets.length * (PAGES + 1)} 次），等配额恢复后再跑`);
-    process.exit(1);
-  }
 
   const backfill = readJson<Backfill>(BACKFILL_FILE, {});
   const now = Date.now();
@@ -45,12 +41,12 @@ async function main(): Promise<void> {
     const repo = h.latest.repo;
     const currentStars = h.latest.stars;
     try {
-      const gazers = await fetchRecentStargazers(repo, PAGES);
+      const gazers = await fetchRecentStargazers(repo, MAX_GAZERS);
       if (gazers.length === 0) return;
       const times = gazers.map((g) => Date.parse(g.starredAt)).sort((a, b) => a - b);
       const oldest = times[0];
-      // 抓满 PAGES*100 条说明更早还有没抓到的 stargazer，早于窗口起点的日期无法反推
-      const fetchedAll = gazers.length < PAGES * 100;
+      // 取满 MAX_GAZERS 条说明更早还有没取到的 stargazer，早于窗口起点的日期无法反推
+      const fetchedAll = gazers.length < MAX_GAZERS;
       const points: SeriesPoint[] = [];
       for (let i = BACK_DAYS; i >= 1; i--) {
         const day = dateCN(new Date(now - i * DAY_MS));

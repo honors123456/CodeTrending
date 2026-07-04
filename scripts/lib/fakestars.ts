@@ -9,7 +9,7 @@ import path from "node:path";
 import type { FakeStarFlag, FlagsFile } from "./types.js";
 import type { RepoHistory } from "./history.js";
 import { dailyDeltas, zScoreLatest } from "./metrics.js";
-import { fetchRecentStargazers, fetchUsers } from "./github.js";
+import { fetchRecentStargazers } from "./github.js";
 import { DATA_DIR, nowISO, readJson, writeJson } from "./util.js";
 
 export const FLAGS_FILE = path.join(DATA_DIR, "flags.json");
@@ -47,20 +47,18 @@ export async function detectFakeStars(histories: Map<string, RepoHistory>): Prom
     let newAccountShare: number | null = null;
     let confirmed: boolean | null = null;
     try {
-      const gazers = await fetchRecentStargazers(repo, 2);
+      // GraphQL 倒序取最近 200 个加星者，自带账号注册时间与 follower 数
+      const gazers = await fetchRecentStargazers(repo, 200);
       const recent = gazers.filter((g) => (now - Date.parse(g.starredAt)) / DAY_MS <= 3);
       // 均匀抽样最多 SAMPLE_SIZE 个账号
       const step = Math.max(1, Math.floor(recent.length / SAMPLE_SIZE));
-      const logins = recent.filter((_, i) => i % step === 0).slice(0, SAMPLE_SIZE).map((g) => g.login);
-      if (logins.length >= 10) {
-        const users = await fetchUsers(logins);
-        if (users.length >= 10) {
-          const newOnes = users.filter(
-            (u) => (now - Date.parse(u.createdAt)) / DAY_MS < NEW_ACCOUNT_DAYS && u.followers === 0,
-          );
-          newAccountShare = Math.round((newOnes.length / users.length) * 1000) / 1000;
-          confirmed = newAccountShare > CONFIRM_SHARE;
-        }
+      const sample = recent.filter((_, i) => i % step === 0).slice(0, SAMPLE_SIZE);
+      if (sample.length >= 10) {
+        const newOnes = sample.filter(
+          (u) => (now - Date.parse(u.createdAt)) / DAY_MS < NEW_ACCOUNT_DAYS && u.followers === 0,
+        );
+        newAccountShare = Math.round((newOnes.length / sample.length) * 1000) / 1000;
+        confirmed = newAccountShare > CONFIRM_SHARE;
       }
     } catch (e) {
       console.error(`[fakestars] ${repo} 抽样失败: ${(e as Error).message}`);

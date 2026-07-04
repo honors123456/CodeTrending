@@ -1,4 +1,4 @@
-import { fetchRetry, mapLimit, requireEnv, sleep } from "./util.js";
+import { fetchRetry, requireEnv, sleep } from "./util.js";
 import type { RepoSnapshot } from "./types.js";
 
 const GQL_API = "https://api.github.com/graphql";
@@ -131,45 +131,59 @@ export async function fetchParticipation(repo: string): Promise<number[] | undef
   return json.all;
 }
 
-export interface Stargazer {
+export interface StargazerInfo {
   starredAt: string;
   login: string;
+  createdAt: string;
+  followers: number;
 }
 
-/** 最近 n 页 stargazers（每页 100，从最后一页倒着取），带 starred_at 时间戳 */
-export async function fetchRecentStargazers(repo: string, pages = 1): Promise<Stargazer[]> {
-  const accept = { accept: "application/vnd.github.star+json" };
-  const first = await rest(`/repos/${repo}/stargazers?per_page=100`, accept);
-  if (!first.ok) return [];
-  const lp = lastPage(first) ?? 1;
-  const out: Stargazer[] = [];
-  const targets = [];
-  for (let p = lp; p > Math.max(0, lp - pages); p--) targets.push(p);
-  for (const p of targets) {
-    const res =
-      p === 1 && lp === 1
-        ? first
-        : await rest(`/repos/${repo}/stargazers?per_page=100&page=${p}`, accept);
-    if (!res.ok) continue;
-    const list = (await res.json()) as { starred_at: string; user: { login: string } }[];
-    for (const s of list) {
-      if (s?.starred_at && s.user?.login) out.push({ starredAt: s.starred_at, login: s.user.login });
+interface GqlStargazers {
+  repository: {
+    stargazers: {
+      pageInfo: { hasNextPage: boolean; endCursor: string | null };
+      edges: {
+        starredAt: string;
+        node: { login: string; createdAt: string; followers: { totalCount: number } };
+      }[];
+    };
+  } | null;
+}
+
+/**
+ * 最近加星者（按 STARRED_AT 倒序），连带账号注册时间与 follower 数。
+ * 用 GraphQL 而非 REST：REST stargazers 端点最多翻 400 页（4 万条），
+ * 大仓库的最近加星者取不到。
+ */
+export async function fetchRecentStargazers(repo: string, max = 100): Promise<StargazerInfo[]> {
+  const [owner, name] = repo.split("/");
+  const out: StargazerInfo[] = [];
+  let cursor: string | null = null;
+  while (out.length < max) {
+    const page = Math.min(100, max - out.length);
+    const after: string = cursor ? `, after: ${JSON.stringify(cursor)}` : "";
+    const data = await graphql<GqlStargazers>(
+      `query { repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(name)}) {
+        stargazers(first: ${page}${after}, orderBy: {field: STARRED_AT, direction: DESC}) {
+          pageInfo { hasNextPage endCursor }
+          edges { starredAt node { login createdAt followers { totalCount } } }
+        }
+      } }`,
+    );
+    const sg = data.repository?.stargazers;
+    if (!sg) break;
+    for (const e of sg.edges) {
+      out.push({
+        starredAt: e.starredAt,
+        login: e.node.login,
+        createdAt: e.node.createdAt,
+        followers: e.node.followers.totalCount,
+      });
     }
+    if (!sg.pageInfo.hasNextPage || !sg.pageInfo.endCursor) break;
+    cursor = sg.pageInfo.endCursor;
   }
   return out;
-}
-
-/** 抽样查询账号信息（刷量确认用） */
-export async function fetchUsers(
-  logins: string[],
-): Promise<{ login: string; createdAt: string; followers: number }[]> {
-  const results = await mapLimit(logins, 5, async (login) => {
-    const res = await rest(`/users/${encodeURIComponent(login)}`);
-    if (!res.ok) return null;
-    const u = (await res.json()) as { created_at: string; followers: number };
-    return { login, createdAt: u.created_at, followers: u.followers };
-  });
-  return results.filter((u): u is NonNullable<typeof u> => u !== null);
 }
 
 /** 当前 REST 配额余量（日志用） */
