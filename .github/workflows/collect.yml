@@ -1,5 +1,7 @@
 name: collect-and-deploy
 
+# 首次触发（force re-index）
+
 on:
   schedule:
     # UTC 00:05 / 04:05 / 11:05 = 北京时间 08:05 / 12:05 / 19:05
