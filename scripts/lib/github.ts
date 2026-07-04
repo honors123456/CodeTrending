@@ -193,3 +193,23 @@ export async function rateLimitRemaining(): Promise<number | null> {
   const json = (await res.json()) as { resources?: { core?: { remaining?: number } } };
   return json.resources?.core?.remaining ?? null;
 }
+
+/**
+ * 按语言搜索 star 最高的仓库（GitHub Search API）。
+ * 每语言一次请求 ≈ 1 search quota（认证用户 30 req/min），12 种语言一次跑完。
+ * 返回 repo 全名列表。
+ */
+export async function searchTopReposByLanguage(
+  languageQuery: string,
+  perPage = 100,
+): Promise<string[]> {
+  const q = encodeURIComponent(`language:${languageQuery}`);
+  const res = await rest(`/search/repositories?q=${q}&sort=stars&order=desc&per_page=${perPage}`);
+  if (!res.ok) {
+    const body = await res.text().catch(() => "");
+    throw new Error(`GitHub Search API 请求失败 (${res.status}): ${body.slice(0, 200)}`);
+  }
+  const json = (await res.json()) as { items: { full_name: string }[]; total_count: number };
+  if (!json.items) return [];
+  return json.items.map((i) => i.full_name);
+}
