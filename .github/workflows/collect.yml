@@ -2,7 +2,6 @@ name: collect
 
 on:
   schedule:
-    # UTC 00:05 / 04:05 / 11:05 = 北京时间 08:05 / 12:05 / 19:05
     - cron: "5 0,4,11 * * *"
   workflow_dispatch:
 
@@ -38,28 +37,19 @@ jobs:
           git add data/ site/public/data/
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"
-            echo "has_changes=false" >> $GITHUB_ENV
           else
             git commit -m "chore(data): snapshot $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M') (+8)"
             git pull --rebase origin ${{ github.ref_name }}
             git push
-            echo "has_changes=true" >> $GITHUB_ENV
           fi
 
-      - name: 同步数据到 gh-pages 分支
-        if: env.has_changes == 'true'
-        run: |
-          git fetch origin gh-pages || git checkout --orphan gh-pages-tmp
-          git checkout gh-pages 2>/dev/null || git checkout --orphan gh-pages
-          # 保留站点文件，仅更新 data/ 目录
-          git checkout master -- site/public/data/ 2>/dev/null || true
-          mkdir -p data
-          cp -r site/public/data/* data/ 2>/dev/null || true
-          git add data/
-          if git diff --cached --quiet; then
-            echo "gh-pages 数据无变化"
-          else
-            git commit -m "chore(data): sync $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M') (+8)"
-            git push origin gh-pages
-          fi
-          git checkout master
+      - name: 构建 + 部署网站（含最新数据）
+        run: npm run build
+
+      - name: 发布到 gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: site/dist
+          publish_branch: gh-pages
+          force_orphan: true
