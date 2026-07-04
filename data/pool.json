@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-04T09:18:19.727Z",
+ "updatedAt": "2026-07-04T10:13:51.430Z",
  "entries": [
   {
    "repo": "usestrix/strix",
@@ -5218,6 +5218,12 @@
   {
    "repo": "wallabag/wallabag",
    "language": "php",
+   "firstSeen": "2026-07-04",
+   "lastSeenOnTrending": "2026-07-04"
+  },
+  {
+   "repo": "ctxrs/ctx",
+   "language": "rust",
    "firstSeen": "2026-07-04",
    "lastSeenOnTrending": "2026-07-04"
   }
