@@ -10,6 +10,7 @@ import {
   type RepoMetrics,
   type Summary,
   type SummaryLang,
+  type TranslationsFile,
 } from "./lib/types.js";
 import {
   acceleration,
@@ -21,6 +22,7 @@ import {
   starVelocity,
 } from "./lib/metrics.js";
 import { buildRepoHistories, loadBackfill, loadHistoryFiles, type RepoHistory } from "./lib/history.js";
+import { loadTranslations } from "./lib/translate.js";
 import { DATA_DIR, SITE_DATA_DIR, dateCN, nowISO, readJson, writeJson } from "./lib/util.js";
 
 const POOL_FILE = path.join(DATA_DIR, "pool.json");
@@ -34,6 +36,7 @@ function buildRepoMetrics(
   h: RepoHistory,
   suspectedFake: boolean,
   now: number,
+  translations: TranslationsFile["entries"],
 ): RepoMetrics {
   const s = h.latest;
   const { ageDays, bucket } = ageBucketOf(s.createdAt, now);
@@ -68,6 +71,11 @@ function buildRepoMetrics(
     repo: s.repo,
     language,
     description: s.description,
+    // 仅当缓存译文对应的原文与当前一致才使用，避免简介已更新但译文陈旧
+    descriptionZh: (() => {
+      const t = translations[s.repo];
+      return t && t.src === s.description?.trim() ? t.zh : null;
+    })(),
     stars: s.stars,
     forks: s.forks,
     ageDays,
@@ -119,11 +127,12 @@ export function compute(): Summary {
       .map((f) => f.repo.toLowerCase()),
   );
 
+  const translations = loadTranslations().entries;
   const byLang = new Map<string, RepoMetrics[]>();
   for (const entry of pool.entries) {
     const h = histories.get(entry.repo.toLowerCase());
     if (!h) continue;
-    const m = buildRepoMetrics(entry.language, h, fakeSet.has(entry.repo.toLowerCase()), now);
+    const m = buildRepoMetrics(entry.language, h, fakeSet.has(entry.repo.toLowerCase()), now, translations);
     if (!byLang.has(entry.language)) byLang.set(entry.language, []);
     byLang.get(entry.language)!.push(m);
   }

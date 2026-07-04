@@ -33,8 +33,8 @@ jobs:
       - name: 提交数据到 master
         shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "lxx"
+          git config user.email "honors123456@163.com"
           git add data/
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"

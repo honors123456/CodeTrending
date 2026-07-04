@@ -80,6 +80,14 @@ export interface HistoryFile {
   runs: HistoryRun[];
 }
 
+/* ---------- 简介翻译缓存 data/translations.json ---------- */
+
+export interface TranslationsFile {
+  updatedAt: string;
+  /** repo → { src: 翻译时的英文原文, zh: 中文译文 }；原文变更后重新翻译 */
+  entries: Record<string, { src: string; zh: string }>;
+}
+
 /* ---------- 刷量标记 data/flags.json ---------- */
 
 export interface FakeStarFlag {
@@ -106,6 +114,8 @@ export interface RepoMetrics {
   repo: string;
   language: string;
   description: string | null;
+  /** 简介中文翻译（GitHub Models 生成，缓存于 data/translations.json）；无翻译为 null，前端回退原文 */
+  descriptionZh: string | null;
   stars: number;
   forks: number;
   ageDays: number;

@@ -51,9 +51,11 @@ function badges(r: RepoMetrics): string {
 
 function repoCell(r: RepoMetrics, showLang: boolean): string {
   const lang = showLang ? `<span class="num-sub">${esc(LANGUAGES.find((l) => l.id === r.language)?.display ?? r.language)} · </span>` : "";
+  // 简介优先中文翻译，悬停显示英文原文；无翻译回退原文
+  const desc = r.descriptionZh ?? r.description;
   return `<td class="left repo-name">
     <div>${lang}<a href="https://github.com/${esc(r.repo)}" target="_blank" rel="noopener">${esc(r.repo)}</a>${badges(r)}</div>
-    <div class="repo-desc" title="${esc(r.description)}">${esc(r.description) || "&nbsp;"}</div>
+    <div class="repo-desc" title="${esc(r.description)}">${esc(desc) || "&nbsp;"}</div>
   </td>`;
 }
 
