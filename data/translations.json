@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-05T04:20:32.731Z",
+ "updatedAt": "2026-07-05T12:27:42.137Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3936,6 +3936,446 @@
   "ggbond268/MacTools": {
    "src": "A free and open-source collection of native macOS menu bar tools.",
    "zh": "一个免费的开源本地 macOS 菜单栏工具集合。"
+  },
+  "Wei-Shaw/sub2api": {
+   "src": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+   "zh": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+  },
+  "OthmanAdi/planning-with-files": {
+   "src": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+   "zh": "基于文件的持久化规划，用于 AI 编码代理和长期运行的代理任务。防崩溃的 markdown 计划，能够在上下文丢失和 /clear 的情况下存活， plus 一个确定性的完成门和多代理共享状态存储在磁盘上。Manus 风格。与 Claude Code、Codex CLI、Cursor、Kiro、OpenCode 和 60+ 代理通过 SKILL.md 标准兼容。"
+  },
+  "cheahjs/free-llm-api-resources": {
+   "src": "A list of free LLM inference resources accessible via API.",
+   "zh": "可通过 API 访问的免费 LLM 推理资源列表。"
+  },
+  "bradautomates/claude-video": {
+   "src": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+   "zh": "赋予 Claude 观看任何视频的能力。/watch 下载、提取帧、转录，并将所有内容交给 Claude。"
+  },
+  "google-antigravity/antigravity-sdk-python": {
+   "src": "A Python library for building AI agents that leverage the full power of Google Antigravity.",
+   "zh": "一个用于构建 AI 代理的 Python 库，充分利用 Google Antigravity 的强大功能。"
+  },
+  "karpathy/nanoGPT": {
+   "src": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+   "zh": "最简单、最快的中型 GPT 训练/微调仓库。"
+  },
+  "mvanhorn/last30days-skill": {
+   "src": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "zh": "AI 代理技能，研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合出一个有根据的摘要。"
+  },
+  "GeeeekExplorer/nano-vllm": {
+   "src": "Nano vLLM",
+   "zh": "Nano vLLM"
+  },
+  "hexgrad/kokoro": {
+   "src": "https://hf.co/hexgrad/Kokoro-82M",
+   "zh": "https://hf.co/hexgrad/Kokoro-82M"
+  },
+  "violentmonkey/violentmonkey": {
+   "src": "Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.",
+   "zh": "Violentmonkey 为浏览器提供用户脚本支持。它在支持 WebExtensions 的浏览器上工作。"
+  },
+  "tradesdontlie/tradingview-mcp": {
+   "src": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+   "zh": "AI 辅助的 TradingView 图表分析——将 Claude Code 连接到您的 TradingView Desktop 以实现个人工作流自动化。"
+  },
+  "SillyTavern/SillyTavern": {
+   "src": "LLM Frontend for Power Users.",
+   "zh": "面向高级用户的 LLM 前端。"
+  },
+  "WhiskeySockets/Baileys": {
+   "src": "Socket-based TS/JavaScript API for WhatsApp Web",
+   "zh": "基于 Socket 的 TS/JavaScript API，用于 WhatsApp Web。"
+  },
+  "facebook/stylex": {
+   "src": "StyleX is the styling system for ambitious user interfaces.",
+   "zh": "StyleX 是雄心勃勃的用户界面的样式系统。"
+  },
+  "outline/outline": {
+   "src": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+   "zh": "为成长中的团队提供最快的知识库。美观、实时协作、功能丰富，并兼容 markdown。"
+  },
+  "gitroomhq/postiz-app": {
+   "src": "📨 The ultimate agentic social media scheduling tool 🤖",
+   "zh": "📨 终极代理社交媒体调度工具 🤖"
+  },
+  "backnotprop/plannotator": {
+   "src": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+   "zh": "可视化注释和审查编码代理计划和代码差异，与团队共享，一键向代理发送反馈。"
+  },
+  "can1357/oh-my-pi": {
+   "src": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+   "zh": "⌥ 终端的 AI 编码代理——哈希锚定编辑、优化工具集成、LSP、Python、浏览器、子代理等。"
+  },
+  "yaklang/yakit": {
+   "src": "Cyber Security ALL-IN-ONE Platform",
+   "zh": "网络安全全能平台。"
+  },
+  "CoreBunch/Instatic": {
+   "src": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+   "zh": "Instatic 是一个现代自托管的视觉 CMS——1 分钟内运行。"
+  },
+  "elastic/kibana": {
+   "src": "Your window into all of your data",
+   "zh": "您所有数据的窗口。"
+  },
+  "gastownhall/gastown": {
+   "src": "Gas Town - multi-agent workspace manager",
+   "zh": "Gas Town - 多代理工作区管理器。"
+  },
+  "github/github-mcp-server": {
+   "src": "GitHub's official MCP Server",
+   "zh": "GitHub 的官方 MCP 服务器。"
+  },
+  "podman-container-tools/podman": {
+   "src": "Podman: A tool for managing OCI containers and pods.",
+   "zh": "Podman：用于管理 OCI 容器和 Pod 的工具。"
+  },
+  "binwiederhier/ntfy": {
+   "src": "Send push notifications to your phone or desktop using PUT/POST",
+   "zh": "使用 PUT/POST 向您的手机或桌面发送推送通知。"
+  },
+  "microsoft/typescript-go": {
+   "src": "Staging repo for development of native port of TypeScript",
+   "zh": "TypeScript 原生端口开发的暂存仓库。"
+  },
+  "esengine/DeepSeek-Reasonix": {
+   "src": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+   "zh": "DeepSeek 原生 AI 编码代理，适用于您的终端。围绕前缀缓存稳定性设计——让它持续运行。"
+  },
+  "asciimoo/hister": {
+   "src": "Your own search engine",
+   "zh": "您自己的搜索引擎。"
+  },
+  "iawia002/lux": {
+   "src": "👾 Fast and simple video download library and CLI tool written in Go",
+   "zh": "👾 用 Go 编写的快速简单视频下载库和 CLI 工具。"
+  },
+  "openclaw/crabbox": {
+   "src": "Crabbox: warm a box, sync the diff, run the suite.",
+   "zh": "Crabbox：加热一个盒子，同步差异，运行套件。"
+  },
+  "SagerNet/sing-box": {
+   "src": "The universal proxy platform",
+   "zh": "通用代理平台。"
+  },
+  "AlexxIT/go2rtc": {
+   "src": "Ultimate camera streaming application",
+   "zh": "终极摄像头流媒体应用。"
+  },
+  "filebrowser/filebrowser": {
+   "src": "📂 Web File Browser",
+   "zh": "📂 网络文件浏览器。"
+  },
+  "cjpais/Handy": {
+   "src": "A free, open source, and extensible speech-to-text application that works completely offline.",
+   "zh": "一个免费的、开源的、可扩展的离线语音转文本应用。"
+  },
+  "uutils/coreutils": {
+   "src": "Cross-platform Rust rewrite of the GNU coreutils",
+   "zh": "GNU coreutils 的跨平台 Rust 重写。"
+  },
+  "HalFrgrd/flyline": {
+   "src": "Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!",
+   "zh": "Flyline：一个 Bash 插件，用于替代 readline，提供现代行编辑体验：语法高亮、代理集成、丰富的提示、工具提示、模糊历史搜索等！"
+  },
+  "getarcaneapp/arcane": {
+   "src": "Modern Docker Management, Designed for Everyone",
+   "zh": "现代 Docker 管理，面向所有人设计。"
+  },
+  "gastownhall/beads": {
+   "src": "Beads - A memory upgrade for your coding agent",
+   "zh": "Beads - 为您的编码代理提供内存升级。"
+  },
+  "workweave/router": {
+   "src": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+   "zh": "代理系统的模型路由器。将每个提示路由到正确的模型，<50ms。仅通过更改端点即可降低成本 40-70%。"
+  },
+  "VictoriaMetrics/VictoriaMetrics": {
+   "src": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+   "zh": "VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库。"
+  },
+  "istio/istio": {
+   "src": "Connect, secure, control, and observe services.",
+   "zh": "连接、保护、控制和观察服务。"
+  },
+  "exadel-inc/CompreFace": {
+   "src": "Leading free and open-source face recognition system",
+   "zh": "领先的自由开源人脸识别系统"
+  },
+  "LawnchairLauncher/lawnchair": {
+   "src": "No clever tagline needed.",
+   "zh": "无需聪明的标语。"
+  },
+  "AntennaPod/AntennaPod": {
+   "src": "A podcast manager for Android",
+   "zh": "一个用于Android的播客管理器"
+  },
+  "karma9874/AndroRAT": {
+   "src": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+   "zh": "一个使用套接字的简单Android远程管理工具。客户端使用Java，服务器端使用Python"
+  },
+  "apache/cloudstack": {
+   "src": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
+   "zh": "Apache CloudStack是一个开源的基础设施即服务（IaaS）云计算平台"
+  },
+  "ashishps1/awesome-low-level-design": {
+   "src": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+   "zh": "学习低级设计（LLD）并使用免费资源为面试做准备。"
+  },
+  "anddea/revanced-patches": {
+   "src": "🧩 Patches for ReVanced",
+   "zh": "🧩 ReVanced的补丁"
+  },
+  "lumina-ai-inc/chunkr": {
+   "src": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+   "zh": "将复杂文档转换为RAG/LLM就绪数据的视觉基础设施"
+  },
+  "neondatabase/neon": {
+   "src": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+   "zh": "Neon：无服务器Postgres。我们将存储和计算分开，以提供自动扩展、类似代码的数据库分支和零扩展。"
+  },
+  "rivet-dev/agentos": {
+   "src": "A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.",
+   "zh": "比沙箱更快、更轻、更便宜的替代方案。在隔离的Linux虚拟机中运行任何编码代理，内置代理编排。"
+  },
+  "osmandapp/OsmAnd": {
+   "src": "OsmAnd",
+   "zh": "OsmAnd"
+  },
+  "MCRcortex/voxy": {
+   "src": "An LoD rendering mod for minecraft",
+   "zh": "Minecraft的LoD渲染模组"
+  },
+  "tdlib/td": {
+   "src": "Cross-platform library for building Telegram clients",
+   "zh": "用于构建Telegram客户端的跨平台库"
+  },
+  "Detanup01/gbe_fork": {
+   "src": "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator",
+   "zh": "https://gitlab.com/Mr_Goldberg/goldberg_emulator的分支"
+  },
+  "daijro/camoufox": {
+   "src": "🦊 Anti-detect browser",
+   "zh": "🦊 反检测浏览器"
+  },
+  "leejet/stable-diffusion.cpp": {
+   "src": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+   "zh": "在纯C/C++中进行扩散模型（SD、Flux、Wan、Qwen图像、Z-图像等）推理"
+  },
+  "Alexays/Waybar": {
+   "src": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+   "zh": "高度可定制的Wayland条形工具，适用于基于Sway和Wlroots的合成器。:v: :tada:"
+  },
+  "juce-framework/JUCE": {
+   "src": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+   "zh": "JUCE是一个开源的跨平台C++应用程序框架，适用于桌面和移动应用程序，包括VST、VST3、AU、AUv3、LV2和AAX音频插件。"
+  },
+  "google-ai-edge/LiteRT-LM": {
+   "src": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
+   "zh": "LiteRT-LM是Google的生产就绪、高性能开源推理框架，用于在边缘设备上部署大型语言模型。"
+  },
+  "xland/ScreenCapture": {
+   "src": "A feature-rich screen capture software with just a single executable file",
+   "zh": "一个功能丰富的屏幕捕获软件，仅需一个可执行文件"
+  },
+  "ml-explore/mlx": {
+   "src": "MLX: An array framework for Apple silicon",
+   "zh": "MLX：一个用于Apple硅的数组框架"
+  },
+  "NVIDIA/cutlass": {
+   "src": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
+   "zh": "用于高性能线性代数的CUDA模板和Python DSL"
+  },
+  "libsdl-org/SDL": {
+   "src": "Simple DirectMedia Layer",
+   "zh": "简单直接媒体层"
+  },
+  "openwall/john": {
+   "src": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+   "zh": "John the Ripper jumbo - 高级离线密码破解工具，支持数百种哈希和密码类型，并在许多操作系统、CPU、GPU甚至一些FPGA上运行"
+  },
+  "eclipse-mosquitto/mosquitto": {
+   "src": "Eclipse Mosquitto - An open source MQTT broker",
+   "zh": "Eclipse Mosquitto - 一个开源的MQTT代理"
+  },
+  "libretro/RetroArch": {
+   "src": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+   "zh": "跨平台、复杂的libretro API前端。许可证GPLv3。"
+  },
+  "sandboxie-plus/Sandboxie": {
+   "src": "Sandboxie Plus & Classic",
+   "zh": "Sandboxie Plus & Classic"
+  },
+  "ps2homebrew/Open-PS2-Loader": {
+   "src": "Game and app loader for Sony PlayStation 2",
+   "zh": "Sony PlayStation 2的游戏和应用加载器"
+  },
+  "flipperdevices/flipperzero-firmware": {
+   "src": "Flipper Zero firmware source code",
+   "zh": "Flipper Zero固件源代码"
+  },
+  "espressif/esp-idf": {
+   "src": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+   "zh": "Espressif IoT开发框架。Espressif SoC的官方开发框架。"
+  },
+  "meshcore-dev/MeshCore": {
+   "src": "A new lightweight, hybrid routing mesh protocol for packet radios",
+   "zh": "一种新的轻量级混合路由网格协议，用于数据包无线电"
+  },
+  "systemd/systemd": {
+   "src": "The systemd System and Service Manager",
+   "zh": "systemd系统和服务管理器"
+  },
+  "tianocore/edk2": {
+   "src": "EDK II",
+   "zh": "EDK II"
+  },
+  "joncampbell123/dosbox-x": {
+   "src": "DOSBox-X fork of the DOSBox project",
+   "zh": "DOSBox项目的DOSBox-X分支"
+  },
+  "SubtitleEdit/subtitleedit": {
+   "src": "the subtitle editor :)",
+   "zh": "字幕编辑器 :)"
+  },
+  "Tyrrrz/DiscordChatExporter": {
+   "src": "Saves Discord chat logs to a file",
+   "zh": "将Discord聊天记录保存到文件"
+  },
+  "4sval/FModel": {
+   "src": "Unreal Engine Archives Explorer",
+   "zh": "虚幻引擎档案浏览器"
+  },
+  "gibbed/SteamAchievementManager": {
+   "src": "A manager for game achievements in Steam.",
+   "zh": "Steam游戏成就管理器。"
+  },
+  "NickvisionApps/Parabolic": {
+   "src": "Download web video and audio",
+   "zh": "下载网页视频和音频"
+  },
+  "AssetRipper/AssetRipper": {
+   "src": "GUI application to analyze game files",
+   "zh": "用于分析游戏文件的GUI应用程序"
+  },
+  "bloxstraplabs/bloxstrap": {
+   "src": "An alternative bootstrapper for Roblox with a bunch of extra features.",
+   "zh": "一个替代 Roblox 的引导程序，具有许多额外功能。"
+  },
+  "mpvnet-player/mpv.net": {
+   "src": "🎞 mpv.net is a media player for Windows with a modern GUI.",
+   "zh": "🎞 mpv.net 是一款适用于 Windows 的现代 GUI 媒体播放器。"
+  },
+  "dotnetcore/BootstrapBlazor": {
+   "src": "Bootstrap Blazor is an enterprise-level UI component library based on Bootstrap and Blazor.",
+   "zh": "Bootstrap Blazor 是一个基于 Bootstrap 和 Blazor 的企业级 UI 组件库。"
+  },
+  "sourcegit-scm/sourcegit": {
+   "src": "Windows/macOS/Linux GUI client for GIT users",
+   "zh": "适用于 GIT 用户的 Windows/macOS/Linux GUI 客户端"
+  },
+  "LibreHardwareMonitor/LibreHardwareMonitor": {
+   "src": "Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.",
+   "zh": "Libre Hardware Monitor 是一款免费软件，可以监控计算机的温度传感器、风扇速度、电压、负载和时钟速度。"
+  },
+  "ProtonVPN/android-app": {
+   "src": "Official ProtonVPN Android app",
+   "zh": "官方 ProtonVPN 安卓应用"
+  },
+  "jellyfin/jellyfin-androidtv": {
+   "src": "Android TV Client for Jellyfin",
+   "zh": "Jellyfin 的 Android TV 客户端"
+  },
+  "Kunzisoft/KeePassDX": {
+   "src": "Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.",
+   "zh": "轻量级保险库和密码管理器，KeePassDX 允许以 KeePass 格式在单个文件中编辑加密数据，并以安全的方式填写表单。"
+  },
+  "recloudstream/cloudstream": {
+   "src": "Android app for streaming and downloading media.",
+   "zh": "用于流媒体和下载媒体的 Android 应用。"
+  },
+  "TeamAmaze/AmazeFileManager": {
+   "src": "Material design file manager for Android",
+   "zh": "适用于 Android 的 Material 设计文件管理器"
+  },
+  "breezy-weather/breezy-weather": {
+   "src": "A feature-rich weather app with good visualizations and more than 50 sources.",
+   "zh": "一款功能丰富的天气应用，具有良好的可视化效果和超过 50 个数据源。"
+  },
+  "jellyfin/jellyfin-android": {
+   "src": "Android Client for Jellyfin",
+   "zh": "Jellyfin 的 Android 客户端"
+  },
+  "Davidona/StreamVault-IPTV": {
+   "src": "StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.",
+   "zh": "StreamVault 是一款为 Android TV 构建的以电视为主的免费 IPTV 播放器，使用 Kotlin、Jetpack Compose、Room、Hilt 和 Media3。"
+  },
+  "florisboard/florisboard": {
+   "src": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
+   "zh": "一个尊重您隐私的开源键盘，当前处于测试阶段。"
+  },
+  "pass-with-high-score/blockads-android": {
+   "src": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
+   "zh": "在 Android 上使用基于本地 VPN 的 DNS 过滤系统全局屏蔽广告。无需 root。无数据收集。"
+  },
+  "TheBoredTeam/boring.notch": {
+   "src": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+   "zh": "TheBoringNotch: 不那么无聊的缺口，摇滚 🎸🎶"
+  },
+  "tuist/tuist": {
+   "src": "Your platform team, as a service",
+   "zh": "您的平台团队，作为一种服务"
+  },
+  "ml-explore/mlx-swift-lm": {
+   "src": "LLMs and VLMs with MLX Swift",
+   "zh": "具有 MLX Swift 的 LLM 和 VLM"
+  },
+  "Leantime/leantime": {
+   "src": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+   "zh": "Leantime 是一个以目标为导向的项目管理系统，专为非项目经理设计，考虑了 ADHD、自闭症和阅读障碍。"
+  },
+  "pterodactyl/panel": {
+   "src": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+   "zh": "Pterodactyl® 是一个免费的开源游戏服务器管理面板，使用 PHP、React 和 Go 构建。考虑到安全性，Pterodactyl 在隔离的 Docker 容器中运行所有游戏服务器，同时向最终用户提供美观直观的 UI。"
+  },
+  "Dolibarr/dolibarr": {
+   "src": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+   "zh": "Dolibarr ERP CRM 是一个现代软件包，用于管理您的公司或基金会的活动（联系人、供应商、发票、订单、库存、日程、会计等）。它是一个开源 Web 应用程序（用 PHP 编写），旨在服务于各种规模的企业、基金会和自由职业者。"
+  },
+  "openemr/openemr": {
+   "src": "The most popular open source electronic health records and medical practice management solution.",
+   "zh": "最流行的开源电子健康记录和医疗实践管理解决方案。"
+  },
+  "tirrenotechnologies/tirreno": {
+   "src": "tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.",
+   "zh": "tirreno 是一个安全框架。事件跟踪、威胁检测和任何产品的风险评分。"
+  },
+  "magento/magento2": {
+   "src": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+   "zh": "在提交任何提交之前，您必须签署 Adobe 贡献者许可协议，协议可在此处获取：https://opensource.adobe.com/cla.html。您向 Adobe Inc. 及其附属公司、受让人和子公司（统称“Adobe”）提交的所有提交均受 Adobe 贡献者许可协议条款的约束。"
+  },
+  "nextcloud/all-in-one": {
+   "src": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+   "zh": "📦 官方 Nextcloud 安装方法。提供简单的部署和维护，包含大多数功能在这个 Nextcloud 实例中。"
+  },
+  "MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass": {
+   "src": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
+   "zh": "一个利用漏洞绕过小米 HyperOS 社区限制的 BootLoader 解锁账户绑定的 PoC。"
+  },
+  "twigphp/Twig": {
+   "src": "Twig, the flexible, fast, and secure template language for PHP",
+   "zh": "Twig，灵活、快速、安全的 PHP 模板语言"
+  },
+  "linuxserver/Heimdall": {
+   "src": "An Application dashboard and launcher",
+   "zh": "一个应用程序仪表板和启动器"
+  },
+  "rectorphp/rector": {
+   "src": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+   "zh": "任何 PHP 5.3+ 代码的即时升级和自动重构"
   }
  }
 }
