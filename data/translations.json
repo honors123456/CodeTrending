@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-04T17:20:08.799Z",
+ "updatedAt": "2026-07-05T04:20:32.731Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -2590,8 +2590,8 @@
    "zh": "🤖 仅仅是一个命令运行器"
   },
   "tinyhumansai/openhuman": {
-   "src": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-   "zh": "你的个人 AI 超级智能。私密、简单且极其强大。"
+   "src": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+   "zh": "您的个人 AI 超级智能。一个构建您生活本地优先记忆的大脑，一个出色的代理队伍和工作流程的协调者，以及一个深度研究者。"
   },
   "iluwatar/java-design-patterns": {
    "src": "Design patterns implemented in Java",
@@ -3554,8 +3554,8 @@
    "zh": "轻量级（7MB）以终端为先的AI原生开发工作区"
   },
   "danielmiessler/LifeOS": {
-   "src": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-   "zh": "增强人类能力的Agentic AI基础设施。"
+   "src": "An AI-powered Life Operating System for Magnifying Human Capabilities",
+   "zh": "一个 AI 驱动的生活操作系统，用于放大人类能力"
   },
   "AnmolSaini16/mapcn": {
    "src": "Beautiful map components. 100% Free, Zero config, one command setup.",
@@ -3928,6 +3928,14 @@
   "predis/predis": {
    "src": "A flexible and feature-complete Redis/Valkey client for PHP.",
    "zh": "一个灵活且功能完整的 PHP 的 Redis/Valkey 客户端。"
+  },
+  "lzhgus/Capso": {
+   "src": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
+   "zh": "适用于 macOS 的开源截图和屏幕录制工具。CleanShot X 的免费本地替代品。使用 Swift 6.0 和 SwiftUI 构建。"
+  },
+  "ggbond268/MacTools": {
+   "src": "A free and open-source collection of native macOS menu bar tools.",
+   "zh": "一个免费的开源本地 macOS 菜单栏工具集合。"
   }
  }
 }
