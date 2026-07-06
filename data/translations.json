@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-06T04:28:20.486Z",
+ "updatedAt": "2026-07-06T14:37:41.183Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -2374,8 +2374,8 @@
    "zh": "一个渐进式 Node.js 框架，用于构建高效、可扩展和企业级的服务器端应用程序，使用 TypeScript/JavaScript 🚀。"
   },
   "nexu-io/open-design": {
-   "src": "🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
-   "zh": "🎨 Vibe 设计工作区和开源 Claude 设计替代品。🖥️ 本地优先桌面应用。🖼️ 您的编码代理成为设计引擎：原型、着陆页、仪表板、幻灯片、图像和视频 — 真实文件，HTML/PDF/PPTX/MP4 导出。🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen 和 20+ CLIs 通过 BYOK。"
+   "src": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
+   "zh": "🎨 开源的 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 你的编码助手变成设计引擎：原型、着陆页、仪表板、幻灯片、图像和视频——真实文件，HTML/PDF/PPTX/MP4 导出。🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen 及 20+ CLIs 通过 BYOK。"
   },
   "apache/superset": {
    "src": "Apache Superset is a Data Visualization and Data Exploration Platform",
@@ -4376,6 +4376,314 @@
   "rectorphp/rector": {
    "src": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
    "zh": "任何 PHP 5.3+ 代码的即时升级和自动重构"
+  },
+  "jellyfin/jellyfin-web": {
+   "src": "The Free Software Media System - Official Web Client",
+   "zh": "自由软件媒体系统 - 官方网页客户端"
+  },
+  "webbrain-one/webbrain": {
+   "src": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠",
+   "zh": "开源的 AI 浏览器代理，适用于 Chrome 和 Firefox（单一代码库）🧠"
+  },
+  "betaflight/betaflight-configurator": {
+   "src": "Cross platform configuration and management application for the Betaflight firmware",
+   "zh": "跨平台的 Betaflight 固件配置和管理应用"
+  },
+  "ComposioHQ/awesome-claude-skills": {
+   "src": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "zh": "一个精心策划的优秀 Claude 技能、资源和工具列表，用于自定义 Claude AI 工作流"
+  },
+  "microsoft/qlib": {
+   "src": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+   "zh": "Qlib 是一个面向 AI 的量化投资平台，旨在利用 AI 技术增强量化研究，从探索想法到实施产品。Qlib 支持多种机器学习建模范式，包括监督学习、市场动态建模和强化学习，并且现在配备了 https://github.com/microsoft/RD-Agent 来自动化研发过程。"
+  },
+  "rohitg00/pro-workflow": {
+   "src": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+   "zh": "Claude Code 从你的修正中学习：自我纠正的记忆，经过 50+ 次会话的积累。上下文工程、并行工作树、代理团队和 17 种经过实战检验的技能。"
+  },
+  "drawdb-io/drawdb": {
+   "src": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+   "zh": "免费、简单且直观的在线数据库图表编辑器和 SQL 生成器。"
+  },
+  "karakeep-app/karakeep": {
+   "src": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+   "zh": "一个可自托管的书签应用（链接、笔记和图像），具有基于 AI 的自动标记和全文搜索功能。"
+  },
+  "4gray/iptvnator": {
+   "src": ":tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.",
+   "zh": ":tv: 跨平台 IPTV 播放器应用，具有多种功能，如支持 m3u 和 m3u8 播放列表、收藏、电视指南、电视档案/回看等。"
+  },
+  "TibixDev/winboat": {
+   "src": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+   "zh": "在 🐧 Linux 上运行 Windows 应用，具有 ✨ 无缝集成。"
+  },
+  "Dokploy/dokploy": {
+   "src": "Open Source Alternative to Vercel, Netlify and Heroku.",
+   "zh": "开源替代 Vercel、Netlify 和 Heroku。"
+  },
+  "seerr-team/seerr": {
+   "src": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+   "zh": "开源媒体请求和发现管理器，适用于 Jellyfin、Plex 和 Emby。"
+  },
+  "THU-MAIC/OpenMAIC": {
+   "src": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+   "zh": "开放多代理互动课堂——只需一键即可获得沉浸式多代理学习体验。"
+  },
+  "cloud-hypervisor/cloud-hypervisor": {
+   "src": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+   "zh": "现代云工作负载的虚拟机监控器。功能包括 CPU、内存和设备热插拔，支持运行 Windows 和 Linux 客户机，设备卸载与 vhost-user，且占用空间小。使用 Rust 编写，注重安全性。"
+  },
+  "tonhowtf/omniget": {
+   "src": "Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media downloads via yt-dlp (1.800+ sites). Extensible plugin system.",
+   "zh": "开源桌面应用，用于下载、组织和学习媒体。原生跨平台（Tauri + Rust + Svelte）。PDF/EPUB 阅读器，具有专注模式、时间戳笔记和间隔重复。通过 yt-dlp 下载媒体（支持 1800+ 个网站）。可扩展的插件系统。"
+  },
+  "ruffle-rs/ruffle": {
+   "src": "A Flash Player emulator written in Rust",
+   "zh": "用 Rust 编写的 Flash Player 模拟器。"
+  },
+  "claration/Impactor": {
+   "src": "Feature rich iOS/tvOS sideloading application written in Rust.",
+   "zh": "功能丰富的 iOS/tvOS 侧载应用，使用 Rust 编写。"
+  },
+  "wealthfolio/wealthfolio": {
+   "src": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+   "zh": "一个美丽、私密、本地优先的个人财务跟踪器。投资、净资产、支出和模拟。"
+  },
+  "rustfs/rustfs": {
+   "src": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+   "zh": "🚀 比 MinIO 快 2.3 倍，适用于 4KB 对象负载。RustFS 是一个开源的、兼容 S3 的高性能对象存储系统，支持与其他兼容 S3 的平台（如 MinIO 和 Ceph）的迁移和共存。"
+  },
+  "windmill-labs/windmill": {
+   "src": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+   "zh": "开源开发者平台，支持你的整个基础设施，并将脚本转化为 Webhooks、工作流和用户界面。最快的工作流引擎（比 Airflow 快 13 倍）。开源替代 Retool 和 Temporal。"
+  },
+  "navidrome/navidrome": {
+   "src": "🎧 Your Personal Streaming Service",
+   "zh": "🎧 你的个人流媒体服务。"
+  },
+  "v2fly/v2ray-core": {
+   "src": "A platform for building proxies to bypass network restrictions.",
+   "zh": "一个构建代理以绕过网络限制的平台。"
+  },
+  "weaviate/weaviate": {
+   "src": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+   "zh": "Weaviate 是一个开源向量数据库，存储对象和向量，允许将向量搜索与结构化过滤相结合，具备云原生数据库的容错性和可扩展性。"
+  },
+  "mostlygeek/llama-swap": {
+   "src": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
+   "zh": "可靠的模型切换，适用于任何本地 OpenAI/Anthropic 兼容服务器 - llama.cpp、vllm 等。"
+  },
+  "wailsapp/wails": {
+   "src": "Create beautiful applications using Go",
+   "zh": "使用 Go 创建美丽的应用。"
+  },
+  "Infisical/agent-vault": {
+   "src": "A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
+   "zh": "一个 HTTP 凭证代理和保险库，适用于 Claude Code、OpenClaw、Hermes、自定义代理 + harnesses 等 AI 代理。"
+  },
+  "Kuberwastaken/claurst": {
+   "src": "Agentic Coding for Builders who Ship",
+   "zh": "为构建者提供的代理编码。"
+  },
+  "reacherhq/check-if-email-exists": {
+   "src": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+   "zh": "检查电子邮件地址是否存在而不发送任何电子邮件，使用 Rust 编写。附带 ⚙️ HTTP 后端。"
+  },
+  "Fredolx/open-tv": {
+   "src": "Ultra-fast, simple and powerful cross-platform IPTV app",
+   "zh": "超快、简单且强大的跨平台 IPTV 应用。"
+  },
+  "GoogleCloudPlatform/bank-of-anthos": {
+   "src": "Retail banking sample application showcasing Kubernetes and Google Cloud",
+   "zh": "展示 Kubernetes 和 Google Cloud 的零售银行示例应用。"
+  },
+  "bethington/ghidra-mcp": {
+   "src": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
+   "zh": "Ghidra MCP 服务器——200+ 个用于 AI 驱动逆向工程的 MCP 工具。GUI 插件 + 无头服务器、懒加载工具、约定执行、批量操作、Ghidra 服务器集成和 Docker 部署。"
+  },
+  "MojoLauncher/MojoLauncher": {
+   "src": "A Minecraft: Java Edition launcher, based on PojavLauncher",
+   "zh": "一个基于 PojavLauncher 的 Minecraft: Java Edition 启动器。"
+  },
+  "RikkaApps/Shizuku-API": {
+   "src": "The API and the developer guide for Shizuku and Sui.",
+   "zh": "Shizuku 和 Sui 的 API 和开发者指南。"
+  },
+  "Suwayomi/Suwayomi-Server": {
+   "src": "A rewrite of Tachiyomi for the Desktop",
+   "zh": "Tachiyomi 的桌面重写版。"
+  },
+  "apache/fineract": {
+   "src": "Apache Fineract",
+   "zh": "Apache Fineract"
+  },
+  "FCL-Team/FoldCraftLauncher": {
+   "src": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
+   "zh": "Fold Craft 启动器，一个 Android Minecraft: Java Edition 启动器。"
+  },
+  "Creators-of-Create/Create": {
+   "src": "[NeoForge Mod] Building Tools and Aesthetic Technology",
+   "zh": "[NeoForge Mod] 建筑工具和美学技术。"
+  },
+  "cabaletta/baritone": {
+   "src": "google maps for block game",
+   "zh": "块游戏的谷歌地图。"
+  },
+  "termux/termux-api": {
+   "src": "Termux add-on app which exposes device functionality as API to command line programs.",
+   "zh": "Termux 附加应用，将设备功能暴露为命令行程序的 API。"
+  },
+  "alibaba/zvec": {
+   "src": "A lightweight, lightning-fast, in-process vector database",
+   "zh": "一个轻量级、闪电般快速的进程内向量数据库"
+  },
+  "organicmaps/organicmaps": {
+   "src": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+   "zh": "🍃 Organic Maps 是一款免费的 Android 和 iOS 离线地图应用，适用于超过 600 万的旅行者、游客、徒步旅行者和骑行者。它使用众包的 OpenStreetMap 数据，由社区热心开发。没有广告，没有追踪，没有数据收集，没有垃圾软件。请捐款支持开发！"
+  },
+  "fmtlib/fmt": {
+   "src": "A modern formatting library",
+   "zh": "一个现代化的格式化库"
+  },
+  "openvinotoolkit/openvino.genai": {
+   "src": "Run Generative AI models with simple C++/Python API and using OpenVINO Runtime",
+   "zh": "使用简单的 C++/Python API 和 OpenVINO Runtime 运行生成性 AI 模型"
+  },
+  "qgis/QGIS": {
+   "src": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+   "zh": "QGIS 是一个免费的开源跨平台（lin/win/mac）地理信息系统（GIS）"
+  },
+  "ihhub/fheroes2": {
+   "src": "fheroes2 is a recreation of Heroes of Might and Magic II game engine",
+   "zh": "fheroes2 是《英雄无敌 II》游戏引擎的重制版"
+  },
+  "stenzek/duckstation": {
+   "src": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+   "zh": "快速的 PlayStation 1 模拟器，支持 x86-64/AArch32/AArch64/RV64"
+  },
+  "madler/zlib": {
+   "src": "A massively spiffy yet delicately unobtrusive compression library.",
+   "zh": "一个极其出色但又不显眼的压缩库。"
+  },
+  "FWGS/xash3d-fwgs": {
+   "src": "Xash3D FWGS engine",
+   "zh": "Xash3D FWGS 引擎"
+  },
+  "hathach/tinyusb": {
+   "src": "An open source  cross-platform USB stack for embedded system",
+   "zh": "一个开源跨平台 USB 堆栈，用于嵌入式系统"
+  },
+  "OISF/suricata": {
+   "src": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+   "zh": "Suricata 是一个网络入侵检测系统、入侵防御系统和网络安全监控引擎，由 OISF 和 Suricata 社区开发。"
+  },
+  "duixcom/Duix-Avatar": {
+   "src": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+   "zh": "🚀 真正的开源 AI 头像（数字人）工具包，用于离线视频生成和数字人克隆。"
+  },
+  "mgba-emu/mgba": {
+   "src": "mGBA Game Boy Advance Emulator",
+   "zh": "mGBA Game Boy Advance 模拟器"
+  },
+  "betaflight/betaflight": {
+   "src": "Open Source Flight Controller Firmware",
+   "zh": "开源飞行控制器固件"
+  },
+  "ducalex/retro-go": {
+   "src": "Retro emulation for the ODROID-GO and other ESP32 devices",
+   "zh": "为 ODROID-GO 和其他 ESP32 设备提供复古模拟。"
+  },
+  "Prowlarr/Prowlarr": {
+   "src": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.",
+   "zh": "Prowlarr 是一个基于流行的 *arr .net/reactjs 基础栈构建的索引器管理器/代理，支持与各种 PVR 应用集成，管理 Torrent 追踪器和 Usenet 索引器。"
+  },
+  "OpenTabletDriver/OpenTabletDriver": {
+   "src": "Open source, cross-platform, user-mode tablet driver",
+   "zh": "开源、跨平台、用户模式平板驱动程序"
+  },
+  "openutau/OpenUtau": {
+   "src": "Open singing synthesis platform / Open source UTAU successor",
+   "zh": "开放唱歌合成平台 / 开源 UTAU 继任者"
+  },
+  "Radarr/Radarr": {
+   "src": "Movie organizer/manager for usenet and torrent users.",
+   "zh": "用于 Usenet 和 Torrent 用户的电影组织/管理工具。"
+  },
+  "builtbybel/FluentCleaner": {
+   "src": "A real WinUI desktop cleaner with terminal control and multi-database support",
+   "zh": "一个真正的 WinUI 桌面清理工具，具有终端控制和多数据库支持"
+  },
+  "BepInEx/BepInEx": {
+   "src": "Unity / XNA game patcher and plugin framework",
+   "zh": "Unity / XNA 游戏补丁和插件框架"
+  },
+  "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": {
+   "src": "Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector",
+   "zh": "为 MySQL 和 MariaDB 构建的 Entity Framework Core 提供程序，基于 MySqlConnector"
+  },
+  "Mygod/VPNHotspot": {
+   "src": "Share your VPN connection over hotspot or repeater! (root required)",
+   "zh": "通过热点或中继分享你的 VPN 连接！（需要 root 权限）"
+  },
+  "iSoron/uhabits": {
+   "src": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
+   "zh": "Loop Habit Tracker，一款用于创建和维持长期积极习惯的移动应用"
+  },
+  "yuzono/tachiyomi-extensions": {
+   "src": "Source code of extensions for Komikku / Mihon & forks.",
+   "zh": "Komikku / Mihon 的扩展源代码及其分支。"
+  },
+  "element-hq/element-x-android": {
+   "src": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
+   "zh": "使用 Matrix Rust Sdk 和 Jetpack Compose 的 Android Matrix 消息应用"
+  },
+  "stonerl/Thaw": {
+   "src": "Menu bar manager for macOS 26",
+   "zh": "macOS 26 的菜单栏管理器"
+  },
+  "apple/containerization": {
+   "src": "Containerization is a Swift package for running Linux containers on macOS.",
+   "zh": "Containerization 是一个用于在 macOS 上运行 Linux 容器的 Swift 包。"
+  },
+  "zachlatta/freeflow": {
+   "src": "Free & fast alternative to Wispr Flow",
+   "zh": "免费的快速替代 Wispr Flow"
+  },
+  "LoopKit/Loop": {
+   "src": "An automated insulin delivery app for iOS, built on LoopKit",
+   "zh": "一个为 iOS 构建的自动胰岛素输送应用，基于 LoopKit"
+  },
+  "kitlangton/Hex": {
+   "src": "VOICE → WORDS",
+   "zh": "声音 → 文字"
+  },
+  "RSS-Bridge/rss-bridge": {
+   "src": "The RSS feed for websites missing it",
+   "zh": "缺少 RSS 源的网站的 RSS 源"
+  },
+  "vitodeploy/vito": {
+   "src": "Free and Self-Hosted  Server Management Tool",
+   "zh": "免费的自托管服务器管理工具"
+  },
+  "drush-ops/drush": {
+   "src": "Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.",
+   "zh": "Drush 是一个命令行外壳和脚本接口，用于 Drupal，是一个真正的瑞士军刀，旨在让那些在命令提示符下工作的人生活更轻松。"
+  },
+  "ellite/Wallos": {
+   "src": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
+   "zh": "Wallos：开源、自托管的个人订阅跟踪器。可视化你的经常性支出，管理你的预算，节省开支。"
+  },
+  "codeigniter4/CodeIgniter4": {
+   "src": "Open Source PHP Framework (originally from EllisLab)",
+   "zh": "开源 PHP 框架（最初来自 EllisLab）"
+  },
+  "elementor/elementor": {
+   "src": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+   "zh": "最先进的前端拖放页面构建器。以创纪录的速度创建高端、像素完美的网站。任何主题，任何页面，任何设计。"
+  },
+  "opendatalab/MinerU": {
+   "src": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+   "zh": "将复杂文档（如 PDF 和 Office 文档）转换为适合 LLM 的 markdown/JSON，以便于你的 Agentic 工作流程。"
   }
  }
 }
