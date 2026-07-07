@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-07T04:17:18.441Z",
+ "updatedAt": "2026-07-07T13:28:36.022Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -4692,6 +4692,390 @@
   "addyosmani/agent-skills": {
    "src": "Production-grade engineering skills for AI coding agents.",
    "zh": "适用于 AI 编码代理的生产级工程技能。"
+  },
+  "jnMetaCode/superpowers-zh": {
+   "src": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+   "zh": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活"
+  },
+  "langbot-app/LangBot": {
+   "src": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow",
+   "zh": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow"
+  },
+  "datawhalechina/all-in-rag": {
+   "src": "🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/",
+   "zh": "🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/"
+  },
+  "lessweb/deepcode-cli": {
+   "src": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
+   "zh": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。"
+  },
+  "t8y2/dbx": {
+   "src": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+   "zh": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。"
+  },
+  "1Panel-dev/CordysCRM": {
+   "src": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
+   "zh": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。"
+  },
+  "dromara/Sa-Token": {
+   "src": "✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名",
+   "zh": "✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名"
+  },
+  "78/xiaozhi-esp32": {
+   "src": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+   "zh": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+  },
+  "jay3-yy/BiliPai": {
+   "src": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
+   "zh": "原生、纯净、可扩展 —— 重新定义你的 B 站体验"
+  },
+  "ryfineZ/carrier-ims-for-pixel": {
+   "src": "Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.",
+   "zh": "Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel."
+  },
+  "misaka10032w/Han1meViewer": {
+   "src": "hanime1的三方客户端，提高了一些播放体验",
+   "zh": "hanime1的三方客户端，提高了一些播放体验"
+  },
+  "Piebald-AI/claude-code-system-prompts": {
+   "src": "All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.",
+   "zh": "Claude Code 系统提示的所有部分，27 个内置工具描述，子代理提示（计划/探索/任务），实用提示（CLAUDE.md，紧凑，状态行，魔法文档，WebFetch，Bash 命令，安全审查，代理创建）。针对每个 Claude Code 版本进行了更新。"
+  },
+  "earthtojake/text-to-cad": {
+   "src": "A collection of agent skills for CAD, robotics and hardware design",
+   "zh": "用于 CAD、机器人和硬件设计的代理技能集合"
+  },
+  "mnfst/awesome-free-llm-apis": {
+   "src": "List of Permanent Free LLM API  (API Keys)",
+   "zh": "永久免费的 LLM API 列表（API 密钥）"
+  },
+  "koodo-reader/koodo-reader": {
+   "src": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+   "zh": "一个现代电子书管理器和阅读器，具有同步和备份功能，支持 Windows、macOS、Linux、Android、iOS 和 Web"
+  },
+  "MobSF/Mobile-Security-Framework-MobSF": {
+   "src": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+   "zh": "移动安全框架（MobSF）是一个自动化的全能移动应用（Android/iOS/Windows）渗透测试、恶意软件分析和安全评估框架，能够执行静态和动态分析。"
+  },
+  "WordPress/agent-skills": {
+   "src": "Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices",
+   "zh": "针对 AI 编码助手的专家级 WordPress 知识 - 块、主题、插件和最佳实践"
+  },
+  "kyutai-labs/pocket-tts": {
+   "src": "A TTS that fits in your CPU (and pocket)",
+   "zh": "一个适合你 CPU（和口袋）的 TTS"
+  },
+  "XiaoYouChR/Ghost-Downloader-3": {
+   "src": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
+   "zh": "一个基于 Python 和 Qt 构建的 AI 驱动的跨平台多协议流畅设计并发下载器。"
+  },
+  "anthropics/claude-plugins-official": {
+   "src": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+   "zh": "官方的、由 Anthropic 管理的高质量 Claude Code 插件目录。"
+  },
+  "p1ngul1n0/blackbird": {
+   "src": "An OSINT tool to search for accounts by username and email in social networks.",
+   "zh": "一个 OSINT 工具，用于通过用户名和电子邮件在社交网络中搜索账户。"
+  },
+  "maziyarpanahi/openmed": {
+   "src": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0",
+   "zh": "本地优先的医疗 AI：临床 NER 和 HIPAA PII 去标识化，100% 在设备上运行。1000+ 医疗模型，12 种语言，Apple MLX + Python，无云，无患者数据离开你的网络。Apache-2.0"
+  },
+  "HKUDS/AI-Trader": {
+   "src": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+   "zh": "\"AI-Trader：100% 完全自动化的代理原生交易\""
+  },
+  "tinygrad/tinygrad": {
+   "src": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+   "zh": "你喜欢 pytorch 吗？你喜欢 micrograd 吗？你爱 tinygrad！❤️"
+  },
+  "MadsLorentzen/ai-job-search": {
+   "src": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+   "zh": "基于 Claude Code 的 AI 驱动求职申请框架。分叉它，填写你的个人资料，让 Claude 评估工作，定制简历，撰写求职信，并为面试做好准备。"
+  },
+  "pascalorg/editor": {
+   "src": "Create and share 3D architectural projects.",
+   "zh": "创建和分享 3D 建筑项目。"
+  },
+  "TencentCloud/TencentDB-Agent-Memory": {
+   "src": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+   "zh": "TencentDB 代理内存通过 4 层渐进管道为 AI 代理提供完全本地的长期记忆，零外部 API 依赖。"
+  },
+  "Augani/openreel-video": {
+   "src": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+   "zh": "OpenReel 视频 - 专业的基于浏览器的视频编辑器。开源 CapCut 替代品。100% 基于浏览器，无需安装，无需云上传，无水印。"
+  },
+  "formbricks/formbricks": {
+   "src": "Open Source Qualtrics Alternative",
+   "zh": "开源的 Qualtrics 替代品"
+  },
+  "SawyerHood/dev-browser": {
+   "src": "A Claude Skill to give your agent the ability to use a web browser",
+   "zh": "一个 Claude 技能，使你的代理能够使用网络浏览器"
+  },
+  "alefragnani/vscode-project-manager": {
+   "src": "Project Manager Extension for Visual Studio Code",
+   "zh": "Visual Studio Code 的项目管理扩展"
+  },
+  "lucide-icons/lucide": {
+   "src": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+   "zh": "由社区制作的美观且一致的图标工具包。开源项目，Feather Icons 的分叉。"
+  },
+  "expo/expo": {
+   "src": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+   "zh": "一个开源框架，用于使用 React 制作通用本地应用。Expo 在 Android、iOS 和 Web 上运行。"
+  },
+  "kunchenguid/axi": {
+   "src": "Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.",
+   "zh": "代理人人体工程学的设计原则。比 MCP 和常规 CLI 更低的令牌成本下更高的准确性。"
+  },
+  "Tencent/WeKnora": {
+   "src": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+   "zh": "开源 LLM 知识平台：将原始文档转化为可查询的 RAG、自主推理代理和自我维护的 Wiki。"
+  },
+  "casdoor/casdoor": {
+   "src": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+   "zh": "一个开源的以代理为先的身份和访问管理（IAM）/LLM MCP 和代理网关及认证服务器，具有支持 OpenClaw、MCP、OAuth、OIDC、SAML、CAS、LDAP、SCIM、WebAuthn、TOTP、MFA、面部识别、Google Workspace、Azure AD 的 Web UI。"
+  },
+  "getsops/sops": {
+   "src": "Simple and flexible tool for managing secrets",
+   "zh": "简单灵活的秘密管理工具"
+  },
+  "siderolabs/talos": {
+   "src": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+   "zh": "Talos Linux 是一个为 Kubernetes 构建的现代 Linux 发行版。"
+  },
+  "temporalio/temporal": {
+   "src": "Temporal service",
+   "zh": "Temporal 服务"
+  },
+  "vxcontrol/pentagi": {
+   "src": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+   "zh": "完全自主的 AI 代理系统，能够执行复杂的渗透测试任务"
+  },
+  "sundowndev/phoneinfoga": {
+   "src": "Information gathering framework for phone numbers",
+   "zh": "用于电话号码的信息收集框架"
+  },
+  "HigherOrderCO/Bend": {
+   "src": "A massively parallel, high-level programming language",
+   "zh": "一种大规模并行的高级编程语言"
+  },
+  "longbridge/gpui-component": {
+   "src": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+   "zh": "用于使用 GPUI 构建出色跨平台桌面应用的 Rust GUI 组件。"
+  },
+  "git-ai-project/git-ai": {
+   "src": "A Git extension for tracking the AI-generated code in your repos",
+   "zh": "一个 Git 扩展，用于跟踪你仓库中的 AI 生成代码。"
+  },
+  "foundry-rs/foundry": {
+   "src": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+   "zh": "Foundry 是一个快速、便携和模块化的以 Rust 编写的以太坊应用开发工具包。"
+  },
+  "ai-dynamo/dynamo": {
+   "src": "A Datacenter Scale Distributed Inference Serving Framework",
+   "zh": "一个数据中心规模的分布式推理服务框架"
+  },
+  "openfootmanager/openfootmanager": {
+   "src": "An open source soccer/football manager game",
+   "zh": "一个开源的足球经理游戏"
+  },
+  "microsoft/windows-rs": {
+   "src": "Rust for Windows",
+   "zh": "Windows 上的 Rust"
+  },
+  "quickwit-oss/tantivy": {
+   "src": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+   "zh": "Tantivy 是一个受 Apache Lucene 启发并用 Rust 编写的全文搜索引擎库。"
+  },
+  "EFForg/rayhunter": {
+   "src": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+   "zh": "Rust 工具，用于检测 orbic 移动热点上的基站模拟器。"
+  },
+  "github/copilot-sdk": {
+   "src": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+   "zh": "用于将 GitHub Copilot 代理集成到应用和服务中的多平台 SDK。"
+  },
+  "aeron-io/aeron": {
+   "src": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+   "zh": "高效可靠的 UDP 单播、UDP 多播和 IPC 消息传输"
+  },
+  "apache/gravitino": {
+   "src": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+   "zh": "世界上最强大的开放数据目录，用于构建高性能、地理分布和联合的元数据湖。"
+  },
+  "NotHarshhaa/DevOps-Projects": {
+   "src": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+   "zh": "🚀 面向有志工程师的真实 DevOps 项目 — 从初学者到高级。涵盖 AWS、Kubernetes、Docker、CI/CD、Terraform、Jenkins 等。通过逐步指南进行动手学习。"
+  },
+  "TGX-Android/Telegram-X": {
+   "src": "The main repository of Telegram X — official alternative Telegram client for Android.",
+   "zh": "Telegram X 的主要仓库 — 官方替代的 Android Telegram 客户端。"
+  },
+  "alibaba/spring-ai-alibaba": {
+   "src": "Agentic AI Framework for Java Developers",
+   "zh": "面向 Java 开发者的 Agentic AI 框架"
+  },
+  "thingsboard/thingsboard": {
+   "src": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+   "zh": "开源 IoT 平台 - 设备管理、数据收集、处理和可视化。"
+  },
+  "HbmMods/Hbm-s-Nuclear-Tech-GIT": {
+   "src": "A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.",
+   "zh": "一个关于核技术的 Minecraft 模组，尽管仍在开发中，但却是一团火焰的残骸。"
+  },
+  "ninja-build/ninja": {
+   "src": "a small build system with a focus on speed",
+   "zh": "一个专注于速度的小型构建系统"
+  },
+  "transmission/transmission": {
+   "src": "Official Transmission BitTorrent client repository",
+   "zh": "官方 Transmission BitTorrent 客户端仓库"
+  },
+  "Vita3K/Vita3K": {
+   "src": "Experimental PlayStation Vita emulator",
+   "zh": "实验性的 PlayStation Vita 模拟器"
+  },
+  "monero-project/monero": {
+   "src": "Monero: the secure, private, untraceable cryptocurrency",
+   "zh": "Monero：安全、私密、不可追踪的加密货币"
+  },
+  "FastFlowLM/FastFlowLM": {
+   "src": "Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.",
+   "zh": "在几分钟内在 AMD Ryzen™ AI NPU 上运行 LLM。就像 Ollama - 但专为 AMD NPU 量身定制并深度优化。"
+  },
+  "lemonade-sdk/lemonade": {
+   "src": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+   "zh": "Lemonade 帮助用户发现和运行本地 AI 应用，通过直接从他们自己的 GPU 和 NPU 提供优化的 LLM。加入我们的 Discord: https://discord.gg/5xXzkMu8Zk"
+  },
+  "cocos/cocos4": {
+   "src": "COCOS 4",
+   "zh": "COCOS 4"
+  },
+  "carla-simulator/carla": {
+   "src": "Open-source simulator for autonomous driving research.",
+   "zh": "开源自动驾驶研究模拟器。"
+  },
+  "OpenVPN/openvpn": {
+   "src": "OpenVPN  is  an open source VPN daemon",
+   "zh": "OpenVPN 是一个开源 VPN 守护进程"
+  },
+  "ExpressLRS/ExpressLRS": {
+   "src": "High Performance Open Source Radio Control Link",
+   "zh": "高性能开源无线电控制链路"
+  },
+  "merbanan/rtl_433": {
+   "src": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+   "zh": "用于解码 ISM 频段（和其他频率）设备的无线电传输的程序"
+  },
+  "SchedMD/slurm": {
+   "src": "Slurm: A Highly Scalable Workload Manager",
+   "zh": "Slurm：一个高度可扩展的工作负载管理器"
+  },
+  "ExistentialAudio/BlackHole": {
+   "src": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+   "zh": "BlackHole 是一个现代 macOS 音频回环驱动程序，允许应用程序以零额外延迟将音频传递给其他应用程序。"
+  },
+  "xmrig/xmrig": {
+   "src": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+   "zh": "RandomX、KawPow、CryptoNight 和 GhostRider 统一的 CPU/GPU 挖矿器和 RandomX 基准测试"
+  },
+  "zephyrproject-rtos/zephyr": {
+   "src": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+   "zh": "Zephyr 项目的主要 Git 仓库。Zephyr 是一款新一代、可扩展、优化、安全的 RTOS，适用于多种硬件架构。"
+  },
+  "iOfficeAI/OfficeCLI": {
+   "src": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+   "zh": "OfficeCLI 是首个也是最好的专为 AI 代理设计的办公套件，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制，无需 Office 安装。"
+  },
+  "microsoft/Generative-AI-for-beginners-dotnet": {
+   "src": "Five lessons, learn how to really apply AI to your .NET Applications",
+   "zh": "五个课程，学习如何真正将 AI 应用到你的 .NET 应用程序中"
+  },
+  "OPCFoundation/UA-.NETStandard": {
+   "src": "OPC Unified Architecture .NET Standard",
+   "zh": "OPC 统一架构 .NET 标准"
+  },
+  "unchihugo/FluentFlyout": {
+   "src": "The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.",
+   "zh": "现代的 Windows 11 Flyout 应用，基于 Fluent 2 设计原则构建。媒体 Flyouts、任务栏小部件等。"
+  },
+  "FlorianButz/DynamicWin": {
+   "src": "A Dynamic Island inspired app for Windows machines.",
+   "zh": "一个受动态岛启发的 Windows 应用。"
+  },
+  "TechnitiumSoftware/DnsServer": {
+   "src": "Technitium DNS Server",
+   "zh": "Technitium DNS 服务器"
+  },
+  "Azure/azure-sdk-for-net": {
+   "src": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+   "zh": "该仓库用于 Azure SDK for .NET 的积极开发。对于 SDK 的消费者，我们建议访问我们的公共开发文档 https://learn.microsoft.com/dotnet/azure/ 或我们的版本化开发文档 https://azure.github.io/azure-sdk-for-net。"
+  },
+  "builtbybel/FlyOOBE": {
+   "src": "Fly through your Windows 11 setup 🐝",
+   "zh": "飞越你的 Windows 11 设置 🐝"
+  },
+  "codewithmukesh/dotnet-claude-kit": {
+   "src": "Make Claude Code a .NET 10 Expert",
+   "zh": "让 Claude Code 成为 .NET 10 专家"
+  },
+  "ArtifexSoftware/mupdf": {
+   "src": "mupdf mirror",
+   "zh": "mupdf 镜像"
+  },
+  "bitwarden/android": {
+   "src": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+   "zh": "Bitwarden 移动应用（密码管理器和身份验证器）适用于 Android。"
+  },
+  "xororz/local-dream": {
+   "src": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
+   "zh": "在支持 Snapdragon NPU 加速的 Android 设备上运行 Stable Diffusion。还支持 CPU/GPU 推理。"
+  },
+  "sam1am/anyapk": {
+   "src": "Install any apk on the device you own.",
+   "zh": "在你拥有的设备上安装任何 apk。"
+  },
+  "Kyant0/AndroidLiquidGlass": {
+   "src": "Compose Multiplatform Liquid Glass effect",
+   "zh": "Compose 多平台液态玻璃效果"
+  },
+  "tailscale/tailscale-android": {
+   "src": "Tailscale Android Client",
+   "zh": "Tailscale Android 客户端"
+  },
+  "tanujnotes/Olauncher": {
+   "src": "Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.",
+   "zh": "极简的 Android 启动器。减少你的屏幕时间。每日壁纸。"
+  },
+  "minh-ton/reynard-browser": {
+   "src": "An experimental Gecko-based web browser for iOS 13+.",
+   "zh": "一个实验性的基于 Gecko 的 iOS 13+ 网络浏览器。"
+  },
+  "sw33tLie/macshot": {
+   "src": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
+   "zh": "功能丰富的本地 macOS 截图和录制工具：注释、自动删除 PII、录制 GIF、OCR + 翻译、滚动捕获、美化等。无 Electron，无订阅。"
+  },
+  "nicklockwood/SwiftFormat": {
+   "src": "A command-line tool and Xcode Extension for formatting Swift code",
+   "zh": "一个用于格式化 Swift 代码的命令行工具和 Xcode 扩展"
+  },
+  "aureuserp/aureuserp": {
+   "src": "Free and Open Source ERP platform",
+   "zh": "免费和开源的 ERP 平台"
+  },
+  "roundcube/roundcubemail": {
+   "src": "The Roundcube Webmail suite",
+   "zh": "Roundcube Webmail 套件"
+  },
+  "glpi-project/glpi": {
+   "src": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+   "zh": "GLPI 是一个免费的资产和 IT 管理软件包，数据中心管理，ITIL 服务台，许可证跟踪和软件审计。"
+  },
+  "LinkStackOrg/LinkStack": {
+   "src": "LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.",
+   "zh": "LinkStack - 创建个性化和专业个人主页的终极解决方案。将所有重要链接集中展示，忘记社交媒体上一个链接的限制。只需几次点击即可在自己的服务器上设置个人网站。"
   }
  }
 }
