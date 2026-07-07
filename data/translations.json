@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-06T14:37:41.183Z",
+ "updatedAt": "2026-07-07T04:17:18.441Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -370,8 +370,8 @@
    "zh": "\"Vibe-Trading: 您的个人交易代理\""
   },
   "alirezarezvani/claude-skills": {
-   "src": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-   "zh": "337 个 Claude Code 技能 & 代理技能 & 插件（30+ 代理，70+ 自定义命令，330+ 技能，可自定义引用，脚本）适用于 Claude Code、Codex、Gemini CLI、Cursor 和其他 8 个编码代理 - 工程、市场营销、产品、合规、C 级顾问、研究、业务运营、商业与金融，以及您的日常生产力技能。"
+   "src": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+   "zh": "345 Claude Code 技能与代理技能与插件（30+ 代理，70+ 自定义命令，330+ 技能，可自定义参考，脚本）适用于 Claude Code、Codex、Gemini CLI、Cursor 和其他 8 个编码代理——工程、市场营销、产品、合规、C 级顾问、研究、业务运营、商业与金融，以及您的日常生产力技能。"
   },
   "huggingface/speech-to-speech": {
    "src": "Build local voice agents with open-source models",
@@ -454,8 +454,8 @@
    "zh": "🪨 为什么使用许多令牌，而少量令牌就能解决问题 - Claude Code 技能，通过像穴居人一样说话减少 65% 的令牌"
   },
   "santifer/career-ops": {
-   "src": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-   "zh": "基于 Claude Code 构建的 AI 驱动求职系统。14 种技能模式，Go 仪表板，PDF 生成，批处理。"
+   "src": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
+   "zh": "开源 AI 求职：扫描招聘门户，评分列表 A-F，定制您的简历，跟踪申请——在您的 AI 编码 CLI（Claude Code、Gemini、Codex、OpenCode…）本地运行。"
   },
   "sveltejs/svelte": {
    "src": "web development for the rest of us",
@@ -866,8 +866,8 @@
    "zh": "🛰️ 一个 CLI 工具，用于跟踪来自 OpenCode、Claude Code、🦞OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等的令牌使用情况！ • 🏅全球排行榜 + 2D/3D 贡献图"
   },
   "LargeModGames/spotatui": {
-   "src": "A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.",
-   "zh": "一个完全独立的终端 Spotify 客户端。包含原生流媒体，无需守护进程。"
+   "src": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.",
+   "zh": "一个快速的独立终端音乐播放器，使用 Rust 开发：原生 Spotify 流媒体加本地、Subsonic、广播和 YouTube 源。"
   },
   "juhaku/utoipa": {
    "src": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",
@@ -1938,8 +1938,8 @@
    "zh": "Fabric 是一个开源框架，用于利用 AI 增强人类。它提供了一个模块化系统，用于使用众包的 AI 提示解决特定问题，可以在任何地方使用。"
   },
   "MHSanaei/3x-ui": {
-   "src": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)",
-   "zh": "Xray 面板支持多协议多用户过期天数和流量及 IP 限制（Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun）"
+   "src": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
+   "zh": "支持多协议多用户的 Xray 面板，过期天数、流量和 IP 限制（Vmess、Vless、Trojan、ShadowSocks、Wireguard、Hysteria、Tunnel、Mixed、HTTP、Tun、MTProto）"
   },
   "QuantumNous/new-api": {
    "src": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
@@ -4684,6 +4684,14 @@
   "opendatalab/MinerU": {
    "src": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
    "zh": "将复杂文档（如 PDF 和 Office 文档）转换为适合 LLM 的 markdown/JSON，以便于你的 Agentic 工作流程。"
+  },
+  "antirez/ds4": {
+   "src": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+   "zh": "DeepSeek 4 Flash 和 PRO 本地推理引擎，支持 Metal、CUDA 和 ROCm。"
+  },
+  "addyosmani/agent-skills": {
+   "src": "Production-grade engineering skills for AI coding agents.",
+   "zh": "适用于 AI 编码代理的生产级工程技能。"
   }
  }
 }
