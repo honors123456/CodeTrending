@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-08T06:39:30.183Z",
+ "updatedAt": "2026-07-08T12:52:52.275Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -1586,8 +1586,8 @@
    "zh": "免费的设备上 iOS/iPadOS 应用管理器/安装程序，使用 Apple 开发者计划的一部分证书。"
   },
   "JerryZLiu/Dayflow": {
-   "src": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
-   "zh": "自动工作日志。私密地将你的屏幕变成你实际完成的时间线。开源和本地优先。"
+   "src": "The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+   "zh": "自动工作日志/时间追踪器。私密地将您的屏幕变成您实际完成的时间线。开源和本地优先。"
   },
   "hamed-elfayome/Claude-Usage-Tracker": {
    "src": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
@@ -5080,6 +5080,242 @@
   "ArnasDon/wacrm": {
    "src": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
    "zh": "可自托管的 WhatsApp CRM 模板 — 共享收件箱、联系人、销售管道、广播和无代码自动化。分叉它，品牌它，托管它。"
+  },
+  "jingyaogong/minimind": {
+   "src": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+   "zh": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!"
+  },
+  "HIllya51/LunaTranslator": {
+   "src": "视觉小说翻译器 / Visual Novel Translator",
+   "zh": "视觉小说翻译器 / Visual Novel Translator"
+  },
+  "armink/FlashDB": {
+   "src": "An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库",
+   "zh": "An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库"
+  },
+  "RayWangQvQ/BiliBiliToolPro": {
+   "src": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。",
+   "zh": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。"
+  },
+  "CeuiLiSA/Pixiv-Shaft": {
+   "src": "Pixiv第三方Android客户端",
+   "zh": "Pixiv第三方Android客户端"
+  },
+  "CesiumGS/cesium": {
+   "src": "An open-source JavaScript library for world-class 3D globes and maps :earth_americas:",
+   "zh": "一个开源的 JavaScript 库，用于世界级的 3D 地球仪和地图 :earth_americas:"
+  },
+  "atlassian/atlassian-mcp-server": {
+   "src": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
+   "zh": "Atlassian 的官方远程 MCP 服务器。使用 OAuth 2.1 或 API 令牌安全连接 Jira、Confluence、Jira Service Management、Bitbucket 和 Compass 到 Claude、ChatGPT、Cursor、VS Code 和其他 AI 工具。"
+  },
+  "eslint/eslint": {
+   "src": "Find and fix problems in your JavaScript code.",
+   "zh": "查找并修复您的 JavaScript 代码中的问题。"
+  },
+  "microsoft/SkillOpt": {
+   "src": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+   "zh": "SkillOpt 是一个文本空间优化器，通过轨迹驱动的编辑、验证门控的更新和可部署的 best_skill.md 工件，为冻结的 LLM 代理训练可重用的自然语言技能。"
+  },
+  "freqtrade/freqtrade": {
+   "src": "Free, open source crypto trading bot",
+   "zh": "免费、开源的加密交易机器人"
+  },
+  "LMCache/LMCache": {
+   "src": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+   "zh": "LMCache：用最快的 KV 缓存层为您的 LLM 提供强大支持"
+  },
+  "Tracer-Cloud/opensre": {
+   "src": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+   "zh": "构建您自己的 AI SRE 代理。为 AI 时代提供的开源工具包。"
+  },
+  "NVIDIA/SkillSpector": {
+   "src": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+   "zh": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+  },
+  "prisma/prisma": {
+   "src": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+   "zh": "下一代 ORM，适用于 Node.js 和 TypeScript | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB"
+  },
+  "dream-num/univer": {
+   "src": "Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.",
+   "zh": "Univer 是一个用于创建和编辑电子表格/文字处理器/演示文稿的全栈框架，适用于 Web 和服务器。"
+  },
+  "hcengineering/platform": {
+   "src": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+   "zh": "Huly — 一体化项目管理平台（Linear、Jira、Slack、Notion、Motion 的替代品）"
+  },
+  "dyad-sh/dyad": {
+   "src": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+   "zh": "本地开源 AI 应用程序构建器，面向高级用户 ✨ v0 / Lovable / Replit / Bolt 替代品 🌟 如果您喜欢，请给个星！"
+  },
+  "SigNoz/signoz": {
+   "src": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool",
+   "zh": "SigNoz 是一个原生于 OpenTelemetry 的开源可观察性平台，具有日志、跟踪和指标的单一应用程序。是 DataDog、NewRelic 等的开源替代品。🔥 🖥。👉 开源应用性能监控 (APM) 和可观察性工具"
+  },
+  "browseros-ai/BrowserOS": {
+   "src": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+   "zh": "🌐 开源的 Agentic 浏览器；ChatGPT Atlas、Perplexity Comet、Dia 的替代品。"
+  },
+  "makenotion/notion-mcp-server": {
+   "src": "Official Notion MCP Server",
+   "zh": "官方 Notion MCP 服务器"
+  },
+  "nrwl/nx": {
+   "src": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+   "zh": "增强开发者和 AI 代理的 Monorepo 平台。Nx 优化您的构建，扩展您的 CI，并自动修复失败的 PR。以一半的时间交付。"
+  },
+  "webtorrent/webtorrent": {
+   "src": "⚡️ Streaming torrent client for the web",
+   "zh": "⚡️ 网络流媒体种子客户端"
+  },
+  "Agent-Field/agentfield": {
+   "src": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.",
+   "zh": "构建、运行和扩展 AI 代理，如 API 和微服务 - 从第一天起可观察、可审计和身份感知。"
+  },
+  "rancher/rancher": {
+   "src": "Complete container management platform",
+   "zh": "完整的容器管理平台"
+  },
+  "karust/openserp": {
+   "src": "Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉",
+   "zh": "自托管的 SERP API，适用于 AI、SEO 和自动化。浏览器渲染的 Google、Bing、Yandex、百度、DuckDuckGo 和 Ecosia 搜索，带有页面提取 🎉"
+  },
+  "prometheus/node_exporter": {
+   "src": "Exporter for machine metrics",
+   "zh": "机器指标导出器"
+  },
+  "open-telemetry/opentelemetry-collector-contrib": {
+   "src": "Contrib repository for the OpenTelemetry Collector",
+   "zh": "OpenTelemetry Collector 的贡献库"
+  },
+  "ruvnet/RuVector": {
+   "src": "RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.",
+   "zh": "RuVector 是一个高性能、实时、自学习的 AI、向量 GNN、内存数据库，使用 Rust 构建。"
+  },
+  "jdx/mise": {
+   "src": "dev tools, env vars, task runner",
+   "zh": "开发工具、环境变量、任务运行器"
+  },
+  "emilk/egui": {
+   "src": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+   "zh": "egui：一个易于使用的 Rust 即时模式 GUI，适用于 Web 和本地"
+  },
+  "zellij-org/zellij": {
+   "src": "A terminal workspace with batteries included",
+   "zh": "一个包含电池的终端工作区"
+  },
+  "kekingcn/kkFileView": {
+   "src": "Universal File Online Preview Project based on Spring-Boot",
+   "zh": "基于 Spring-Boot 的通用文件在线预览项目"
+  },
+  "neo4j/neo4j": {
+   "src": "Graphs for Everyone",
+   "zh": "人人都能使用的图表"
+  },
+  "ashishps1/awesome-leetcode-resources": {
+   "src": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+   "zh": "学习数据结构和算法以及准备编码面试的精彩 LeetCode 资源。"
+  },
+  "quarkusio/quarkus": {
+   "src": "Quarkus: Supersonic Subatomic Java.",
+   "zh": "Quarkus：超音速亚原子 Java。"
+  },
+  "biomejs/biome": {
+   "src": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+   "zh": "一个用于 Web 项目的工具链，旨在提供维护它们的功能。Biome 提供格式化程序和 linter，可通过 CLI 和 LSP 使用。"
+  },
+  "togatoga/karukan": {
+   "src": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+   "zh": "适用于 Linux、macOS 的日语输入法系统，神经假名-汉字转换引擎"
+  },
+  "ERGO-Code/HiGHS": {
+   "src": "Linear optimization software",
+   "zh": "线性优化软件"
+  },
+  "PX4/PX4-Autopilot": {
+   "src": "PX4 Autopilot Software",
+   "zh": "PX4 自动驾驶软件"
+  },
+  "valhalla/valhalla": {
+   "src": "Open Source Routing Engine for OpenStreetMap",
+   "zh": "开源路由引擎，适用于 OpenStreetMap"
+  },
+  "Cisco-Talos/clamav": {
+   "src": "ClamAV - Documentation is here: https://docs.clamav.net",
+   "zh": "ClamAV - 文档在这里：https://docs.clamav.net"
+  },
+  "apache/httpd": {
+   "src": "Mirror of Apache HTTP Server. Issues: http://issues.apache.org",
+   "zh": "Apache HTTP 服务器的镜像。问题：http://issues.apache.org"
+  },
+  "htop-dev/htop": {
+   "src": "htop - an interactive process viewer",
+   "zh": "htop - 交互式进程查看器"
+  },
+  "wolfSSL/wolfssl": {
+   "src": "The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.",
+   "zh": "wolfSSL 库是一个小型、快速、可移植的 TLS/SSL 实现，适用于从嵌入式设备到云的应用。wolfSSL 支持最高 TLS 1.3 和 DTLS 1.3！请更新到 wolfSSL 5.9.1 以获取最新的 CVE 修复。"
+  },
+  "RT-Thread/rt-thread": {
+   "src": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+   "zh": "RT-Thread 是一个开源物联网实时操作系统 (RTOS)。                                                                                                https://rt-thread.github.io/rt-thread/"
+  },
+  "JosefNemec/Playnite": {
+   "src": "Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.",
+   "zh": "视频游戏库管理器，支持广泛的第三方库和游戏模拟，提供统一的游戏接口。"
+  },
+  "mcmonkeyprojects/SwarmUI": {
+   "src": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+   "zh": "SwarmUI（前身为 StableSwarmUI），一个模块化的稳定扩散网页用户界面，强调易于访问的强大工具、高性能和可扩展性。"
+  },
+  "slskd/slskd": {
+   "src": "A modern client-server application for the Soulseek file sharing network.",
+   "zh": "一个现代的客户端-服务器应用程序，用于 Soulseek 文件共享网络。"
+  },
+  "Azure/azure-sdk-tools": {
+   "src": "Tools repository leveraged by the Azure SDK team.",
+   "zh": "由 Azure SDK 团队利用的工具库。"
+  },
+  "aniyomiorg/aniyomi": {
+   "src": "An app for manga and anime",
+   "zh": "一个用于漫画和动漫的应用。"
+  },
+  "BiliRoamingX/BiliRoamingX": {
+   "src": "BiliRoamingX integrations and patches powered by ReVanced.",
+   "zh": "由 ReVanced 提供支持的 BiliRoamingX 集成和补丁。"
+  },
+  "yairm210/Unciv": {
+   "src": "Open-source Android/Desktop remake of Civ V",
+   "zh": "Civ V 的开源 Android/Desktop 重制版。"
+  },
+  "WinNative-Emu/WinNative": {
+   "src": "An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.",
+   "zh": "一个 Android 应用，用于在您的设备上玩来自 Steam、Epic Games、GOG 等的 Windows 游戏。"
+  },
+  "SimonSchubert/Kai": {
+   "src": "OpenClaw alternative in your pocket",
+   "zh": "口袋里的 OpenClaw 替代品。"
+  },
+  "iFurySt/open-codex-computer-use": {
+   "src": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+   "zh": "👾 Open Computer Use – Codex Computer Use 的开源替代品。"
+  },
+  "openai/tart": {
+   "src": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+   "zh": "在 Apple Silicon 上运行的 macOS 和 Linux 虚拟机，用于 CI 和其他自动化。"
+  },
+  "sozercan/kaset": {
+   "src": "📼 The missing YouTube and YouTube Music macOS app",
+   "zh": "📼 缺失的 YouTube 和 YouTube Music macOS 应用。"
+  },
+  "opensourcepos/opensourcepos": {
+   "src": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
+   "zh": "开源销售点是一个基于网页的销售点应用，使用 PHP 编写，基于 CodeIgniter 框架。它使用 MySQL 作为数据后端，并具有基于 Bootstrap 3 的用户界面。如果您喜欢这个项目，请给它一个星标！这样可以帮助维护该项目的流行开源状态。"
+  },
+  "googleapis/google-api-php-client": {
+   "src": "A PHP client library for accessing Google APIs",
+   "zh": "一个用于访问 Google APIs 的 PHP 客户端库。"
   }
  }
 }
