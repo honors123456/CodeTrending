@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-07T13:28:36.022Z",
+ "updatedAt": "2026-07-08T03:43:14.083Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3554,8 +3554,8 @@
    "zh": "轻量级（7MB）以终端为先的AI原生开发工作区"
   },
   "danielmiessler/LifeOS": {
-   "src": "An AI-powered Life Operating System for Magnifying Human Capabilities",
-   "zh": "一个 AI 驱动的生活操作系统，用于放大人类能力"
+   "src": "An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
+   "zh": "一个通用人工智能工具，用于放大人类能力。[编码、构建、创造、商业、生活、工作、...]"
   },
   "AnmolSaini16/mapcn": {
    "src": "Beautiful map components. 100% Free, Zero config, one command setup.",
@@ -5076,6 +5076,10 @@
   "LinkStackOrg/LinkStack": {
    "src": "LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.",
    "zh": "LinkStack - 创建个性化和专业个人主页的终极解决方案。将所有重要链接集中展示，忘记社交媒体上一个链接的限制。只需几次点击即可在自己的服务器上设置个人网站。"
+  },
+  "ArnasDon/wacrm": {
+   "src": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
+   "zh": "可自托管的 WhatsApp CRM 模板 — 共享收件箱、联系人、销售管道、广播和无代码自动化。分叉它，品牌它，托管它。"
   }
  }
 }
