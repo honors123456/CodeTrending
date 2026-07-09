@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T04:12:51.420Z",
+ "updatedAt": "2026-07-09T13:57:04.711Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -142,8 +142,8 @@
    "zh": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）"
   },
   "jeecgboot/JeecgBoot": {
-   "src": "AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。",
-   "zh": "AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。"
+   "src": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+   "zh": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。"
   },
   "halo-dev/halo": {
    "src": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
@@ -5328,6 +5328,346 @@
   "huxingyi/autoremesher": {
    "src": "Automatic quad remeshing tool",
    "zh": "自动四边形重网格工具"
+  },
+  "Wei-Shaw/claude-relay-service": {
+   "src": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+   "zh": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+  },
+  "Snailclimb/interview-guide": {
+   "src": "基于 Spring Boot 4.1 + Java 21 + Spring AI 2.0 + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。",
+   "zh": "基于 Spring Boot 4.1 + Java 21 + Spring AI 2.0 + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。"
+  },
+  "unclecode/crawl4ai": {
+   "src": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+   "zh": "🚀🤖 Crawl4AI：开源 LLM 友好的网络爬虫和抓取工具。不要害羞，加入这里：https://discord.gg/jP8KfhDhyN"
+  },
+  "roboflow/supervision": {
+   "src": "We write your reusable computer vision tools. 💜",
+   "zh": "我们编写可重用的计算机视觉工具。💜"
+  },
+  "BigBodyCobain/Shadowbroker": {
+   "src": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+   "zh": "全球舞台的开源情报。从富人的企业/私人飞机、间谍卫星到地震事件，在一个统一的界面中跟踪一切。连接一个 AI 代理，让它解析数据并找到以前未见的关联。知识对所有人开放，但直到现在很少在公开场合聚合。"
+  },
+  "stanfordnlp/dspy": {
+   "src": "DSPy: The framework for programming—not prompting—language models",
+   "zh": "DSPy：编程而非提示语言模型的框架"
+  },
+  "zarazhangrui/follow-builders": {
+   "src": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
+   "zh": "AI 建设者摘要——监控 X 和 YouTube 播客上的顶级 AI 建设者，将他们的内容改编成易于消化的摘要。关注建设者，而不是影响者。"
+  },
+  "projectdiscovery/nuclei-templates": {
+   "src": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+   "zh": "社区策划的模板列表，用于核引擎查找安全漏洞。"
+  },
+  "GoogleChrome/lighthouse": {
+   "src": "Automated auditing, performance metrics, and best practices for the web.",
+   "zh": "自动审计、性能指标和网络最佳实践。"
+  },
+  "7Sageer/sublink-worker": {
+   "src": "One Worker, All Subscriptions",
+   "zh": "一个工作者，所有订阅"
+  },
+  "usebruno/bruno": {
+   "src": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+   "zh": "开源 IDE 用于探索和测试 API（轻量级替代 Postman/Insomnia）"
+  },
+  "DataDog/dd-trace-js": {
+   "src": "Datadog APM client for Node.js",
+   "zh": "Node.js 的 Datadog APM 客户端"
+  },
+  "actions/starter-workflows": {
+   "src": "Accelerating new GitHub Actions workflows",
+   "zh": "加速新的 GitHub Actions 工作流"
+  },
+  "traycerai/traycer": {
+   "src": "Traycer: Nerve Center for Agentic Coding",
+   "zh": "Traycer：代理编码的神经中心"
+  },
+  "langfuse/langfuse": {
+   "src": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+   "zh": "🪢 开源 AI 工程平台：LLM 评估、可观察性、指标、提示管理、游乐场、数据集。与 OpenTelemetry、LangChain、OpenAI SDK、LiteLLM 等集成。🍊YC W23"
+  },
+  "modelcontextprotocol/inspector": {
+   "src": "Visual testing tool for MCP servers",
+   "zh": "MCP 服务器的视觉测试工具"
+  },
+  "777genius/agent-teams-ai": {
+   "src": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams.",
+   "zh": "你是老板，代理是你的团队。他们独立处理任务，相互消息，并审查彼此的工作。你只需观察看板并给出高层命令。Codex/Claude/OpenCode（200+ 模型，75+ LLM 提供者，免费模型无需认证）。与多个团队一起建立你的 AI 公司。"
+  },
+  "twentyhq/twenty": {
+   "src": "The open alternative to Salesforce, designed for AI.",
+   "zh": "开源的 Salesforce 替代品，专为 AI 设计。"
+  },
+  "pdfme/pdfme": {
+   "src": "Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both browser and Node.js environments.",
+   "zh": "用 TypeScript 和 React 构建的开源 PDF 生成库。具有 WYSIWYG 模板设计器、PDF 查看器和强大的生成能力。在浏览器和 Node.js 环境中轻松创建自定义 PDF。"
+  },
+  "rowboatlabs/rowboat": {
+   "src": "Open-source AI coworker, with memory",
+   "zh": "开源 AI 合作伙伴，具有记忆功能"
+  },
+  "BraveOPotato/FckSignups": {
+   "src": "A list of tools that are open-source, in-browser, and require no-signups!",
+   "zh": "一系列开源、浏览器内的工具，无需注册！"
+  },
+  "zitadel/zitadel": {
+   "src": "ZITADEL - Identity infrastructure, simplified for you.",
+   "zh": "ZITADEL - 身份基础设施，为你简化。"
+  },
+  "velero-io/velero": {
+   "src": "Backup and migrate Kubernetes applications and their persistent volumes",
+   "zh": "备份和迁移 Kubernetes 应用及其持久卷"
+  },
+  "mark3labs/mcp-go": {
+   "src": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+   "zh": "MCP 的 Go 实现，支持 LLM 应用与外部数据源和工具之间的无缝集成。"
+  },
+  "kai-scheduler/KAI-Scheduler": {
+   "src": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+   "zh": "KAI Scheduler 是一个开源的 Kubernetes 原生调度器，适用于大规模 AI 工作负载"
+  },
+  "knadh/listmonk": {
+   "src": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+   "zh": "高性能、自托管的新闻通讯和邮件列表管理器，具有现代仪表板。单一二进制应用。"
+  },
+  "ory/kratos": {
+   "src": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+   "zh": "用 Go 编写的无头云原生身份验证和身份管理。可扩展到十亿+ 用户。用更好的用户体验和开发体验替换自制、Auth0、Okta、Firebase。密码钥匙、社交登录、OIDC、魔法链接、多因素认证、短信、SAML、TOTP 等等。无处不在，最佳运行于 Ory Network。"
+  },
+  "bluenviron/mediamtx": {
+   "src": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams.",
+   "zh": "即用型 Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP 实时媒体服务器和媒体代理，允许读取、发布、代理、录制和回放实时视频和音频流。"
+  },
+  "k3s-io/k3s": {
+   "src": "Lightweight Kubernetes",
+   "zh": "轻量级 Kubernetes"
+  },
+  "derailed/k9s": {
+   "src": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+   "zh": "🐶 Kubernetes CLI 以风格管理你的集群！"
+  },
+  "oxc-project/oxc": {
+   "src": "⚓ A collection of high-performance JavaScript tools.",
+   "zh": "⚓ 一组高性能的 JavaScript 工具。"
+  },
+  "chojs23/concord": {
+   "src": "A feature-rich TUI client for Discord",
+   "zh": "功能丰富的 Discord TUI 客户端"
+  },
+  "rust-lang/rust-clippy": {
+   "src": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+   "zh": "一堆 lint 工具，用于捕捉常见错误并改善你的 Rust 代码。书籍：https://doc.rust-lang.org/clippy/"
+  },
+  "qdrant/qdrant": {
+   "src": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+   "zh": "Qdrant - 高性能、大规模的向量数据库和下一代 AI 的向量搜索引擎。也可在云中使用 https://cloud.qdrant.io/"
+  },
+  "kata-containers/kata-containers": {
+   "src": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+   "zh": "Kata Containers 是一个开源项目和社区，致力于构建轻量级虚拟机（VM）的标准实现，这些虚拟机感觉和表现得像容器，但提供工作负载隔离和安全优势。https://katacontainers.io/"
+  },
+  "opendataloader-project/opendataloader-pdf": {
+   "src": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+   "zh": "用于 AI 准备数据的 PDF 解析器。自动化 PDF 可访问性。开源。"
+  },
+  "debezium/debezium": {
+   "src": "Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.",
+   "zh": "多种数据库的数据变更捕获。请在 https://github.com/debezium/dbz/issues 上记录问题。"
+  },
+  "crimera/piko": {
+   "src": "morphe patches for twitter",
+   "zh": "morphe Twitter 补丁"
+  },
+  "spring-projects/spring-ai": {
+   "src": "An Application Framework for AI Engineering",
+   "zh": "一个用于 AI 工程的应用框架"
+  },
+  "strimzi/strimzi-kafka-operator": {
+   "src": "Apache Kafka® running on Kubernetes",
+   "zh": "在 Kubernetes 上运行的 Apache Kafka®"
+  },
+  "DataDog/dd-trace-java": {
+   "src": "Datadog APM client for Java",
+   "zh": "Java 的 Datadog APM 客户端"
+  },
+  "runelite/runelite": {
+   "src": "Open source Old School RuneScape client",
+   "zh": "开源的 Old School RuneScape 客户端"
+  },
+  "apache/rocketmq": {
+   "src": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+   "zh": "Apache RocketMQ 是一个云原生消息和流平台，使构建事件驱动应用程序变得简单。"
+  },
+  "awsdocs/aws-doc-sdk-examples": {
+   "src": "Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.",
+   "zh": "欢迎来到 AWS 代码示例库。该库包含在 AWS 文档、AWS SDK 开发者指南等中使用的代码示例。有关更多信息，请参见下面的 Readme.md 文件。"
+  },
+  "Azure/azure-sdk-for-java": {
+   "src": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+   "zh": "该库用于 Azure SDK for Java 的积极开发。对于 SDK 的用户，我们建议访问我们的公共开发者文档 https://docs.microsoft.com/java/azure/ 或我们的版本化开发者文档 https://azure.github.io/azure-sdk-for-java。"
+  },
+  "deskflow/deskflow": {
+   "src": "Share a single keyboard and mouse between multiple computers.",
+   "zh": "在多台计算机之间共享一个键盘和鼠标。"
+  },
+  "google/perfetto": {
+   "src": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+   "zh": "用于复杂软件系统的生产级客户端跟踪、分析和分析。"
+  },
+  "project-chip/connectedhomeip": {
+   "src": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+   "zh": "Matter（前身为 Project CHIP）在更多对象之间创建更多连接，简化制造商的开发并提高消费者的兼容性，由连接标准联盟指导。"
+  },
+  "ValveSoftware/source-sdk-2013": {
+   "src": "The 2013 edition of the Source SDK",
+   "zh": "2013 年版的 Source SDK"
+  },
+  "carbonengine/core": {
+   "src": "Provides generic low-level functionality and cross-platform abstractions for system calls",
+   "zh": "提供通用的低级功能和跨平台的系统调用抽象"
+  },
+  "ai-dynamo/nixl": {
+   "src": "NVIDIA Inference Xfer Library (NIXL)",
+   "zh": "NVIDIA Inference Xfer Library (NIXL)"
+  },
+  "notepad-plus-plus/notepad-plus-plus": {
+   "src": "Notepad++ official repository",
+   "zh": "Notepad++ 官方仓库"
+  },
+  "musescore/MuseScore": {
+   "src": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+   "zh": "MuseScore 是一个开源且免费的音乐记谱软件。有关支持、贡献、错误报告，请访问 MuseScore.org。分叉并提交拉取请求！"
+  },
+  "Alex2772/kuni": {
+   "src": "character ai",
+   "zh": "character ai"
+  },
+  "google/security-research": {
+   "src": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+   "zh": "该项目托管与 Google 进行的研究相关的安全建议及其附带的概念验证，这些研究影响非 Google 拥有的代码。"
+  },
+  "apache/age": {
+   "src": "Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.",
+   "zh": "针对快速分析和实时数据处理优化的图形数据库。作为 PostgreSQL 的扩展提供。"
+  },
+  "FreeRTOS/FreeRTOS-Kernel": {
+   "src": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+   "zh": "仅包含 FreeRTOS 内核文件，子模块化到 https://github.com/FreeRTOS/FreeRTOS 和其他各种仓库。"
+  },
+  "immortalwrt/immortalwrt": {
+   "src": "An opensource OpenWrt variant for mainland China users.",
+   "zh": "一个面向中国大陆用户的开源 OpenWrt 变体。"
+  },
+  "nmap/nmap": {
+   "src": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+   "zh": "Nmap - 网络映射器。官方 SVN 仓库的 GitHub 镜像。"
+  },
+  "ThrowTheSwitch/Unity": {
+   "src": "Simple unit testing for C",
+   "zh": "用于 C 的简单单元测试"
+  },
+  "littlefs-project/littlefs": {
+   "src": "A little fail-safe filesystem designed for microcontrollers",
+   "zh": "为微控制器设计的小型安全文件系统"
+  },
+  "open-quantum-safe/liboqs": {
+   "src": "C library for prototyping and experimenting with quantum-resistant cryptography",
+   "zh": "用于原型设计和实验量子抗性密码学的 C 库"
+  },
+  "SmartlyDressedGames/U3-SDK": {
+   "src": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+   "zh": "Unturned 的源代码，一个免费的开放世界僵尸生存沙盒游戏。"
+  },
+  "microsoft/mcp": {
+   "src": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+   "zh": "官方 Microsoft MCP（模型上下文协议）服务器实现的目录，用于 AI 驱动的数据访问和工具集成。"
+  },
+  "IvanMurzak/Unity-MCP": {
+   "src": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
+   "zh": "AI 技能、MCP 工具和 Unity 引擎的 CLI。完整的 AI 开发和测试循环。使用 CLI 进行快速设置。高效的令牌使用，先进的工具。任何 C# 方法都可以通过一行代码转换为工具。与 Claude Code、Gemini、Copilot、Cursor 及其他完全免费使用。"
+  },
+  "LykosAI/StabilityMatrix": {
+   "src": "Multi-Platform Package Manager for Stable Diffusion",
+   "zh": "稳定扩散的多平台包管理器"
+  },
+  "itsfatduck/optimizerDuck": {
+   "src": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+   "zh": "免费的开源 Windows 优化工具，注重性能、隐私和简洁性。"
+  },
+  "Pik-4/HsMod": {
+   "src": "Hearthstone Modification Based on BepInEx",
+   "zh": "基于 BepInEx 的炉石传说修改"
+  },
+  "Seralyth/Seralyth-Menu": {
+   "src": "A community driven mod menu for Gorilla Tag with over 1000+ mods",
+   "zh": "一个社区驱动的 Gorilla Tag 修改菜单，拥有超过 1000 个修改。"
+  },
+  "facebook/facebook-ios-sdk": {
+   "src": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+   "zh": "用于将 Facebook 平台与您的 iOS 和 tvOS 应用集成。"
+  },
+  "supertone-inc/supertonic": {
+   "src": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+   "zh": "闪电般快速的本地多语言 TTS — 通过 ONNX 原生运行。"
+  },
+  "swiftlang/swift-syntax": {
+   "src": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+   "zh": "一组用于解析、检查、生成和转换 Swift 源代码的 Swift 库。"
+  },
+  "getsentry/sentry-cocoa": {
+   "src": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
+   "zh": "官方 Sentry SDK，适用于 iOS、tvOS、macOS、watchOS、iPadOS 和 visionOS。"
+  },
+  "home-assistant/iOS": {
+   "src": ":iphone: Home Assistant for Apple platforms",
+   "zh": ":iphone: Apple 平台的 Home Assistant"
+  },
+  "nightscout/AndroidAPS": {
+   "src": "Opensource automated insulin delivery system (closed loop)",
+   "zh": "开源自动胰岛素输送系统（闭环）"
+  },
+  "meshtastic/Meshtastic-Android": {
+   "src": "Android application for Meshtastic",
+   "zh": "Meshtastic 的 Android 应用"
+  },
+  "home-assistant/android": {
+   "src": "Home Assistant Companion for Android",
+   "zh": "Android 的 Home Assistant 伴侣"
+  },
+  "aj3423/SpamBlocker": {
+   "src": "Android Call/SMS blocker.",
+   "zh": "Android 通话/SMS 阻止器。"
+  },
+  "kododake/AABrowser": {
+   "src": "Android Auto WEB Browser",
+   "zh": "Android Auto 网页浏览器"
+  },
+  "streetcomplete/StreetComplete": {
+   "src": "Easy to use OpenStreetMap editor for Android",
+   "zh": "易于使用的 Android OpenStreetMap 编辑器"
+  },
+  "oliexdev/openScale": {
+   "src": "Open-source weight and body metrics tracker, with support for Bluetooth scales",
+   "zh": "开源体重和身体指标跟踪器，支持蓝牙秤"
+  },
+  "SuiteCRM/SuiteCRM": {
+   "src": "SuiteCRM - Open source CRM for the world",
+   "zh": "SuiteCRM - 面向全球的开源 CRM"
+  },
+  "freescout-help-desk/freescout": {
+   "src": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
+   "zh": "FreeScout — 免费自托管帮助台和共享邮箱（Zendesk / Help Scout 替代品）"
+  },
+  "osTicket/osTicket": {
+   "src": "The osTicket open source ticketing system official project repository, for versions 1.8 and later",
+   "zh": "osTicket 开源工单系统官方项目仓库，适用于 1.8 及更高版本"
+  },
+  "signerlabs/ShipSwift": {
+   "src": "AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.",
+   "zh": "AI 原生 SwiftUI 组件库，带全栈食谱 — 通过 MCP 连接以获得即时访问。"
   }
  }
 }
