@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-08T12:52:52.275Z",
+ "updatedAt": "2026-07-09T04:12:51.420Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -5316,6 +5316,18 @@
   "googleapis/google-api-php-client": {
    "src": "A PHP client library for accessing Google APIs",
    "zh": "一个用于访问 Google APIs 的 PHP 客户端库。"
+  },
+  "ycccccccy/WeFlow": {
+   "src": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+   "zh": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用"
+  },
+  "fmhy/edit": {
+   "src": "Make changes to FMHY",
+   "zh": "对 FMHY 进行更改"
+  },
+  "huxingyi/autoremesher": {
+   "src": "Automatic quad remeshing tool",
+   "zh": "自动四边形重网格工具"
   }
  }
 }
