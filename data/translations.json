@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-10T04:11:22.740Z",
+ "updatedAt": "2026-07-10T13:22:48.588Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3722,8 +3722,8 @@
    "zh": "官方 GeoServer 仓库"
   },
   "agentscope-ai/agentscope-java": {
-   "src": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
-   "zh": "AgentScope Java：面向代理的编程，用于构建 LLM 应用程序"
+   "src": "Build distributed, production-grade, long-running agents.",
+   "zh": "构建分布式、生产级、长时间运行的代理。"
   },
   "MuntashirAkon/AppManager": {
    "src": "A full-featured package manager and viewer for Android",
@@ -4790,8 +4790,8 @@
    "zh": "你喜欢 pytorch 吗？你喜欢 micrograd 吗？你爱 tinygrad！❤️"
   },
   "MadsLorentzen/ai-job-search": {
-   "src": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-   "zh": "基于 Claude Code 的 AI 驱动求职申请框架。分叉它，填写你的个人资料，让 Claude 评估工作，定制简历，撰写求职信，并为面试做好准备。"
+   "src": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "zh": "在您的机器上运行的求职搜索。基于 Claude Code 的 AI 求职申请框架：评估职位、量身定制简历、撰写求职信、准备面试。分叉并拥有它。"
   },
   "pascalorg/editor": {
    "src": "Create and share 3D architectural projects.",
@@ -5672,6 +5672,254 @@
   "fqscfqj/Y2A-Auto": {
    "src": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
    "zh": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控"
+  },
+  "xerrors/Yuxi": {
+   "src": "结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+   "zh": "结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP."
+  },
+  "lbjlaq/Antigravity-Manager": {
+   "src": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+   "zh": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。"
+  },
+  "openai/openai-python": {
+   "src": "The official Python library for the OpenAI API",
+   "zh": "OpenAI API 的官方 Python 库"
+  },
+  "NVIDIA/skills": {
+   "src": "AI agent skills published by NVIDIA",
+   "zh": "NVIDIA 发布的 AI 代理技能"
+  },
+  "agentscope-ai/agentscope": {
+   "src": "Build and run agents you can see, understand and trust.",
+   "zh": "构建和运行您可以看到、理解和信任的代理。"
+  },
+  "Soju06/codex-lb": {
+   "src": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints",
+   "zh": "Codex/ChatGPT 多账户负载均衡器和代理，带有使用跟踪、仪表板和 OpenCode 兼容端点"
+  },
+  "syncable-dev/memtrace-public": {
+   "src": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf.",
+   "zh": "用于 AI 编码代理的结构性记忆。双时间图，MCP 原生，零 LLM 调用。Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf。"
+  },
+  "paperless-ngx/paperless-ngx": {
+   "src": "A community-supported supercharged document management system: scan, index and archive all your documents",
+   "zh": "一个社区支持的超级文档管理系统：扫描、索引和归档所有文档"
+  },
+  "microsoft/graphrag": {
+   "src": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+   "zh": "一个模块化的基于图的检索增强生成 (RAG) 系统"
+  },
+  "openai/plugins": {
+   "src": "OpenAI Plugins",
+   "zh": "OpenAI 插件"
+  },
+  "mochajs/mocha": {
+   "src": "☕️ Classic, reliable, trusted test framework for Node.js and the browser",
+   "zh": "☕️ 经典、可靠、值得信赖的 Node.js 和浏览器测试框架"
+  },
+  "vercel-labs/agent-skills": {
+   "src": "Vercel's official collection of agent skills",
+   "zh": "Vercel 的官方代理技能集合"
+  },
+  "ilysenko/codex-desktop-linux": {
+   "src": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.",
+   "zh": "非官方的 Linux ChatGPT 桌面应用程序（前身为 Codex 应用程序），从 OpenAI 的官方 macOS 应用程序本地构建。包括 Chat、Work 和 Codex。适用于 Debian/Ubuntu (.deb)、Fedora/openSUSE (.rpm)、Arch (pacman)、Nix/NixOS 和 AppImage，支持 Wayland 和 X11。"
+  },
+  "jestjs/jest": {
+   "src": "Delightful JavaScript Testing.",
+   "zh": "令人愉快的 JavaScript 测试。"
+  },
+  "cypress-io/cypress": {
+   "src": "Fast, easy and reliable testing for anything that runs in a browser.",
+   "zh": "快速、简单且可靠的浏览器测试。"
+  },
+  "apollographql/apollo-client": {
+   "src": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+   "zh": "行业领先的 TypeScript、JavaScript、React、Vue、Angular 等的 GraphQL 客户端。Apollo Client 提供强大的缓存、直观的 API 和全面的开发工具，以加速您的应用程序开发。"
+  },
+  "volcano-sh/volcano": {
+   "src": "A Cloud Native Batch System (Project under CNCF)",
+   "zh": "一个云原生批处理系统（CNCF 下的项目）"
+  },
+  "cloudflare/cloudflared": {
+   "src": "Cloudflare Tunnel client",
+   "zh": "Cloudflare Tunnel 客户端"
+  },
+  "opentofu/opentofu": {
+   "src": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+   "zh": "OpenTofu 让您以声明方式管理云基础设施。"
+  },
+  "n0-computer/iroh": {
+   "src": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+   "zh": "IP 地址中断，拨号键代替。一个为您的应用程序添加 QUIC + NAT 穿越的库。"
+  },
+  "a2x/cs2-dumper": {
+   "src": "Counter-Strike: 2 Offset Dumper",
+   "zh": "反恐精英：2 偏移转储器"
+  },
+  "swc-project/swc": {
+   "src": "Rust-based platform for the Web",
+   "zh": "基于 Rust 的 Web 平台"
+  },
+  "edwardkim/rhwp": {
+   "src": "아래한글 hwp viewer and editor by rust and wasm",
+   "zh": "基于 Rust 和 wasm 的 아래한글 hwp 查看器和编辑器"
+  },
+  "paradedb/paradedb": {
+   "src": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
+   "zh": "一个用于您的应用程序数据的 Postgres，支持全文搜索、向量检索和聚合。pg_search 扩展的家。"
+  },
+  "NVIDIA/infra-controller": {
+   "src": "NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking",
+   "zh": "NVIDIA Infra Controller - 硬件生命周期管理和多租户网络"
+  },
+  "qualcomm/GenieX": {
+   "src": "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code",
+   "zh": "在 Qualcomm 设备上本地运行前沿 LLM 和 VLM，跨 NPU、GPU 和 CPU 只需几行代码"
+  },
+  "apache/datafusion": {
+   "src": "Apache DataFusion SQL Query Engine",
+   "zh": "Apache DataFusion SQL 查询引擎"
+  },
+  "vespa-engine/vespa": {
+   "src": "The AI search platform",
+   "zh": "AI 搜索平台"
+  },
+  "apache/polaris": {
+   "src": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
+   "zh": "Apache Polaris，Apache Iceberg 的可互操作开源目录"
+  },
+  "dogecoin/dogecoin": {
+   "src": "very currency",
+   "zh": "非常货币"
+  },
+  "Azure/azure-powershell": {
+   "src": "Microsoft Azure PowerShell",
+   "zh": "Microsoft Azure PowerShell"
+  },
+  "ed0ard/CS2-Bot-Improver": {
+   "src": "CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc.  Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.",
+   "zh": "CS2-Bot-Improver 是一个用于反恐精英 2 的插件，改善机器人的瞄准、移动、投掷手雷、个性、策略等。旨在增强您在离线或与朋友对战时的体验。可以在客户端和服务器上安装。"
+  },
+  "microsoft/testfx": {
+   "src": "This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative to VSTest, as well as MSTest adapter and framework.",
+   "zh": "该仓库包含 Microsoft.Testing.Platform (MTP) 的源代码，这是 VSTest 的轻量级替代方案，以及 MSTest 适配器和框架。"
+  },
+  "dotnet/dotnet": {
+   "src": "Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.",
+   "zh": ".NET 的虚拟单体库的家，包含构建 .NET SDK 所需的所有代码。"
+  },
+  "Sophia-Community/SophiApp": {
+   "src": ":zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11",
+   "zh": ":zap: GitHub 上最强大的开源调优工具，用于微调 Windows 10 和 Windows 11"
+  },
+  "AzureAD/microsoft-identity-web": {
+   "src": "Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C",
+   "zh": "帮助使用 Microsoft 身份平台和 Azure AD B2C 创建受保护的 Web 应用程序和 Web API"
+  },
+  "actions/runner": {
+   "src": "The Runner for GitHub Actions :rocket:",
+   "zh": "GitHub Actions 的运行器 :rocket:"
+  },
+  "signalwire/freeswitch": {
+   "src": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+   "zh": "FreeSWITCH 是一个软件定义电信栈，使专有电信交换机向在任何商品硬件上运行的多功能软件实现的数字化转型。从 Raspberry PI 到多核服务器，FreeSWITCH 可以释放任何设备的通信潜力。"
+  },
+  "fluent/fluent-bit": {
+   "src": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+   "zh": "快速且轻量的日志、指标和跟踪处理器，适用于 Linux、BSD、OSX 和 Windows"
+  },
+  "unicorn-engine/unicorn": {
+   "src": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+   "zh": "Unicorn CPU 模拟器框架（ARM、AArch64、M68K、Mips、Sparc、PowerPC、RiscV、S390x、TriCore、X86）"
+  },
+  "WeebLabs/DSPi": {
+   "src": "A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Official Discord: https://discord.gg/RCyqxAQ5xS",
+   "zh": "一个功能齐全的音频 DSP 固件，适用于 Raspberry Pi Pico (RP2040) 和 Pico 2 (RP2350)。 官方 Discord: https://discord.gg/RCyqxAQ5xS"
+  },
+  "sonic-net/sonic-buildimage": {
+   "src": "Scripts which perform an installable binary image build for SONiC",
+   "zh": "执行可安装二进制映像构建的脚本，适用于 SONiC"
+  },
+  "nrfconnect/sdk-nrf": {
+   "src": "nRF Connect SDK main repository",
+   "zh": "nRF Connect SDK 主仓库"
+  },
+  "ImageMagick/ImageMagick": {
+   "src": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
+   "zh": "ImageMagick 是一个免费的开源软件套件，用于创建、编辑、转换和显示图像。它支持 200 多种格式，并提供强大的命令行工具和 API 以实现自动化、脚本编写和跨平台集成。"
+  },
+  "asterisk/asterisk": {
+   "src": "The official Asterisk Project repository.",
+   "zh": "官方 Asterisk 项目仓库。"
+  },
+  "NVIDIA/open-gpu-kernel-modules": {
+   "src": "NVIDIA Linux open GPU kernel module source",
+   "zh": "NVIDIA Linux 开源 GPU 内核模块源代码"
+  },
+  "DigitallyRefined/android-ip-camera": {
+   "src": "An Android MJPEG / H.264 IP Camera app",
+   "zh": "一个 Android MJPEG / H.264 IP 摄像头应用"
+  },
+  "stripe/stripe-android": {
+   "src": "Stripe Android SDK",
+   "zh": "Stripe Android SDK"
+  },
+  "tasks/tasks": {
+   "src": "Bringing Astrid Tasks back from the dead",
+   "zh": "让 Astrid Tasks 复活"
+  },
+  "odtheking/Odin": {
+   "src": "A Minecraft Fabric mod for Hypixel Skyblock",
+   "zh": "一个适用于 Hypixel Skyblock 的 Minecraft Fabric 模组"
+  },
+  "vivizzz007/vivi-music": {
+   "src": "Vivi-Music is an expressive Material 3–based YouTube Music client for Android.",
+   "zh": "Vivi-Music 是一个基于 Material 3 的 Android YouTube Music 客户端。"
+  },
+  "btcpayserver/btcpayserver": {
+   "src": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+   "zh": "接受比特币支付。免费、开源和自托管的比特币支付处理器。"
+  },
+  "Fate-Grand-Automata/FGA": {
+   "src": "Auto-battle app for F/GO Android",
+   "zh": "F/GO Android 的自动战斗应用"
+  },
+  "ronitsingh10/FineTune": {
+   "src": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
+   "zh": "FineTune，一个 macOS 菜单栏应用，用于每个应用的音量控制、多设备输出、音频路由和 10 段均衡器。免费和开源的 SoundSource 替代品。"
+  },
+  "MarkEdit-app/MarkEdit": {
+   "src": "Just like TextEdit on Mac but dedicated to Markdown.",
+   "zh": "就像 Mac 上的 TextEdit，但专门用于 Markdown。"
+  },
+  "gonzalezreal/textual": {
+   "src": "Render and customize rich attributed text in SwiftUI",
+   "zh": "在 SwiftUI 中渲染和自定义富文本属性。"
+  },
+  "akaunting/akaunting": {
+   "src": "Online Accounting Software",
+   "zh": "在线会计软件"
+  },
+  "PHPOffice/PHPWord": {
+   "src": "A pure PHP library for reading and writing word processing documents",
+   "zh": "一个纯 PHP 库，用于读取和写入文字处理文档"
+  },
+  "WordPress/mcp-adapter": {
+   "src": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
+   "zh": "一个 MCP 适配器，将 Abilities API 与 Model Context Protocol 连接，使 MCP 客户端能够以编程方式发现和调用 WordPress 插件、主题和核心能力。"
+  },
+  "opnsense/core": {
+   "src": "OPNsense GUI, API and systems backend",
+   "zh": "OPNsense GUI、API 和系统后端"
+  },
+  "barryvdh/laravel-dompdf": {
+   "src": "A DOMPDF Wrapper for Laravel",
+   "zh": "一个适用于 Laravel 的 DOMPDF 包装器"
+  },
+  "pmmp/PocketMine-MP": {
+   "src": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
+   "zh": "为 Minecraft: Bedrock 自定义的服务器软件，完全用 PHP、C 和 C++ 从零开始构建。"
   }
  }
 }
