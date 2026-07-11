@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-11T06:26:51.234Z",
+ "updatedAt": "2026-07-11T12:07:21.494Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -826,8 +826,8 @@
    "zh": "湖屋原生图引擎，具有 git 风格的工作流"
   },
   "Zackriya-Solutions/meetily": {
-   "src": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.  The #1 Ai Meeting Minutes generator.",
-   "zh": "隐私优先，AI 会议助手，具有 4 倍更快的 Parakeet/Whisper 实时转录、发言者分离和基于 Rust 的 Ollama 摘要。100% 本地处理，无需云端。Meetily (Meetly Ai - https://meetily.ai) 是 macOS 和 Windows 的 #1 自托管、开源 AI 会议记录工具。#1 AI 会议纪要生成器。"
+   "src": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+   "zh": "隐私优先，AI 会议助手，具有 4 倍更快的 Parakeet/Whisper 实时转录、发言者分离和基于 Rust 的 Ollama 摘要。100% 本地处理，无需云端。Meetily (Meetly Ai - https://meetily.ai) 是 macOS 和 Windows 上排名第一的自托管开源 AI 会议记录工具。了解如何撰写会议纪要。"
   },
   "rust-lang/rust": {
    "src": "Empowering everyone to build reliable and efficient software.",
@@ -5924,6 +5924,170 @@
   "rukamori/ArchiveTune": {
    "src": "The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.",
    "zh": "最可爱的 Material 3 表现音乐播放器，支持 Android 的本地文件和 YouTube 音乐。"
+  },
+  "ATH-MaaS/Pixelle-Video": {
+   "src": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+   "zh": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+  },
+  "muratcankoylan/Agent-Skills-for-Context-Engineering": {
+   "src": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+   "zh": "一个全面的代理技能集合，用于上下文工程、多代理架构和生产代理系统。在构建、优化或调试需要有效上下文管理的代理系统时使用。"
+  },
+  "FoundationAgents/OpenManus": {
+   "src": "No fortress, purely open ground.  OpenManus is Coming.",
+   "zh": "没有堡垒，纯粹的开放空间。OpenManus 即将来临。"
+  },
+  "lllyasviel/Fooocus": {
+   "src": "Focus on prompting and generating",
+   "zh": "专注于提示和生成。"
+  },
+  "volcengine/OpenViking": {
+   "src": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+   "zh": "自我演化的 AI 代理上下文数据库。统一代理记忆、知识 RAG 和技能。"
+  },
+  "cognizant-ai-lab/neuro-san-studio": {
+   "src": "A playground for neuro-san",
+   "zh": "神经沙盒的游乐场。"
+  },
+  "Skyvern-AI/skyvern": {
+   "src": "Automate browser based workflows with AI",
+   "zh": "使用 AI 自动化基于浏览器的工作流程。"
+  },
+  "nuxt/nuxt": {
+   "src": "the full-stack Vue framework",
+   "zh": "全栈 Vue 框架。"
+  },
+  "babel/babel": {
+   "src": "🐠 Babel is a compiler for writing next generation JavaScript.",
+   "zh": "🐠 Babel 是一个用于编写下一代 JavaScript 的编译器。"
+  },
+  "lfnovo/open-notebook": {
+   "src": "An Open Source implementation of Notebook LM with more flexibility and features",
+   "zh": "一个开源的 Notebook LM 实现，具有更多灵活性和功能。"
+  },
+  "pocket-id/pocket-id": {
+   "src": "An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.",
+   "zh": "一个易于使用的 OAuth 2.0 和 OpenID Connect 提供者，让用户可以使用他们的密码钥匙登录到您的服务。"
+  },
+  "docker/compose": {
+   "src": "Define and run multi-container applications with Docker",
+   "zh": "使用 Docker 定义和运行多容器应用程序。"
+  },
+  "malisper/pgrust": {
+   "src": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+   "zh": "用 Rust 重写的 Postgres，现在通过 100% 的 Postgres 回归测试。"
+  },
+  "ast-grep/ast-grep": {
+   "src": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+   "zh": "⚡一个用于代码结构搜索、代码检查和重写的 CLI 工具。用 Rust 编写。"
+  },
+  "OpenAPITools/openapi-generator": {
+   "src": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+   "zh": "OpenAPI Generator 允许根据 OpenAPI 规范 (v2, v3) 自动生成 API 客户端库 (SDK 生成)、服务器存根、文档和配置。"
+  },
+  "google-ai-edge/LiteRT": {
+   "src": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+   "zh": "LiteRT，TensorFlow Lite 的继任者。是 Google 的高性能 ML 和 GenAI 在边缘平台上的设备端框架，通过高效转换、运行时和优化。"
+  },
+  "bol-van/zapret2": {
+   "src": "anti-dpi software",
+   "zh": "反 DPI 软件。"
+  },
+  "redcanaryco/atomic-red-team": {
+   "src": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+   "zh": "基于 MITRE 的 ATT&CK 的小型高便携性检测测试。"
+  },
+  "pgbouncer/pgbouncer": {
+   "src": "lightweight connection pooler for PostgreSQL",
+   "zh": "PostgreSQL 的轻量级连接池。"
+  },
+  "coturn/coturn": {
+   "src": "coturn TURN server project",
+   "zh": "coturn TURN 服务器项目。"
+  },
+  "containers/bubblewrap": {
+   "src": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+   "zh": "用于 Flatpak 和类似项目的低级无特权沙箱工具。"
+  },
+  "karpathy/llama2.c": {
+   "src": "Inference Llama 2 in one file of pure C",
+   "zh": "在一个纯 C 文件中推理 Llama 2。"
+  },
+  "Filoppi/Luma-Framework": {
+   "src": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
+   "zh": "Luma 是基于 ReShade 附加系统的 DX11 游戏修改框架。目前包含多个修改，最大的一个是 Prey (2017)，它重构了后处理渲染阶段（例如，添加 HDR 支持、DLSS）。修改列表在这里：https://github.com/Filoppi/Luma-Framework/wiki"
+  },
+  "libgit2/libgit2": {
+   "src": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+   "zh": "一个跨平台的可链接 Git 库实现，您可以在应用程序中使用。"
+  },
+  "CTCaer/hekate": {
+   "src": "hekate - A GUI based Nintendo Switch Bootloader",
+   "zh": "hekate - 基于 GUI 的 Nintendo Switch 启动加载程序。"
+  },
+  "bol-van/zapret": {
+   "src": "DPI bypass multi platform",
+   "zh": "DPI 绕过多平台。"
+  },
+  "Kareadita/Kavita": {
+   "src": "Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.",
+   "zh": "Kavita 是一个快速、功能丰富的跨平台阅读服务器。旨在成为满足您所有阅读需求的完整解决方案。设置自己的服务器，与朋友和家人分享您的阅读收藏。"
+  },
+  "par274/sharpemu": {
+   "src": "An experimental PlayStation 5 emulator project.",
+   "zh": "一个实验性的 PlayStation 5 模拟器项目。"
+  },
+  "StockSharp/StockSharp": {
+   "src": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
+   "zh": "算法交易和量化交易开源平台，用于开发交易机器人（股票市场、外汇、加密货币、比特币和期权）。"
+  },
+  "open-telemetry/opentelemetry-dotnet-contrib": {
+   "src": "This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.",
+   "zh": "该仓库包含一组扩展 OpenTelemetry .NET SDK 功能的组件。仪器库、导出器和其他组件可以在这里找到。"
+  },
+  "Dailin521/codex-provider-sync": {
+   "src": "Synchronize Codex session provider metadata across rollout files and SQLite state.",
+   "zh": "在发布文件和 SQLite 状态之间同步 Codex 会话提供者元数据。"
+  },
+  "signalapp/Signal-iOS": {
+   "src": "A private messenger for iOS.",
+   "zh": "一个 iOS 私人消息应用。"
+  },
+  "pointfreeco/swift-snapshot-testing": {
+   "src": "📸 Delightful Swift snapshot testing.",
+   "zh": "📸 令人愉悦的 Swift 快照测试。"
+  },
+  "googleprojectzero/fuzzilli": {
+   "src": "A JavaScript Engine Fuzzer",
+   "zh": "一个 JavaScript 引擎模糊测试工具。"
+  },
+  "samyak2403/RepoStore": {
+   "src": "Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.",
+   "zh": "探索在 GitHub 上发布的应用，查看发布详情，并立即安装 APK——所有内容都在一个地方。使用纯 Kotlin 开发，针对现代 Android 设备进行了优化。"
+  },
+  "android/snippets": {
+   "src": "Main repository for snippets surfaced on developer.android.com.",
+   "zh": "开发者.android.com 上的代码片段的主仓库。"
+  },
+  "OuterTune/OuterTune": {
+   "src": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
+   "zh": "一个支持本地文件和 YouTube Music 的 Android Material 3 音乐播放器。基于 InnerTune 的分支。"
+  },
+  "zacharee/InstallWithOptions": {
+   "src": "Simple-ish app using Shizuku to install APKs on-device with advanced options",
+   "zh": "一个使用 Shizuku 在设备上安装 APK 的简单应用，具有高级选项。"
+  },
+  "amnezia-vpn/amneziawg-android": {
+   "src": "AmneziaWG for Android",
+   "zh": "AmneziaWG for Android。"
+  },
+  "Automattic/jetpack": {
+   "src": "Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.",
+   "zh": "安全、性能、营销和设计工具——Jetpack 由 WordPress 专家制作，旨在使 WP 网站更安全、更快速，并帮助您增加流量。"
+  },
+  "opnsense/plugins": {
+   "src": "OPNsense plugin collection",
+   "zh": "OPNsense 插件集合"
   }
  }
 }
