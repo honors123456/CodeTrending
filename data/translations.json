@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-10T13:22:48.588Z",
+ "updatedAt": "2026-07-11T03:40:50.333Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -514,8 +514,8 @@
    "zh": "无限制的开源 AI 视频平台替代品 - 免费的 AI 图像和视频生成工作室，拥有 200 多个模型（Flux、Midjourney、Kling、Sora、Veo）。没有内容过滤。自托管，MIT 许可。"
   },
   "asgeirtj/system_prompts_leaks": {
-   "src": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-   "zh": "从 Anthropic 提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。Google - Gemini 3.5 Flash、3.1 Pro、Antigravity。xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+   "src": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+   "zh": "从 Anthropic - Claude Fable 5、Opus 4.8、Claude Code、Claude Design 提取的系统提示。OpenAI - ChatGPT GPT-5.6、Codex GPT-5.6、GPT-5.5。Google - Gemini 3.5 Flash、3.1 Pro、Antigravity。xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
   },
   "zarazhangrui/frontend-slides": {
    "src": "Create beautiful slides on the web using a coding agent's frontend skills",
@@ -826,8 +826,8 @@
    "zh": "湖屋原生图引擎，具有 git 风格的工作流"
   },
   "Zackriya-Solutions/meetily": {
-   "src": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.",
-   "zh": "隐私优先的 AI 会议助手，具有 4 倍更快的 Parakeet/Whisper 实时转录、发言人分离和基于 Rust 的 Ollama 摘要。100% 本地处理，无需云。Meetily (Meetly Ai - https://meetily.ai) 是 macOS 和 Windows 上的第一款自托管开源 AI 会议记录工具。"
+   "src": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.  The #1 Ai Meeting Minutes generator.",
+   "zh": "隐私优先，AI 会议助手，具有 4 倍更快的 Parakeet/Whisper 实时转录、发言者分离和基于 Rust 的 Ollama 摘要。100% 本地处理，无需云端。Meetily (Meetly Ai - https://meetily.ai) 是 macOS 和 Windows 的 #1 自托管、开源 AI 会议记录工具。#1 AI 会议纪要生成器。"
   },
   "rust-lang/rust": {
    "src": "Empowering everyone to build reliable and efficient software.",
@@ -5920,6 +5920,10 @@
   "pmmp/PocketMine-MP": {
    "src": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
    "zh": "为 Minecraft: Bedrock 自定义的服务器软件，完全用 PHP、C 和 C++ 从零开始构建。"
+  },
+  "rukamori/ArchiveTune": {
+   "src": "The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.",
+   "zh": "最可爱的 Material 3 表现音乐播放器，支持 Android 的本地文件和 YouTube 音乐。"
   }
  }
 }
