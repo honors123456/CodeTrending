@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-12T06:47:12.597Z",
+ "updatedAt": "2026-07-12T12:10:22.915Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -965,6 +965,34 @@
    "flaggedAt": "2026-07-12T06:47:12.597Z",
    "zScore": 3.9,
    "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "shadps4-emu/shadPS4",
+   "flaggedAt": "2026-07-12T12:10:09.177Z",
+   "zScore": 4.1,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "3b1b/manim",
+   "flaggedAt": "2026-07-12T12:10:14.123Z",
+   "zScore": 11.1,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "sherlock-project/sherlock",
+   "flaggedAt": "2026-07-12T12:10:18.911Z",
+   "zScore": 4.8,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "kurikomi-labs/komi-store",
+   "flaggedAt": "2026-07-12T12:10:22.914Z",
+   "zScore": 6.3,
+   "newAccountShare": 0.033,
    "confirmed": false
   }
  ]

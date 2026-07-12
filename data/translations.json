@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-12T06:47:08.674Z",
+ "updatedAt": "2026-07-12T12:10:04.983Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -6092,6 +6092,290 @@
   "kunchenguid/lavish-axi": {
    "src": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
    "zh": "HTML 是新的 markdown。Lavish 是您 HTML 作品的新编辑器。"
+  },
+  "lingfengQAQ/webnovel-writer": {
+   "src": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+   "zh": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。"
+  },
+  "hmjz100/LinkSwift": {
+   "src": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+   "zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+  },
+  "maillab/cloud-mail": {
+   "src": "A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail",
+   "zh": "A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail"
+  },
+  "qist/tvbox": {
+   "src": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+   "zh": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。"
+  },
+  "dreamhunter2333/cloudflare_temp_email": {
+   "src": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+   "zh": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+  },
+  "zaigie/palworld-server-tool": {
+   "src": "[中文|English|日本語]基于.sav存档解析和REST&RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse .sav and REST&RCON, visual interface management PalWorld dedicated server.",
+   "zh": "[中文|English|日本語]基于.sav存档解析和REST&RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse .sav and REST&RCON, visual interface management PalWorld dedicated server."
+  },
+  "PrefectHQ/prefect": {
+   "src": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+   "zh": "Prefect 是一个用于构建弹性数据管道的工作流编排框架，使用 Python。"
+  },
+  "virattt/ai-hedge-fund": {
+   "src": "An AI Hedge Fund Team",
+   "zh": "一个 AI 对冲基金团队"
+  },
+  "smicallef/spiderfoot": {
+   "src": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+   "zh": "SpiderFoot 自动化 OSINT 用于威胁情报和映射你的攻击面。"
+  },
+  "youtubediscord/zapret": {
+   "src": "Zapret (Запрет обход блокировки Дискорда и Ютуба)",
+   "zh": "Zapret (Запрет обход блокировки Дискорда и Ютуба)"
+  },
+  "MervinPraison/PraisonAI": {
+   "src": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+   "zh": "PraisonAI 🦞 — 雇佣一个 24/7 的 AI 劳动力。停止编写样板代码，开始交付自主自我改进的代理，进行研究、规划、编码和执行任务。只需 5 行代码即可部署，内置记忆、RAG 和对 100 多个 LLM 的支持。"
+  },
+  "pydantic/pydantic-ai": {
+   "src": "AI Agent Framework, the Pydantic way",
+   "zh": "AI Agent Framework，Pydantic 方式"
+  },
+  "teng-lin/notebooklm-py": {
+   "src": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+   "zh": "非官方 Python API 和 Google NotebookLM 的代理技能。通过 Python、CLI 和 AI 代理（如 Claude Code、Codex 和 OpenClaw）完全程序化访问 NotebookLM 的功能，包括网页 UI 不公开的能力。"
+  },
+  "microsoft/TRELLIS.2": {
+   "src": "Native and Compact Structured Latents for 3D Generation",
+   "zh": "用于 3D 生成的原生和紧凑结构潜变量"
+  },
+  "Acode-Foundation/Acode": {
+   "src": "Acode - powerful text/code editor for android",
+   "zh": "Acode - 强大的安卓文本/代码编辑器"
+  },
+  "naptha/tesseract.js": {
+   "src": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+   "zh": "纯 JavaScript OCR 支持 100 多种语言 📖🎉🖥"
+  },
+  "4ian/GDevelop": {
+   "src": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+   "zh": "🎮 开源、跨平台的 2D/3D/多人游戏引擎，旨在为每个人服务。"
+  },
+  "johnfactotum/foliate": {
+   "src": "Read e-books in style",
+   "zh": "时尚地阅读电子书"
+  },
+  "HKUDS/DeepTutor": {
+   "src": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+  },
+  "Crosstalk-Solutions/project-nomad": {
+   "src": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+   "zh": "项目 N.O.M.A.D 是一个自给自足的离线生存计算机，配备关键工具、知识和 AI，随时随地让你保持知情和赋能。"
+  },
+  "ColeMurray/background-agents": {
+   "src": "An open-source background agents coding system",
+   "zh": "一个开源的后台代理编码系统"
+  },
+  "nexmoe/VidBee": {
+   "src": "Download videos from almost any website worldwide",
+   "zh": "从几乎任何网站下载视频"
+  },
+  "heygen-com/hyperframes": {
+   "src": "Write HTML. Render video. Built for agents.",
+   "zh": "编写 HTML。渲染视频。为代理而生。"
+  },
+  "louislam/dockge": {
+   "src": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+   "zh": "一个华丽、易于使用且反应灵敏的自托管 docker compose.yaml 堆栈管理器"
+  },
+  "InsForge/InsForge": {
+   "src": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+   "zh": "一体化的开源后端平台，用于代理编码。InsForge 为你的编码代理提供数据库、身份验证、存储、计算、托管和 AI 网关，以端到端交付全栈应用。"
+  },
+  "Infisical/infisical": {
+   "src": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+   "zh": "Infisical 是一个开源平台，用于秘密、证书和特权访问管理。"
+  },
+  "RocketChat/Rocket.Chat": {
+   "src": "The Secure CommsOS™ for mission-critical operations",
+   "zh": "用于关键任务操作的安全通信操作系统™"
+  },
+  "cloudflare/skills": {
+   "src": "Skills for teaching agents how to build on Cloudflare.",
+   "zh": "教授代理如何在 Cloudflare 上构建的技能。"
+  },
+  "Mininglamp-OSS/octo-server": {
+   "src": "🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.",
+   "zh": "🐙 支撑 OCTO 的 Go 后端 — 一个为人类 × AI 代理构建的开放工作场所。REST 和 WebSocket API，Lobster（AI 代理）编排，以及 WuKongIM 实时消息控制平面。"
+  },
+  "xjasonlyu/tun2socks": {
+   "src": "tun2socks - powered by gVisor TCP/IP stack",
+   "zh": "tun2socks - 由 gVisor TCP/IP 栈提供支持"
+  },
+  "vitessio/vitess": {
+   "src": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+   "zh": "Vitess 是一个用于 MySQL 水平扩展的数据库集群系统。"
+  },
+  "cockroachdb/cockroach": {
+   "src": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+   "zh": "CockroachDB — 设计用于高可用性、轻松扩展和数据放置控制的云原生分布式 SQL 数据库。"
+  },
+  "kubescape/kubescape": {
+   "src": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+   "zh": "Kubescape 是一个开源 Kubernetes 安全平台，适用于你的 IDE、CI/CD 管道和集群。它包括风险分析、安全性、合规性和错误配置扫描，为 Kubernetes 用户和管理员节省宝贵的时间、精力和资源。"
+  },
+  "restic/restic": {
+   "src": "Fast, secure, efficient backup program",
+   "zh": "快速、安全、高效的备份程序"
+  },
+  "gtsteffaniak/filebrowser": {
+   "src": "📂 Web File Browser",
+   "zh": "📂 网络文件浏览器"
+  },
+  "pressly/goose": {
+   "src": "A database migration tool. Supports SQL migrations and Go functions.",
+   "zh": "一个数据库迁移工具。支持 SQL 迁移和 Go 函数。"
+  },
+  "Dicklesworthstone/destructive_command_guard": {
+   "src": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+   "zh": "破坏性命令保护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
+  },
+  "Cpp2Rust/cpp2rust": {
+   "src": "Cpp2Rust: Automatic Translation of C++ to Safe Rust",
+   "zh": "Cpp2Rust：C++ 到安全 Rust 的自动翻译"
+  },
+  "transact-rs/sqlx": {
+   "src": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+   "zh": "🧰 Rust SQL 工具包。一个异步、纯 Rust SQL crate，具有无 DSL 的编译时检查查询。支持 PostgreSQL、MySQL 和 SQLite。"
+  },
+  "microsoft/pg_durable": {
+   "src": "PostgreSQL in-database durable execution",
+   "zh": "PostgreSQL 内数据库持久执行"
+  },
+  "microsoft/mxc": {
+   "src": "Policy-driven, layered isolation and containment",
+   "zh": "基于策略的分层隔离和封闭"
+  },
+  "screenpipe/screenpipe": {
+   "src": "YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+   "zh": "YC (S26) | AI 知道你所见、所说或所听的一切。记录你 24/7 的所有行为、言语和听到的内容，地方性、私密、安全。连接到 OpenClaw、Hermes 代理和 100 多个应用"
+  },
+  "influxdata/influxdb": {
+   "src": "Scalable datastore for metrics, events, and real-time analytics",
+   "zh": "可扩展的数据存储，用于指标、事件和实时分析"
+  },
+  "checkstyle/checkstyle": {
+   "src": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+   "zh": "Checkstyle 是一个开发工具，帮助程序员编写符合编码标准的 Java 代码。默认支持 Google Java 风格指南和 Sun 代码约定，但高度可配置。可以通过 ANT 任务和命令行程序调用。"
+  },
+  "Card-Forge/forge": {
+   "src": "An unofficial rules engine for the world's greatest card game.",
+   "zh": "一个非官方的规则引擎，用于世界上最伟大的卡牌游戏。"
+  },
+  "adityatandon15/Low-Level-Design-Course": {
+   "src": "All Code of LLD Playlist",
+   "zh": "所有 LLD 播放列表的代码"
+  },
+  "xpipe-io/xpipe": {
+   "src": "Access your entire server infrastructure from your local desktop",
+   "zh": "从本地桌面访问整个服务器基础设施"
+  },
+  "OHF-Voice/piper1-gpl": {
+   "src": "Fast and local neural text-to-speech engine",
+   "zh": "快速本地神经文本转语音引擎"
+  },
+  "xbmc/xbmc": {
+   "src": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+   "zh": "Kodi 是一款获奖的免费开源家庭影院/媒体中心软件和数字媒体娱乐中心。凭借其美丽的界面和强大的皮肤引擎，它可在 Android、BSD、Linux、macOS、iOS、tvOS 和 Windows 上使用。"
+  },
+  "justcallmekoko/ESP32Marauder": {
+   "src": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+   "zh": "一套针对 ESP32 的 WiFi/Bluetooth 攻防工具"
+  },
+  "InoriRus/Kyty": {
+   "src": "PS4 & PS5 emulator",
+   "zh": "PS4 和 PS5 模拟器"
+  },
+  "meshtastic/firmware": {
+   "src": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+   "zh": "Meshtastic 的官方固件，一个开源的离网网状通信系统。"
+  },
+  "BruceDevices/firmware": {
+   "src": "Predatory ESP32 Firmware",
+   "zh": "掠夺性 ESP32 固件"
+  },
+  "amnezia-vpn/amnezia-client": {
+   "src": "Amnezia VPN Client (Desktop+Mobile)",
+   "zh": "Amnezia VPN 客户端（桌面+移动）"
+  },
+  "v8/v8": {
+   "src": "The official mirror of the V8 Git repository",
+   "zh": "V8 Git 仓库的官方镜像"
+  },
+  "espeak-ng/espeak-ng": {
+   "src": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+   "zh": "eSpeak NG 是一个开源语音合成器，支持超过一百种语言和口音。"
+  },
+  "Klipper3d/klipper": {
+   "src": "Klipper is a 3d-printer firmware",
+   "zh": "Klipper 是一款 3D 打印机固件"
+  },
+  "stackia/rtp2httpd": {
+   "src": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
+   "zh": "多播 RTP/RTSP 到单播 HTTP 流转换器，内置网页播放器、状态仪表板、快速频道切换支持等！"
+  },
+  "EpicGames/raddebugger": {
+   "src": "A native, user-mode, multi-process, graphical debugger.",
+   "zh": "一个本地用户模式的多进程图形调试器。"
+  },
+  "nesrak1/UABEA": {
+   "src": "c# uabe for newer versions of unity",
+   "zh": "c# uabe 适用于较新版本的 Unity"
+  },
+  "lostindark/DriverStoreExplorer": {
+   "src": "Driver Store Explorer",
+   "zh": "驱动程序存储资源管理器"
+  },
+  "KotatsuApp/Kotatsu": {
+   "src": "Manga reader for Android",
+   "zh": "Android 的漫画阅读器"
+  },
+  "mpv-android/mpv-android": {
+   "src": "video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
+   "zh": "基于 libmpv 的 Android 视频播放器 ↦ #mpv-android @ irc.libera.chat"
+  },
+  "AurelioB/ClusterTune": {
+   "src": "ClusterTune is an Android utility for tuning CPU frequency limits on supported handheld devices. It lets you adjust CPU clusters, save performance profiles, and access quick controls from an Android Quick Settings tile.",
+   "zh": "ClusterTune 是一款 Android 工具，用于调节支持的手持设备的 CPU 频率限制。它允许您调整 CPU 集群、保存性能配置文件，并从 Android 快速设置图标访问快速控制。"
+  },
+  "rooootdev/lara": {
+   "src": "iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.",
+   "zh": "使用 DarkSword kexploit 的 iOS 工具箱。支持 iOS 17.0 - iOS 18.7.1 和 iOS 26.0.x，排除 M5 和 A19。"
+  },
+  "bysiber/cleardisk": {
+   "src": "Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.",
+   "zh": "免费的 macOS 菜单栏应用，用于可视化和清理开发者缓存（Xcode、node_modules、CocoaPods、SPM、Docker、pip、Cargo）。立即回收磁盘空间。"
+  },
+  "PlayCover/PlayCover": {
+   "src": "Community fork of PlayCover",
+   "zh": "PlayCover 的社区分支"
+  },
+  "jacklandrin/OnlySwitch": {
+   "src": "⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+   "zh": "⚙️ 一体化菜单栏应用，隐藏 💻MacBook Pro 的刘海，深色模式，AirPods，快捷方式"
+  },
+  "palmier-io/palmier-pro": {
+   "src": "macOS video editor built for AI",
+   "zh": "为 AI 构建的 macOS 视频编辑器"
+  },
+  "yonaskolb/XcodeGen": {
+   "src": "A Swift command line tool for generating your Xcode project",
+   "zh": "一个用于生成 Xcode 项目的 Swift 命令行工具"
+  },
+  "re4/LibreCode": {
+   "src": "LibreCode - A Ollama cursor like coding / Reversing Interface",
+   "zh": "LibreCode - 类似 Ollama 的编码/逆向接口"
   }
  }
 }
