@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-11T12:07:28.779Z",
+ "updatedAt": "2026-07-12T03:53:43.020Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -922,6 +922,41 @@
    "repo": "Leantime/leantime",
    "flaggedAt": "2026-07-11T12:07:28.779Z",
    "zScore": 25.1,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "HKUDS/Vibe-Trading",
+   "flaggedAt": "2026-07-12T03:53:28.113Z",
+   "zScore": 5.5,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "Egonex-AI/Understand-Anything",
+   "flaggedAt": "2026-07-12T03:53:31.849Z",
+   "zScore": 4.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "macrozheng/mall",
+   "flaggedAt": "2026-07-12T03:53:35.874Z",
+   "zScore": 22.6,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "jaywcjlove/awesome-mac",
+   "flaggedAt": "2026-07-12T03:53:39.972Z",
+   "zScore": 22.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "utkarshdalal/GameNative",
+   "flaggedAt": "2026-07-12T03:53:43.019Z",
+   "zScore": 3.8,
    "newAccountShare": 0,
    "confirmed": false
   }

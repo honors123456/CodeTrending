@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-11T12:07:21.494Z",
+ "updatedAt": "2026-07-12T03:53:24.619Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -5966,8 +5966,8 @@
    "zh": "一个开源的 Notebook LM 实现，具有更多灵活性和功能。"
   },
   "pocket-id/pocket-id": {
-   "src": "An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.",
-   "zh": "一个易于使用的 OAuth 2.0 和 OpenID Connect 提供者，让用户可以使用他们的密码钥匙登录到您的服务。"
+   "src": "An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+   "zh": "一个易于使用的 OpenID Connect Certified™ 和 OAuth 2.0 提供者，让用户可以使用密码钥匙登录到您的应用程序。"
   },
   "docker/compose": {
    "src": "Define and run multi-container applications with Docker",
@@ -6088,6 +6088,10 @@
   "opnsense/plugins": {
    "src": "OPNsense plugin collection",
    "zh": "OPNsense 插件集合"
+  },
+  "kunchenguid/lavish-axi": {
+   "src": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+   "zh": "HTML 是新的 markdown。Lavish 是您 HTML 作品的新编辑器。"
   }
  }
 }
