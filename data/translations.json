@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-13T03:57:50.153Z",
+ "updatedAt": "2026-07-13T07:36:06.389Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -354,8 +354,8 @@
    "zh": "AI 代理治理工具包 - 政策执行、零信任身份、执行沙箱和自主 AI 代理的可靠性工程。涵盖 10/10 OWASP 代理顶级 10。"
   },
   "Alishahryar1/free-claude-code": {
-   "src": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
-   "zh": "在终端、VSCode 扩展和类似 OpenClaw 的 Discord 中免费使用 Claude Code 和 Codex（支持语音）"
+   "src": "Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
+   "zh": "在终端、VSCode 扩展和 Discord 中免费使用 claude code、codex 或 pi，类似于 OpenClaw（支持语音）"
   },
   "NVlabs/ProtoMotions": {
    "src": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",

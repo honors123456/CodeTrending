@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-13T03:57:56.940Z",
+ "updatedAt": "2026-07-13T07:36:19.272Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1007,6 +1007,27 @@
    "flaggedAt": "2026-07-13T03:57:56.939Z",
    "zScore": 7.8,
    "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "Ebullioscopic/Atoll",
+   "flaggedAt": "2026-07-13T07:36:10.547Z",
+   "zScore": 3.4,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "robinebers/openusage",
+   "flaggedAt": "2026-07-13T07:36:14.163Z",
+   "zScore": 5,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "github/spec-kit",
+   "flaggedAt": "2026-07-13T07:36:19.272Z",
+   "zScore": 4.9,
+   "newAccountShare": 0,
    "confirmed": false
   }
  ]
