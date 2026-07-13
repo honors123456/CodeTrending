@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-12T12:10:04.983Z",
+ "updatedAt": "2026-07-13T03:57:50.153Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -6376,6 +6376,18 @@
   "re4/LibreCode": {
    "src": "LibreCode - A Ollama cursor like coding / Reversing Interface",
    "zh": "LibreCode - 类似 Ollama 的编码/逆向接口"
+  },
+  "Luoyacheng/legado-E": {
+   "src": "阅读Sigma是legado的继承，保持开源免费，延续开源精神。",
+   "zh": "阅读Sigma是legado的继承，保持开源免费，延续开源精神。"
+  },
+  "microsoft/flint-chart": {
+   "src": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+   "zh": "🪄 Flint 是一种可视化语言，允许 AI 代理从简单的人类可编辑图表规范中可靠地创建富有表现力、外观良好的图表。"
+  },
+  "OpenCut-app/OpenCut": {
+   "src": "The open-source CapCut alternative",
+   "zh": "开源的 CapCut 替代品"
   }
  }
 }

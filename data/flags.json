@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-12T12:10:22.915Z",
+ "updatedAt": "2026-07-13T03:57:56.940Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -992,6 +992,20 @@
    "repo": "kurikomi-labs/komi-store",
    "flaggedAt": "2026-07-12T12:10:22.914Z",
    "zScore": 6.3,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "Augani/openreel-video",
+   "flaggedAt": "2026-07-13T03:57:53.432Z",
+   "zScore": 7.9,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "pingdotgg/t3code",
+   "flaggedAt": "2026-07-13T03:57:56.939Z",
+   "zScore": 7.8,
    "newAccountShare": 0.033,
    "confirmed": false
   }
