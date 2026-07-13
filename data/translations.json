@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-13T07:36:06.389Z",
+ "updatedAt": "2026-07-13T13:33:36.233Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -5394,8 +5394,8 @@
    "zh": "MCP 服务器的视觉测试工具"
   },
   "777genius/agent-teams-ai": {
-   "src": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams.",
-   "zh": "你是老板，代理是你的团队。他们独立处理任务，相互消息，并审查彼此的工作。你只需观察看板并给出高层命令。Codex/Claude/OpenCode（200+ 模型，75+ LLM 提供者，免费模型无需认证）。与多个团队一起建立你的 AI 公司。"
+   "src": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/Grok/GitHub Copilot/Cursor/Kiro/Z.AI/MiniMax/Kimi/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
+   "zh": "你是老板，代理是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/Grok/GitHub Copilot/Cursor/Kiro/Z.AI/MiniMax/Kimi/OpenCode（200+ 模型，75+ LLM 提供者，免费模型无需认证）。与多个团队一起建立你的 AI 公司。"
   },
   "twentyhq/twenty": {
    "src": "The open alternative to Salesforce, designed for AI.",
@@ -6388,6 +6388,270 @@
   "OpenCut-app/OpenCut": {
    "src": "The open-source CapCut alternative",
    "zh": "开源的 CapCut 替代品"
+  },
+  "simonlin1212/TradingAgents-astock": {
+   "src": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+   "zh": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。"
+  },
+  "MaaAssistantArknights/MaaAssistantArknights": {
+   "src": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+   "zh": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+  },
+  "Linsxyx/KugouMusic.NET": {
+   "src": "最好用最轻量的第三方酷狗概念版音乐播放器",
+   "zh": "最好用最轻量的第三方酷狗概念版音乐播放器"
+  },
+  "bigskysoftware/htmx": {
+   "src": "</> htmx - high power tools for HTML",
+   "zh": "</> htmx - HTML 的高效工具"
+  },
+  "calesthio/Crucix": {
+   "src": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+   "zh": "你的个人智能代理。从多个数据源监控世界，并在发生变化时提醒你。"
+  },
+  "simple-icons/simple-icons": {
+   "src": "SVG icons for popular brands",
+   "zh": "流行品牌的 SVG 图标"
+  },
+  "p-e-w/heretic": {
+   "src": "Fully automatic censorship removal for language models",
+   "zh": "语言模型的完全自动化审查移除"
+  },
+  "make-all/tuya-local": {
+   "src": "Local support for Tuya devices in Home Assistant",
+   "zh": "Home Assistant 中对 Tuya 设备的本地支持"
+  },
+  "Vexa-ai/vexa": {
+   "src": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+   "zh": "用于 Google Meet、Microsoft Teams 和 Zoom 的开源会议转录 API。自动加入机器人、实时 WebSocket 转录、AI 代理的 MCP 服务器。自托管或使用托管的 SaaS。"
+  },
+  "moeru-ai/airi": {
+   "src": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+   "zh": "💖🧸 自托管、你拥有的 Grok Companion，一个装载着二次元灵魂的容器，带他们进入我们的世界，期望达到 Neuro-sama 的高度。能够进行实时语音聊天、Minecraft、Factorio 游戏。支持 Web / macOS / Windows。"
+  },
+  "YishenTu/claudian": {
+   "src": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault",
+   "zh": "一个将 Claude Code/Codex 嵌入到你的 Obsidian 库中的 AI 合作插件"
+  },
+  "rmyndharis/OpenWA": {
+   "src": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+   "zh": "免费、开源、自托管的 WhatsApp API 网关"
+  },
+  "vercel/vercel": {
+   "src": "Develop. Preview. Ship.",
+   "zh": "开发。预览。发布。"
+  },
+  "github/docs": {
+   "src": "The open-source repo for docs.github.com",
+   "zh": "docs.github.com 的开源仓库"
+  },
+  "simstudioai/sim": {
+   "src": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+   "zh": "构建、部署和编排 AI 代理。Sim 是你 AI 劳动力的中央智能层。"
+  },
+  "mifi/lossless-cut": {
+   "src": "The swiss army knife of lossless video/audio editing",
+   "zh": "无损视频/音频编辑的瑞士军刀"
+  },
+  "perber/leafwiki": {
+   "src": "LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.",
+   "zh": "LeafWiki - 自托管的维基。单个 Go 二进制文件，SQLite，磁盘上的 Markdown。无需外部数据库。"
+  },
+  "authelia/authelia": {
+   "src": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+   "zh": "现在获得 OpenID 认证的 Web 应用程序单点登录多因素门户"
+  },
+  "rcourtman/Pulse": {
+   "src": "Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes",
+   "zh": "监控 Proxmox、Docker、Kubernetes、TrueNAS 和 vSphere，监视你的基础设施：智能警报、捕捉静默故障的 AI 巡逻和经过验证的修复。"
+  },
+  "Gentleman-Programming/engram": {
+   "src": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+   "zh": "为 AI 编码代理提供持久内存系统。与代理无关的 Go 二进制文件，带有 SQLite + FTS5、MCP 服务器、HTTP API、CLI 和 TUI。"
+  },
+  "XTLS/RealiTLScanner": {
+   "src": "A TLS server scanner for Reality",
+   "zh": "Reality 的 TLS 服务器扫描器"
+  },
+  "FiloSottile/age": {
+   "src": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+   "zh": "一个简单、现代且安全的加密工具（和 Go 库），具有小的显式密钥，无配置选项，以及 UNIX 风格的组合性。"
+  },
+  "schollz/croc": {
+   "src": "Easily and securely send things from one computer to another :crocodile: :package:",
+   "zh": "轻松安全地将东西从一台计算机发送到另一台计算机 :crocodile: :package:"
+  },
+  "Billionmail/BillionMail": {
+   "src": "BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+   "zh": "BillionMail 为你提供开源邮件服务器、新闻通讯、电子邮件营销——完全自托管、开发友好，并且没有月费。加入 Discord: https://discord.gg/asfXzBUhZr"
+  },
+  "raine/claude-code-proxy": {
+   "src": "Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatible proxy",
+   "zh": "通过本地兼容 Anthropic 的代理使用 Claude Code 与你的 ChatGPT、Kimi、Cursor 或 Grok 订阅。"
+  },
+  "RustPython/RustPython": {
+   "src": "A Python Interpreter written in Rust",
+   "zh": "用 Rust 编写的 Python 解释器"
+  },
+  "katanemo/plano": {
+   "src": "Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.",
+   "zh": "Plano 是一个 AI 原生代理和数据平面，用于代理应用——内置编排、安全性、可观察性和智能 LLM 路由，让你专注于代理的核心逻辑。"
+  },
+  "rust-lang/cargo": {
+   "src": "The Rust package manager",
+   "zh": "Rust 包管理器"
+  },
+  "moghtech/komodo": {
+   "src": "🦎 a tool to build and deploy software on many servers 🦎",
+   "zh": "🦎 一个在多个服务器上构建和部署软件的工具 🦎"
+  },
+  "tursodatabase/turso": {
+   "src": "Turso is an in-process SQL database, compatible with SQLite.",
+   "zh": "Turso 是一个进程内 SQL 数据库，兼容 SQLite。"
+  },
+  "cocoindex-io/cocoindex": {
+   "src": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+   "zh": "用于长时间代理的增量引擎 🌟 如果你喜欢，请给个星！"
+  },
+  "louis-e/arnis": {
+   "src": "Generate any location from the real world in Minecraft with a high level of detail.",
+   "zh": "在 Minecraft 中生成现实世界中的任何位置，具有高细节水平。"
+  },
+  "AlexsJones/llmfit": {
+   "src": "Hundreds of models & providers. One command to find what runs on your hardware.",
+   "zh": "数百个模型和提供者。一个命令找到在你的硬件上运行的内容。"
+  },
+  "AndroidIDEOfficial/AndroidIDE": {
+   "src": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
+   "zh": "AndroidIDE 是一个用于 Android 的 IDE，用于开发功能齐全的 Android 应用。"
+  },
+  "CaffeineMC/sodium": {
+   "src": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter",
+   "zh": "一个高性能的 Minecraft 渲染引擎替代品，大大提高帧率并减少微卡顿。"
+  },
+  "trinodb/trino": {
+   "src": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+   "zh": "Trino 的官方仓库，分布式 SQL 查询引擎，适用于大数据，前身为 PrestoSQL (https://trino.io)"
+  },
+  "Apicurio/apicurio-registry": {
+   "src": "An API/Schema registry - stores APIs and Schemas.",
+   "zh": "一个 API/模式注册中心 - 存储 API 和模式。"
+  },
+  "UE4SS-RE/RE-UE4SS": {
+   "src": "Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games",
+   "zh": "可注入的 LUA 脚本系统、SDK 生成器、实时属性编辑器和其他用于 UE4/5 游戏的转储工具。"
+  },
+  "CleverRaven/Cataclysm-DDA": {
+   "src": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+   "zh": "Cataclysm - Dark Days Ahead。一个设定在后末日世界的回合制生存游戏。"
+  },
+  "tnodir/fort": {
+   "src": "Fort Firewall for Windows",
+   "zh": "Windows 的 Fort Firewall"
+  },
+  "dalathegreat/Battery-Emulator": {
+   "src": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
+   "zh": "这款革命性软件使 EV 电池组能够轻松重用于与太阳能逆变器结合的静态存储。"
+  },
+  "wesnoth/wesnoth": {
+   "src": "An open source, turn-based strategy game with a high fantasy theme.",
+   "zh": "一个开源的回合制策略游戏，具有高幻想主题。"
+  },
+  "scylladb/scylladb": {
+   "src": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+   "zh": "使用 Seastar 框架的 NoSQL 数据存储，兼容 Apache Cassandra 和 Amazon DynamoDB"
+  },
+  "PrismLauncher/PrismLauncher": {
+   "src": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+   "zh": "一个 Minecraft 自定义启动器，允许你轻松管理多个 Minecraft 安装（MultiMC 的分支）"
+  },
+  "cemu-project/Cemu": {
+   "src": "Cemu - Wii U emulator",
+   "zh": "Cemu - Wii U 模拟器"
+  },
+  "sdatkinson/NeuralAmpModelerPlugin": {
+   "src": "Plugin for Neural Amp Modeler",
+   "zh": "Neural Amp Modeler 的插件"
+  },
+  "FalkorDB/FalkorDB": {
+   "src": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+   "zh": "一个超快速的图数据库，底层使用 GraphBLAS 进行稀疏邻接矩阵图表示。我们的目标是为 LLM 提供最佳知识图（GraphRAG）。"
+  },
+  "opa334/Dopamine": {
+   "src": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+   "zh": "Dopamine 是一个半脱离式的 iOS 15 和 16 越狱工具"
+  },
+  "lcdyk0517/arkos4clone": {
+   "src": "ArkOS for Unofficial Devices",
+   "zh": "ArkOS 用于非官方设备"
+  },
+  "pret/pokeemerald": {
+   "src": "Decompilation of Pokémon Emerald",
+   "zh": "宝可梦绿宝石的反编译"
+  },
+  "openzfs/zfs": {
+   "src": "OpenZFS on Linux and FreeBSD",
+   "zh": "在 Linux 和 FreeBSD 上的 OpenZFS"
+  },
+  "RfidResearchGroup/proxmark3": {
+   "src": "Iceman Fork - Proxmark3",
+   "zh": "Iceman Fork - Proxmark3"
+  },
+  "asg017/sqlite-vec": {
+   "src": "A vector search SQLite extension that runs anywhere!",
+   "zh": "一个可以在任何地方运行的向量搜索 SQLite 扩展！"
+  },
+  "google/XNNPACK": {
+   "src": "High-efficiency floating-point neural network inference operators for mobile, server, and Web",
+   "zh": "高效的浮点神经网络推理运算符，适用于移动设备、服务器和 Web"
+  },
+  "openclaw/openclaw-windows-node": {
+   "src": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+   "zh": "OpenClaw 的 Windows 伴侣套件 - 系统托盘应用、共享库、节点和 PowerToys 命令面板扩展"
+  },
+  "Agustinm28/Optiscaler-Client": {
+   "src": "A modern manager for OptiScaler",
+   "zh": "一个现代的 OptiScaler 管理器"
+  },
+  "voidstrap/Voidstrap": {
+   "src": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.",
+   "zh": "Voidstrap 是 Bloxstrap 的一个简单而先进的分支，具有高级自定义和改进。"
+  },
+  "Next-Flip/Momentum-Firmware": {
+   "src": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+   "zh": "🐬 功能丰富、稳定且可自定义的 Flipper 固件"
+  },
+  "wxxsfxyzm/InstallerX-Revived": {
+   "src": "More Expressive InstallerX !",
+   "zh": "更具表现力的 InstallerX！"
+  },
+  "androidx/androidx": {
+   "src": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+   "zh": "用于 Android Jetpack 扩展库的开发环境，位于 androidx 命名空间下。与 AOSP 上 Android Jetpack 的主要开发分支同步。"
+  },
+  "StephenDev0/StikDebug": {
+   "src": "An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.",
+   "zh": "一个针对 iOS 版本 17.4+ 的设备内调试器/JIT 启用工具，由 idevice 提供支持。"
+  },
+  "argmaxinc/argmax-oss-swift": {
+   "src": "On-device Speech AI for Apple Silicon",
+   "zh": "针对 Apple Silicon 的设备内语音 AI"
+  },
+  "openmediavault/openmediavault": {
+   "src": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.",
+   "zh": "openmediavault 是基于 Debian Linux 的下一代网络附加存储（NAS）解决方案。由于框架的模块化设计，可以通过插件进行增强。openmediavault 主要设计用于家庭环境或小型家庭办公室。"
+  },
+  "symfony/symfony-docs": {
+   "src": "The Symfony documentation",
+   "zh": "Symfony 文档"
+  },
+  "phpmyadmin/phpmyadmin": {
+   "src": "A web interface for MySQL and MariaDB",
+   "zh": "MySQL 和 MariaDB 的 Web 界面"
+  },
+  "opencart/opencart": {
+   "src": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
+   "zh": "一个免费的购物车系统。OpenCart 是一个基于 PHP 的开源在线电子商务解决方案。"
   }
  }
 }
