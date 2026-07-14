@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-13T13:33:36.233Z",
+ "updatedAt": "2026-07-14T03:29:43.625Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -2478,8 +2478,8 @@
    "zh": "一个跨平台的 OpenGL 终端模拟器。"
   },
   "openinterpreter/openinterpreter": {
-   "src": "A lightweight coding agent for open models like Deepseek, Kimi, and Qwen",
-   "zh": "一个轻量级编码代理，适用于 Deepseek、Kimi 和 Qwen 等开放模型。"
+   "src": "A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi",
+   "zh": "一个轻量级编码代理，针对 GLM、Deepseek 和 Kimi 等开放模型进行了优化"
   },
   "rust-lang/rustlings": {
    "src": ":crab: Small exercises to get you used to reading and writing Rust code!",
@@ -6652,6 +6652,10 @@
   "opencart/opencart": {
    "src": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
    "zh": "一个免费的购物车系统。OpenCart 是一个基于 PHP 的开源在线电子商务解决方案。"
+  },
+  "erincatto/box3d": {
+   "src": "Box3D is a 3D physics engine for games",
+   "zh": "Box3D 是一个用于游戏的 3D 物理引擎"
   }
  }
 }
