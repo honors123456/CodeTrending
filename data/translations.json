@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-14T06:26:36.302Z",
+ "updatedAt": "2026-07-14T12:24:55.392Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -354,8 +354,8 @@
    "zh": "AI 代理治理工具包 - 政策执行、零信任身份、执行沙箱和自主 AI 代理的可靠性工程。涵盖 10/10 OWASP 代理顶级 10。"
   },
   "Alishahryar1/free-claude-code": {
-   "src": "Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
-   "zh": "在终端、VSCode 扩展和 Discord 中免费使用 claude code、codex 或 pi，类似于 OpenClaw（支持语音）"
+   "src": "Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)",
+   "zh": "从终端、IDE 或手机免费使用 Claude Code、Codex 或 Pi，类似于支持语音的 OpenClaw"
   },
   "NVlabs/ProtoMotions": {
    "src": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
@@ -3442,8 +3442,8 @@
    "zh": "一个免费的、自托管的新闻聚合器……"
   },
   "cachethq/cachet": {
-   "src": "🚦 Cachet, the open-source, self-hosted status page system.",
-   "zh": "🚦 Cachet，开源的自托管状态页面系统。"
+   "src": "🚦 Cachet, the open source, self-hosted status page system.",
+   "zh": "🚦 Cachet，一个开源的自托管状态页面系统。"
   },
   "erusev/parsedown": {
    "src": "Better Markdown Parser in PHP",
@@ -5150,8 +5150,8 @@
    "zh": "本地开源 AI 应用程序构建器，面向高级用户 ✨ v0 / Lovable / Replit / Bolt 替代品 🌟 如果您喜欢，请给个星！"
   },
   "SigNoz/signoz": {
-   "src": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool",
-   "zh": "SigNoz 是一个原生于 OpenTelemetry 的开源可观察性平台，具有日志、跟踪和指标的单一应用程序。是 DataDog、NewRelic 等的开源替代品。🔥 🖥。👉 开源应用性能监控 (APM) 和可观察性工具"
+   "src": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
+   "zh": "SigNoz 是一个开源的、原生 OpenTelemetry 的可观察性平台，适用于您的团队及其 AI 代理。通过 APM、分布式追踪、日志管理、基础设施监控等功能，在一个工具中获取日志、指标和追踪。结合 SigNoz MCP 和原生 AI 伙伴（在 SigNoz Cloud 中），帮助您构建更具弹性的应用。"
   },
   "browseros-ai/BrowserOS": {
    "src": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
@@ -5394,8 +5394,8 @@
    "zh": "MCP 服务器的视觉测试工具"
   },
   "777genius/agent-teams-ai": {
-   "src": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/Grok/GitHub Copilot/Cursor/Kiro/Z.AI/MiniMax/Kimi/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
-   "zh": "你是老板，代理是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/Grok/GitHub Copilot/Cursor/Kiro/Z.AI/MiniMax/Kimi/OpenCode（200+ 模型，75+ LLM 提供者，免费模型无需认证）。与多个团队一起建立你的 AI 公司。"
+   "src": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
+   "zh": "您是老板，代理是您的团队。他们独立处理任务，相互消息沟通，审查彼此的工作。您只需观察看板并给出高层指令。Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi（200+ 模型，75+ LLM 提供者，免费模型无需认证）。与多个团队一起构建您的 AI 公司。"
   },
   "twentyhq/twenty": {
    "src": "The open alternative to Salesforce, designed for AI.",
@@ -6656,6 +6656,294 @@
   "erincatto/box3d": {
    "src": "Box3D is a 3D physics engine for games",
    "zh": "Box3D 是一个用于游戏的 3D 物理引擎"
+  },
+  "songquanpeng/one-api": {
+   "src": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+   "zh": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI."
+  },
+  "kangarooking/cangjie-skill": {
+   "src": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+   "zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
+  },
+  "chenyme/grok2api": {
+   "src": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+   "zh": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关"
+  },
+  "metersphere/metersphere": {
+   "src": "MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。",
+   "zh": "MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。"
+  },
+  "Justsenger/ExHyperV": {
+   "src": "The Excalibur of Hyper-V / Hyper-V 神器",
+   "zh": "The Excalibur of Hyper-V / Hyper-V 神器"
+  },
+  "HuangZhuoRui/LocationSpoofer": {
+   "src": "一款虚拟定位软件，功能单一，纯定位，需要root以及Lsposed。",
+   "zh": "一款虚拟定位软件，功能单一，纯定位，需要root以及Lsposed。"
+  },
+  "rpamis/comet": {
+   "src": "Comet: agent skill harness for turning ideas into evaluated workflows",
+   "zh": "Comet：将创意转化为评估工作流的代理技能工具。"
+  },
+  "MarSeventh/CloudFlare-ImgBed": {
+   "src": "🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.",
+   "zh": "🏖️ 一个基于 Cloudflare 的无服务器开源文件托管解决方案。支持图像托管、安全文件存储和个人云驱动功能。"
+  },
+  "cactus-compute/needle": {
+   "src": "26m function call model that runs on incredibly small devices",
+   "zh": "26m 函数调用模型，运行在极小的设备上。"
+  },
+  "PrimeIntellect-ai/verifiers": {
+   "src": "Our library for RL environments + evals",
+   "zh": "我们的 RL 环境 + 评估库。"
+  },
+  "Arindam200/awesome-ai-apps": {
+   "src": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+   "zh": "一个展示 RAG、代理、工作流和其他 AI 用例的项目集合。"
+  },
+  "NVlabs/FoundationPose": {
+   "src": "[CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects",
+   "zh": "[CVPR 2024 亮点] FoundationPose：新物体的统一 6D 姿态估计和跟踪。"
+  },
+  "PostHog/posthog": {
+   "src": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+   "zh": "🦔 PostHog 是一个一体化开发者平台，用于构建成功的产品。我们提供产品分析、网络分析、会话重放、错误跟踪、功能标志、实验、调查、数据仓库、CDP 和 AI 产品助手，帮助调试代码、加快功能发布，并将所有使用和客户数据集中在一个堆栈中。"
+  },
+  "google/skills": {
+   "src": "Agent Skills for Google products and technologies",
+   "zh": "Google 产品和技术的代理技能。"
+  },
+  "AIEraDev/Clypra": {
+   "src": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+   "zh": "一个使用 Tauri、React 和 TypeScript 构建的现代视频编辑器。专注于构建免费功能的高级 capcut 功能。"
+  },
+  "HenryNdubuaku/maths-cs-ai-compendium": {
+   "src": "Become a cracked AI/ML Research Engineer",
+   "zh": "成为一名优秀的 AI/ML 研究工程师。"
+  },
+  "millionco/react-doctor": {
+   "src": "Your agent writes bad React. This catches it",
+   "zh": "您的代理写了糟糕的 React。这会捕捉到它。"
+  },
+  "mksglu/context-mode": {
+   "src": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+   "zh": "针对 AI 编码代理的上下文窗口优化。沙盒工具输出（减少 98%），持久化会话内存，并通过 MCP + hooks 强制在 17 个平台之间路由。"
+  },
+  "Fission-AI/OpenSpec": {
+   "src": "Spec-driven development (SDD) for AI coding assistants.",
+   "zh": "针对 AI 编码助手的规范驱动开发（SDD）。"
+  },
+  "stripe/ai": {
+   "src": "One-stop shop for building AI-powered products and businesses with Stripe.",
+   "zh": "一站式商店，用于构建基于 AI 的产品和业务，支持 Stripe。"
+  },
+  "zts212653/clowder-ai": {
+   "src": "Build AI teams, not just agents. Hard rails, soft power, shared mission.",
+   "zh": "构建 AI 团队，而不仅仅是代理。硬约束，软权力，共同使命。"
+  },
+  "AdguardTeam/AdGuardHome": {
+   "src": "Network-wide ads & trackers blocking DNS server",
+   "zh": "网络范围内的广告和跟踪器阻止 DNS 服务器。"
+  },
+  "microsoft/agent-framework-go": {
+   "src": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.",
+   "zh": "一个用于构建、编排和部署 AI 代理和多代理工作流的框架，支持 Go。"
+  },
+  "dapr/dapr": {
+   "src": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+   "zh": "Dapr 是一个可移植的运行时，用于在云和边缘构建分布式应用，结合事件驱动架构与工作流编排。"
+  },
+  "vllm-project/semantic-router": {
+   "src": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+   "zh": "高效异构 LLM 推理的智能混合模型路由器。"
+  },
+  "chenhg5/cc-connect": {
+   "src": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+   "zh": "将本地 AI 编码代理（Claude Code、Cursor、Gemini CLI、Codex）桥接到消息平台（飞书、钉钉、Slack、Telegram、Discord、LINE、微信工作）。随时随地与您的 AI 开发助手聊天——大多数平台不需要公共 IP。"
+  },
+  "kubernetes/autoscaler": {
+   "src": "Autoscaling components for Kubernetes",
+   "zh": "Kubernetes 的自动扩展组件。"
+  },
+  "kserve/kserve": {
+   "src": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+   "zh": "标准化的分布式生成和预测 AI 推理平台，支持在 Kubernetes 上的可扩展、多框架部署。"
+  },
+  "kubeflow/trainer": {
+   "src": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+   "zh": "Kubernetes 上的分布式 AI 模型训练和 LLM 微调。"
+  },
+  "kgateway-dev/kgateway": {
+   "src": "The Cloud-Native API Gateway and AI Gateway",
+   "zh": "云原生 API 网关和 AI 网关。"
+  },
+  "jackwener/wx-cli": {
+   "src": "WeChat local data CLI with daemon architecture",
+   "zh": "具有守护进程架构的微信本地数据 CLI。"
+  },
+  "agentgateway/agentgateway": {
+   "src": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+   "zh": "下一代代理代理，用于 AI 代理和 MCP 服务器。"
+  },
+  "conaticus/FileExplorer": {
+   "src": "Fast file explorer written with Tauri and React.",
+   "zh": "使用 Tauri 和 React 编写的快速文件浏览器。"
+  },
+  "ankitects/anki": {
+   "src": "Anki is a smart spaced repetition flashcard program",
+   "zh": "Anki 是一个智能间隔重复的闪卡程序。"
+  },
+  "MeteorDevelopment/meteor-client": {
+   "src": "Based Minecraft utility mod.",
+   "zh": "基于 Minecraft 的实用工具模组。"
+  },
+  "apache/beam": {
+   "src": "Apache Beam is a unified programming model for Batch and Streaming data processing.",
+   "zh": "Apache Beam 是一个用于批处理和流处理数据的统一编程模型。"
+  },
+  "StarRocks/starrocks": {
+   "src": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+   "zh": "世界上最快的开放查询引擎，支持数据湖和数据湖屋上的亚秒级分析。StarRocks 提供几乎支持任何场景的灵活性，为多维分析、实时分析和临时查询提供最佳性能。一个 Linux 基金会项目。"
+  },
+  "apache/doris": {
+   "src": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+   "zh": "Apache Doris 是一个用于 AI 代理的实时分析和混合搜索数据库。"
+  },
+  "sdatkinson/NeuralAmpModelerCore": {
+   "src": "Core DSP library for NAM plugins",
+   "zh": "NAM 插件的核心 DSP 库。"
+  },
+  "ROCm/rocm-systems": {
+   "src": "super repo for rocm systems projects",
+   "zh": "ROCm 系统项目的超级仓库。"
+  },
+  "cactus-compute/cactus": {
+   "src": "Low-latency AI engine for mobile devices & wearables",
+   "zh": "低延迟 AI 引擎，适用于移动设备和可穿戴设备。"
+  },
+  "Fincept-Corporation/FinceptTerminal": {
+   "src": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+   "zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在为用户友好的环境中的互动探索和数据驱动决策提供支持。"
+  },
+  "ZLMediaKit/ZLMediaKit": {
+   "src": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
+   "zh": "基于 C++11 的 WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN 服务器和客户端框架"
+  },
+  "throneproj/Throne": {
+   "src": "Cross-platform GUI proxy utility (Empowered by sing-box)",
+   "zh": "跨平台 GUI 代理工具（由 sing-box 提供支持）"
+  },
+  "geode-sdk/geode": {
+   "src": "The ultimate Geometry Dash modding framework",
+   "zh": "终极 Geometry Dash 修改框架"
+  },
+  "UZ-SLAMLab/ORB_SLAM3": {
+   "src": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+   "zh": "ORB-SLAM3：一个准确的开源视觉、视觉惯性和多地图 SLAM 库"
+  },
+  "gem5/gem5": {
+   "src": "The official repository for the gem5 computer-system architecture simulator.",
+   "zh": "gem5 计算机系统架构模拟器的官方仓库。"
+  },
+  "hyperfield/ai-file-sorter": {
+   "src": "Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.",
+   "zh": "跨平台桌面应用程序，用于内容感知的文件组织和重命名。支持本地和远程 LLM、基于预览的工作流程和完全用户控制的更改。"
+  },
+  "LANDrop/LANDrop": {
+   "src": "Drop any files to any devices on your LAN.",
+   "zh": "将任何文件拖放到您局域网中的任何设备上。"
+  },
+  "WasmEdge/WasmEdge": {
+   "src": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+   "zh": "WasmEdge 是一个轻量级、高性能和可扩展的 WebAssembly 运行时，适用于云原生、边缘和去中心化应用程序。它支持无服务器应用、嵌入式函数、微服务、智能合约和物联网设备。"
+  },
+  "lz4/lz4": {
+   "src": "Extremely Fast Compression algorithm",
+   "zh": "极快的压缩算法"
+  },
+  "bkaradzic/bgfx": {
+   "src": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+   "zh": "跨平台、图形 API 无关的“自带引擎/框架”风格渲染库。"
+  },
+  "henrypp/memreduct": {
+   "src": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
+   "zh": "轻量级实时内存管理应用程序，用于监控和清理计算机上的系统内存。"
+  },
+  "theMackabu/ant": {
+   "src": "javascript for 🐜's, a tiny runtime with big ambitions",
+   "zh": "javascript for 🐜's，一个小型运行时，雄心勃勃"
+  },
+  "microsoft/Windows-driver-samples": {
+   "src": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+   "zh": "该仓库包含为 Microsoft Visual Studio 和 Windows 驱动程序工具包（WDK）准备的驱动程序示例。它包含通用 Windows 驱动程序和仅限桌面的驱动程序示例。"
+  },
+  "LibreDWG/libredwg": {
+   "src": "Official mirror of libredwg. With CI hooks and nightly releases. PR's ok",
+   "zh": "libredwg 的官方镜像。带有 CI 钩子和夜间发布。PR 可接受"
+  },
+  "hrydgard/ppsspp": {
+   "src": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.",
+   "zh": "一个适用于 Android、Windows、Mac、Linux 和 iOS 的 PSP 模拟器，使用 C++ 编写。想要贡献？请加入我们的 Discord：https://discord.gg/5NJB6dD 或直接发送拉取请求/问题。"
+  },
+  "dotnet/eShop": {
+   "src": "A reference .NET application implementing an eCommerce site",
+   "zh": "一个实现电子商务网站的参考 .NET 应用程序"
+  },
+  "mcp-servers-for-revit/mcp-servers-for-revit": {
+   "src": "🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project",
+   "zh": "🔥💧🤖 Sparx 分支的 mcp-servers-for-revit/revit-mcp 项目"
+  },
+  "aelassas/servy": {
+   "src": "Professional-Grade Windows Service Wrapper with Real-Time Monitoring",
+   "zh": "专业级 Windows 服务包装器，具有实时监控功能"
+  },
+  "FakeFishGames/Barotrauma": {
+   "src": "A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.",
+   "zh": "一款发生在潜艇中的 2D 在线多人游戏，潜艇穿越木星的卫星欧罗巴的冰冷深处。"
+  },
+  "tylercamp/palcalc": {
+   "src": "Comprehensive breeding solver for Palworld",
+   "zh": "Palworld 的综合繁殖求解器"
+  },
+  "XayahSuSuSu/Android-DataBackup": {
+   "src": "DataBackup for Android 7.0+",
+   "zh": "Android 7.0+ 的数据备份"
+  },
+  "embabel/embabel-agent": {
+   "src": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+   "zh": "JVM 的代理框架。发音为 Em-BAY-bel /ɛmˈbeɪbəl/"
+  },
+  "detekt/detekt": {
+   "src": "Static code analysis for Kotlin",
+   "zh": "Kotlin 的静态代码分析"
+  },
+  "automazeio/vibeproxy": {
+   "src": "Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed",
+   "zh": "原生 macOS 菜单栏应用程序，用于与 AI 编码工具一起使用您的 Claude Code 和 ChatGPT 订阅 - 无需 API 密钥"
+  },
+  "gnuboard/g7": {
+   "src": "그누보드7",
+   "zh": "그누보드7"
+  },
+  "YOURLS/YOURLS": {
+   "src": "🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP",
+   "zh": "🔗 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 标准，自托管，强大且可定制的 PHP URL 短链接生成器"
+  },
+  "aws/aws-sdk-php": {
+   "src": "Official repository of the AWS SDK for PHP (@awsforphp)",
+   "zh": "AWS SDK for PHP 的官方仓库（@awsforphp）"
+  },
+  "DataDog/dd-trace-php": {
+   "src": "Datadog PHP Clients",
+   "zh": "Datadog PHP 客户端"
+  },
+  "pestphp/pest": {
+   "src": "Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
+   "zh": "Pest 是一个优雅的 PHP 测试框架，专注于简洁，精心设计以恢复 PHP 测试的乐趣。"
+  },
+  "relaticle/relaticle": {
+   "src": "Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament",
+   "zh": "开源 CRM，支持原生 AI 代理。30 个 MCP 工具，REST API，自托管。使用 Laravel 和 Filament 构建。"
   }
  }
 }

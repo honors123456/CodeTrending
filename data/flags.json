@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-14T06:26:40.953Z",
+ "updatedAt": "2026-07-14T12:25:23.414Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1112,6 +1112,48 @@
    "flaggedAt": "2026-07-14T06:26:40.953Z",
    "zScore": 3,
    "newAccountShare": 0.333,
+   "confirmed": false
+  },
+  {
+   "repo": "BuilderIO/agent-native",
+   "flaggedAt": "2026-07-14T12:24:59.435Z",
+   "zScore": 5.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "pocketbase/pocketbase",
+   "flaggedAt": "2026-07-14T12:25:04.437Z",
+   "zScore": 8.5,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "microsoft/markitdown",
+   "flaggedAt": "2026-07-14T12:25:10.232Z",
+   "zScore": 5.4,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "duckdb/duckdb",
+   "flaggedAt": "2026-07-14T12:25:15.494Z",
+   "zScore": 7.6,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "nikitabobko/AeroSpace",
+   "flaggedAt": "2026-07-14T12:25:19.513Z",
+   "zScore": 6.9,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "browseros-ai/BrowserOS",
+   "flaggedAt": "2026-07-14T12:25:23.413Z",
+   "zScore": 3.7,
+   "newAccountShare": 0,
    "confirmed": false
   }
  ]
