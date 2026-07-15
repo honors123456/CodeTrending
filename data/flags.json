@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-15T06:29:11.003Z",
+ "updatedAt": "2026-07-15T12:29:08.769Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1167,6 +1167,55 @@
    "repo": "juspay/hyperswitch",
    "flaggedAt": "2026-07-15T06:29:11.003Z",
    "zScore": 8.8,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "tt-a1i/archify",
+   "flaggedAt": "2026-07-15T12:28:37.491Z",
+   "zScore": 4.3,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "Anil-matcha/Open-Generative-AI",
+   "flaggedAt": "2026-07-15T12:28:41.629Z",
+   "zScore": 3.8,
+   "newAccountShare": 0.1,
+   "confirmed": false
+  },
+  {
+   "repo": "practical-tutorials/project-based-learning",
+   "flaggedAt": "2026-07-15T12:28:51.704Z",
+   "zScore": 4,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "ggbond268/MacTools",
+   "flaggedAt": "2026-07-15T12:28:55.434Z",
+   "zScore": 4.5,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "SagerNet/sing-box",
+   "flaggedAt": "2026-07-15T12:28:59.764Z",
+   "zScore": 4.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "deskflow/deskflow",
+   "flaggedAt": "2026-07-15T12:29:04.226Z",
+   "zScore": 11,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "supertone-inc/supertonic",
+   "flaggedAt": "2026-07-15T12:29:08.769Z",
+   "zScore": 8.3,
    "newAccountShare": 0,
    "confirmed": false
   }

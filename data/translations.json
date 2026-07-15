@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-15T06:29:06.593Z",
+ "updatedAt": "2026-07-15T12:28:32.883Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -142,8 +142,8 @@
    "zh": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）"
   },
   "jeecgboot/JeecgBoot": {
-   "src": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-   "zh": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。"
+   "src": "【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+   "zh": "【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。"
   },
   "halo-dev/halo": {
    "src": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
@@ -5966,8 +5966,8 @@
    "zh": "一个开源的 Notebook LM 实现，具有更多灵活性和功能。"
   },
   "pocket-id/pocket-id": {
-   "src": "An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
-   "zh": "一个易于使用的 OpenID Connect Certified™ 和 OAuth 2.0 提供者，让用户可以使用密码钥匙登录到您的应用程序。"
+   "src": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+   "zh": "最用户友好的 OpenID Connect Certified™ 和 OAuth 2.0 提供者，让用户可以使用密码钥匙登录您的应用程序。"
   },
   "docker/compose": {
    "src": "Define and run multi-container applications with Docker",
@@ -6944,6 +6944,282 @@
   "relaticle/relaticle": {
    "src": "Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament",
    "zh": "开源 CRM，支持原生 AI 代理。30 个 MCP 工具，REST API，自托管。使用 Laravel 和 Filament 构建。"
+  },
+  "FB208/OpenBidKit_Yibiao": {
+   "src": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用",
+   "zh": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用"
+  },
+  "1c7/chinese-independent-developer": {
+   "src": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+   "zh": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  "datawhalechina/hello-agents": {
+   "src": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+   "zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+  },
+  "zhinianboke/xianyu-auto-reply": {
+   "src": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。",
+   "zh": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。"
+  },
+  "nageoffer/ragent": {
+   "src": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+   "zh": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。"
+  },
+  "odysseus-dev/odysseus": {
+   "src": "Self-hosted AI workspace.",
+   "zh": "自托管的 AI 工作区。"
+  },
+  "sharpemu/sharpemu": {
+   "src": "An experimental PlayStation 5 emulator project.",
+   "zh": "一个实验性的 PlayStation 5 模拟器项目。"
+  },
+  "gnmyt/Nexterm": {
+   "src": "The open source server management software for SSH, VNC & RDP",
+   "zh": "用于 SSH、VNC 和 RDP 的开源服务器管理软件。"
+  },
+  "WordPress/gutenberg": {
+   "src": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+   "zh": "WordPress 及其他的块编辑器项目。插件可从官方仓库获取。"
+  },
+  "NomaDamas/k-skill": {
+   "src": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...",
+   "zh": "为韩国人提供的技能汇总 - SRT、KTX、KakaoTalk、汉字与计算机、天气、PM2.5、法律、股票信息、朝鲜王朝实录、KBO、K-联赛、LCK、专利搜索、Toss 证券、拼写检查、二手车价格、Coupang、Naver 博客、Daiso、Olive Young、快递单查询等..."
+  },
+  "jgraph/drawio": {
+   "src": "draw.io is a JavaScript, client-side editor for general diagramming.",
+   "zh": "draw.io 是一个用于通用图表的 JavaScript 客户端编辑器。"
+  },
+  "HKUDS/nanobot": {
+   "src": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+   "zh": "轻量级开源 AI 代理，用于您的工具、聊天和工作流。"
+  },
+  "snap-stanford/Biomni": {
+   "src": "Biomni: a general-purpose biomedical AI agent",
+   "zh": "Biomni：通用生物医学 AI 代理。"
+  },
+  "PrimeIntellect-ai/prime-rl": {
+   "src": "Agentic RL Training at Scale",
+   "zh": "大规模的 Agentic RL 训练。"
+  },
+  "triton-inference-server/server": {
+   "src": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+   "zh": "Triton 推理服务器提供优化的云和边缘推理解决方案。"
+  },
+  "apache/ossie": {
+   "src": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+   "zh": "Apache Ossie，行业范围内的规范工作，旨在标准化我们在分析、AI 和 BI 平台之间交换语义元数据的方式，提供供应商中立的单一语义数据真相来源。"
+  },
+  "debpalash/OmniVoice-Studio": {
+   "src": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
+   "zh": "开源的 ElevenLabs 替代品，用于本地语音克隆、设计、创建、配音和听写桌面应用程序。"
+  },
+  "raroque/boop-agent": {
+   "src": "iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations.",
+   "zh": "iMessage 个人代理：选择 Claude Agent SDK（Claude Code）或 Codex 应用服务器运行时（Codex/ChatGPT），具有记忆、子代理、自动化和集成。"
+  },
+  "mcp-use/mcp-use": {
+   "src": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+   "zh": "用于开发 ChatGPT / Claude 的 MCP 应用程序和 AI 代理的全栈 MCP 框架。"
+  },
+  "vuejs/pinia": {
+   "src": "🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
+   "zh": "🍍 直观、类型安全、轻量灵活的 Vue 存储，使用组合 API 并支持 DevTools。"
+  },
+  "kubernetes-sigs/karpenter": {
+   "src": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+   "zh": "Karpenter 是一个为灵活性、性能和简单性而构建的 Kubernetes 节点自动扩展器。"
+  },
+  "ankitpokhrel/jira-cli": {
+   "src": "🔥 Feature-rich interactive Jira command line.",
+   "zh": "🔥 功能丰富的交互式 Jira 命令行。"
+  },
+  "siglens/siglens": {
+   "src": "100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%",
+   "zh": "比 Splunk 高效 100 倍的日志管理 :rocket: 将您的可观察性成本降低 90%。"
+  },
+  "kyverno/kyverno": {
+   "src": "Unified Policy as Code",
+   "zh": "统一的政策作为代码。"
+  },
+  "mk6i/open-oscar-server": {
+   "src": "Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)",
+   "zh": "自托管的即时消息服务器，兼容经典的 AIM 和 ICQ 客户端，使用 golang 编写。（独立开发，不隶属于或得到 AOL 认可）"
+  },
+  "Project-HAMi/HAMi": {
+   "src": "Heterogeneous GPU Sharing on Kubernetes",
+   "zh": "Kubernetes 上的异构 GPU 共享。"
+  },
+  "trufflesecurity/trufflehog": {
+   "src": "Find, verify, and analyze leaked credentials",
+   "zh": "查找、验证和分析泄露的凭据。"
+  },
+  "lance-format/lance": {
+   "src": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+   "zh": "多模态 AI 的开放湖屋格式。用 2 行代码从 Parquet 转换，以实现 100 倍更快的随机访问、向量索引和数据版本控制。兼容 Pandas、DuckDB、Polars、Pyarrow 和 PyTorch，更多集成即将到来。"
+  },
+  "rust-lang/crates.io": {
+   "src": "The Rust package registry",
+   "zh": "Rust 包注册表。"
+  },
+  "xingkongliang/skills-manager": {
+   "src": "A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.",
+   "zh": "一个轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具的 AI 代理技能——Cursor、Claude Code、Codex、Copilot 等。"
+  },
+  "BoundaryML/baml": {
+   "src": "The programming language for agents",
+   "zh": "代理的编程语言。"
+  },
+  "dandavison/delta": {
+   "src": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
+   "zh": "用于 git、diff、grep、rg --json 和 blame 输出的语法高亮分页器。"
+  },
+  "RaoFoundation/subtensor": {
+   "src": "Bittensor Blockchain Layer",
+   "zh": "Bittensor 区块链层。"
+  },
+  "cube-js/cube": {
+   "src": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
+   "zh": "📊 Cube Core 是开源的 AI、BI 和嵌入式分析的语义层。"
+  },
+  "apache/pinot": {
+   "src": "Apache Pinot - A realtime distributed OLAP datastore",
+   "zh": "Apache Pinot - 实时分布式 OLAP 数据存储。"
+  },
+  "apache/hbase": {
+   "src": "Apache HBase",
+   "zh": "Apache HBase。"
+  },
+  "provectus/kafka-ui": {
+   "src": "Open-Source Web UI for Apache Kafka Management",
+   "zh": "Apache Kafka 管理的开源 Web UI。"
+  },
+  "OpenRefine/OpenRefine": {
+   "src": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+   "zh": "OpenRefine 是一个免费的开源强大工具，用于处理混乱数据并改善数据。"
+  },
+  "apache/nifi": {
+   "src": "Apache NiFi",
+   "zh": "Apache NiFi。"
+  },
+  "apache/tika": {
+   "src": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
+   "zh": "Apache Tika 工具包可以检测和提取来自超过一千种不同文件类型（如 PPT、XLS 和 PDF）的元数据和文本。"
+  },
+  "xandergos/terrain-diffusion-mc": {
+   "src": "Procedural terrain generation with diffusion models (in Minecraft)",
+   "zh": "使用扩散模型的程序化地形生成（在 Minecraft 中）。"
+  },
+  "YimMenu/YimMenuV2": {
+   "src": "Experimental menu for GTA 5: Enhanced",
+   "zh": "GTA 5 的实验性菜单：增强版。"
+  },
+  "openvinotoolkit/openvino": {
+   "src": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "zh": "OpenVINO™ 是一个用于优化和部署 AI 推理的开源工具包。"
+  },
+  "Z3Prover/z3": {
+   "src": "The Z3 Theorem Prover",
+   "zh": "Z3 定理证明器。"
+  },
+  "NVIDIA-AI-Blueprints/video-search-and-summarization": {
+   "src": "The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+   "zh": "NVIDIA VSS Blueprint 是一套用于构建 GPU 加速视觉代理和 AI 驱动视频分析应用的参考架构。"
+  },
+  "k2-fsa/sherpa-onnx": {
+   "src": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+   "zh": "使用下一代 Kaldi 和 onnxruntime 进行离线的语音转文本、文本转语音、说话人分离、语音增强、源分离和 VAD。支持嵌入式系统、Android、iOS、HarmonyOS、Raspberry Pi、RISC-V、RK NPU、Axera NPU、Ascend NPU、x86_64 服务器、websocket 服务器/客户端，支持 12 种编程语言。"
+  },
+  "NVIDIA/cuda-samples": {
+   "src": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+   "zh": "为 CUDA 开发者提供的示例，展示 CUDA Toolkit 中的功能。"
+  },
+  "azerothcore/azerothcore-wotlk": {
+   "src": "Complete Open Source and Modular solution for MMO",
+   "zh": "完整的开源和模块化 MMO 解决方案。"
+  },
+  "facebookincubator/velox": {
+   "src": "A composable and fully extensible C++ execution engine library for data management systems.",
+   "zh": "一个可组合和完全可扩展的 C++ 执行引擎库，用于数据管理系统。"
+  },
+  "ArthurSonzogni/FTXUI": {
+   "src": ":computer: C++ Functional Terminal User Interface. :heart:",
+   "zh": ":computer: C++ 功能终端用户界面。:heart:"
+  },
+  "qualcomm-linux/kernel": {
+   "src": "Linux Kernel for QLI mainline",
+   "zh": "QLI 主线的 Linux 内核。"
+  },
+  "X11Libre/xserver": {
+   "src": "XLibre Xserver",
+   "zh": "XLibre Xserver。"
+  },
+  "FreeRTOS/FreeRTOS": {
+   "src": "'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.",
+   "zh": "'经典' FreeRTOS 发行版。最初是 FreeRTOS SourceForge SVN 仓库的 Git 克隆。子模块内核。"
+  },
+  "esnet/iperf": {
+   "src": "iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",
+   "zh": "iperf3：一个 TCP、UDP 和 SCTP 网络带宽测量工具。"
+  },
+  "dotnet/Open-XML-SDK": {
+   "src": "Open XML SDK by Microsoft",
+   "zh": "微软的 Open XML SDK。"
+  },
+  "fullstackhero/dotnet-starter-kit": {
+   "src": "Production Grade Cloud-Ready .NET 10 Starter Kit (Web API + React Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+   "zh": "生产级云就绪 .NET 10 启动包（Web API + React 客户端），支持多租户，干净/模块化架构，节省大约 200+ 开发小时！所有功能齐全。"
+  },
+  "microsoft/garnet": {
+   "src": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+   "zh": "Garnet 是微软研究院的一个远程缓存存储，提供强大的性能（吞吐量和延迟）、可扩展性、存储、恢复、集群分片、密钥迁移和复制功能。Garnet 可以与现有的 Redis 客户端一起使用。"
+  },
+  "dotnet/msbuild": {
+   "src": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
+   "zh": "微软构建引擎（MSBuild）是 .NET 和 Visual Studio 的构建平台。"
+  },
+  "velopack/velopack": {
+   "src": "Installer and automatic update framework for cross-platform desktop applications",
+   "zh": "跨平台桌面应用程序的安装程序和自动更新框架。"
+  },
+  "JingMatrix/TEESimulator": {
+   "src": "Software simulation for Android hardware-backed key pairs with key attestation",
+   "zh": "用于 Android 硬件支持的密钥对的软件模拟，带有密钥证明。"
+  },
+  "CCBlueX/LiquidBounce": {
+   "src": "A free Minecraft hacked client (utility mod) for Fabric",
+   "zh": "一个免费的 Minecraft 黑客客户端（实用 mod），用于 Fabric。"
+  },
+  "Arturo254/OpenTune": {
+   "src": "Un cliente de YouTube Music con Material Design 3, para Android",
+   "zh": "一个具有 Material Design 3 的 YouTube Music 客户端，适用于 Android。"
+  },
+  "FossifyOrg/Messages": {
+   "src": "An easy and quick way of managing SMS and MMS messages without ads.",
+   "zh": "一种简单快捷的方式来管理 SMS 和 MMS 消息，无广告。"
+  },
+  "BarutSRB/OmniWM": {
+   "src": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+   "zh": "受 MacOS Niri 和 Hyprland 启发的平铺窗口管理器，经过开发者签名和认证（适合受管企业环境）。旨在实现平等和额外创新。"
+  },
+  "apple/swift-nio": {
+   "src": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+   "zh": "用于高性能协议服务器和客户端的事件驱动网络应用框架，非阻塞。"
+  },
+  "xtool-org/xtool": {
+   "src": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+   "zh": "跨平台 Xcode 替代品。在 Linux、Windows、macOS 上使用 SwiftPM 构建和部署 iOS 应用。"
+  },
+  "David-Crty/databasement": {
+   "src": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel support.",
+   "zh": "自托管的数据库备份管理器，带有网页 UI。调度、备份和恢复 MySQL、PostgreSQL、MariaDB、Microsoft SQL Server、MongoDB、SQLite 和 Redis 到 S3、SFTP 或本地存储。支持 SSH 隧道。"
+  },
+  "php/pie": {
+   "src": "🥧 The PHP Installer for Extensions",
+   "zh": "🥧 PHP 扩展安装程序。"
+  },
+  "Automattic/woocommerce-payments": {
+   "src": "Securely accept major credit and debit cards, and allow customers to pay you directly without leaving your WooCommerce store. View and manage transactions from one convenient place - your WordPress dashboard.",
+   "zh": "安全地接受主要信用卡和借记卡，允许客户直接在您的 WooCommerce 商店中付款。从一个方便的地方 - 您的 WordPress 仪表板查看和管理交易。"
   }
  }
 }
