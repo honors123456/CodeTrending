@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-15T12:29:08.769Z",
+ "updatedAt": "2026-07-16T03:38:12.751Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1216,6 +1216,13 @@
    "repo": "supertone-inc/supertonic",
    "flaggedAt": "2026-07-15T12:29:08.769Z",
    "zScore": 8.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "gastownhall/beads",
+   "flaggedAt": "2026-07-16T03:38:12.750Z",
+   "zScore": 6.1,
    "newAccountShare": 0,
    "confirmed": false
   }
