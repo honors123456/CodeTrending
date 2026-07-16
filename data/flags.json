@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T06:36:14.636Z",
+ "updatedAt": "2026-07-16T12:51:36.483Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1223,6 +1223,27 @@
    "repo": "gastownhall/beads",
    "flaggedAt": "2026-07-16T03:38:12.750Z",
    "zScore": 6.1,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "Alishahryar1/free-claude-code",
+   "flaggedAt": "2026-07-16T12:51:24.412Z",
+   "zScore": 5.1,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "TheAlgorithms/Python",
+   "flaggedAt": "2026-07-16T12:51:32.184Z",
+   "zScore": 3.2,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "minh-ton/reynard-browser",
+   "flaggedAt": "2026-07-16T12:51:36.483Z",
+   "zScore": 13.1,
    "newAccountShare": 0,
    "confirmed": false
   }
