@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T03:36:45.767Z",
+ "updatedAt": "2026-07-16T06:28:10.505Z",
  "entries": [
   {
    "repo": "usestrix/strix",
@@ -6599,7 +6599,7 @@
    "repo": "rectorphp/rector",
    "language": "php",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-07-15"
+   "lastSeenOnTrending": "2026-07-16"
   },
   {
    "repo": "jellyfin/jellyfin-web",
@@ -10949,6 +10949,12 @@
    "repo": "odysseus-dev/odysseus",
    "language": "python",
    "firstSeen": "2026-07-15",
+   "lastSeenOnTrending": "2026-07-16"
+  },
+  {
+   "repo": "sickn33/agentic-awesome-skills",
+   "language": "python",
+   "firstSeen": "2026-07-16",
    "lastSeenOnTrending": "2026-07-16"
   }
  ]

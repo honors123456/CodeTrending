@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T03:38:08.963Z",
+ "updatedAt": "2026-07-16T06:36:14.497Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -7220,6 +7220,10 @@
   "Automattic/woocommerce-payments": {
    "src": "Securely accept major credit and debit cards, and allow customers to pay you directly without leaving your WooCommerce store. View and manage transactions from one convenient place - your WordPress dashboard.",
    "zh": "安全地接受主要信用卡和借记卡，允许客户直接在您的 WooCommerce 商店中付款。从一个方便的地方 - 您的 WordPress 仪表板查看和管理交易。"
+  },
+  "sickn33/agentic-awesome-skills": {
+   "src": "Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
+   "zh": "可安装的 GitHub 库，包含 1,900 多个适用于 Claude Code、Cursor、Codex CLI、Autohand Code、Gemini CLI、Antigravity 等的代理技能。包括专用插件、安装程序 CLI、捆绑包、工作流以及官方/社区技能集合。"
   }
  }
 }
