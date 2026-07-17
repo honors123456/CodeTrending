@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T06:29:27.001Z",
+ "updatedAt": "2026-07-17T12:23:40.235Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -6506,8 +6506,8 @@
    "zh": "🦎 一个在多个服务器上构建和部署软件的工具 🦎"
   },
   "tursodatabase/turso": {
-   "src": "A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.",
-   "zh": "一个用 Rust 编写的 SQL 数据库：兼容 SQLite，现在支持 Postgres。数据库的 LLVM。"
+   "src": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+   "zh": "一个用 Rust 编写的 SQL 数据库：兼容 SQLite，现在也支持 Postgres（实验性）。数据库的 LLVM。"
   },
   "cocoindex-io/cocoindex": {
    "src": "Incremental engine for long horizon agents 🌟 Star if you like it!",
@@ -7488,6 +7488,258 @@
   "lightphone/light-sdk": {
    "src": "Scaffold for building custom tools for the Light Phone III",
    "zh": "为 Light Phone III 构建自定义工具的脚手架。"
+  },
+  "ZCShou/GoGoGo": {
+   "src": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+   "zh": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆"
+  },
+  "ximeiorg/Xime": {
+   "src": "我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。",
+   "zh": "我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。"
+  },
+  "poteto/hiring-without-whiteboards": {
+   "src": "⭐️  Companies that don't have a broken hiring process",
+   "zh": "⭐️ 没有破损招聘流程的公司"
+  },
+  "sohzm/cheating-daddy": {
+   "src": "a free and opensource app that lets you gain an unfair advantage",
+   "zh": "一个免费的开源应用，让你获得不公平的优势"
+  },
+  "microsoft/monaco-editor": {
+   "src": "A browser based code editor",
+   "zh": "一个基于浏览器的代码编辑器"
+  },
+  "nodejs/undici": {
+   "src": "An HTTP/1.1 client, written from scratch for Node.js",
+   "zh": "一个从头开始为 Node.js 编写的 HTTP/1.1 客户端"
+  },
+  "RyanCodrai/turbovec": {
+   "src": "A vector index built on TurboQuant, written in Rust with Python bindings",
+   "zh": "一个基于 TurboQuant 的向量索引，用 Rust 编写，带有 Python 绑定"
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+   "src": "Learn it. Build it. Ship it for others.",
+   "zh": "学习它。构建它。为他人发布。"
+  },
+  "ROCm/TheRock": {
+   "src": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
+   "zh": "HIP 环境和 ROCm 工具包 - 一个轻量级的开源构建系统，用于 HIP 和 ROCm"
+  },
+  "ccxt/ccxt": {
+   "src": "A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java",
+   "zh": "一个加密货币交易 API，支持超过 100 种加密货币和预测交易，使用 JavaScript / TypeScript / Python / C# / PHP / Go / Java 编写"
+  },
+  "fingerprintjs/fingerprintjs": {
+   "src": "The most advanced free and open-source browser fingerprinting library",
+   "zh": "最先进的免费开源浏览器指纹识别库"
+  },
+  "sourcebot-dev/sourcebot": {
+   "src": "Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.",
+   "zh": "Sourcebot 是一个自托管工具，帮助人类和代理理解你的代码库。"
+  },
+  "vercel-labs/just-bash": {
+   "src": "Bash for Agents",
+   "zh": "代理的 Bash"
+  },
+  "foru17/neko-master": {
+   "src": "A modern and elegant dashboard for network traffic visualization and analysis.",
+   "zh": "一个现代优雅的网络流量可视化和分析仪表板。"
+  },
+  "firecrawl/open-lovable": {
+   "src": "🔥 Clone and recreate any website as a modern React app in seconds",
+   "zh": "🔥 在几秒钟内克隆并重建任何网站为现代 React 应用"
+  },
+  "fleetdm/fleet": {
+   "src": "Open device management",
+   "zh": "开放设备管理"
+  },
+  "hashicorp/terraform-provider-aws": {
+   "src": "The AWS Provider enables Terraform to manage AWS resources.",
+   "zh": "AWS 提供程序使 Terraform 能够管理 AWS 资源。"
+  },
+  "dstotijn/hetty": {
+   "src": "An HTTP toolkit for security research.",
+   "zh": "一个用于安全研究的 HTTP 工具包。"
+  },
+  "agent-substrate/substrate": {
+   "src": "Agent Substrate: the core system",
+   "zh": "代理基底：核心系统"
+  },
+  "safing/portmaster": {
+   "src": "🏔 Love Freedom - ❌ Block Mass Surveillance",
+   "zh": "🏔 爱自由 - ❌ 阻止大规模监控"
+  },
+  "NVIDIA/nvidia-container-toolkit": {
+   "src": "Build and run containers leveraging NVIDIA GPUs",
+   "zh": "构建和运行利用 NVIDIA GPU 的容器"
+  },
+  "superplanehq/superplane": {
+   "src": "The open source control plane for agentic engineering.",
+   "zh": "开源的代理工程控制平面。"
+  },
+  "zakirullin/files.md": {
+   "src": "🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly.",
+   "zh": "🌱 私密、安静的思考空间。简单的 .md 文件应用。AI 友好。"
+  },
+  "nats-io/nats-server": {
+   "src": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+   "zh": "高性能服务器用于 NATS.io，云和边缘原生消息系统。"
+  },
+  "higress-group/higress": {
+   "src": "🤖 AI Gateway | AI Native API Gateway",
+   "zh": "🤖 AI 网关 | AI 原生 API 网关"
+  },
+  "vectordotdev/vector": {
+   "src": "A high-performance observability data pipeline.",
+   "zh": "一个高性能的可观察性数据管道。"
+  },
+  "zaproxy/zaproxy": {
+   "src": "The ZAP by Checkmarx Core project",
+   "zh": "Checkmarx Core 项目的 ZAP"
+  },
+  "testcontainers/testcontainers-java": {
+   "src": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+   "zh": "Testcontainers 是一个支持 JUnit 测试的 Java 库，提供轻量级、一次性实例的常见数据库、Selenium 网络浏览器或任何可以在 Docker 容器中运行的东西。"
+  },
+  "OtterMind/Chat2DB": {
+   "src": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+   "zh": "AI 驱动的数据库工具和 SQL 客户端，最热门的 GUI 客户端，支持 MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse 等。"
+  },
+  "iflytek/astron-agent": {
+   "src": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+   "zh": "企业级、商业友好的代理工作流平台，用于构建下一代超级代理。"
+  },
+  "brave/brave-core": {
+   "src": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
+   "zh": "移动和桌面 Brave 浏览器的核心引擎。有关问题请访问 https://github.com/brave/brave-browser/issues"
+  },
+  "zeek/zeek": {
+   "src": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+   "zh": "Zeek 是一个强大的网络分析框架，与您可能知道的典型 IDS 大相径庭。"
+  },
+  "diasurgical/DevilutionX": {
+   "src": "Diablo build for modern operating systems",
+   "zh": "现代操作系统的 Diablo 构建"
+  },
+  "autowarefoundation/vision_pilot": {
+   "src": "Free and fully open-source L2 ADAS stack powered by End-to-End AI technology",
+   "zh": "由端到端 AI 技术驱动的免费完全开源 L2 ADAS 堆栈"
+  },
+  "keepassxreboot/keepassxc": {
+   "src": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+   "zh": "KeePassXC 是 Windows 应用程序“KeePass Password Safe”的跨平台社区驱动移植。"
+  },
+  "microsoft/onnxruntime": {
+   "src": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+   "zh": "ONNX Runtime：跨平台，高性能 ML 推理和训练加速器"
+  },
+  "Adaptix-Framework/AdaptixC2": {
+   "src": "AdaptixC2 is a highly modular advanced redteam toolkit",
+   "zh": "AdaptixC2 是一个高度模块化的先进红队工具包"
+  },
+  "CrispStrobe/CrispASR": {
+   "src": "C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more",
+   "zh": "C++ ggml 运行时中心，用于多语言 ASR 和 TTS 模型：Cohere Transcribe、Parakeet TDT、Voxtral、Canary 1B v2 等，以及通用强制对齐等"
+  },
+  "cocos/cocos-engine": {
+   "src": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+   "zh": "Cocos 通过 Cocos Creator 简化游戏创建和分发，这是一个免费的开源跨平台游戏引擎。赋能数百万开发者创建高性能、引人入胜的 2D/3D 游戏和即时网络娱乐。"
+  },
+  "lammps/lammps": {
+   "src": "Public development project of the LAMMPS MD software package",
+   "zh": "LAMMPS MD 软件包的公共开发项目"
+  },
+  "apache/nuttx": {
+   "src": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+   "zh": "Apache NuttX 是一个成熟的实时嵌入式操作系统（RTOS）"
+  },
+  "nanopb/nanopb": {
+   "src": "Protocol Buffers with small code size",
+   "zh": "小代码大小的 Protocol Buffers"
+  },
+  "ish-app/ish": {
+   "src": "Linux shell for iOS",
+   "zh": "iOS 的 Linux shell"
+  },
+  "OpenMathLib/OpenBLAS": {
+   "src": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+   "zh": "OpenBLAS 是基于 GotoBLAS2 1.13 BSD 版本的优化 BLAS 库。"
+  },
+  "analogdevicesinc/no-OS": {
+   "src": "Software drivers in C for systems without an operating system",
+   "zh": "用于没有操作系统的系统的 C 语言软件驱动程序"
+  },
+  "microsoft/WSL2-Linux-Kernel": {
+   "src": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+   "zh": "用于 Windows Subsystem for Linux 2 (WSL2) 的 Linux 内核源代码"
+  },
+  "floooh/chips": {
+   "src": "8-bit chip and system emulators in standalone C headers",
+   "zh": "独立 C 头文件中的 8 位芯片和系统仿真器"
+  },
+  "Perfare/Il2CppDumper": {
+   "src": "Unity il2cpp reverse engineer",
+   "zh": "Unity il2cpp 反向工程"
+  },
+  "TeamWheelWizard/WheelWizard": {
+   "src": "WheelWizard, Retro Rewind Launcher",
+   "zh": "WheelWizard，Retro Rewind Launcher"
+  },
+  "DavidObando/gsharp": {
+   "src": "GSharp Programming Language",
+   "zh": "GSharp 编程语言"
+  },
+  "JasperFx/wolverine": {
+   "src": "Supercharged .NET server side development!",
+   "zh": "超级充电的 .NET 服务器端开发！"
+  },
+  "termux/termux-x11": {
+   "src": "Termux X-server add-on.",
+   "zh": "Termux X-server 附加组件。"
+  },
+  "tristinbaker/IdleFantasy": {
+   "src": "Fantasy Inspired Idle Skilling Game",
+   "zh": "灵感来自幻想的闲置技能游戏"
+  },
+  "Nain57/Smart-AutoClicker": {
+   "src": "An open-source auto clicker on images for Android",
+   "zh": "一个开源的 Android 图像自动点击器"
+  },
+  "guardianproject/orbot-android": {
+   "src": "The Github home of Orbot: Tor on Android (Also available on gitlab!)",
+   "zh": "Orbot 的 GitHub 主页面：Android 上的 Tor（也可在 gitlab 上获取！）"
+  },
+  "anilbeesetti/nextplayer": {
+   "src": "An Android native video player",
+   "zh": "一个 Android 原生视频播放器"
+  },
+  "askimo-ai/askimo": {
+   "src": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support.",
+   "zh": "用于聊天、RAG、计划、MCP 工具和支持多供应商模型的代理的 AI 客户端。"
+  },
+  "ninxsoft/Mist": {
+   "src": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
+   "zh": "一个 Mac 工具，自动下载 macOS 固件/安装程序。"
+  },
+  "stripe/stripe-ios": {
+   "src": "Stripe iOS SDK",
+   "zh": "Stripe iOS SDK"
+  },
+  "wp-cli/wp-cli": {
+   "src": "⚙️ WP-CLI framework",
+   "zh": "⚙️ WP-CLI 框架"
+  },
+  "centreon/centreon": {
+   "src": "Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.",
+   "zh": "Centreon 是一个网络、系统和应用监控工具。Centreon 是唯一提供从云到边缘的复杂 IT 工作流整体可视性的 AIOps 平台。"
+  },
+  "KhronosGroup/glTF-Sample-Assets": {
+   "src": "An assortment of assets that demonstrate features and capabilities of the glTF format",
+   "zh": "一组展示 glTF 格式特性和能力的资产"
+  },
+  "lysine-dev/retrofit": {
+   "src": "A type-safe HTTP client for Android and the JVM",
+   "zh": "一个类型安全的 Android 和 JVM 的 HTTP 客户端"
   }
  }
 }
