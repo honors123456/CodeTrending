@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T03:40:09.856Z",
+ "updatedAt": "2026-07-17T06:29:38.359Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1280,6 +1280,20 @@
    "flaggedAt": "2026-07-17T03:40:09.856Z",
    "zScore": 31.9,
    "newAccountShare": 0.233,
+   "confirmed": false
+  },
+  {
+   "repo": "tmux/tmux",
+   "flaggedAt": "2026-07-17T06:29:32.103Z",
+   "zScore": 3.3,
+   "newAccountShare": 0.467,
+   "confirmed": false
+  },
+  {
+   "repo": "syncthing/syncthing",
+   "flaggedAt": "2026-07-17T06:29:38.359Z",
+   "zScore": 3.2,
+   "newAccountShare": 0,
    "confirmed": false
   }
  ]
