@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T12:51:36.483Z",
+ "updatedAt": "2026-07-17T03:40:09.856Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1245,6 +1245,41 @@
    "flaggedAt": "2026-07-16T12:51:36.483Z",
    "zScore": 13.1,
    "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "Robbyant/lingbot-map",
+   "flaggedAt": "2026-07-17T03:39:53.401Z",
+   "zScore": 3.5,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "lobehub/lobehub",
+   "flaggedAt": "2026-07-17T03:39:58.042Z",
+   "zScore": 15.9,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "BurntSushi/ripgrep",
+   "flaggedAt": "2026-07-17T03:40:02.537Z",
+   "zScore": 3.4,
+   "newAccountShare": 0.233,
+   "confirmed": false
+  },
+  {
+   "repo": "XiaoYouChR/Ghost-Downloader-3",
+   "flaggedAt": "2026-07-17T03:40:06.228Z",
+   "zScore": 29,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "github/copilot-sdk",
+   "flaggedAt": "2026-07-17T03:40:09.856Z",
+   "zScore": 31.9,
+   "newAccountShare": 0.233,
    "confirmed": false
   }
  ]

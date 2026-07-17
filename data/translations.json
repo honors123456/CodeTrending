@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T12:51:19.741Z",
+ "updatedAt": "2026-07-17T03:39:49.422Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -2478,8 +2478,8 @@
    "zh": "一个跨平台的 OpenGL 终端模拟器。"
   },
   "openinterpreter/openinterpreter": {
-   "src": "A coding agent for low-cost models",
-   "zh": "一个用于低成本模型的编码代理"
+   "src": "A coding agent for open models like Kimi K3",
+   "zh": "一个用于开放模型的编码代理，如 Kimi K3"
   },
   "rust-lang/rustlings": {
    "src": ":crab: Small exercises to get you used to reading and writing Rust code!",
@@ -3554,8 +3554,8 @@
    "zh": "轻量级（7MB）以终端为先的AI原生开发工作区"
   },
   "danielmiessler/LifeOS": {
-   "src": "An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
-   "zh": "一个通用人工智能工具，用于放大人类能力。[编码、构建、创造、商业、生活、工作、...]"
+   "src": "The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
+   "zh": "AI 驱动的工具，将您从当前状态转移到理想状态。一个意图工程平台：它在每个任务中传达您最终想要的内容给您的 AI。[编码、构建、创造、商业、生活、工作，...]"
   },
   "AnmolSaini16/mapcn": {
    "src": "Beautiful map components. 100% Free, Zero config, one command setup.",
@@ -6258,8 +6258,8 @@
    "zh": "基于策略的分层隔离和封闭"
   },
   "screenpipe/screenpipe": {
-   "src": "YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
-   "zh": "YC (S26) | AI 知道你所见、所说或所听的一切。记录你 24/7 的所有行为、言语和听到的内容，地方性、私密、安全。连接到 OpenClaw、Hermes 代理和 100 多个应用"
+   "src": "YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+   "zh": "YC (S26) | 记录您的工作并将其转化为代理。本地、私密、安全。连接到 OpenClaw、Hermes 代理和 100+ 应用程序"
   },
   "influxdata/influxdb": {
    "src": "Scalable datastore for metrics, events, and real-time analytics",
@@ -6506,8 +6506,8 @@
    "zh": "🦎 一个在多个服务器上构建和部署软件的工具 🦎"
   },
   "tursodatabase/turso": {
-   "src": "Turso is an in-process SQL database, compatible with SQLite.",
-   "zh": "Turso 是一个进程内 SQL 数据库，兼容 SQLite。"
+   "src": "A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.",
+   "zh": "一个用 Rust 编写的 SQL 数据库：兼容 SQLite，现在支持 Postgres。数据库的 LLVM。"
   },
   "cocoindex-io/cocoindex": {
    "src": "Incremental engine for long horizon agents 🌟 Star if you like it!",
@@ -6706,8 +6706,8 @@
    "zh": "[CVPR 2024 亮点] FoundationPose：新物体的统一 6D 姿态估计和跟踪。"
   },
   "PostHog/posthog": {
-   "src": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-   "zh": "🦔 PostHog 是一个一体化开发者平台，用于构建成功的产品。我们提供产品分析、网络分析、会话重放、错误跟踪、功能标志、实验、调查、数据仓库、CDP 和 AI 产品助手，帮助调试代码、加快功能发布，并将所有使用和客户数据集中在一个堆栈中。"
+   "src": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+   "zh": "：hedgehog: PostHog 是构建自驾产品的领先平台。我们的开发者工具 – AI 可观察性、分析、会话重放、标志、实验、错误跟踪、日志等 – 捕捉代理诊断问题、发现机会和发布修复所需的所有上下文。从 Slack、网页、桌面或 MCP 控制一切。"
   },
   "google/skills": {
    "src": "Agent Skills for Google products and technologies",
@@ -7010,8 +7010,8 @@
    "zh": "Apache Ossie，行业范围内的规范工作，旨在标准化我们在分析、AI 和 BI 平台之间交换语义元数据的方式，提供供应商中立的单一语义数据真相来源。"
   },
   "debpalash/OmniVoice-Studio": {
-   "src": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
-   "zh": "开源的 ElevenLabs 替代品，用于本地语音克隆、设计、创建、配音和听写桌面应用程序。"
+   "src": "Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.",
+   "zh": "本地语音克隆、视频配音、听写和有声书制作。开源的 ElevenLabs 替代品。"
   },
   "raroque/boop-agent": {
    "src": "iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations.",
@@ -7476,6 +7476,18 @@
   "microsoft/BitNet": {
    "src": "Official inference framework for 1-bit LLMs",
    "zh": "1 位 LLM 的官方推理框架"
+  },
+  "lysine-dev/okhttp": {
+   "src": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+   "zh": "一个细致的 HTTP 客户端，适用于 JVM、Android 和 GraalVM。"
+  },
+  "zacharee/Bifrost": {
+   "src": "Cross-platform tool for downloading Samsung mobile device firmware.",
+   "zh": "跨平台工具，用于下载三星移动设备固件。"
+  },
+  "lightphone/light-sdk": {
+   "src": "Scaffold for building custom tools for the Light Phone III",
+   "zh": "为 Light Phone III 构建自定义工具的脚手架。"
   }
  }
 }
