@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T12:23:40.819Z",
+ "updatedAt": "2026-07-18T03:28:14.081Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1309,6 +1309,13 @@
    "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
+  },
+  {
+   "repo": "rivet-dev/agentos",
+   "flaggedAt": "2026-07-18T03:28:14.081Z",
+   "zScore": 9.9,
+   "newAccountShare": 0,
+   "confirmed": false
   }
  ]
 }

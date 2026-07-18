@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T12:23:40.235Z",
+ "updatedAt": "2026-07-18T03:28:09.907Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -1826,8 +1826,8 @@
    "zh": "Apache Pulsar - 分布式发布-订阅消息系统"
   },
   "ollama/ollama": {
-   "src": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "zh": "快速启动并运行 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 和其他模型。"
+   "src": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+   "zh": "快速启动并运行 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 和其他模型。"
   },
   "gohugoio/hugo": {
    "src": "The world’s fastest framework for building websites.",
@@ -5922,8 +5922,8 @@
    "zh": "为 Minecraft: Bedrock 自定义的服务器软件，完全用 PHP、C 和 C++ 从零开始构建。"
   },
   "rukamori/ArchiveTune": {
-   "src": "The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.",
-   "zh": "最可爱的 Material 3 表现音乐播放器，支持 Android 的本地文件和 YouTube 音乐。"
+   "src": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+   "zh": "🌸 最可爱的音乐播放器，支持本地文件和 YouTube 音乐，适用于 Android！"
   },
   "ATH-MaaS/Pixelle-Video": {
    "src": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
@@ -6258,8 +6258,8 @@
    "zh": "基于策略的分层隔离和封闭"
   },
   "screenpipe/screenpipe": {
-   "src": "YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
-   "zh": "YC (S26) | 记录您的工作并将其转化为代理。本地、私密、安全。连接到 OpenClaw、Hermes 代理和 100+ 应用程序"
+   "src": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+   "zh": "YC (S26) | 24/7 录制您的屏幕并连接到您的代理。 本地、私密、安全。 连接到 OpenClaw、Hermes 代理和 100+ 应用程序"
   },
   "influxdata/influxdb": {
    "src": "Scalable datastore for metrics, events, and real-time analytics",
@@ -7740,6 +7740,10 @@
   "lysine-dev/retrofit": {
    "src": "A type-safe HTTP client for Android and the JVM",
    "zh": "一个类型安全的 Android 和 JVM 的 HTTP 客户端"
+  },
+  "PurpleAILAB/Decepticon": {
+   "src": "Autonomous Hacking Agent for Red Team",
+   "zh": "红队的自主黑客代理"
   }
  }
 }
