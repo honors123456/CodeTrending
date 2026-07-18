@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-18T06:19:10.651Z",
+ "updatedAt": "2026-07-18T12:12:17.777Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -7222,8 +7222,8 @@
    "zh": "安全地接受主要信用卡和借记卡，允许客户直接在您的 WooCommerce 商店中付款。从一个方便的地方 - 您的 WordPress 仪表板查看和管理交易。"
   },
   "sickn33/agentic-awesome-skills": {
-   "src": "Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
-   "zh": "可安装的 GitHub 库，包含 1,900 多个适用于 Claude Code、Cursor、Codex CLI、Autohand Code、Gemini CLI、Antigravity 等的代理技能。包括专用插件、安装程序 CLI、捆绑包、工作流以及官方/社区技能集合。"
+   "src": "AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+   "zh": "AAS Core 预览是本地的、以代理为先的控制平面，用于发现、推荐、验证和规划精确的技能栈，支持 1,965+ 个代理技能。包括 CLI、本地 MCP、目录、插件和工作台。"
   },
   "648540858/wvp-GB28181-pro": {
    "src": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
@@ -7744,6 +7744,298 @@
   "PurpleAILAB/Decepticon": {
    "src": "Autonomous Hacking Agent for Red Team",
    "zh": "红队的自主黑客代理"
+  },
+  "InterfaceX-co-jp/genshijin": {
+   "src": "genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
+   "zh": "genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。"
+  },
+  "ageerle/ruoyi-ai": {
+   "src": "面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。",
+   "zh": "面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。"
+  },
+  "SuperMonster003/AutoJs6": {
+   "src": "安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)",
+   "zh": "安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)"
+  },
+  "easybangumiorg/EasyBangumi": {
+   "src": "纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源",
+   "zh": "纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源"
+  },
+  "MoonshotAI/kimi-cli": {
+   "src": "Kimi Code CLI is your next CLI agent.",
+   "zh": "Kimi Code CLI 是你的下一个 CLI 代理。"
+  },
+  "OpenSenseNova/SenseNova-U1": {
+   "src": "SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles",
+   "zh": "SenseNova-U 系列：基于第一原则的原生统一范式与 NEO-unify。"
+  },
+  "goldmansachs/gs-quant": {
+   "src": "Python toolkit for quantitative finance",
+   "zh": "用于量化金融的 Python 工具包。"
+  },
+  "outsourc-e/hermes-workspace": {
+   "src": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+   "zh": "Hermes Agent 的原生网络工作区——聊天、终端、记忆、技能、检查器。"
+  },
+  "sveltejs/kit": {
+   "src": "web development, streamlined",
+   "zh": "网页开发，简化流程。"
+  },
+  "greensock/GSAP": {
+   "src": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+   "zh": "GSAP（GreenSock 动画平台），现代网页的 JavaScript 动画库。"
+  },
+  "jackwener/OpenCLI": {
+   "src": "Make Any Website into CLI & Use your logged-in browser by AI agent.",
+   "zh": "将任何网站转变为 CLI，并通过 AI 代理使用你已登录的浏览器。"
+  },
+  "jo-inc/camofox-browser": {
+   "src": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+   "zh": "用于 AI 代理的隐形无头浏览器——绕过 Cloudflare、机器人检测和反爬虫。可替代 Puppeteer/Playwright。"
+  },
+  "elder-plinius/G0DM0D3": {
+   "src": "LIBERATED AI CHAT",
+   "zh": "解放的 AI 聊天。"
+  },
+  "KnockOutEZ/wigolo": {
+   "src": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+   "zh": "你的 AI 编码代理的首选网络——本地优先搜索、获取、爬取和研究 MCP。无需 API 密钥，无需云，$0/查询。公开测试版。"
+  },
+  "tldraw/tldraw": {
+   "src": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
+   "zh": "使用 tldraw SDK 在 React 中构建无限画布应用。世界上最好的、顶级代理推荐的 #1 五星 SDK。"
+  },
+  "upstash/context7": {
+   "src": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+   "zh": "Context7 平台——最新的 LLM 和 AI 代码编辑器的代码文档。"
+  },
+  "darkroomengineering/lenis": {
+   "src": "Smooth scroll as it should be",
+   "zh": "如应有的那样平滑滚动。"
+  },
+  "Expensify/App": {
+   "src": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+   "zh": "欢迎来到全新的 Expensify：对财务协作的全面重新构想，围绕聊天中心。通过分享反馈和贡献代码帮助我们构建下一代 Expensify。"
+  },
+  "musistudio/claude-code-router": {
+   "src": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.",
+   "zh": "一个为每个 AI 代理提供的本地控制平面：跨模型路由、融合新能力、编排工具，并保持完全控制。"
+  },
+  "advplyr/audiobookshelf": {
+   "src": "Self-hosted audiobook and podcast server",
+   "zh": "自托管的有声书和播客服务器。"
+  },
+  "agentscope-ai/QwenPaw": {
+   "src": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+   "zh": "你的个人 AI 助手；易于安装，可在自己的机器或云上部署；支持多个聊天应用，具有易于扩展的功能。"
+  },
+  "xai-org/grok-1": {
+   "src": "Grok open release",
+   "zh": "Grok 开放发布。"
+  },
+  "nimbalyst/nimbalyst": {
+   "src": "Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android.",
+   "zh": "Nimbalyst - Claude Code、Codex 和 OpenCode 的开源可视化工作区。并行运行多个编码代理，以 markdown、模型和图表的方式可视化编辑他们的工作，并跟踪任务。适用于 macOS、Windows、Linux 的免费 MIT 许可桌面应用，支持 iOS 和 Android 的移动伴侣。"
+  },
+  "e2b-dev/infra": {
+   "src": "Infrastructure that's powering E2B Cloud.",
+   "zh": "为 E2B Cloud 提供动力的基础设施。"
+  },
+  "open-telemetry/opentelemetry-go": {
+   "src": "OpenTelemetry Go API and SDK",
+   "zh": "OpenTelemetry Go API 和 SDK。"
+  },
+  "anchore/grype": {
+   "src": "A vulnerability scanner for container images and filesystems",
+   "zh": "用于容器镜像和文件系统的漏洞扫描器。"
+  },
+  "tphakala/birdnet-go": {
+   "src": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+   "zh": "自托管的实时声音景观分析器，用于鸟类、蝙蝠和其他野生动物。多模型本地 AI 推理，24/7 在 Raspberry Pi 上运行。"
+  },
+  "github/gh-stack": {
+   "src": "GitHub Stacked PRs",
+   "zh": "GitHub 堆叠 PRs。"
+  },
+  "Ed1s0nZ/CyberStrikeAI": {
+   "src": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
+   "zh": "AI 原生网络安全的行动系统——意图变为受管执行，证据变为操作记忆，每个操作都改善下一个。"
+  },
+  "dexidp/dex": {
+   "src": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+   "zh": "OpenID Connect (OIDC) 身份和 OAuth 2.0 提供者，具有可插拔连接器。"
+  },
+  "gravitational/teleport": {
+   "src": "The easiest, and most secure way to access and protect all of your infrastructure.",
+   "zh": "访问和保护所有基础设施的最简单、最安全的方法。"
+  },
+  "dlvhdr/gh-dash": {
+   "src": "A rich terminal UI for GitHub that doesn't break your flow.",
+   "zh": "一个丰富的 GitHub 终端 UI，不会打断你的工作流程。"
+  },
+  "qax-os/excelize": {
+   "src": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+   "zh": "用于读取和写入 Microsoft Excel™（XLAM / XLSM / XLSX / XLTM / XLTX）电子表格的 Go 语言库。"
+  },
+  "dmtrKovalenko/fff": {
+   "src": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
+   "zh": "最快、最准确的文件搜索 SDK，适用于 AI 代理、Neovim、Rust、C、Python、Bun 和 NodeJS。"
+  },
+  "66HEX/frame": {
+   "src": "FFmpeg GUI",
+   "zh": "FFmpeg GUI。"
+  },
+  "run-llama/liteparse": {
+   "src": "A fast, helpful, and open-source document parser",
+   "zh": "一个快速、有用的开源文档解析器。"
+  },
+  "DataDog/pup": {
+   "src": "Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.",
+   "zh": "给你的 AI 代理一个 Pup——一个拥有 200+ 个命令的 CLI 伴侣，覆盖 33+ 个 Datadog 产品。"
+  },
+  "andrewrabert/jellium-desktop": {
+   "src": "An unofficial desktop client for Jellyfin",
+   "zh": "Jellyfin 的非官方桌面客户端。"
+  },
+  "base/base": {
+   "src": "All components used to run Base",
+   "zh": "运行 Base 所需的所有组件。"
+  },
+  "linera-io/linera-protocol": {
+   "src": "Main repository for the Linera protocol",
+   "zh": "Linera 协议的主仓库。"
+  },
+  "apache/hive": {
+   "src": "Apache Hive",
+   "zh": "Apache Hive。"
+  },
+  "apache/struts": {
+   "src": "Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications",
+   "zh": "Apache Struts 是一个免费的开源 MVC 框架，用于创建优雅、现代的 Java Web 应用。"
+  },
+  "AutoMQ/automq": {
+   "src": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+   "zh": "无盘 Kafka® 在 S3 上。10 倍性价比。无跨 AZ 流量成本。几秒钟内自动扩展。单数字毫秒延迟。多 AZ 可用性。"
+  },
+  "OpenLineage/OpenLineage": {
+   "src": "An Open Standard for lineage metadata collection",
+   "zh": "一个用于血统元数据收集的开放标准"
+  },
+  "tronprotocol/java-tron": {
+   "src": "Java implementation of the Tron whitepaper",
+   "zh": "Tron 白皮书的 Java 实现"
+  },
+  "microsoft/microsoft-ui-xaml": {
+   "src": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+   "zh": "WinUI：一个现代 UI 框架，具有丰富的控件和样式，用于构建动态和高性能的 Windows 应用程序。"
+  },
+  "bambulab/BambuStudio": {
+   "src": "PC Software for BambuLab and other 3D printers",
+   "zh": "BambuLab 和其他 3D 打印机的 PC 软件"
+  },
+  "kvcache-ai/Mooncake": {
+   "src": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+   "zh": "Mooncake 是 Kimi 的服务平台，Kimi 是 Moonshot AI 提供的领先 LLM 服务。"
+  },
+  "maplibre/maplibre-native": {
+   "src": "MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",
+   "zh": "MapLibre Native - 用于 iOS、Android 和其他平台的交互式矢量切片地图。"
+  },
+  "tenstorrent/tt-metal": {
+   "src": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",
+   "zh": ":metal: TT-NN 操作符库，以及 TT-Metalium 低级内核编程模型。"
+  },
+  "ton-blockchain/ton": {
+   "src": "Main TON monorepo",
+   "zh": "主要 TON 单一代码库"
+  },
+  "mltframework/shotcut": {
+   "src": "cross-platform (Qt), open-source (GPLv3) video editor",
+   "zh": "跨平台 (Qt)，开源 (GPLv3) 视频编辑器"
+  },
+  "lightvector/KataGo": {
+   "src": "GTP engine and self-play learning in Go",
+   "zh": "围棋中的 GTP 引擎和自我对弈学习"
+  },
+  "webui-dev/webui": {
+   "src": "Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.",
+   "zh": "使用任何网页浏览器或 WebView 作为 GUI，后端使用您喜欢的语言，前端使用现代网页技术，全部在一个轻量级的可移植库中。"
+  },
+  "VirusTotal/yara": {
+   "src": "The pattern matching swiss knife",
+   "zh": "模式匹配瑞士军刀"
+  },
+  "openresty/openresty": {
+   "src": "High Performance Web Platform Based on Nginx and LuaJIT",
+   "zh": "基于 Nginx 和 LuaJIT 的高性能 Web 平台"
+  },
+  "BitMaker-hub/NerdMiner_v2": {
+   "src": "Improved version of first ESP32 NerdMiner",
+   "zh": "改进版的第一款 ESP32 NerdMiner"
+  },
+  "cboxdoerfer/fsearch": {
+   "src": "A fast file search utility for Unix-like systems based on GTK3",
+   "zh": "基于 GTK3 的 Unix 类系统快速文件搜索工具"
+  },
+  "yugabyte/yugabyte-db": {
+   "src": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+   "zh": "YugabyteDB - 用于关键任务应用的云原生分布式 SQL 数据库。"
+  },
+  "dotnet/extensions": {
+   "src": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
+   "zh": "该仓库包含一套库，提供在创建生产就绪应用时常用的功能。"
+  },
+  "dotnet/macios": {
+   "src": ".NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#",
+   "zh": ".NET for iOS、Mac Catalyst、macOS 和 tvOS 提供 Apple SDK 的开源绑定，以便与 .NET 管理语言（如 C#）一起使用。"
+  },
+  "dotnet/android": {
+   "src": ".NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#",
+   "zh": ".NET for Android 提供 Android SDK 的开源绑定，以便与 .NET 管理语言（如 C#）一起使用。"
+  },
+  "Cysharp/R3": {
+   "src": "The new future of dotnet/reactive and UniRx.",
+   "zh": "dotnet/reactive 和 UniRx 的新未来。"
+  },
+  "dorssel/usbipd-win": {
+   "src": "Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.",
+   "zh": "用于将本地连接的 USB 设备共享到其他机器（包括 Hyper-V 客户机和 WSL 2）的 Windows 软件。"
+  },
+  "microsoft/microsoft-ui-reactor": {
+   "src": "Reactor is an experimental set of extensions to WinUI",
+   "zh": "Reactor 是 WinUI 的一组实验性扩展"
+  },
+  "samolego/Canta": {
+   "src": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.",
+   "zh": "无需 root 卸载任何 Android 应用（借助 Shizuku 的力量）。根据您的意愿去除设备中的多余应用，无需 PC。"
+  },
+  "pass-with-high-score/universal-installer": {
+   "src": "A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.",
+   "zh": "一款现代 Android 应用，用于安装和管理支持分割 APK 的 APK 包，通过 Shizuku 静默安装，并进行 VirusTotal 恶意软件扫描。"
+  },
+  "mhss1/MyBrain": {
+   "src": "All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.",
+   "zh": "一体化生产力应用和 AI 助手，具有任务、笔记、日历、日记和书签功能。"
+  },
+  "Karna14314/Pdf_Tools": {
+   "src": "Privacy-first, offline PDF editor for Android. Merge, split, compress, convert and annotate PDFs — 100% on-device, no internet required.",
+   "zh": "隐私优先的离线 PDF 编辑器，适用于 Android。合并、拆分、压缩、转换和注释 PDF — 100% 在设备上，无需互联网。"
+  },
+  "jellyfin/Swiftfin": {
+   "src": "Native Jellyfin Client for iOS and tvOS",
+   "zh": "适用于 iOS 和 tvOS 的原生 Jellyfin 客户端"
+  },
+  "statamic/cms": {
+   "src": "The core Laravel CMS Composer package",
+   "zh": "核心 Laravel CMS Composer 包"
+  },
+  "pimcore/pimcore": {
+   "src": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+   "zh": "开放核心数据与体验管理平台 (PIM、MDM、CDP、DAM、DXP/CMS 和数字商务) 的核心框架"
+  },
+  "aonez/Keka": {
+   "src": "The macOS & iOS file archiver",
+   "zh": "macOS 和 iOS 文件归档工具"
   }
  }
 }

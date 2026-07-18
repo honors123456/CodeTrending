@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-18T06:19:10.822Z",
+ "updatedAt": "2026-07-18T12:12:44.699Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1315,6 +1315,48 @@
    "flaggedAt": "2026-07-18T03:28:14.081Z",
    "zScore": 9.9,
    "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "1jehuang/jcode",
+   "flaggedAt": "2026-07-18T12:12:22.459Z",
+   "zScore": 9.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "ruvnet/ruflo",
+   "flaggedAt": "2026-07-18T12:12:27.235Z",
+   "zScore": 4.5,
+   "newAccountShare": 0.1,
+   "confirmed": false
+  },
+  {
+   "repo": "sxyazi/yazi",
+   "flaggedAt": "2026-07-18T12:12:31.564Z",
+   "zScore": 3.5,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "protocolbuffers/protobuf",
+   "flaggedAt": "2026-07-18T12:12:36.446Z",
+   "zScore": 19.6,
+   "newAccountShare": 0.1,
+   "confirmed": false
+  },
+  {
+   "repo": "ryfineZ/carrier-ims-for-pixel",
+   "flaggedAt": "2026-07-18T12:12:40.358Z",
+   "zScore": 24.7,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "SigNoz/signoz",
+   "flaggedAt": "2026-07-18T12:12:44.699Z",
+   "zScore": 4.9,
+   "newAccountShare": 0.067,
    "confirmed": false
   }
  ]
