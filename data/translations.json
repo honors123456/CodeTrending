@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-18T12:12:17.777Z",
+ "updatedAt": "2026-07-19T03:51:39.306Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -802,8 +802,8 @@
    "zh": "一个精心策划的优秀 Go 框架、库和软件列表"
   },
   "AgentWrapper/agent-orchestrator": {
-   "src": "AO is an agent IDE, that helps developers manage fleets of coding agents to do your day to day tasks for parallel coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
-   "zh": "AO 是一个代理 IDE，帮助开发者管理大量编码代理，以完成日常任务，适用于并行编码代理。它配备了一个代理协调器，规划任务，生成代理，并自主处理 CI 修复、合并冲突和代码审查。"
+   "src": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
+   "zh": "一个 Agent IDE，允许你管理编码代理的队列。它配备了一个代理协调器，规划任务、生成代理，并自主处理 CI 修复、合并冲突和代码审查。"
   },
   "ethereum/EIPs": {
    "src": "The Ethereum Improvement Proposal repository",
@@ -6494,8 +6494,8 @@
    "zh": "用 Rust 编写的 Python 解释器"
   },
   "katanemo/plano": {
-   "src": "Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.",
-   "zh": "Plano 是一个 AI 原生代理和数据平面，用于代理应用——内置编排、安全性、可观察性和智能 LLM 路由，让你专注于代理的核心逻辑。"
+   "src": "Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.",
+   "zh": "Plano 是一个 AI 原生代理和数据平面，用于代理应用——具有智能 LLM 路由、代理协调、可观察性和保护措施，让你专注于代理的核心逻辑。"
   },
   "rust-lang/cargo": {
    "src": "The Rust package manager",
@@ -6666,8 +6666,8 @@
    "zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
   },
   "chenyme/grok2api": {
-   "src": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
-   "zh": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关"
+   "src": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+   "zh": "Grok Build、Grok Web 和 Grok Console 的多账户 API 网关。"
   },
   "metersphere/metersphere": {
    "src": "MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。",
@@ -8036,6 +8036,18 @@
   "aonez/Keka": {
    "src": "The macOS & iOS file archiver",
    "zh": "macOS 和 iOS 文件归档工具"
+  },
+  "liketrek/TREK": {
+   "src": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+   "zh": "一个自托管的旅行/行程规划工具，具有实时协作、互动地图、PWA 支持、SSO、预算、打包清单等功能。"
+  },
+  "wxtsky/CodeIsland": {
+   "src": "Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions",
+   "zh": "在你的 MacBook 凹口中的实时 AI 编码代理状态面板——13 个 AI 工具的实时状态、批准和回复，配有 iPhone 和 Apple Watch 伴侣。"
+  },
+  "jarrodwatts/claude-hud": {
+   "src": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+   "zh": "一个 Claude Code 插件，显示正在发生的事情——上下文使用、活动工具、运行中的代理和待办事项进度。"
   }
  }
 }
