@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-19T06:50:14.099Z",
+ "updatedAt": "2026-07-19T12:16:53.763Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1385,6 +1385,34 @@
    "flaggedAt": "2026-07-19T03:51:55.011Z",
    "zScore": 26.8,
    "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "topoteretes/cognee",
+   "flaggedAt": "2026-07-19T12:16:41.315Z",
+   "zScore": 3.4,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "diegosouzapw/OmniRoute",
+   "flaggedAt": "2026-07-19T12:16:45.260Z",
+   "zScore": 3.8,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "mudler/LocalAI",
+   "flaggedAt": "2026-07-19T12:16:49.817Z",
+   "zScore": 4.3,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "YILS-LIN/short-video-factory",
+   "flaggedAt": "2026-07-19T12:16:53.762Z",
+   "zScore": 6.1,
+   "newAccountShare": 0.067,
    "confirmed": false
   }
  ]

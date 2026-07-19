@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-19T06:50:13.905Z",
+ "updatedAt": "2026-07-19T12:16:36.557Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -8048,6 +8048,250 @@
   "jarrodwatts/claude-hud": {
    "src": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
    "zh": "一个 Claude Code 插件，显示正在发生的事情——上下文使用、活动工具、运行中的代理和待办事项进度。"
+  },
+  "maboloshi/github-chinese": {
+   "src": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)",
+   "zh": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+  },
+  "xifangczy/cat-catch": {
+   "src": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+   "zh": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension"
+  },
+  "LorisYounger/VPet": {
+   "src": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
+   "zh": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序"
+  },
+  "is-a-dev/register": {
+   "src": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "zh": "获取您自己的漂亮 '.is-a.dev' 子域名。"
+  },
+  "evidence-dev/evidence": {
+   "src": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
+   "zh": "作为代码的商业智能：在 SQL 和 markdown 中快速构建交互式数据可视化"
+  },
+  "GoogleChrome/chrome-extensions-samples": {
+   "src": "Chrome Extensions Samples",
+   "zh": "Chrome 扩展示例"
+  },
+  "pucherot/Pi.Alert": {
+   "src": "WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of \"always connected\" devices",
+   "zh": "WIFI / LAN 入侵检测器。检查连接的设备并在发现未知设备时提醒您。它还会警告“始终连接”设备的断开。"
+  },
+  "Darkatse/TauriTavern": {
+   "src": "The classic Sillytavern, now has been rewritten in Tauri/Rust.",
+   "zh": "经典的 Sillytavern，现在已在 Tauri/Rust 中重写。"
+  },
+  "kvcache-ai/ktransformers": {
+   "src": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+   "zh": "一个灵活的框架，用于体验异构 LLM 推理/微调优化"
+  },
+  "AstrBotDevs/AstrBot": {
+   "src": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+   "zh": "AI Agent Assistant & 开发框架，集成了许多 IM 平台、LLMs、插件和 AI 功能，可以成为您的 openclaw 替代品。✨"
+  },
+  "Canner/WrenAI": {
+   "src": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+   "zh": "GenBI（生成性 BI）用于 AI 代理，是一个开源的、受管控的文本到 SQL 的开放上下文层，将自然语言问题转化为可信的仪表板、图表和 SQL，支持 20 多个数据源，如 BigQuery、Snowflake、PostgreSQL、ClickHouse、Amazon Redshift、Databricks 等。"
+  },
+  "Q00/ouroboros": {
+   "src": "Agent OS: Stop prompting. Start specifying.",
+   "zh": "Agent OS：停止提示。开始指定。"
+  },
+  "FujiwaraChoki/MoneyPrinterV2": {
+   "src": "Automate the process of making money online.",
+   "zh": "自动化在线赚钱的过程。"
+  },
+  "scikit-learn/scikit-learn": {
+   "src": "scikit-learn: machine learning in Python",
+   "zh": "scikit-learn：Python 中的机器学习"
+  },
+  "OWASP/Nettacker": {
+   "src": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+   "zh": "自动化渗透测试框架 - 开源漏洞扫描器 - 漏洞管理"
+  },
+  "ahujasid/blender-mcp": {
+   "src": "Open-source MCP to use Blender with any LLM",
+   "zh": "开源 MCP，用于与任何 LLM 一起使用 Blender"
+  },
+  "OpenWhispr/openwhispr": {
+   "src": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+   "zh": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音转文本听写应用。隐私优先，跨平台可用。"
+  },
+  "super-productivity/super-productivity": {
+   "src": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+   "zh": "Super Productivity 是一款高级待办事项应用，集成了时间盒和时间跟踪功能。它还提供 Jira、GitLab、GitHub 和 Open Project 的集成。"
+  },
+  "Gitlawb/openclaude": {
+   "src": "runs anywhere. uses anything",
+   "zh": "随处运行。使用任何东西"
+  },
+  "pollinations/pollinations": {
+   "src": "Your Friendly Open-Source Gen-AI Platform",
+   "zh": "您友好的开源 Gen-AI 平台"
+  },
+  "seakee/CPA-Manager-Plus": {
+   "src": "A self-hosted CPA / CLIProxyAPI management panel and observability dashboard for requests, usage, cost, quota, failures, and account health.",
+   "zh": "一个自托管的 CPA / CLIProxyAPI 管理面板和请求、使用、成本、配额、故障和账户健康的可观察性仪表板。"
+  },
+  "nicobailon/pi-subagents": {
+   "src": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+   "zh": "用于异步子代理委派的 Pi 扩展，带有截断、工件和会话共享"
+  },
+  "supabase/auth": {
+   "src": "A JWT based API for managing users and issuing JWT tokens",
+   "zh": "一个基于 JWT 的 API，用于管理用户和发放 JWT 令牌"
+  },
+  "hashicorp/nomad": {
+   "src": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+   "zh": "Nomad 是一个易于使用、灵活且高性能的工作负载编排器，可以部署混合的微服务、批处理、容器化和非容器化应用。Nomad 易于操作和扩展，并具有原生的 Consul 和 Vault 集成。"
+  },
+  "TecharoHQ/anubis": {
+   "src": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
+   "zh": "称量传入 HTTP 请求的灵魂，以阻止 AI 爬虫"
+  },
+  "oapi-codegen/oapi-codegen": {
+   "src": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+   "zh": "从 OpenAPI 3 规范生成 Go 客户端和服务器样板代码"
+  },
+  "asheshgoplani/agent-deck": {
+   "src": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+   "zh": "用于 AI 编码代理的终端会话管理器。一个 TUI 适用于 Claude、Gemini、OpenCode、Codex 等。"
+  },
+  "cilium/cilium": {
+   "src": "eBPF-based Networking, Security, and Observability",
+   "zh": "基于 eBPF 的网络、安全和可观察性"
+  },
+  "zeroclaw-labs/zeroclaw": {
+   "src": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+   "zh": "快速、小巧、完全自主的 AI 个人助理基础设施，任何操作系统，任何平台——随处部署，随意更换 🦀"
+  },
+  "tokio-rs/topcoat": {
+   "src": "A batteries-included framework for building web apps",
+   "zh": "一个包含电池的框架，用于构建 web 应用"
+  },
+  "bytecodealliance/wasmtime": {
+   "src": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+   "zh": "一个轻量级的 WebAssembly 运行时，快速、安全且符合标准"
+  },
+  "wezterm/wezterm": {
+   "src": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+   "zh": "一个由 @wez 编写并用 Rust 实现的 GPU 加速跨平台终端仿真器和多路复用器"
+  },
+  "kane50613/takumi": {
+   "src": "Render JSX & HTML to SVG or images. Support 160+ CSS properties. Drop-in next/og replacement.",
+   "zh": "将 JSX 和 HTML 渲染为 SVG 或图像。支持 160 多个 CSS 属性。可替代 next/og。"
+  },
+  "atuinsh/atuin": {
+   "src": "✨ Making your shell magical",
+   "zh": "✨ 让您的 shell 变得神奇"
+  },
+  "Pumpkin-MC/Pumpkin": {
+   "src": "Empowering everyone to host fast and efficient Minecraft servers.",
+   "zh": "赋予每个人托管快速高效的 Minecraft 服务器的能力。"
+  },
+  "nearai/ironclaw": {
+   "src": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+   "zh": "IronClaw 是一个专注于隐私、安全和可扩展性的 Agent OS"
+  },
+  "anonfaded/FadCam": {
+   "src": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+   "zh": "开源、无广告的 Android 多媒体录制器，具有后台视频录制、屏幕录制、直播和远程摄像头控制功能"
+  },
+  "openmrs/openmrs-core": {
+   "src": "OpenMRS API and web application code",
+   "zh": "OpenMRS API 和 web 应用代码"
+  },
+  "Nekogram/Nekogram": {
+   "src": "Open-source third-party Telegram client with not many but useful modifications.",
+   "zh": "开源第三方 Telegram 客户端，具有不多但实用的修改。"
+  },
+  "lightgbm-org/LightGBM": {
+   "src": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+   "zh": "一个快速、分布式、高性能的梯度提升（GBT、GBDT、GBRT、GBM 或 MART）框架，基于决策树算法，用于排名、分类和许多其他机器学习任务。"
+  },
+  "NVIDIA/DeepStream": {
+   "src": "NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments.",
+   "zh": "NVIDIA DeepStream 单一代码库：用于构建 GPU 加速的实时视频和多传感器分析管道的 DeepStream SDK 和参考应用，支持 GStreamer、TensorRT 和视觉 AI 模型，适用于边缘、本地和云部署。"
+  },
+  "ptitSeb/box64": {
+   "src": "Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices",
+   "zh": "Box64 - 针对 ARM64、RV64 和 LoongArch Linux 设备的 Linux 用户空间 x86_64 模拟器，带有新意"
+  },
+  "GameTec-live/ChameleonUltraGUI": {
+   "src": "A GUI for the Chameleon Ultra written in Flutter for crossplatform",
+   "zh": "为 Chameleon Ultra 编写的 Flutter 跨平台 GUI"
+  },
+  "RfidResearchGroup/ChameleonUltra": {
+   "src": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
+   "zh": "基于 NRF52840 的新一代变色龙使卡片仿真性能更加稳定。并赋予变色龙读取、写入和解密卡片的能力。"
+  },
+  "pygame/pygame": {
+   "src": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+   "zh": "🐍🎮 pygame（库）是一个自由和开源的 Python 编程语言库，用于制作多媒体应用程序，如基于优秀 SDL 库的游戏。C、Python、Native、OpenGL。"
+  },
+  "86Box/86Box": {
+   "src": "Emulator of x86-based machines.",
+   "zh": "x86 架构机器的仿真器。"
+  },
+  "ARM-software/CMSIS-DSP": {
+   "src": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
+   "zh": "用于 Cortex-M 和 Cortex-A 的 CMSIS-DSP 嵌入式计算库。"
+  },
+  "ss14Starlight/space-station-14": {
+   "src": "An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14",
+   "zh": "一个开源项目，旨在在游戏 Space Station 14 中创建独特的机制和愉快的游戏氛围。"
+  },
+  "dotnet/csharplang": {
+   "src": "The official repo for the design of the C# programming language",
+   "zh": "C# 编程语言设计的官方仓库。"
+  },
+  "Reloaded-Project/Reloaded-II": {
+   "src": "Universal .NET Core Powered Modding Framework for any Native Game X86, X64.",
+   "zh": "通用 .NET Core 驱动的任何本地游戏 X86、X64 的修改框架。"
+  },
+  "Lidarr/Lidarr": {
+   "src": "Looks and smells like Sonarr but made for music.",
+   "zh": "看起来像 Sonarr，但为音乐而制作。"
+  },
+  "ProdigyV21/ARVIO": {
+   "src": "ARVIO - A media hub application with a modern, beautiful interface.",
+   "zh": "ARVIO - 一个具有现代、美丽界面的媒体中心应用程序。"
+  },
+  "bmax121/APatch": {
+   "src": "The patching of Android kernel and Android system",
+   "zh": "Android 内核和 Android 系统的补丁。"
+  },
+  "sameerasw/essentials": {
+   "src": "Essential tools and mods for Android nerds",
+   "zh": "Android 发烧友的基本工具和修改。"
+  },
+  "ts1/BLEUnlock": {
+   "src": "Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices",
+   "zh": "使用你的 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁你的 Mac。"
+  },
+  "whoeevee/EeveeSpotifyReborn": {
+   "src": "A tweak to enhance Spotify experience",
+   "zh": "增强 Spotify 体验的调整。"
+  },
+  "Automattic/pocket-casts-ios": {
+   "src": "Pocket Casts iOS app 🎧",
+   "zh": "Pocket Casts iOS 应用 🎧"
+  },
+  "AzuraCast/AzuraCast": {
+   "src": "A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",
+   "zh": "一个自托管的网络广播管理套件，包括完整广播软件堆栈的即用型安装工具和一个现代、易于使用的网络应用程序来管理你的电台。"
+  },
+  "Athlon1600/youtube-downloader": {
+   "src": ":tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:",
+   "zh": ":tv: 基于 PHP 的 youtube-dl 和 yt-dlp 的替代品。活跃且经常更新！ :star:"
+  },
+  "easyrdf/easyrdf": {
+   "src": "EasyRdf is a PHP library designed to make it easy to consume and produce RDF.",
+   "zh": "EasyRdf 是一个 PHP 库，旨在简化 RDF 的消费和生成。"
+  },
+  "hechoendrupal/drupal-console": {
+   "src": "The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.",
+   "zh": "Drupal CLI。一个生成样板代码、与 Drupal 交互和调试的工具。"
   }
  }
 }
