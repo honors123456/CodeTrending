@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-19T03:51:39.306Z",
+ "updatedAt": "2026-07-19T06:50:13.905Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -6494,8 +6494,8 @@
    "zh": "用 Rust 编写的 Python 解释器"
   },
   "katanemo/plano": {
-   "src": "Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.",
-   "zh": "Plano 是一个 AI 原生代理和数据平面，用于代理应用——具有智能 LLM 路由、代理协调、可观察性和保护措施，让你专注于代理的核心逻辑。"
+   "src": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
+   "zh": "Plano 是一个 AI 原生的代理服务器和数据平面，用于代理应用。智能 LLM 路由、可观察性、代理编排和保护措施，让您专注于代理的核心逻辑。"
   },
   "rust-lang/cargo": {
    "src": "The Rust package manager",
