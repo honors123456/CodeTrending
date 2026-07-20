@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-19T12:16:36.557Z",
+ "updatedAt": "2026-07-20T04:08:58.637Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -22,8 +22,8 @@
    "zh": "A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法"
   },
   "worldwonderer/oh-story-claudecode": {
-   "src": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-   "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程"
+   "src": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction, covering trend scouting, story analysis, writing, AI-slop cleanup, and cover generation",
+   "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction, covering trend scouting, story analysis, writing, AI-slop cleanup, and cover generation"
   },
   "chthollyphile/folia-major": {
    "src": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
@@ -558,8 +558,8 @@
    "zh": "JavaScript 内嵌 GUI 代理。使用自然语言控制网页界面。"
   },
   "diegosouzapw/OmniRoute": {
-   "src": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-   "zh": "永不停歇的编码。免费的 AI 网关：一个端点，231+ 提供者（50+ 免费），连接 Claude Code、Codex、Cursor、Cline 和 Copilot 到免费的 Claude/GPT/Gemini。RTK+Caveman 堆叠压缩节省 15-95% 的令牌，智能自动回退，MCP/A2A，多模态 API，桌面/PWA。"
+   "src": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+   "zh": "永远不要停止编码。免费的 MIT AI 网关：一个端点，268+ 提供者（50+ 免费），500+ 模型 — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek。与 Claude Code, Codex, Cursor, Cline 和 Copilot 兼容。配额感知的自动回退，RTK+Caveman 压缩节省 15-95% 的令牌，MCP/A2A，多模态，桌面/PWA。由 500+ 贡献者构建。"
   },
   "microsoft/vscode": {
    "src": "Visual Studio Code",
@@ -5170,8 +5170,8 @@
    "zh": "⚡️ 网络流媒体种子客户端"
   },
   "Agent-Field/agentfield": {
-   "src": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.",
-   "zh": "构建、运行和扩展 AI 代理，如 API 和微服务 - 从第一天起可观察、可审计和身份感知。"
+   "src": "Build, run and scale AI agents like API and microservices",
+   "zh": "构建、运行和扩展像 API 和微服务一样的 AI 代理"
   },
   "rancher/rancher": {
    "src": "Complete container management platform",
@@ -8292,6 +8292,14 @@
   "hechoendrupal/drupal-console": {
    "src": "The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.",
    "zh": "Drupal CLI。一个生成样板代码、与 Drupal 交互和调试的工具。"
+  },
+  "bojieli/ai-agent-book": {
+   "src": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+  },
+  "momenbasel/PureMac": {
+   "src": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+   "zh": "免费的开源 macOS 清理工具。CleanMyMac 替代品，无任何遥测。原生 SwiftUI，定时自动清理，Xcode/Homebrew/系统缓存清理。MIT 许可。"
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-19T12:16:53.763Z",
+ "updatedAt": "2026-07-20T04:09:33.989Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1413,6 +1413,62 @@
    "flaggedAt": "2026-07-19T12:16:53.762Z",
    "zScore": 6.1,
    "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "CarterPerez-dev/Cybersecurity-Projects",
+   "flaggedAt": "2026-07-20T04:09:02.890Z",
+   "zScore": 9.8,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "every-app/open-seo",
+   "flaggedAt": "2026-07-20T04:09:07.094Z",
+   "zScore": 26,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "DioxusLabs/dioxus",
+   "flaggedAt": "2026-07-20T04:09:11.308Z",
+   "zScore": 25.8,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "microsoft/terminal",
+   "flaggedAt": "2026-07-20T04:09:16.710Z",
+   "zScore": 33.8,
+   "newAccountShare": 0.233,
+   "confirmed": false
+  },
+  {
+   "repo": "google/adk-python",
+   "flaggedAt": "2026-07-20T04:09:21.261Z",
+   "zScore": 14.1,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "earthtojake/text-to-cad",
+   "flaggedAt": "2026-07-20T04:09:25.329Z",
+   "zScore": 5.9,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "schollz/croc",
+   "flaggedAt": "2026-07-20T04:09:29.784Z",
+   "zScore": 38.4,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "AlexsJones/llmfit",
+   "flaggedAt": "2026-07-20T04:09:33.989Z",
+   "zScore": 20.1,
+   "newAccountShare": 0,
    "confirmed": false
   }
  ]
