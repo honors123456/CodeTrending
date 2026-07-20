@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-20T07:34:42.137Z",
+ "updatedAt": "2026-07-20T13:25:16.778Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1476,6 +1476,34 @@
    "flaggedAt": "2026-07-20T07:34:42.137Z",
    "zScore": 3.4,
    "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "Dokploy/dokploy",
+   "flaggedAt": "2026-07-20T13:24:59.324Z",
+   "zScore": 4.3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "longbridge/gpui-component",
+   "flaggedAt": "2026-07-20T13:25:05.481Z",
+   "zScore": 9,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "traycerai/traycer",
+   "flaggedAt": "2026-07-20T13:25:11.183Z",
+   "zScore": 3.6,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "kangarooking/cangjie-skill",
+   "flaggedAt": "2026-07-20T13:25:16.778Z",
+   "zScore": 3.6,
+   "newAccountShare": 0.033,
    "confirmed": false
   }
  ]
