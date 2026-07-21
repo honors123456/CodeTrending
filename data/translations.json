@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-21T06:49:04.068Z",
+ "updatedAt": "2026-07-21T12:54:40.305Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -8544,6 +8544,162 @@
   "colbymchenry/codegraph": {
    "src": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
    "zh": "预先索引的代码知识图谱，代码更改时自动同步，适用于 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent — 更少的令牌，更少的工具调用，100% 本地"
+  },
+  "ltaoo/wx_channels_download": {
+   "src": "微信视频号下载器",
+   "zh": "微信视频号下载器"
+  },
+  "dottxt-ai/outlines": {
+   "src": "Structured Outputs",
+   "zh": "结构化输出"
+  },
+  "owainlewis/awesome-artificial-intelligence": {
+   "src": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+   "zh": "一个精心策划的人工智能（AI）课程、书籍、视频讲座和论文的列表。"
+  },
+  "CloakHQ/CloakBrowser": {
+   "src": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+   "zh": "隐形 Chromium，能够通过每一个机器人检测测试。可替代 Playwright 的即插即用解决方案，带有源级指纹补丁。30/30 测试通过。"
+  },
+  "datalab-to/chandra": {
+   "src": "OCR model that handles complex tables, forms, handwriting with full layout.",
+   "zh": "处理复杂表格、表单、手写和完整布局的 OCR 模型。"
+  },
+  "NVIDIA/cosmos-framework": {
+   "src": "Our inference and training framework to run on the Cosmos Models",
+   "zh": "我们的推理和训练框架，用于运行 Cosmos 模型。"
+  },
+  "expo/skills": {
+   "src": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+   "zh": "一个用于处理 Expo 项目和 Expo 应用服务的 AI 代理技能集合。"
+  },
+  "PatrickJS/awesome-cursorrules": {
+   "src": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+   "zh": "📄 配置文件，增强 Cursor AI 编辑器体验，带有自定义规则和行为。"
+  },
+  "conorbronsdon/avoid-ai-writing": {
+   "src": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.",
+   "zh": "审计和重写内容以去除 AI 写作模式的技能。与您最喜欢的代理一起使用，包括 Claude Code、OpenClaw 和 Hermes。"
+  },
+  "cncf/mentoring": {
+   "src": "👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX + Summer of Code",
+   "zh": "👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF 导师 + LFX + 代码夏令营"
+  },
+  "Osmantic/ODS": {
+   "src": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+   "zh": "将您的 PC、Mac 或 Linux 设备变成 AI 服务器。LLM 推理、聊天 UI、语音、代理、工作流、RAG 和图像生成。"
+  },
+  "agegr/pi-web": {
+   "src": "Web UI for the pi coding agent",
+   "zh": "用于 pi 编码代理的 Web UI。"
+  },
+  "likec4/likec4": {
+   "src": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+   "zh": "可视化、协作和演进软件架构，使用来自您代码的始终最新和实时的图表。"
+  },
+  "rohitg00/agentmemory": {
+   "src": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+   "zh": "#1 基于现实世界基准的 AI 编码代理持久内存。"
+  },
+  "grafana/alloy": {
+   "src": "OpenTelemetry Collector distribution with programmable pipelines",
+   "zh": "具有可编程管道的 OpenTelemetry Collector 发行版。"
+  },
+  "mayswind/ezbookkeeping": {
+   "src": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+   "zh": "一个轻量级、自托管的个人财务应用，具有用户友好的界面和强大的记账功能。"
+  },
+  "agentscope-ai/AgentTeams": {
+   "src": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
+   "zh": "一个开源的协作多代理操作系统，通过 Matrix 房间实现透明的人机协作任务协调。"
+  },
+  "grafana/pyroscope": {
+   "src": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+   "zh": "持续性能分析平台。调试性能问题到单行代码。"
+  },
+  "openshift/hypershift": {
+   "src": "Hyperscale OpenShift - clusters with hosted control planes",
+   "zh": "超大规模 OpenShift - 具有托管控制平面的集群。"
+  },
+  "yvgude/lean-ctx": {
+   "src": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+   "zh": "控制您的 AI 可以看到的内容。LeanCTX（Lean Context）是 AI 代理的上下文智能层——一个本地 Rust 二进制文件，决定它们阅读的内容，记住它们学习的内容，保护它们接触的内容，并证明它们保存的内容。收据减少 60-90% 的令牌。76 个 MCP 工具，30+ 个代理，本地优先。"
+  },
+  "tempoxyz/tempo": {
+   "src": "the blockchain for payments",
+   "zh": "支付的区块链。"
+  },
+  "pydantic/monty": {
+   "src": "A minimal, secure Python interpreter written in Rust for use by AI",
+   "zh": "一个为 AI 使用的安全 Python 解释器，使用 Rust 编写。"
+  },
+  "HMCL-dev/HMCL": {
+   "src": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+   "zh": "一个多功能、跨平台且受欢迎的 Minecraft 启动器。"
+  },
+  "iflytek/astron-rpa": {
+   "src": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.",
+   "zh": "为个人和企业构建的即插即用自动化工具的代理就绪 RPA 套件。"
+  },
+  "flyway/flyway": {
+   "src": "Flyway by Redgate • Database Migrations Made Easy.",
+   "zh": "Flyway by Redgate • 数据库迁移变得简单。"
+  },
+  "DependencyTrack/dependency-track": {
+   "src": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+   "zh": "Dependency-Track 是一个智能组件分析平台，允许组织识别和减少软件供应链中的风险。"
+  },
+  "nisargjhaveri/WirelessAndroidAutoDongle": {
+   "src": "Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.",
+   "zh": "使用 Raspberry Pi 在仅支持有线 Android Auto 的汽车上使用无线 Android Auto。"
+  },
+  "ApolloAuto/apollo": {
+   "src": "An open autonomous driving platform",
+   "zh": "一个开放的自动驾驶平台。"
+  },
+  "simdjson/simdjson": {
+   "src": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+   "zh": "每秒解析数千兆字节的 JSON：被 Facebook/Meta Velox、Node.js 运行时、ClickHouse、WatermelonDB、Apache Doris、Milvus、StarRocks 使用。"
+  },
+  "itsPLK/ps5-payload-manager": {
+   "src": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+   "zh": "一个现代的基于 Web 的仪表板，轻松管理、导入和自动加载您的 PS5 上的有效载荷。"
+  },
+  "cyanfish/naps2": {
+   "src": "Scan documents to PDF and more, as simply as possible.",
+   "zh": "尽可能简单地将文档扫描为 PDF 等。"
+  },
+  "neelabo/NeeView": {
+   "src": "An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.",
+   "zh": "一个图像查看器，允许您像书一样浏览文件夹和压缩文件中的图像。提供强大的自定义功能。"
+  },
+  "AzureAD/microsoft-authentication-library-for-dotnet": {
+   "src": "Microsoft Authentication Library (MSAL) for .NET",
+   "zh": "适用于 .NET 的 Microsoft 身份验证库（MSAL）。"
+  },
+  "Cleanuparr/Cleanuparr": {
+   "src": "Advanced download manager for the Servarr ecosystem",
+   "zh": "Servarr 生态系统的高级下载管理器。"
+  },
+  "AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet": {
+   "src": "IdentityModel extensions for .NET",
+   "zh": "适用于 .NET 的 IdentityModel 扩展。"
+  },
+  "DataDog/dd-sdk-android": {
+   "src": "Datadog SDK for Android (Compatible with Kotlin and Java)",
+   "zh": "适用于 Android 的 Datadog SDK（与 Kotlin 和 Java 兼容）。"
+  },
+  "theJayTea/WritingTools": {
+   "src": "The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.",
+   "zh": "世界上最智能的系统级语法助手；更好的 Apple 智能写作工具版本。适用于 Windows、Linux 和 macOS，配有免费的 Gemini API、本地 LLM 等。"
+  },
+  "rajkumardusad/IP-Tracer": {
+   "src": "Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.",
+   "zh": "使用 IP-Tracer 跟踪任何 IP 地址。IP-Tracer 为 Linux 和 Termux 开发。您可以使用 IP-Tracer 检索任何 IP 地址信息。"
+  },
+  "Paymenter/Paymenter": {
+   "src": "Free and open-source webshop solution for hostings",
+   "zh": "免费的开源网上商店解决方案。"
   }
  }
 }

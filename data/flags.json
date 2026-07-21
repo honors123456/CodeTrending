@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-21T06:49:15.280Z",
+ "updatedAt": "2026-07-21T12:55:33.550Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1545,6 +1545,76 @@
    "repo": "microsoft/graphrag",
    "flaggedAt": "2026-07-21T06:49:15.280Z",
    "zScore": 17.8,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "netdata/netdata",
+   "flaggedAt": "2026-07-21T12:54:46.565Z",
+   "zScore": 8.1,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "d2l-ai/d2l-zh",
+   "flaggedAt": "2026-07-21T12:54:52.310Z",
+   "zScore": 3.8,
+   "newAccountShare": 0.133,
+   "confirmed": false
+  },
+  {
+   "repo": "hyprwm/Hyprland",
+   "flaggedAt": "2026-07-21T12:54:57.435Z",
+   "zScore": 12.3,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "citrolabs/ego-lite",
+   "flaggedAt": "2026-07-21T12:55:02.221Z",
+   "zScore": 11.8,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "A-EDev/Flow",
+   "flaggedAt": "2026-07-21T12:55:07.004Z",
+   "zScore": 15.1,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "can1357/oh-my-pi",
+   "flaggedAt": "2026-07-21T12:55:11.935Z",
+   "zScore": 3.3,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "flaggedAt": "2026-07-21T12:55:17.704Z",
+   "zScore": 5.2,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "t8y2/dbx",
+   "flaggedAt": "2026-07-21T12:55:22.408Z",
+   "zScore": 3,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "microsoft/SkillOpt",
+   "flaggedAt": "2026-07-21T12:55:27.150Z",
+   "zScore": 5.4,
+   "newAccountShare": 0,
+   "confirmed": false
+  },
+  {
+   "repo": "Lakr233/vphone-cli",
+   "flaggedAt": "2026-07-21T12:55:33.550Z",
+   "zScore": 20.4,
    "newAccountShare": 0,
    "confirmed": false
   }
