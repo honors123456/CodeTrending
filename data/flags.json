@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-20T13:25:16.778Z",
+ "updatedAt": "2026-07-21T03:51:30.251Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1503,6 +1503,34 @@
    "repo": "kangarooking/cangjie-skill",
    "flaggedAt": "2026-07-20T13:25:16.778Z",
    "zScore": 3.6,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "koala73/worldmonitor",
+   "flaggedAt": "2026-07-21T03:51:15.356Z",
+   "zScore": 61.8,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "rclone/rclone",
+   "flaggedAt": "2026-07-21T03:51:20.567Z",
+   "zScore": 5,
+   "newAccountShare": 0.033,
+   "confirmed": false
+  },
+  {
+   "repo": "tradesdontlie/tradingview-mcp",
+   "flaggedAt": "2026-07-21T03:51:25.268Z",
+   "zScore": 4.6,
+   "newAccountShare": 0.067,
+   "confirmed": false
+  },
+  {
+   "repo": "expo/expo",
+   "flaggedAt": "2026-07-21T03:51:30.251Z",
+   "zScore": 8.7,
    "newAccountShare": 0.033,
    "confirmed": false
   }
