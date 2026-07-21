@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-21T03:51:09.948Z",
+ "updatedAt": "2026-07-21T06:49:04.068Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -594,8 +594,8 @@
    "zh": "一个设计用于与 Stitch MCP 服务器配合使用的代理技能库。每个技能遵循代理技能开放标准，以兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编码代理。"
   },
   "stablyai/orca": {
-   "src": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-   "zh": "Orca 是用于管理一组并行代理的 ADE。使用你自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+   "src": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+   "zh": "Orca 是用于管理一组并行代理的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动设备和 VPS 上使用。"
   },
   "JCodesMore/ai-website-cloner-template": {
    "src": "Clone any website with one command using AI coding agents",
@@ -8178,8 +8178,8 @@
    "zh": "一个由 @wez 编写并用 Rust 实现的 GPU 加速跨平台终端仿真器和多路复用器"
   },
   "kane50613/takumi": {
-   "src": "Render JSX & HTML to SVG or images. Support 160+ CSS properties. Drop-in next/og replacement.",
-   "zh": "将 JSX 和 HTML 渲染为 SVG 或图像。支持 160 多个 CSS 属性。可替代 next/og。"
+   "src": "Render JSX & HTML to SVG or images. 160+ CSS properties supported. Drop-in next/og replacement.",
+   "zh": "将 JSX 和 HTML 渲染为 SVG 或图像。支持 160 多种 CSS 属性。可替代 next/og。"
   },
   "atuinsh/atuin": {
    "src": "✨ Making your shell magical",
