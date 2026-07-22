@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-22T06:55:04.427Z",
+ "updatedAt": "2026-07-22T12:58:34.228Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -2522,8 +2522,8 @@
    "zh": "一个基于标记的排版系统，功能强大且易于学习。"
   },
   "lencx/ChatGPT": {
-   "src": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
-   "zh": "🔮 ChatGPT 桌面应用程序（Mac、Windows 和 Linux）。"
+   "src": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+   "zh": "❄️ ChatGPT 桌面应用程序（Mac、Windows 和 Linux）"
   },
   "astral-sh/ruff": {
    "src": "An extremely fast Python linter and code formatter, written in Rust.",
@@ -4798,8 +4798,8 @@
    "zh": "创建和分享 3D 建筑项目。"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
-   "src": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-   "zh": "TencentDB 代理内存通过 4 层渐进管道为 AI 代理提供完全本地的长期记忆，零外部 API 依赖。"
+   "src": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+   "zh": "TencentDB Agent Memory 是一个团队级的 AI 代理内存中心——将对话、文档和代码转化为四个可重用的内存资产（聊天记忆、技能、LLM-Wiki、代码图），在代理和框架之间进行管理、共享和装备。"
   },
   "Augani/openreel-video": {
    "src": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
@@ -7222,8 +7222,8 @@
    "zh": "安全地接受主要信用卡和借记卡，允许客户直接在您的 WooCommerce 商店中付款。从一个方便的地方 - 您的 WordPress 仪表板查看和管理交易。"
   },
   "sickn33/agentic-awesome-skills": {
-   "src": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
-   "zh": "AAS Core 是本地的、以代理为中心的控制平面，用于完整的目录发现、代理拥有的选择、堆栈验证和规划，支持 1,969+ 代理技能。包括 CLI、本地 MCP、目录、插件和工作台。"
+   "src": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+   "zh": "AAS Core 是本地的、以代理为中心的控制平面，用于完整的目录发现、代理拥有的选择、堆栈验证和规划，支持 1,987+ 代理技能。包括 CLI、本地 MCP、目录、插件和工作台。"
   },
   "648540858/wvp-GB28181-pro": {
    "src": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
@@ -8700,6 +8700,214 @@
   "Paymenter/Paymenter": {
    "src": "Free and open-source webshop solution for hostings",
    "zh": "免费的开源网上商店解决方案。"
+  },
+  "HughYau/qiushi-skill": {
+   "src": "求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done.",
+   "zh": "求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done."
+  },
+  "hzm0321/real-time-fund": {
+   "src": "基金实时估值查看",
+   "zh": "基金实时估值查看"
+  },
+  "shiyu-coder/Kronos": {
+   "src": "Kronos: A Foundation Model for the Language of Financial Markets",
+   "zh": "Kronos：金融市场语言的基础模型"
+  },
+  "LLMQuant/quant-mind": {
+   "src": "QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.",
+   "zh": "QuantMind 是一个面向代理的知识提取和检索框架，专注于量化金融。"
+  },
+  "luongnv89/claude-howto": {
+   "src": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "zh": "一本视觉化、示例驱动的 Claude Code 指南——从基本概念到高级代理，提供即用的复制粘贴模板。"
+  },
+  "HKUDS/LightRAG": {
+   "src": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+   "zh": "[EMNLP2025] \"LightRAG：简单快速的检索增强生成\""
+  },
+  "NVIDIA/Model-Optimizer": {
+   "src": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+   "zh": "一个统一的 SOTA 模型优化技术库，如量化、蒸馏、剪枝、神经架构搜索、推测解码等。它压缩深度学习模型以适应下游部署框架，如 TensorRT-LLM、TensorRT、vLLM 等，以优化推理速度。"
+  },
+  "virgiliojr94/book-to-skill": {
+   "src": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+   "zh": "将任何技术书籍 PDF 转换为 Claude Code 技能——随时学习、参考和在工作中使用。"
+  },
+  "swagger-api/swagger-ui": {
+   "src": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+   "zh": "Swagger UI 是一个 HTML、JavaScript 和 CSS 资产的集合，动态生成美观的文档，来自符合 Swagger 的 API。"
+  },
+  "playcanvas/engine": {
+   "src": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+   "zh": "强大的 Web 图形运行时，基于 WebGL、WebGPU、WebXR 和 glTF"
+  },
+  "WebGoat/WebGoat": {
+   "src": "WebGoat is a deliberately insecure application",
+   "zh": "WebGoat 是一个故意不安全的应用程序"
+  },
+  "sandeco/reversa": {
+   "src": "Transform legacy systems into executable specifications for AI coding agents",
+   "zh": "将遗留系统转变为 AI 编码代理的可执行规范"
+  },
+  "remoteintech/remote-jobs": {
+   "src": "Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies",
+   "zh": "remoteintech.company 的来源——一个社区维护的远程友好技术公司目录"
+  },
+  "AdventDevInc/kudu": {
+   "src": "Free Windows, Mac and Linux cleaner, scanner, and more.",
+   "zh": "免费的 Windows、Mac 和 Linux 清理工具、扫描器等。"
+  },
+  "fastapi/full-stack-fastapi-template": {
+   "src": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+   "zh": "全栈现代 Web 应用程序模板。使用 FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub Actions、自动 HTTPS 等。"
+  },
+  "corsairdev/corsair": {
+   "src": "Your Agent's Integration Layer",
+   "zh": "您的代理集成层"
+  },
+  "MoonshotAI/kimi-code": {
+   "src": "Kimi Code CLI  —  The Starting Point for Next-Gen Agents",
+   "zh": "Kimi Code CLI — 下一代代理的起点"
+  },
+  "netease-youdao/LobsterAI": {
+   "src": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+   "zh": "开源、桌面级 AI 代理，能够完成实际工作——数据分析、幻灯片、文档、视频和网络研究。基于 OpenClaw；在您的真实桌面上运行工具，并通过微信、飞书、钉钉和 Telegram 接收命令。"
+  },
+  "jhaals/yopass": {
+   "src": "Secure sharing of secrets, passwords and files",
+   "zh": "安全共享秘密、密码和文件"
+  },
+  "tulir/whatsmeow": {
+   "src": "Go library for the WhatsApp web multidevice API",
+   "zh": "用于 WhatsApp 网页多设备 API 的 Go 库"
+  },
+  "alibaba/open-code-review": {
+   "src": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "zh": "开源和免费——在阿里巴巴的规模上经过实战检验。混合架构代码审查工具：确定性管道 + LLM 代理，精确的行级注释，内置微调规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+  },
+  "v2fly/domain-list-community": {
+   "src": "Community managed domain list. Generate geosite.dat for V2Ray.",
+   "zh": "社区管理的域名列表。为 V2Ray 生成 geosite.dat。"
+  },
+  "open-telemetry/opentelemetry-collector": {
+   "src": "OpenTelemetry Collector",
+   "zh": "OpenTelemetry Collector"
+  },
+  "golangci/golangci-lint": {
+   "src": "Fast linters runner for Go",
+   "zh": "快速的 Go 代码检查器运行器"
+  },
+  "kubernetes-sigs/agent-sandbox": {
+   "src": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+   "zh": "agent-sandbox 使得管理隔离的、有状态的、单例工作负载变得简单，理想用于 AI 代理运行时等用例。"
+  },
+  "gruntwork-io/terragrunt": {
+   "src": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+   "zh": "Terragrunt 是一个灵活的编排工具，允许用 OpenTofu/Terraform 编写的基础设施即代码进行扩展。"
+  },
+  "rustdesk/rustdesk-server": {
+   "src": "RustDesk Server Program",
+   "zh": "RustDesk 服务器程序"
+  },
+  "block/buzz": {
+   "src": "A hive mind communication platform",
+   "zh": "一个集体思维通信平台"
+  },
+  "ZSeven-W/openpencil": {
+   "src": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+   "zh": "世界上第一个开源 AI 原生矢量设计工具，也是第一个具有并发代理团队的工具。设计即代码。直接在实时画布上将提示转化为 UI。现代的 Pencil 替代品。"
+  },
+  "google/gson": {
+   "src": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+   "zh": "一个 Java 序列化/反序列化库，用于将 Java 对象转换为 JSON 及其反向操作。"
+  },
+  "apache/paimon": {
+   "src": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+   "zh": "Apache Paimon 是一种湖格式，支持使用 Flink 和 Spark 构建实时湖屋架构，适用于流处理和批处理操作。"
+  },
+  "googleapis/google-cloud-java": {
+   "src": "Google Cloud Client Library for Java",
+   "zh": "Google Cloud Java 客户端库"
+  },
+  "realsenseai/librealsense": {
+   "src": "RealSense SDK",
+   "zh": "RealSense SDK"
+  },
+  "Livox-SDK/livox_ros_driver2": {
+   "src": "Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.",
+   "zh": "Livox 设备驱动程序，兼容 Ros（支持 ros 和 ros2），支持 Lidar HAP 和 Mid-360。"
+  },
+  "taskflow/taskflow": {
+   "src": "A General-purpose Task-parallel Programming System in C++",
+   "zh": "一个通用的 C++ 任务并行编程系统"
+  },
+  "assimp/assimp": {
+   "src": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+   "zh": "官方 Open-Asset-Importer-Library 仓库。将 40+ 种 3D 文件格式加载到一个统一且干净的数据结构中。"
+  },
+  "thorvg/thorvg": {
+   "src": "A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.",
+   "zh": "一个生产就绪的 C++ 矢量图形引擎，支持 SVG 和 Lottie 格式，具有先进的渲染后端，如 WebGPU，以实现高性能图形。"
+  },
+  "cloudflare/workerd": {
+   "src": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+   "zh": "驱动 Cloudflare Workers 的 JavaScript / Wasm 运行时"
+  },
+  "jtenniswood/espcontrol": {
+   "src": "Esphome based smart home control panel",
+   "zh": "基于 Esphome 的智能家居控制面板"
+  },
+  "ClassicOldSong/Apollo": {
+   "src": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+   "zh": "Sunshine fork - 以客户端设备的原生分辨率进行流媒体播放的最简单方法"
+  },
+  "OpenEtherCATsociety/SOEM": {
+   "src": "Simple Open Source EtherCAT Master",
+   "zh": "简单的开源 EtherCAT 主控"
+  },
+  "FRRouting/frr": {
+   "src": "The FRRouting Protocol Suite",
+   "zh": "FRRouting 协议套件"
+  },
+  "henrypp/simplewall": {
+   "src": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+   "zh": "简单工具用于配置 Windows Filtering Platform (WFP)，可以配置计算机上的网络活动。"
+  },
+  "DPDK/dpdk": {
+   "src": "Data Plane Development Kit",
+   "zh": "数据平面开发工具包"
+  },
+  "dotnet/AspNetCore.Docs": {
+   "src": "Documentation for ASP.NET Core",
+   "zh": "ASP.NET Core 文档"
+  },
+  "Gurge44/EndlessHostRoles": {
+   "src": "EHR is the biggest host-only mod for Among Us, with 450+ roles / add-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!",
+   "zh": "EHR 是 Among Us 最大的仅主机模组，拥有 450+ 角色/附加组件和 16 种游戏模式，以及一个自定义团队分配器应用程序，完全自定义您的游戏！"
+  },
+  "microsoft/PowerApps-Samples": {
+   "src": "Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder.",
+   "zh": "Power Apps 的示例代码，包括 Dataverse、模型驱动应用、画布应用、Power Apps 组件框架、门户和 AI Builder。"
+  },
+  "Azure/azure-functions-host": {
+   "src": "The host/runtime that powers Azure Functions",
+   "zh": "支持 Azure Functions 的主机/运行时"
+  },
+  "brahmkshatriya/echo": {
+   "src": "Just a music player.",
+   "zh": "只是一个音乐播放器。"
+  },
+  "damontecres/Wholphin": {
+   "src": "An OSS Android TV client for Jellyfin",
+   "zh": "一个用于 Jellyfin 的开源 Android TV 客户端"
+  },
+  "AndyShaman/BYDMate": {
+   "src": "Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation rules, floating widget, AI insights. Bilingual RU/EN. Tested on Leopard 3 / Fangchengbao Bao 3.",
+   "zh": "比亚迪 DiLink 5.0 的 Android 应用：来自 BMS 的真实消耗、GPS 行程、充电日志、自动化规则、浮动小部件、AI 洞察。双语 RU/EN。在 Leopard 3 / 方程宝 3 上测试。"
+  },
+  "TheHostingTool/TheHostingTool": {
+   "src": "A PHP-based, open-source, client management script geared towards free web hosting providers.",
+   "zh": "一个基于 PHP 的开源客户管理脚本，面向免费网络托管提供商。"
   }
  }
 }

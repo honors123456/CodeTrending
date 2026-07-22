@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-22T06:55:09.219Z",
+ "updatedAt": "2026-07-22T12:58:36.007Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1638,6 +1638,48 @@
    "zScore": 5.8,
    "newAccountShare": 0,
    "confirmed": false
+  },
+  {
+   "repo": "vercel-labs/skills",
+   "flaggedAt": "2026-07-22T12:58:34.874Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fatedier/frp",
+   "flaggedAt": "2026-07-22T12:58:35.059Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "modelcontextprotocol/servers",
+   "flaggedAt": "2026-07-22T12:58:35.274Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "THU-MAIC/OpenMAIC",
+   "flaggedAt": "2026-07-22T12:58:35.468Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dreamhunter2333/cloudflare_temp_email",
+   "flaggedAt": "2026-07-22T12:58:35.672Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "David-Crty/databasement",
+   "flaggedAt": "2026-07-22T12:58:36.007Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
   }
  ]
 }
