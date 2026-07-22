@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-22T03:51:55.262Z",
+ "updatedAt": "2026-07-22T06:55:04.427Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -486,8 +486,8 @@
    "zh": "使你的 AI 更好地进行设计的设计语言。"
   },
   "tt-a1i/archify": {
-   "src": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-   "zh": "任何代理技能：生成美观的架构图，支持深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出"
+   "src": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+   "zh": "用于美观、可验证的架构、工作流、序列、数据流和生命周期图的代理技能——自包含的 HTML，带有动画和清晰的导出。"
   },
   "fbsamples/whatsapp-business-jaspers-market": {
    "src": "Sample Whatsapp App - Jasper's Market",
@@ -2050,8 +2050,8 @@
    "zh": "💫 帮助您开始规范驱动开发的工具包"
   },
   "Shubhamsaboo/awesome-llm-apps": {
-   "src": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-   "zh": "100+ 个您可以实际运行的 AI 代理和 RAG 应用——克隆、定制、发布。"
+   "src": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+   "zh": "100+ AI Agents、Agent Skills 和 RAG Apps - 免费和开源。"
   },
   "openai/whisper": {
    "src": "Robust Speech Recognition via Large-Scale Weak Supervision",
@@ -4710,8 +4710,8 @@
    "zh": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。"
   },
   "t8y2/dbx": {
-   "src": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
-   "zh": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。"
+   "src": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+   "zh": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
   },
   "1Panel-dev/CordysCRM": {
    "src": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
@@ -8130,8 +8130,8 @@
    "zh": "您友好的开源 Gen-AI 平台"
   },
   "seakee/CPA-Manager-Plus": {
-   "src": "A self-hosted CPA / CLIProxyAPI management panel and observability dashboard for requests, usage, cost, quota, failures, and account health.",
-   "zh": "一个自托管的 CPA / CLIProxyAPI 管理面板和请求、使用、成本、配额、故障和账户健康的可观察性仪表板。"
+   "src": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
+   "zh": "一个自托管的 CPA / CLIProxyAPI 管理面板和 AI 网关可观察性仪表板，用于请求、使用、成本、配额、故障和账户健康。"
   },
   "nicobailon/pi-subagents": {
    "src": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
