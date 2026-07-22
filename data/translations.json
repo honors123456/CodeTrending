@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-21T12:54:40.305Z",
+ "updatedAt": "2026-07-22T03:51:55.262Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -454,8 +454,8 @@
    "zh": "🪨 为什么使用许多令牌，而少量令牌就能解决问题 - Claude Code 技能，通过像穴居人一样说话减少 65% 的令牌"
   },
   "santifer/career-ops": {
-   "src": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
-   "zh": "开源 AI 求职：扫描招聘门户，评分列表 A-F，定制您的简历，跟踪申请——在您的 AI 编码 CLI（Claude Code、Gemini、Codex、OpenCode…）本地运行。"
+   "src": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+   "zh": "开源 AI 求职：扫描招聘门户，使用结构化的 A-F 评分标准评估职位列表，打分范围为 1.0-5.0，定制简历，跟踪申请 — 在您的 AI 编码 CLI（Claude Code, Codex, OpenCode, Antigravity…）本地运行"
   },
   "sveltejs/svelte": {
    "src": "web development for the rest of us",
@@ -558,8 +558,8 @@
    "zh": "JavaScript 内嵌 GUI 代理。使用自然语言控制网页界面。"
   },
   "diegosouzapw/OmniRoute": {
-   "src": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-   "zh": "永远不要停止编码。免费的 MIT AI 网关：一个端点，268+ 提供者（50+ 免费），500+ 模型 — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek。与 Claude Code, Codex, Cursor, Cline 和 Copilot 兼容。配额感知的自动回退，RTK+Caveman 压缩节省 15-95% 的令牌，MCP/A2A，多模态，桌面/PWA。由 500+ 贡献者构建。"
+   "src": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+   "zh": "永不停歇地编码。免费的 MIT AI 网关：一个端点，268+ 提供者（50+ 免费），500+ 模型 — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax。与 Claude Code, Codex, Cursor, OpenCode, Cline 和 Copilot 兼容。配额感知的自动回退，RTK+Caveman 压缩节省 15-95% 的令牌，MCP/A2A，桌面/PWA。由 500+ 贡献者构建"
   },
   "microsoft/vscode": {
    "src": "Visual Studio Code",
@@ -2438,8 +2438,8 @@
    "zh": "一个由 Rust 构建的代理管理的博物馆展览，使用 Gajae-Code / LazyCodex 开发和维护，无需人工干预。"
   },
   "farion1231/cc-switch": {
-   "src": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
-   "zh": "一个跨平台的桌面一体化助手，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent。唯一的官方网站：ccswitch.io"
+   "src": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+   "zh": "跨平台桌面一体化助手，支持 Claude Code, Codex, OpenCode, OpenClaw, Grok Build 和 Hermes Agent。唯一官方网站：ccswitch.io"
   },
   "tauri-apps/tauri": {
    "src": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
@@ -3942,8 +3942,8 @@
    "zh": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
   },
   "OthmanAdi/planning-with-files": {
-   "src": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-   "zh": "基于文件的持久化规划，用于 AI 编码代理和长期运行的代理任务。防崩溃的 markdown 计划，能够在上下文丢失和 /clear 的情况下存活， plus 一个确定性的完成门和多代理共享状态存储在磁盘上。Manus 风格。与 Claude Code、Codex CLI、Cursor、Kiro、OpenCode 和 60+ 代理通过 SKILL.md 标准兼容。"
+   "src": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.",
+   "zh": "基于文件的持久规划，用于 AI 编码代理和长时间运行的任务。防崩溃的 markdown 计划，/clear 和压缩后的会话恢复，针对上下文衰退的每轮重新注入，确定性完成门。Manus 风格。通过 Agent Skills 标准支持 Claude Code, Codex, Cursor, Kiro, OpenCode 和 60+ 代理。"
   },
   "cheahjs/free-llm-api-resources": {
    "src": "A list of free LLM inference resources accessible via API.",
@@ -5686,8 +5686,8 @@
    "zh": "OpenAI API 的官方 Python 库"
   },
   "NVIDIA/skills": {
-   "src": "AI agent skills published by NVIDIA",
-   "zh": "NVIDIA 发布的 AI 代理技能"
+   "src": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+   "zh": "NVIDIA 产品的 Agent Skills — 安装到 Claude Code, Codex 和其他编码代理中，以端到端运行物理 AI、机器人、仿真、CUDA 和 RAG 工作流。"
   },
   "agentscope-ai/agentscope": {
    "src": "Build and run agents you can see, understand and trust.",
@@ -7122,8 +7122,8 @@
    "zh": "Z3 定理证明器。"
   },
   "NVIDIA-AI-Blueprints/video-search-and-summarization": {
-   "src": "The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-   "zh": "NVIDIA VSS Blueprint 是一套用于构建 GPU 加速视觉代理和 AI 驱动视频分析应用的参考架构。"
+   "src": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
+   "zh": "NVIDIA AI Blueprint 用于视频搜索和摘要（VSS）是一个 GPU 加速的参考架构，用于构建具有实时验证警报、视觉问答和自动报告的视频分析代理。VSS Blueprint 使用视觉语言模型（VLMs），如 NVIDIA Cosmos，LLMs，如 NVIDIA Nemotron，RAG 和 NVIDIA NIMs。"
   },
   "k2-fsa/sherpa-onnx": {
    "src": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
