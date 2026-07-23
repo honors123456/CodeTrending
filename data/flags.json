@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23T03:56:18.264Z",
+ "updatedAt": "2026-07-23T06:55:00.021Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1692,6 +1692,13 @@
    "repo": "OtterMind/Chat2DB",
    "flaggedAt": "2026-07-23T03:56:18.263Z",
    "zScore": 9.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ruvnet/RuView",
+   "flaggedAt": "2026-07-23T06:55:00.021Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }
