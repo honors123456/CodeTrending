@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-22T12:58:34.228Z",
+ "updatedAt": "2026-07-23T03:56:17.686Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -142,8 +142,8 @@
    "zh": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）"
   },
   "jeecgboot/JeecgBoot": {
-   "src": "【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-   "zh": "【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。"
+   "src": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+   "zh": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。"
   },
   "halo-dev/halo": {
    "src": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
@@ -394,8 +394,8 @@
    "zh": "Cognee 是一个开源 AI 记忆平台，为代理提供持久的长期记忆，通过自托管的知识图谱引擎。"
   },
   "calesthio/OpenMontage": {
-   "src": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-   "zh": "世界首个开源、智能视频制作系统。12 条管道，52 个工具，500+ 代理技能。将您的 AI 编码助手转变为完整的视频制作工作室。"
+   "src": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "zh": "世界首个开源、智能视频制作系统。12个制作管道，100多个工具，700多个代理技能和制作知识文件。将您的AI编码助手转变为完整的视频制作工作室。"
   },
   "interviewstreet/hiring-agent": {
    "src": "AI agent to evaluate and score resumes.",
@@ -6690,8 +6690,8 @@
    "zh": "🏖️ 一个基于 Cloudflare 的无服务器开源文件托管解决方案。支持图像托管、安全文件存储和个人云驱动功能。"
   },
   "cactus-compute/needle": {
-   "src": "26m agentic model for tiny devices",
-   "zh": "26m agentic 模型用于小型设备"
+   "src": "Cactus foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.",
+   "zh": "Cactus基础模型用于小型设备；14mb，26m参数，移动设备、可穿戴设备、智能家居和机器人上1-6k toks/sec。"
   },
   "PrimeIntellect-ai/verifiers": {
    "src": "Our library for RL environments + evals",
@@ -6818,8 +6818,8 @@
    "zh": "ROCm 系统项目的超级仓库。"
   },
   "cactus-compute/cactus": {
-   "src": "Tiny AI for tiny devices",
-   "zh": "小型设备的 Tiny AI"
+   "src": "Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.",
+   "zh": "小型设备的小型AI；量化、内核、移动设备、可穿戴设备和智能家居及机器人的推理引擎。"
   },
   "Fincept-Corporation/FinceptTerminal": {
    "src": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
@@ -6938,8 +6938,8 @@
    "zh": "Datadog PHP 客户端"
   },
   "pestphp/pest": {
-   "src": "Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
-   "zh": "Pest 是一个优雅的 PHP 测试框架，专注于简洁，精心设计以恢复 PHP 测试的乐趣。"
+   "src": "The elegant testing framework for PHP developers and AI agents.",
+   "zh": "为PHP开发者和AI代理提供的优雅测试框架。"
   },
   "relaticle/relaticle": {
    "src": "Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament",
@@ -7074,8 +7074,8 @@
    "zh": "用于 git、diff、grep、rg --json 和 blame 输出的语法高亮分页器。"
   },
   "RaoFoundation/subtensor": {
-   "src": "Bittensor Blockchain Layer",
-   "zh": "Bittensor 区块链层。"
+   "src": "Bittensor",
+   "zh": "Bittensor"
   },
   "cube-js/cube": {
    "src": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
@@ -7602,8 +7602,8 @@
    "zh": "Testcontainers 是一个支持 JUnit 测试的 Java 库，提供轻量级、一次性实例的常见数据库、Selenium 网络浏览器或任何可以在 Docker 容器中运行的东西。"
   },
   "OtterMind/Chat2DB": {
-   "src": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-   "zh": "AI 驱动的数据库工具和 SQL 客户端，最热门的 GUI 客户端，支持 MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse 等。"
+   "src": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+   "zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
   },
   "iflytek/astron-agent": {
    "src": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
