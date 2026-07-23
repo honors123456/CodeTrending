@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23T06:54:59.655Z",
+ "updatedAt": "2026-07-23T13:02:34.973Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -862,8 +862,8 @@
    "zh": "OpenWiki — Mac 桌面 AI 知识管理工具。捕获剪贴板，构建个人维基，获取 AI 洞察。"
   },
   "junhoyeo/tokscale": {
-   "src": "🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph",
-   "zh": "🛰️ 一个 CLI 工具，用于跟踪来自 OpenCode、Claude Code、🦞OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等的令牌使用情况！ • 🏅全球排行榜 + 2D/3D 贡献图"
+   "src": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.",
+   "zh": "🛰️ 从终端跟踪 AI 编码代理的令牌使用情况。🏅 全球排行榜，跟踪数万亿个令牌。"
   },
   "LargeModGames/spotatui": {
    "src": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.",
@@ -4138,8 +4138,8 @@
    "zh": "Neon：无服务器Postgres。我们将存储和计算分开，以提供自动扩展、类似代码的数据库分支和零扩展。"
   },
   "rivet-dev/agentos": {
-   "src": "A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.",
-   "zh": "比沙箱更快、更轻、更便宜的替代方案。在隔离的Linux虚拟机中运行任何编码代理，内置代理编排。"
+   "src": "Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.",
+   "zh": "为代理提供一个作为库的操作系统。运行在您现有的后端 – 无需沙箱、虚拟机或 SaaS。由 WebAssembly 和 V8 隔离提供支持。"
   },
   "osmandapp/OsmAnd": {
    "src": "OsmAnd",
@@ -6690,8 +6690,8 @@
    "zh": "🏖️ 一个基于 Cloudflare 的无服务器开源文件托管解决方案。支持图像托管、安全文件存储和个人云驱动功能。"
   },
   "cactus-compute/needle": {
-   "src": "Cactus foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.",
-   "zh": "Cactus基础模型用于小型设备；14mb，26m参数，移动设备、可穿戴设备、智能家居和机器人上1-6k toks/sec。"
+   "src": "Foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.",
+   "zh": "适用于小型设备的基础模型；14mb，26m 参数，移动设备、可穿戴设备、智能家居和机器人每秒 1-6k 令牌。"
   },
   "PrimeIntellect-ai/verifiers": {
    "src": "Our library for RL environments + evals",
@@ -6818,8 +6818,8 @@
    "zh": "ROCm 系统项目的超级仓库。"
   },
   "cactus-compute/cactus": {
-   "src": "Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.",
-   "zh": "小型设备的小型AI；量化、内核、移动设备、可穿戴设备和智能家居及机器人的推理引擎。"
+   "src": "Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.",
+   "zh": "量化、内核、移动设备、可穿戴设备、智能家居和机器人的推理引擎。"
   },
   "Fincept-Corporation/FinceptTerminal": {
    "src": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
@@ -8908,6 +8908,218 @@
   "TheHostingTool/TheHostingTool": {
    "src": "A PHP-based, open-source, client management script geared towards free web hosting providers.",
    "zh": "一个基于 PHP 的开源客户管理脚本，面向免费网络托管提供商。"
+  },
+  "vnpy/vnpy": {
+   "src": "基于Python的开源量化交易平台开发框架",
+   "zh": "基于Python的开源量化交易平台开发框架"
+  },
+  "freestylefly/awesome-gpt-image-2": {
+   "src": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+   "zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+  },
+  "QLHazyCoder/FlowPilot": {
+   "src": "Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复",
+   "zh": "Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复"
+  },
+  "voocel/ainovel-cli": {
+   "src": "✨多agent实现全自动AI小说生成",
+   "zh": "✨多agent实现全自动AI小说生成"
+  },
+  "IAMLZY2018/XianYuAssistant": {
+   "src": "闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流",
+   "zh": "闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流"
+  },
+  "ayghri/i-have-adhd": {
+   "src": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+   "zh": "为您的编码代理提供一个技能，以防止其掩盖答案。适合多动症的输出。"
+  },
+  "slavakurilyak/awesome-ai-agents": {
+   "src": "Awesome list of 300+ agentic AI resources",
+   "zh": "超过 300 个代理 AI 资源的精彩列表"
+  },
+  "oraios/serena": {
+   "src": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+   "zh": "一个强大的 MCP 工具包，用于编码，提供语义检索和编辑功能 - 您代理的 IDE"
+  },
+  "skypilot-org/skypilot": {
+   "src": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+   "zh": "前沿团队的 AI 计算平台。SkyPilot 将分散的 AI 计算转变为一个 AI 超级计算机，使前沿 AI 团队更快构建自定义智能。"
+  },
+  "raullenchai/Rapid-MLX": {
+   "src": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+   "zh": "适用于 Apple Silicon 的最快本地 AI 引擎。比 Ollama 快 4.2 倍，缓存 TTFT 为 0.08 秒，100% 工具调用。17 个工具解析器，提示缓存，推理分离，云路由。可替代 OpenAI。与 Claude Code、Cursor、Aider 兼容。"
+  },
+  "himself65/finance-skills": {
+   "src": "A collection of skills for AI financial analysis.",
+   "zh": "用于 AI 财务分析的技能集合。"
+  },
+  "freemocap/freemocap": {
+   "src": "Free Motion Capture for Everyone 💀✨",
+   "zh": "免费运动捕捉，人人可用 💀✨"
+  },
+  "C4illin/ConvertX": {
+   "src": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+   "zh": "💾 自托管的在线文件转换器。支持 1000+ 格式 ⚙️"
+  },
+  "Automattic/harper": {
+   "src": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+   "zh": "离线、隐私优先的语法检查器。快速、开源、基于 Rust。"
+  },
+  "fujiapple852/trippy": {
+   "src": "A network diagnostic tool",
+   "zh": "网络诊断工具"
+  },
+  "verus-lang/verus": {
+   "src": "Verified Rust for low-level systems code",
+   "zh": "经过验证的 Rust 低级系统代码"
+  },
+  "maximhq/bifrost": {
+   "src": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+   "zh": "最快的企业 AI 网关（比 LiteLLM 快 50 倍），具有自适应负载均衡器、集群模式、保护措施、支持 1000+ 模型，5k RPS 时延迟 <100 µs。"
+  },
+  "aldinokemal/go-whatsapp-web-multidevice": {
+   "src": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+   "zh": "GOWA - 支持 UI、多账户、Webhooks 和 MCP 的 WhatsApp REST API，使用 Golang 构建以提高内存使用效率。"
+  },
+  "anchore/syft": {
+   "src": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+   "zh": "用于从容器镜像和文件系统生成软件材料清单的 CLI 工具和库。"
+  },
+  "hatchet-dev/hatchet": {
+   "src": "🪓 An orchestration engine for background tasks, AI agents, and durable workflows",
+   "zh": "🪓 用于后台任务、AI 代理和持久工作流的调度引擎。"
+  },
+  "ethereum-optimism/optimism": {
+   "src": "Optimism is Ethereum, scaled.",
+   "zh": "Optimism 是以太坊的扩展。"
+  },
+  "wal-g/wal-g": {
+   "src": "Archival and Restoration for databases in the Cloud",
+   "zh": "云中数据库的归档和恢复。"
+  },
+  "seaweedfs/seaweedfs": {
+   "src": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+   "zh": "SeaweedFS 是一个分布式存储系统，用于对象存储（S3）、文件系统和 Iceberg 表，旨在处理数十亿个文件，具有 O(1) 磁盘访问和轻松的水平扩展。"
+  },
+  "ava-labs/avalanchego": {
+   "src": "Go implementation of an Avalanche node.",
+   "zh": "Avalanche 节点的 Go 实现。"
+  },
+  "glanceapp/glance": {
+   "src": "A self-hosted dashboard that puts all your feeds in one place",
+   "zh": "一个自托管的仪表板，将您的所有信息源集中在一个地方。"
+  },
+  "apache/camel": {
+   "src": "Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.",
+   "zh": "Apache Camel 是一个开源集成框架，拥有 350+ 个连接器。可以用 Java、YAML 或 XML 编写路由。在 Spring Boot、Quarkus 或独立运行。Apache 许可证 2.0。"
+  },
+  "hiero-ledger/hiero-consensus-node": {
+   "src": "Crypto, token, consensus, file, and smart contract services for a Hiero based network",
+   "zh": "基于 Hiero 网络的加密、令牌、共识、文件和智能合约服务。"
+  },
+  "apache/fluss": {
+   "src": "Apache Fluss is a streaming storage built for real-time analytics.",
+   "zh": "Apache Fluss 是一个为实时分析构建的流式存储。"
+  },
+  "alibaba/fastjson2": {
+   "src": "🚄 FASTJSON2 is a Java JSON  library with excellent performance.",
+   "zh": "🚄 FASTJSON2 是一个具有卓越性能的 Java JSON 库。"
+  },
+  "apache/accumulo": {
+   "src": "Apache Accumulo",
+   "zh": "Apache Accumulo"
+  },
+  "apache/storm": {
+   "src": "Apache Storm",
+   "zh": "Apache Storm"
+  },
+  "LaurieWired/GhidraMCP": {
+   "src": "MCP Server for Ghidra",
+   "zh": "Ghidra 的 MCP 服务器"
+  },
+  "LSPosed/LSPosed": {
+   "src": "LSPosed Framework",
+   "zh": "LSPosed 框架"
+  },
+  "espressif/esp-drone": {
+   "src": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
+   "zh": "ESP32 和 ESP32-S 系列 SoC 的迷你无人机/四旋翼固件。"
+  },
+  "mvp/uhubctl": {
+   "src": "uhubctl - USB hub per-port power control",
+   "zh": "uhubctl - USB 集线器每端口电源控制。"
+  },
+  "NLnetLabs/unbound": {
+   "src": "Unbound is a validating, recursive, and caching DNS resolver.",
+   "zh": "Unbound 是一个验证、递归和缓存的 DNS 解析器。"
+  },
+  "stack-of-tasks/pinocchio": {
+   "src": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives",
+   "zh": "快速灵活的刚体动力学算法及其解析导数的实现。"
+  },
+  "unitreerobotics/unitree_sdk2": {
+   "src": "Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer",
+   "zh": "Unitree 机器人 SDK 版本 2。https://support.unitree.com/home/zh/developer"
+  },
+  "mobile-shell/mosh": {
+   "src": "Mobile Shell",
+   "zh": "移动外壳"
+  },
+  "cristibaluta/Imagin-Raw": {
+   "src": "A lightweight but powerful alternative to Adobe Bridge for Mac",
+   "zh": "一个轻量但强大的 Adobe Bridge 替代品，适用于 Mac。"
+  },
+  "ydb-platform/ydb": {
+   "src": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+   "zh": "YDB 是一个开源的分布式 SQL 数据库，结合了高可用性和可扩展性，具有强一致性和 ACID 事务。"
+  },
+  "hadashiA/VContainer": {
+   "src": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+   "zh": "在 Unity 游戏引擎上运行的超快速、最小代码大小、无 GC 的 DI（依赖注入）库。"
+  },
+  "googlesamples/unity-jar-resolver": {
+   "src": "Unity plugin which resolves Android & iOS dependencies and performs version management",
+   "zh": "解决 Android 和 iOS 依赖关系并执行版本管理的 Unity 插件"
+  },
+  "Azure/data-api-builder": {
+   "src": "Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.",
+   "zh": "数据 API 构建器为您的 Azure 数据库和本地存储提供现代 REST、GraphQL 端点和 MCP 工具。"
+  },
+  "mgth/LittleBigMouse": {
+   "src": "DPI Aware mouse move across screens",
+   "zh": "DPI 感知的鼠标在屏幕间移动"
+  },
+  "firebase/quickstart-android": {
+   "src": "Firebase Quickstart Samples for Android",
+   "zh": "Android 的 Firebase 快速入门示例"
+  },
+  "SagerNet/sing-box-for-android": {
+   "src": "Android client for sing-box",
+   "zh": "sing-box 的 Android 客户端"
+  },
+  "null2264/yokai": {
+   "src": "Free and open source manga reader for Android",
+   "zh": "免费的开源漫画阅读器，适用于 Android"
+  },
+  "getsentry/sentry-java": {
+   "src": "A Sentry SDK for Java, Android and other JVM languages.",
+   "zh": "适用于 Java、Android 和其他 JVM 语言的 Sentry SDK。"
+  },
+  "likelikeslike/ViPER4Android": {
+   "src": "Material Design 3 ViPER4Android App.",
+   "zh": "Material Design 3 ViPER4Android 应用。"
+  },
+  "supabitapp/supacode": {
+   "src": "worktree coding agents command center.",
+   "zh": "工作树编码代理指挥中心。"
+  },
+  "microsoft/agent-host-protocol": {
+   "src": "Synchronized multi-client state for AI agent sessions",
+   "zh": "AI 代理会话的同步多客户端状态"
+  },
+  "google/GTMAppAuth": {
+   "src": "Apple platforms SDK for using AppAuth with Google libraries.",
+   "zh": "用于与 Google 库一起使用 AppAuth 的 Apple 平台 SDK。"
   }
  }
 }
