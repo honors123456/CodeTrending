@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-24T06:53:33.989Z",
+ "updatedAt": "2026-07-24T12:43:03.366Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -354,8 +354,8 @@
    "zh": "AI 代理治理工具包 - 政策执行、零信任身份、执行沙箱和自主 AI 代理的可靠性工程。涵盖 10/10 OWASP 代理顶级 10。"
   },
   "Alishahryar1/free-claude-code": {
-   "src": "Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)",
-   "zh": "从终端、IDE 或手机免费使用 Claude Code、Codex 或 Pi，类似于支持语音的 OpenClaw"
+   "src": "Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)",
+   "zh": "从终端、IDE或手机免费使用claude代码、codex或pi，类似于OpenClaw（支持语音）"
   },
   "NVlabs/ProtoMotions": {
    "src": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
@@ -4014,8 +4014,8 @@
    "zh": "网络安全全能平台。"
   },
   "CoreBunch/Instatic": {
-   "src": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-   "zh": "Instatic 是一个现代自托管的视觉 CMS——1 分钟内运行。"
+   "src": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+   "zh": "开源替代Webflow、Framer和WordPress。Agentic自托管可视化CMS输出干净的静态页面。用户、角色、插件、内容、数据库，全部都有。"
   },
   "elastic/kibana": {
    "src": "Your window into all of your data",
@@ -9120,6 +9120,222 @@
   "google/GTMAppAuth": {
    "src": "Apple platforms SDK for using AppAuth with Google libraries.",
    "zh": "用于与 Google 库一起使用 AppAuth 的 Apple 平台 SDK。"
+  },
+  "creazyboyone/FastGithub": {
+   "src": "FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git-clone、git-pull、git-push",
+   "zh": "FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git-clone、git-pull、git-push"
+  },
+  "zly2006/zhihu-plus-plus": {
+   "src": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
+   "zh": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验"
+  },
+  "flashinfer-ai/flashinfer": {
+   "src": "FlashInfer: Kernel Library for LLM Serving",
+   "zh": "FlashInfer：LLM服务的内核库"
+  },
+  "pyg-team/pytorch_geometric": {
+   "src": "Graph Neural Network Library for PyTorch",
+   "zh": "用于PyTorch的图神经网络库"
+  },
+  "moorcheh-ai/memanto": {
+   "src": "Memory that AI Agents Love!",
+   "zh": "AI代理喜欢的内存！"
+  },
+  "SimplifyJobs/Summer2026-Internships": {
+   "src": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+   "zh": "2026年夏季软件工程、数据科学、AI、量化、产品管理和硬件实习职位。由Simplify和Pitt CSC每日更新。"
+  },
+  "tile-ai/tilelang": {
+   "src": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+   "zh": "旨在简化高性能GPU/CPU/加速器内核开发的领域特定语言"
+  },
+  "lovell/sharp": {
+   "src": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+   "zh": "高性能Node.js图像处理，最快的JPEG、PNG、WebP、AVIF和TIFF图像缩放模块。使用libvips库。"
+  },
+  "poloclub/transformer-explainer": {
+   "src": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
+   "zh": "可视化解释Transformer：通过交互式可视化学习LLM Transformer模型的工作原理"
+  },
+  "Asabeneh/30-Days-Of-JavaScript": {
+   "src": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+   "zh": "30天JavaScript编程挑战是一个逐步指南，用于在30天内学习JavaScript编程语言。这个挑战可能需要超过100天，请按照自己的节奏进行。这些视频也可能有帮助：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"
+  },
+  "apify/crawlee": {
+   "src": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+   "zh": "Crawlee——一个用于Node.js的网页抓取和浏览器自动化库，用于构建可靠的爬虫。使用JavaScript和TypeScript。提取AI、LLM、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与Puppeteer、Playwright、Cheerio、JSDOM和原始HTTP兼容。支持有头和无头模式。带有代理轮换。"
+  },
+  "theopenco/llmgateway": {
+   "src": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.",
+   "zh": "通过统一的API接口路由、管理和分析您的LLM请求，跨多个提供商。"
+  },
+  "itayinbarr/little-coder": {
+   "src": "A harness optimized to smaller LLMs",
+   "zh": "一个针对较小LLM优化的工具"
+  },
+  "ai-driven-dev/framework": {
+   "src": "Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC",
+   "zh": "市场框架AI驱动开发：上下文工程、插件、代理、技能、钩子、模板、SDLC"
+  },
+  "bia-pain-bache/BPB-Wizard": {
+   "src": "A wizard to facilitate BPB Panel deployment and management.",
+   "zh": "一个促进BPB面板部署和管理的向导。"
+  },
+  "GoogleCloudPlatform/microservices-demo": {
+   "src": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+   "zh": "示例云优先应用程序，包含10个微服务，展示Kubernetes、Istio和gRPC。"
+  },
+  "oauth2-proxy/oauth2-proxy": {
+   "src": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+   "zh": "一个提供与Google、Azure、OpenID Connect等多个身份提供者进行身份验证的反向代理。"
+  },
+  "ovexro/dockpanel": {
+   "src": "Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.",
+   "zh": "用Rust和React构建的现代服务器管理面板。网站、数据库、Docker应用、Git部署、邮件、DNS、监控、备份和安全——一切尽在一个面板中。"
+  },
+  "apache/arrow-rs": {
+   "src": "Official Rust implementation of Apache Arrow",
+   "zh": "Apache Arrow的官方Rust实现"
+  },
+  "libgdx/libgdx": {
+   "src": "Desktop/Android/HTML5/iOS Java game development framework",
+   "zh": "桌面/Android/HTML5/iOS Java游戏开发框架"
+  },
+  "hazelcast/hazelcast": {
+   "src": "Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.",
+   "zh": "Hazelcast是一个统一的实时数据平台，将流处理与快速数据存储结合在一起，使客户能够即时对数据流动进行操作，以获得实时洞察。"
+  },
+  "Earthcomputer/EnchantmentCracker": {
+   "src": "Cracking the XP seed in Minecraft and choosing your enchantments",
+   "zh": "破解Minecraft中的XP种子并选择你的附魔"
+  },
+  "spring-projects/spring-security": {
+   "src": "Spring Security",
+   "zh": "Spring Security"
+  },
+  "questdb/questdb": {
+   "src": "QuestDB is a high performance, open-source, time-series database",
+   "zh": "QuestDB是一个高性能的开源时间序列数据库"
+  },
+  "unitycatalog/unitycatalog": {
+   "src": "Open, Multi-modal Catalog for Data & AI",
+   "zh": "开放的多模态数据与AI目录"
+  },
+  "nayuki/QR-Code-generator": {
+   "src": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",
+   "zh": "高质量的Java、TypeScript/JavaScript、Python、Rust、C++、C的二维码生成库。"
+  },
+  "openrewrite/rewrite": {
+   "src": "Automated mass refactoring of source code.",
+   "zh": "自动化大规模重构源代码。"
+  },
+  "MrNeRF/LichtFeld-Studio": {
+   "src": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+   "zh": "从单一本地应用程序训练、检查、编辑、自动化和导出3D高斯溅射场景。"
+  },
+  "google/re2": {
+   "src": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+   "zh": "RE2是一个快速、安全、线程友好的替代回溯正则表达式引擎的C++库，类似于PCRE、Perl和Python中使用的引擎。"
+  },
+  "skypjack/entt": {
+   "src": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+   "zh": "游戏与现代C++相结合 - 一个快速可靠的实体组件系统（ECS）及更多功能"
+  },
+  "TrinityCore/TrinityCore": {
+   "src": "TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+   "zh": "TrinityCore开源MMO框架（master = 12.0.7.68887，3.3.5 = 3.3.5a.12340，cata classic = 4.4.2.60895）"
+  },
+  "OpenLoco/OpenLoco": {
+   "src": "An open source re-implementation of Chris Sawyer's Locomotion",
+   "zh": "Chris Sawyer的Locomotion的开源重实现"
+  },
+  "wxWidgets/wxWidgets": {
+   "src": "Cross-Platform C++ GUI Library",
+   "zh": "跨平台C++ GUI库"
+  },
+  "xLLM-AI/xllm": {
+   "src": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.",
+   "zh": "一个高性能的推理引擎，适用于LLM、VLM、DiT和REC模型，针对多种AI加速器进行了优化。它托管在OpenAtom基金会。"
+  },
+  "mkj/dropbear": {
+   "src": "Dropbear SSH",
+   "zh": "Dropbear SSH"
+  },
+  "zmap/zmap": {
+   "src": "ZMap is a fast single packet network scanner designed for Internet-wide network surveys.",
+   "zh": "ZMap是一个快速的单包网络扫描仪，旨在进行互联网范围的网络调查。"
+  },
+  "cesanta/mongoose": {
+   "src": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+   "zh": "嵌入式Web服务器，带有TCP/IP网络栈、MQTT和Websocket"
+  },
+  "califio/publications": {
+   "src": "Publications from Calif",
+   "zh": "来自Calif的出版物"
+  },
+  "ArduPilot/MissionPlanner": {
+   "src": "Mission Planner Ground Control Station for ArduPilot (c# .net)",
+   "zh": "ArduPilot的任务规划地面控制站（c# .net）"
+  },
+  "capstone-engine/capstone": {
+   "src": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+   "zh": "适用于ARM、ARM64（ARMv8）、Alpha、BPF、以太坊VM、HPPA、LoongArch、M68K、M680X、Mips、MOS65XX、PPC、RISC-V(rv32G/rv64G)、SH、Sparc、SystemZ、TMS320C64X、TriCore、Webassembly、XCore和X86的Capstone反汇编/反汇编框架。"
+  },
+  "xemu-project/xemu": {
+   "src": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
+   "zh": "原始 Xbox 模拟器，适用于 Windows、macOS 和 Linux（活跃开发中）"
+  },
+  "kwsch/PKHeX": {
+   "src": "Pokémon Save File Editor",
+   "zh": "宝可梦存档文件编辑器"
+  },
+  "permissionlesstech/bitchat-android": {
+   "src": "bluetooth mesh chat, IRC vibes",
+   "zh": "蓝牙网状聊天，IRC 气氛"
+  },
+  "kiwix/kiwix-android": {
+   "src": "Kiwix for Android",
+   "zh": "Kiwix for Android"
+  },
+  "iamr0s/Dhizuku": {
+   "src": "A tool that can share DeviceOwner permissions to other application.",
+   "zh": "一个可以将 DeviceOwner 权限分享给其他应用的工具。"
+  },
+  "shiaho777/web-to-app": {
+   "src": "The most full-featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone.",
+   "zh": "Android 上功能最全的 web-to-app 工具包，一个完全在手机上运行的 APK 工作坊。"
+  },
+  "Ranchero-Software/NetNewsWire": {
+   "src": "RSS reader for macOS and iOS.",
+   "zh": "macOS 和 iOS 的 RSS 阅读器。"
+  },
+  "aws-amplify/amplify-swift": {
+   "src": "A declarative library for application development using cloud services.",
+   "zh": "一个用于使用云服务进行应用开发的声明式库。"
+  },
+  "bitwarden/ios": {
+   "src": "Bitwarden mobile apps (Password Manager and Authenticator) for iOS.",
+   "zh": "Bitwarden 移动应用（密码管理器和身份验证器）适用于 iOS。"
+  },
+  "apple/swift-argument-parser": {
+   "src": "Straightforward, type-safe argument parsing for Swift",
+   "zh": "简单、安全的 Swift 参数解析。"
+  },
+  "pointfreeco/sqlite-data": {
+   "src": "A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization.",
+   "zh": "一个快速、轻量级的 SwiftData 替代品，基于 SQL 并支持 CloudKit 同步。"
+  },
+  "craftcms/cms": {
+   "src": "Build bespoke content experiences with Craft.",
+   "zh": "使用 Craft 构建定制内容体验。"
+  },
+  "alexjustesen/speedtest-tracker": {
+   "src": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.",
+   "zh": "Speedtest Tracker 是一个自托管应用，监控您的互联网连接的性能和正常运行时间。"
+  },
+  "krayin/laravel-crm": {
+   "src": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+   "zh": "免费的开源 Laravel CRM 解决方案，适用于中小企业和大型企业，提供完整的客户生命周期管理。"
   }
  }
 }
