@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23T13:02:36.735Z",
+ "updatedAt": "2026-07-24T03:54:37.240Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1748,6 +1748,41 @@
    "repo": "foru17/neko-master",
    "flaggedAt": "2026-07-23T13:02:36.735Z",
    "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "yorukot/superfile",
+   "flaggedAt": "2026-07-24T03:54:36.663Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Sonarr/Sonarr",
+   "flaggedAt": "2026-07-24T03:54:36.823Z",
+   "zScore": 23.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jellyfin/jellyfin",
+   "flaggedAt": "2026-07-24T03:54:36.944Z",
+   "zScore": 12,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "palmier-io/palmier-pro",
+   "flaggedAt": "2026-07-24T03:54:37.088Z",
+   "zScore": 7.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "alam00000/bentopdf",
+   "flaggedAt": "2026-07-24T03:54:37.240Z",
+   "zScore": 4,
    "newAccountShare": null,
    "confirmed": null
   }
