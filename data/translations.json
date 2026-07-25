@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-24T12:43:03.366Z",
+ "updatedAt": "2026-07-25T03:53:31.036Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -22,8 +22,8 @@
    "zh": "A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法"
   },
   "worldwonderer/oh-story-claudecode": {
-   "src": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction, covering trend scouting, story analysis, writing, AI-slop cleanup, and cover generation",
-   "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction, covering trend scouting, story analysis, writing, AI-slop cleanup, and cover generation"
+   "src": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.",
+   "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction."
   },
   "chthollyphile/folia-major": {
    "src": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
@@ -282,8 +282,8 @@
    "zh": "ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具"
   },
   "jiji262/douyin-downloader": {
-   "src": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
-   "zh": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！"
+   "src": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+   "zh": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
   },
   "YILS-LIN/short-video-factory": {
    "src": "一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool",
@@ -1162,8 +1162,8 @@
    "zh": "stb 单文件公共领域库，适用于 C/C++"
   },
   "lvgl/lvgl": {
-   "src": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
-   "zh": "嵌入式图形库，用于为任何 MCU、MPU 和显示类型创建美丽的用户界面。"
+   "src": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+   "zh": "LVGL 是一个免费的、功能齐全的嵌入式 UI 库，适用于从小型 MCU 到支持 3D 的 MPU，增强版为 LVGL Pro，一个专业的编辑器和工具。"
   },
   "tr4m0ryp/tr4mpass": {
    "src": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
@@ -3534,8 +3534,8 @@
    "zh": "Stremio - 自由流媒体"
   },
   "citrolabs/ego-lite": {
-   "src": "The best browser for both you and your AI agents work in parallel.",
-   "zh": "最适合您和您的AI代理并行工作的浏览器。"
+   "src": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+   "zh": "最快的浏览器，供 AI 代理运行网页自动化，旨在与您的 AI 代理（如 Codex 或 Claude Code）共享已登录的浏览器状态，而不打扰您。零成本，零配置。"
   },
   "coreyhaines31/marketingskills": {
    "src": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
@@ -7210,8 +7210,8 @@
    "zh": "跨平台 Xcode 替代品。在 Linux、Windows、macOS 上使用 SwiftPM 构建和部署 iOS 应用。"
   },
   "David-Crty/databasement": {
-   "src": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel support.",
-   "zh": "自托管的数据库备份管理器，带有网页 UI。调度、备份和恢复 MySQL、PostgreSQL、MariaDB、Microsoft SQL Server、MongoDB、SQLite 和 Redis 到 S3、SFTP 或本地存储。支持 SSH 隧道。"
+   "src": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.",
+   "zh": "自托管的数据库备份管理器，带有网页 UI。调度、备份和恢复 MySQL、PostgreSQL、MariaDB、Microsoft SQL Server、MongoDB、SQLite 和 Redis 到 S3、SFTP、Samba 或本地存储。支持 SSH 隧道。"
   },
   "php/pie": {
    "src": "🥧 The PHP Installer for Extensions",
@@ -9302,8 +9302,8 @@
    "zh": "一个可以将 DeviceOwner 权限分享给其他应用的工具。"
   },
   "shiaho777/web-to-app": {
-   "src": "The most full-featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone.",
-   "zh": "Android 上功能最全的 web-to-app 工具包，一个完全在手机上运行的 APK 工作坊。"
+   "src": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
+   "zh": "Android 上功能最全的网页到应用工具包，一个完全在您的手机上运行的 APK 工作坊。"
   },
   "Ranchero-Software/NetNewsWire": {
    "src": "RSS reader for macOS and iOS.",
@@ -9336,6 +9336,10 @@
   "krayin/laravel-crm": {
    "src": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
    "zh": "免费的开源 Laravel CRM 解决方案，适用于中小企业和大型企业，提供完整的客户生命周期管理。"
+  },
+  "akitaonrails/ai-memory": {
+   "src": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+   "zh": "为代理编码 CLI 提供长期记忆的解决方案，并促进不同代理供应商之间的交接。"
   }
  }
 }
