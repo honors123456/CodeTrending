@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-25T06:48:16.813Z",
+ "updatedAt": "2026-07-26T04:11:57.296Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1832,6 +1832,34 @@
    "repo": "EasyTier/EasyTier",
    "flaggedAt": "2026-07-24T12:43:06.285Z",
    "zScore": 10,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BuilderIO/agent-native",
+   "flaggedAt": "2026-07-26T04:11:56.831Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "byoungd/up",
+   "flaggedAt": "2026-07-26T04:11:56.996Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "wailsapp/wails",
+   "flaggedAt": "2026-07-26T04:11:57.157Z",
+   "zScore": 19.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "agentscope-ai/QwenPaw",
+   "flaggedAt": "2026-07-26T04:11:57.296Z",
+   "zScore": 45.5,
    "newAccountShare": null,
    "confirmed": null
   }

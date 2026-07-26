@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-25T06:48:16.632Z",
+ "updatedAt": "2026-07-26T04:11:56.343Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -6718,8 +6718,8 @@
    "zh": "一个使用 Tauri、React 和 TypeScript 构建的现代视频编辑器。专注于构建免费功能的高级 capcut 功能。"
   },
   "HenryNdubuaku/maths-cs-ai-compendium": {
-   "src": "Become a cracked AI/ML Research Engineer",
-   "zh": "成为一名优秀的 AI/ML 研究工程师。"
+   "src": "Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.",
+   "zh": "成为一名优秀的 AI/ML 研究员/工程师，这本非常规教材涵盖数学、计算和 ML 的直观理解。"
   },
   "millionco/react-doctor": {
    "src": "Your agent writes bad React. This catches it",
@@ -6818,8 +6818,8 @@
    "zh": "ROCm 系统项目的超级仓库。"
   },
   "cactus-compute/cactus": {
-   "src": "Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.",
-   "zh": "量化、内核、移动设备、可穿戴设备、智能家居和机器人的推理引擎。"
+   "src": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
+   "zh": "移动设备、可穿戴设备、智能家居和机器人用的量化、内核、运行时和推理引擎。"
   },
   "Fincept-Corporation/FinceptTerminal": {
    "src": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
@@ -7238,8 +7238,8 @@
    "zh": "一个用于 NodeJS 的 WhatsApp 客户端库，通过 WhatsApp Web 浏览器应用连接"
   },
   "mm7894215/TokenTracker": {
-   "src": "Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.",
-   "zh": "本地优先的 AI 令牌使用和成本跟踪器，支持 27 种编码工具 — 具有桌面宠物、4 个小部件、成就、原生 macOS/Windows 应用和一条命令的 CLI。永不读取提示。"
+   "src": "Local-first AI token usage & cost tracker for 28 coding tools incl. Claude Code, Codex, Cursor, Gemini & Qoder—with native apps. Never reads prompts.",
+   "zh": "本地优先的 AI 令牌使用和成本跟踪器，支持 28 种编码工具，包括 Claude Code、Codex、Cursor、Gemini 和 Qoder——具有本地应用程序。绝不读取提示。"
   },
   "Axorax/awesome-free-apps": {
    "src": "Curated list of the best free apps for PC and mobile",
@@ -8518,8 +8518,8 @@
    "zh": "在不获取 root 权限的情况下禁用/隐藏/暂停/卸载 Android 应用。"
   },
   "eyalm2000/adns": {
-   "src": "A lightweight DNS-based ad blocker for Android with NextDNS built in",
-   "zh": "一个轻量级的基于 DNS 的 Android 广告拦截器，内置 NextDNS"
+   "src": "Private DNS Supercharged for Android",
+   "zh": "为 Android 提供超级加速的私有 DNS"
   },
   "Clipy/Clipy": {
    "src": "Clipboard extension app for macOS.",
@@ -9340,6 +9340,230 @@
   "akitaonrails/ai-memory": {
    "src": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
    "zh": "为代理编码 CLI 提供长期记忆的解决方案，并促进不同代理供应商之间的交接。"
+  },
+  "xinnan-tech/xiaozhi-esp32-server": {
+   "src": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.",
+   "zh": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server."
+  },
+  "dataease/SQLBot": {
+   "src": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
+   "zh": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG."
+  },
+  "Anionex/banana-slides": {
+   "src": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌",
+   "zh": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌"
+  },
+  "andrewyng/aisuite": {
+   "src": "Simple, unified interface to multiple Generative AI providers",
+   "zh": "简单统一的多种生成 AI 提供商接口"
+  },
+  "MODSetter/SurfSense": {
+   "src": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
+   "zh": "开源的 NotebookLM 替代品。通过一个平台、API 或 MCP 服务器，使用实时数据（Reddit、YT、IG、TikTok、Indeed、Google 搜索、地图等）研究开放网络。加入我们的 Discord: https://discord.gg/ejRNvftDp9"
+  },
+  "OpenDCAI/DataFlow": {
+   "src": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+   "zh": "使用最新的基于 LLM 的操作符和管道轻松准备数据。"
+  },
+  "DedSecInside/TorBot": {
+   "src": "Dark Web OSINT Tool",
+   "zh": "暗网 OSINT 工具"
+  },
+  "VectifyAI/PageIndex": {
+   "src": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+   "zh": "📑 PageIndex：无向量、基于推理的 RAG 文档索引"
+  },
+  "NVlabs/Sana": {
+   "src": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+   "zh": "SANA：高效的高分辨率图像合成，使用线性扩散变换器"
+  },
+  "mrexodia/ida-pro-mcp": {
+   "src": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+   "zh": "AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来。"
+  },
+  "BazedFrog/SongGeneration-Studio": {
+   "src": "Clean, polished interface for Tencent’s SongGeneration. Create songs from text prompts or reference audio, with batch processing and smart model selection. Minimum Requirement: 10GB of VRAM",
+   "zh": "干净、精致的界面，适用于腾讯的 SongGeneration。从文本提示或参考音频创建歌曲，支持批处理和智能模型选择。最低要求：10GB VRAM"
+  },
+  "TechyCSR/OpenCluely": {
+   "src": "OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP. It offers an invisible overlay, real-time AI help, Smart Image Processing for question capture, and multi-language support : 100% customizable and private.",
+   "zh": "OpenCluely 是一个免费的开源 Cluely（替代品），专为 DSA、OA 和 CP 等技术面试而构建。它提供隐形覆盖、实时 AI 帮助、问题捕获的智能图像处理和多语言支持：100% 可定制和私密。"
+  },
+  "prateek-chaubey/YTPro": {
+   "src": "Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.",
+   "zh": "支持旧版 Android 的 Youtube 客户端，背景播放器，Google Gemini ✨ 以及更多功能。"
+  },
+  "gchq/CyberChef": {
+   "src": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+   "zh": "网络应用程序 Cyber Swiss Army Knife，用于加密、编码、压缩和数据分析。"
+  },
+  "processing/p5.js": {
+   "src": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+   "zh": "p5.js 是一个客户端 JS 平台，赋予艺术家、设计师、学生和任何人学习编码并在网络上创造性表达自己的能力。它基于 Processing 的核心原则。寻找 p5.js 2.0？http://beta.p5js.org"
+  },
+  "cockpit-project/cockpit": {
+   "src": "Cockpit is a web-based graphical interface for servers.",
+   "zh": "Cockpit 是一个基于 Web 的服务器图形界面。"
+  },
+  "microsoft/inshellisense": {
+   "src": "IDE style command line auto complete",
+   "zh": "IDE 风格的命令行自动补全。"
+  },
+  "different-ai/openwork": {
+   "src": "The open-source alternative to Claude Cowork (powered by opencode)",
+   "zh": "开源的 Claude Cowork 替代品（由 opencode 提供支持）。"
+  },
+  "genkit-ai/genkit": {
+   "src": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+   "zh": "用于构建 AI 驱动应用程序的开源框架，支持 JavaScript、Go 和 Python，由 Google 构建并在生产中使用。"
+  },
+  "chaitin/MonkeyCode": {
+   "src": "AI coding platform for teams",
+   "zh": "团队的 AI 编码平台。"
+  },
+  "open-metadata/OpenMetadata": {
+   "src": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+   "zh": "数据和 AI 的开放上下文层，OpenMetadata 是构建可信数据上下文和商业语义的开放平台，供人类、AI 助手和代理使用。"
+  },
+  "evolution-foundation/evolution-go": {
+   "src": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
+   "zh": "Evolution API / Evolution Go 是一个开源的 WhatsApp 集成 API。"
+  },
+  "helm/helm": {
+   "src": "The Kubernetes Package Manager",
+   "zh": "Kubernetes 包管理器。"
+  },
+  "modelcontextprotocol/go-sdk": {
+   "src": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+   "zh": "Model Context Protocol 服务器和客户端的官方 Go SDK。与 Google 合作维护。"
+  },
+  "go-kratos/kratos": {
+   "src": "Your ultimate Go microservices framework for the cloud-native era.",
+   "zh": "您在云原生时代的终极 Go 微服务框架。"
+  },
+  "majd/ipatool": {
+   "src": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+   "zh": "命令行工具，允许从 iOS App Store 搜索和下载应用程序包（称为 ipa 文件）。"
+  },
+  "facebook/pyrefly": {
+   "src": "A fast type checker and language server for Python",
+   "zh": "一个快速的 Python 类型检查器和语言服务器。"
+  },
+  "max-sixty/worktrunk": {
+   "src": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "zh": "Worktrunk 是一个用于 Git worktree 管理的 CLI，专为并行 AI 代理工作流设计。"
+  },
+  "apache/iceberg-rust": {
+   "src": "Apache Iceberg",
+   "zh": "Apache Iceberg。"
+  },
+  "rust-lang/rustup": {
+   "src": "The Rust toolchain installer",
+   "zh": "Rust 工具链安装程序。"
+  },
+  "delta-io/delta-rs": {
+   "src": "A native Rust library for Delta Lake, with bindings into Python",
+   "zh": "一个用于 Delta Lake 的本地 Rust 库，具有 Python 绑定。"
+  },
+  "pgjdbc/pgjdbc": {
+   "src": "Postgresql JDBC Driver",
+   "zh": "Postgresql JDBC 驱动程序。"
+  },
+  "apache/ozone": {
+   "src": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+   "zh": "可扩展、可靠、分布式存储系统，针对数据分析和对象存储工作负载进行了优化。"
+  },
+  "jeandle/jeandle-jdk": {
+   "src": "Jeandle is a Just-in-Time compiler for Java. It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high-performance code.",
+   "zh": "Jeandle 是一个 Java 的即时编译器。它基于 OpenJDK，并利用 LLVM 编译基础设施生成机器代码，旨在提供强大的编译优化并交付高性能代码。"
+  },
+  "flowable/flowable-engine": {
+   "src": "A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",
+   "zh": "一个紧凑且高效的工作流和业务流程管理（BPM）平台，面向开发人员、系统管理员和业务用户。"
+  },
+  "apache/shardingsphere": {
+   "src": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+   "zh": "通过分布式 SQL 实现数据智能，支持分片、可扩展性和所有数据库的安全性。"
+  },
+  "objectionary/eo": {
+   "src": "EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus",
+   "zh": "EOLANG，一种基于 𝜑-演算的实验性纯面向对象编程语言。"
+  },
+  "mosaic-group/openfpm": {
+   "src": "OpenFPM: A scalable open framework for particle and particle-mesh codes on parallel computers",
+   "zh": "OpenFPM：一个可扩展的开源框架，用于在并行计算机上进行粒子和粒子网格代码。"
+  },
+  "deepseek-ai/FlashMLA": {
+   "src": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+   "zh": "FlashMLA：高效的多头潜在注意力内核。"
+  },
+  "ros-navigation/navigation2": {
+   "src": "ROS 2 Navigation Framework and System",
+   "zh": "ROS 2导航框架和系统"
+  },
+  "lballabio/QuantLib": {
+   "src": "The QuantLib C++ library",
+   "zh": "QuantLib C++库"
+  },
+  "riscv-collab/riscv-gnu-toolchain": {
+   "src": "GNU toolchain for RISC-V, including GCC",
+   "zh": "用于RISC-V的GNU工具链，包括GCC"
+  },
+  "vanhauser-thc/thc-hydra": {
+   "src": "hydra",
+   "zh": "hydra"
+  },
+  "VirtualBox/virtualbox": {
+   "src": "Source code for Oracle VirtualBox",
+   "zh": "Oracle VirtualBox的源代码"
+  },
+  "portapack-mayhem/mayhem-firmware": {
+   "src": "The firmware for the HackRF+PortaPack H1/H2/H4/H4M",
+   "zh": "HackRF+PortaPack H1/H2/H4/H4M的固件"
+  },
+  "mRemoteNG/mRemoteNG": {
+   "src": "mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.",
+   "zh": "mRemoteNG是mRemote的下一代，开源，标签式，多协议，远程连接管理器。"
+  },
+  "LagradOst/QuickNovel": {
+   "src": "Android app for downloading novels",
+   "zh": "用于下载小说的Android应用"
+  },
+  "joreilly/PeopleInSpace": {
+   "src": "Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.",
+   "zh": "Kotlin Multiplatform示例，包含SwiftUI、Jetpack Compose、Compose for Wear、Compose for Desktop和Compose for Web客户端，以及Ktor后端。"
+  },
+  "RevenueCat/purchases-ios": {
+   "src": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+   "zh": "轻松实现应用内购买和订阅。支持iOS、watchOS、tvOS、macOS和visionOS。"
+  },
+  "SagerNet/sing-box-for-apple": {
+   "src": "iOS/macOS/tvOS client for sing-box",
+   "zh": "sing-box的iOS/macOS/tvOS客户端"
+  },
+  "kishikawakatsumi/KeychainAccess": {
+   "src": "Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.",
+   "zh": "适用于iOS、watchOS、tvOS和macOS的Keychain简单Swift封装。"
+  },
+  "apple/swift-nio-ssh": {
+   "src": "SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO",
+   "zh": "SwiftNIO SSH是使用SwiftNIO的SSH编程实现。"
+  },
+  "moona3k/macparakeet": {
+   "src": "Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.",
+   "zh": "快速、私密、本地优先的语音应用，适用于Apple Silicon Macs——听写、文件/媒体转录、会议录音、转换和公共自动化CLI。免费和开源。"
+  },
+  "Sanyam-G/switch": {
+   "src": "A keyboard-driven window switcher for macOS. Notarized. Free.",
+   "zh": "一个基于键盘的macOS窗口切换器。已 notarized。免费。"
+  },
+  "Aidoku/Aidoku": {
+   "src": "Free and open source manga reader for iOS and iPadOS",
+   "zh": "适用于iOS和iPadOS的免费开源漫画阅读器"
+  },
+  "microsoft/msphpsql": {
+   "src": "Microsoft Drivers for PHP for SQL Server",
+   "zh": "Microsoft SQL Server的PHP驱动程序"
   }
  }
 }
