@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-26T07:04:13.741Z",
+ "updatedAt": "2026-07-26T12:36:34.467Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -9564,6 +9564,106 @@
   "microsoft/msphpsql": {
    "src": "Microsoft Drivers for PHP for SQL Server",
    "zh": "Microsoft SQL Server的PHP驱动程序"
+  },
+  "fla-org/flash-linear-attention": {
+   "src": "🚀 Efficient implementations for emerging model architectures",
+   "zh": "🚀 新兴模型架构的高效实现"
+  },
+  "sirkirby/unifi-mcp": {
+   "src": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+   "zh": "UniFi 应用套件的 MCP 服务器，包括 Network、Protect、Access 和 Drive"
+  },
+  "Lightning-AI/litgpt": {
+   "src": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+   "zh": "20+ 高性能 LLM，提供预训练、微调和大规模部署的配方。"
+  },
+  "openwrt/luci": {
+   "src": "LuCI - OpenWrt Configuration Interface",
+   "zh": "LuCI - OpenWrt 配置界面"
+  },
+  "EvanZhouDev/openai-oauth": {
+   "src": "Free AI with your ChatGPT account",
+   "zh": "使用你的 ChatGPT 账户免费获取 AI"
+  },
+  "tashfeenahmed/freellmapi": {
+   "src": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "zh": "与 OpenAI 兼容的代理，将 28 个 LLM 提供商的免费层（约 4B tokens/月）堆叠在一个 /v1 端点后 — 以及任何自定义的 OpenAI 兼容端点。智能路由，自动故障转移，加密密钥。仅限个人实验。"
+  },
+  "kepano/defuddle": {
+   "src": "Get the main content of any page as Markdown.",
+   "zh": "获取任何页面的主要内容作为 Markdown。"
+  },
+  "davepoon/buildwithclaude": {
+   "src": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+   "zh": "一个单一的中心，查找 Claude Skills、Agents、Commands、Hooks、Plugins 和 Marketplace 集合，以扩展 Claude Code、Claude Desktop、Agent SDK 和 OpenClaw"
+  },
+  "fish-shell/fish-shell": {
+   "src": "The user-friendly command line shell.",
+   "zh": "用户友好的命令行外壳。"
+  },
+  "therealaleph/MasterHttpRelayVPN-RUST": {
+   "src": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+   "zh": "Rust 移植的 @masterking32 的 MasterHttpRelayVPN — 所有荣誉归于 @masterking32 的原始想法和 Python 实现。通过 Google Apps Script 中继实现免费 DPI 绕过，具有 TLS SNI 隐藏。CLI + 跨平台桌面 UI，HTTP + SOCKS5 代理，无运行时依赖。"
+  },
+  "zzet/gortex": {
+   "src": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/ysC2prTGD",
+   "zh": "高性能代码智能引擎，支持 AI 代理和 IDE，支持 257 种语言，多仓库，基于图形，通过 CLI、MCP 服务器和 API 访问。AI 编码代理队友 - 仅暴露所需信息，减少高达 50 倍的 token 使用。100% 本地。Discord: https://discord.gg/ysC2prTGD"
+  },
+  "quic-go/quic-go": {
+   "src": "A production-ready QUIC implementation in pure Go",
+   "zh": "一个生产就绪的纯 Go QUIC 实现"
+  },
+  "ikemen-engine/Ikemen-GO": {
+   "src": "An open-source fighting game engine that supports MUGEN resources.",
+   "zh": "一个支持 MUGEN 资源的开源格斗游戏引擎。"
+  },
+  "espanso/espanso": {
+   "src": "A Privacy-first, Cross-platform Text Expander written in Rust",
+   "zh": "一个以隐私为首的跨平台文本扩展器，使用 Rust 编写"
+  },
+  "torvalds/GuitarPedal": {
+   "src": "Linus learns analog circuits",
+   "zh": "Linus 学习模拟电路"
+  },
+  "libarchive/libarchive": {
+   "src": "Multi-format archive and compression library",
+   "zh": "多格式归档和压缩库"
+  },
+  "Limine-Bootloader/Limine": {
+   "src": "Modern, secure, portable, multiprotocol bootloader and boot manager.",
+   "zh": "现代、安全、可移植的多协议引导加载程序和引导管理器。"
+  },
+  "zlib-ng/zlib-ng": {
+   "src": "zlib replacement with optimizations for \"next generation\" systems.",
+   "zh": "zlib 替代品，针对“下一代”系统进行了优化。"
+  },
+  "timschneeb/GalaxyBudsClient": {
+   "src": "Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android",
+   "zh": "Windows、macOS、Linux 和 Android 的非官方 Galaxy Buds 管理器"
+  },
+  "kitsumed/ShizuCallRecorder": {
+   "src": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
+   "zh": "ShizuCallRecorder 通过 Shizuku 赋能 ADB，在非越狱设备上录制电话！"
+  },
+  "OxygenCobalt/Auxio": {
+   "src": "A simple, rational music player for android",
+   "zh": "一个简单、理性的 Android 音乐播放器"
+  },
+  "XITRIX/iTorrent": {
+   "src": "Torrent client for iOS 16+",
+   "zh": "iOS 16+ 的 Torrent 客户端"
+  },
+  "quoid/userscripts": {
+   "src": "An open-source userscript manager for Safari",
+   "zh": "一个开源的 Safari 用户脚本管理器"
+  },
+  "Finb/Bark": {
+   "src": "Bark is an iOS App which allows you to push custom notifications to your iPhone",
+   "zh": "Bark 是一款 iOS 应用，允许你向 iPhone 推送自定义通知"
+  },
+  "Cacti/cacti": {
+   "src": "Cacti ™",
+   "zh": "Cacti ™"
   }
  }
 }

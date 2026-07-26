@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-26T07:04:15.125Z",
+ "updatedAt": "2026-07-26T12:36:37.077Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1895,6 +1895,90 @@
    "repo": "seakee/CPA-Manager-Plus",
    "flaggedAt": "2026-07-26T07:04:15.124Z",
    "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "huggingface/speech-to-speech",
+   "flaggedAt": "2026-07-26T12:36:35.062Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "affaan-m/ECC",
+   "flaggedAt": "2026-07-26T12:36:35.222Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pbakaus/impeccable",
+   "flaggedAt": "2026-07-26T12:36:35.498Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "QuantConnect/Lean",
+   "flaggedAt": "2026-07-26T12:36:35.671Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rikkahub/rikkahub",
+   "flaggedAt": "2026-07-26T12:36:35.843Z",
+   "zScore": 5.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "EchoMusicApp/Echo-Music",
+   "flaggedAt": "2026-07-26T12:36:36.032Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "n8n-io/n8n",
+   "flaggedAt": "2026-07-26T12:36:36.241Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dani-garcia/vaultwarden",
+   "flaggedAt": "2026-07-26T12:36:36.389Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "termux/termux-app",
+   "flaggedAt": "2026-07-26T12:36:36.570Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "karpathy/nanoGPT",
+   "flaggedAt": "2026-07-26T12:36:36.743Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "calesthio/Crucix",
+   "flaggedAt": "2026-07-26T12:36:36.905Z",
+   "zScore": 15.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rmyndharis/OpenWA",
+   "flaggedAt": "2026-07-26T12:36:37.076Z",
+   "zScore": 4.4,
    "newAccountShare": null,
    "confirmed": null
   }
