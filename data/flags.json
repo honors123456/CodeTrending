@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-27T04:21:39.614Z",
+ "updatedAt": "2026-07-27T08:04:20.206Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2014,6 +2014,13 @@
    "repo": "Paymenter/Paymenter",
    "flaggedAt": "2026-07-27T04:21:39.614Z",
    "zScore": 9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ZhuLinsen/daily_stock_analysis",
+   "flaggedAt": "2026-07-27T08:04:20.206Z",
+   "zScore": 3.8,
    "newAccountShare": null,
    "confirmed": null
   }
