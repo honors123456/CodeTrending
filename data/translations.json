@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-26T12:36:34.467Z",
+ "updatedAt": "2026-07-27T04:21:38.362Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -514,8 +514,8 @@
    "zh": "无限制的开源替代 AI 视频平台 — 免费的 AI 图像和视频生成工作室，拥有 500 多个模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤器。自托管，MIT 许可。"
   },
   "asgeirtj/system_prompts_leaks": {
-   "src": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-   "zh": "从 Anthropic - Claude Fable 5、Opus 4.8、Claude Code、Claude Design 提取的系统提示。OpenAI - ChatGPT GPT-5.6、Codex GPT-5.6、GPT-5.5。Google - Gemini 3.5 Flash、3.1 Pro、Antigravity。xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
+   "src": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+   "zh": "从 Anthropic - Claude Fable 5、Opus 5、Claude Design、Claude Code 提取的系统提示。OpenAI - ChatGPT GPT-5.6-Sol、Codex。Google - Gemini 3.5 Flash、3.1 Pro、Antigravity。xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。"
   },
   "zarazhangrui/frontend-slides": {
    "src": "Create beautiful slides on the web using a coding agent's frontend skills",
@@ -894,8 +894,8 @@
    "zh": "这是 Google Android 团队使用的 Rust 课程。它为您提供快速教授 Rust 的材料。"
   },
   "1jehuang/jcode": {
-   "src": "The most intelligent agent harness for code",
-   "zh": "最智能的代码代理工具"
+   "src": "The most RAM effiecent harness",
+   "zh": "最节省 RAM 的工具"
   },
   "dbt-labs/dbt-core": {
    "src": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
@@ -8302,8 +8302,8 @@
    "zh": "免费的开源 macOS 清理工具。CleanMyMac 替代品，无任何遥测。原生 SwiftUI，定时自动清理，Xcode/Homebrew/系统缓存清理。MIT 许可。"
   },
   "huangxd-/danmu_api": {
-   "src": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。",
-   "zh": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。"
+   "src": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。",
+   "zh": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。"
   },
   "xuanyustudio/LocalMiniDrama": {
    "src": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
@@ -9664,6 +9664,14 @@
   "Cacti/cacti": {
    "src": "Cacti ™",
    "zh": "Cacti ™"
+  },
+  "jgravelle/jcodemunch-mcp": {
+   "src": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.",
+   "zh": "在代码探索中将 AI 令牌成本降低 95% 以上。通过 tree-sitter AST 提供精确、符号级 GitHub 代码检索的领先 MCP 服务器。与 Claude Code、Cursor 和任何 MCP 客户端兼容。节省超过 313B 令牌。"
+  },
+  "ravindu644/Droidspaces-OSS": {
+   "src": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
+   "zh": "一个轻量级的、类似 LXC 的 Android 和 Linux 容器运行时。以零性能损失原生运行完整的 Linux 发行版。"
   }
  }
 }

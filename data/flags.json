@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-26T12:36:37.077Z",
+ "updatedAt": "2026-07-27T04:21:39.614Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -1979,6 +1979,41 @@
    "repo": "rmyndharis/OpenWA",
    "flaggedAt": "2026-07-26T12:36:37.076Z",
    "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nodejs/node",
+   "flaggedAt": "2026-07-27T04:21:38.896Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jenkinsci/jenkins",
+   "flaggedAt": "2026-07-27T04:21:39.086Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pascalorg/editor",
+   "flaggedAt": "2026-07-27T04:21:39.249Z",
+   "zScore": 46.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "amnezia-vpn/amnezia-client",
+   "flaggedAt": "2026-07-27T04:21:39.397Z",
+   "zScore": 35.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Paymenter/Paymenter",
+   "flaggedAt": "2026-07-27T04:21:39.614Z",
+   "zScore": 9,
    "newAccountShare": null,
    "confirmed": null
   }
