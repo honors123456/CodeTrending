@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-27T08:04:19.743Z",
+ "updatedAt": "2026-07-27T14:05:58.152Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3534,8 +3534,8 @@
    "zh": "Stremio - 自由流媒体"
   },
   "citrolabs/ego-lite": {
-   "src": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-   "zh": "最快的浏览器，供 AI 代理运行网页自动化，旨在与您的 AI 代理（如 Codex 或 Claude Code）共享已登录的浏览器状态，而不打扰您。零成本，零配置。"
+   "src": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+   "zh": "最快的浏览器，用于 AI 代理运行浏览器自动化，旨在与您的 AI 代理（如 Codex 或 Claude Code）共享已登录的浏览器状态，而不打扰您。零成本，零配置。"
   },
   "coreyhaines31/marketingskills": {
    "src": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
@@ -9672,6 +9672,170 @@
   "ravindu644/Droidspaces-OSS": {
    "src": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
    "zh": "一个轻量级的、类似 LXC 的 Android 和 Linux 容器运行时。以零性能损失原生运行完整的 Linux 发行版。"
+  },
+  "666ghj/MiroFish": {
+   "src": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+   "zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+  },
+  "LibreSpark/LibreTV": {
+   "src": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+   "zh": "一分钟搭建影视站，支持Vercel/Docker等部署方式"
+  },
+  "black-ant/Ant-Browser": {
+   "src": "指纹浏览器",
+   "zh": "指纹浏览器"
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+   "src": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+   "zh": "将任何 AI 代理转变为 AI 科学家。全球 170,000+ 科学家使用的科学 #1 代理技能库。154 个现成技能加上 100+ 个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放的 Agent Skills 标准兼容。"
+  },
+  "blader/humanizer": {
+   "src": "Agent skill that removes signs of AI-generated writing from text",
+   "zh": "去除文本中 AI 生成写作痕迹的代理技能"
+  },
+  "arc53/DocsGPT": {
+   "src": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+   "zh": "用于代理、助手和企业搜索的私有 AI 平台。内置代理构建器、深度研究、文档分析、多模型支持和代理的 API 连接。"
+  },
+  "nesquena/hermes-webui": {
+   "src": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+   "zh": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
+  },
+  "Asabeneh/30-Days-Of-Python": {
+   "src": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+   "zh": "30 天 Python 编程挑战是学习 Python 编程语言的逐步指南，持续 30 天。此挑战可能需要超过 100 天。按照自己的节奏进行。这些视频也可能有帮助：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"
+  },
+  "faroukbmiled/RyukGram": {
+   "src": "RyukGram, The Instagram tweak for iOS power users.",
+   "zh": "RyukGram，iOS 强力用户的 Instagram 调整工具。"
+  },
+  "Neet-Nestor/Telegram-Media-Downloader": {
+   "src": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
+   "zh": "一个允许您从 Telegram 网页下载图片和视频的脚本，即使群组限制下载。"
+  },
+  "fspecii/ace-step-ui": {
+   "src": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+   "zh": "🎵 终极开源 Suno 替代品 - 专业 UI 用于 ACE-Step 1.5 AI 音乐生成。免费、本地、无限。停止为 Suno 付费！"
+  },
+  "elie222/inbox-zero": {
+   "src": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+   "zh": "世界上最好的 AI 个人助手，用于电子邮件。开源应用程序，帮助您快速达到收件箱零。"
+  },
+  "hydralauncher/hydra": {
+   "src": "Hydra Launcher is an open-source gaming platform created to be the single tool that you need",
+   "zh": "Hydra Launcher 是一个开源游戏平台，旨在成为您所需的单一工具。"
+  },
+  "lightningpixel/modly": {
+   "src": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+   "zh": "桌面应用程序，使用本地 AI 从图像生成 3D 模型 — 完全在您的 GPU 上运行。"
+  },
+  "Effect-TS/effect": {
+   "src": "Build production-ready applications in TypeScript",
+   "zh": "使用 TypeScript 构建生产就绪的应用程序。"
+  },
+  "edoardottt/cariddi": {
+   "src": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+   "zh": "获取域名列表，爬取 URL 并扫描端点、秘密、API 密钥、文件扩展名、令牌等。"
+  },
+  "autobrr/qui": {
+   "src": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+   "zh": "一个快速的单二进制 qBittorrent 网页 UI：管理多个实例，自动化 torrent 工作流，并在跟踪器之间交叉播种。"
+  },
+  "benbjohnson/litestream": {
+   "src": "Streaming replication for SQLite.",
+   "zh": "SQLite 的流复制。"
+  },
+  "WireGuard/wireguard-go": {
+   "src": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+   "zh": "仅镜像。官方仓库位于 https://git.zx2c4.com/wireguard-go"
+  },
+  "xpzouying/xiaohongshu-mcp": {
+   "src": "MCP for xiaohongshu.com",
+   "zh": "xiaohongshu.com 的 MCP"
+  },
+  "freenet/freenet-core": {
+   "src": "Declare your digital independence",
+   "zh": "宣告您的数字独立性"
+  },
+  "calfonso/rusternetes": {
+   "src": "kubernetes, reimplemented in Rust",
+   "zh": "kubernetes，使用 Rust 重新实现"
+  },
+  "AprilNEA/OpenLogi": {
+   "src": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+   "zh": "⚡️一个本地优先的 Logitech Options+ 替代品，使用 Rust 编写 🦀 — 重新映射按钮、DPI 和 SmartShift 通过 HID++。无需账户，无需遥测。"
+  },
+  "huggingface/candle": {
+   "src": "Minimalist ML framework for Rust",
+   "zh": "Rust 的极简 ML 框架"
+  },
+  "Dicklesworthstone/pi_agent_rust": {
+   "src": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+   "zh": "高性能 AI 编码代理 CLI，使用 Rust 编写，零不安全代码"
+  },
+  "micrometer-metrics/micrometer": {
+   "src": "An application observability facade for the most popular observability tools. Think SLF4J, but for observability.",
+   "zh": "一个应用程序可观察性外观，适用于最流行的可观察性工具。想象一下 SLF4J，但用于可观察性。"
+  },
+  "AsamK/signal-cli": {
+   "src": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
+   "zh": "signal-cli 提供 Signal Messenger 的非官方命令行、JSON-RPC 和 dbus 接口。"
+  },
+  "ryanhcode/sable": {
+   "src": "Interactive physics moving block structures!",
+   "zh": "互动物理移动块结构！"
+  },
+  "shader-slang/slang": {
+   "src": "Making it easier to work with shaders",
+   "zh": "简化与着色器的工作"
+  },
+  "allenk/GeminiWatermarkTool": {
+   "src": "VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool",
+   "zh": "VEO / Gemini 3.5 Nano Banana Pro 水印维护工具"
+  },
+  "official-stockfish/Stockfish": {
+   "src": "A free and strong UCI chess engine",
+   "zh": "一个免费且强大的 UCI 国际象棋引擎"
+  },
+  "palera1n/palera1n": {
+   "src": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
+   "zh": "针对 A8 到 A11、T2 设备的越狱，适用于 iOS/iPadOS/tvOS 15.0、bridgeOS 5.0 及更高版本。"
+  },
+  "TsudaKageyu/minhook": {
+   "src": "The Minimalistic x86/x64 API Hooking Library for Windows",
+   "zh": "Windows 的极简 x86/x64 API Hooking 库"
+  },
+  "checkpoint-restore/criu": {
+   "src": "Checkpoint/Restore tool",
+   "zh": "检查点/恢复工具"
+  },
+  "raspberrypi/linux": {
+   "src": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+   "zh": "Raspberry Pi 提供的内核构建的内核源树。与 linux 内核无关的问题应在社区论坛发布，网址为 https://forums.raspberrypi.com/"
+  },
+  "ramjke/Translumo": {
+   "src": "Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.",
+   "zh": "用于游戏、硬编码字幕视频、静态文本等的高级实时屏幕翻译器。"
+  },
+  "ic3w0lf22/Roblox-Account-Manager": {
+   "src": "Application that allows you to add multiple accounts into one application allowing you to easily play on alt accounts without having to change accounts",
+   "zh": "允许您将多个账户添加到一个应用程序中的应用程序，使您能够轻松在备用账户上玩游戏，而无需更改账户。"
+  },
+  "OrchardCMS/OrchardCore": {
+   "src": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+   "zh": "Orchard Core 是一个开源模块化和多租户应用程序框架，基于 ASP.NET Core 构建，并在该框架上构建了内容管理系统 (CMS)。"
+  },
+  "matthartman/ghost-pepper": {
+   "src": "100% private on-device voice models for speech-to-text and meeting transcription on macOS",
+   "zh": "100% 私有的本地语音模型，用于 macOS 上的语音转文本和会议转录。"
+  },
+  "ChurchCRM/CRM": {
+   "src": "ChurchCRM - A free and open-source Church Management Software (ChMS) to help churches manage their membership data, groups, events, and finances.",
+   "zh": "ChurchCRM - 一个免费的开源教会管理软件 (ChMS)，帮助教会管理其会员数据、团体、活动和财务。"
+  },
+  "use-novamira/novamira": {
+   "src": "MCP server that gives AI agents full access to WordPress through PHP execution and filesystem operations",
+   "zh": "MCP 服务器，允许 AI 代理通过 PHP 执行和文件系统操作完全访问 WordPress"
   }
  }
 }
