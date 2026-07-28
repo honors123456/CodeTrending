@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-28T07:00:40.456Z",
+ "updatedAt": "2026-07-28T13:22:24.129Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -26,8 +26,8 @@
    "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction."
   },
   "chthollyphile/folia-major": {
-   "src": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方在线音乐播放器",
-   "zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方在线音乐播放器"
+   "src": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+   "zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器"
   },
   "hicccc77/WeFlow": {
    "src": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
@@ -9844,6 +9844,162 @@
   "yashab-cyber/opendroid": {
    "src": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
    "zh": "你的开放自主安卓代理——一个生产就绪的自我规划 AI 助手，由本地/远程 LLM 和以可访问性为驱动的屏幕自动化提供支持。"
+  },
+  "NanmiCoder/cc-haha": {
+   "src": "本地优先的跨平台 Claude Code /  Agent 桌面工作台：多 Agent、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、任务感知桌面宠物，并支持微信、飞书、钉钉、Telegram、WhatsApp 与 H5 访问。",
+   "zh": "本地优先的跨平台 Claude Code /  Agent 桌面工作台：多 Agent、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、任务感知桌面宠物，并支持微信、飞书、钉钉、Telegram、WhatsApp 与 H5 访问。"
+  },
+  "basketikun/infinite-canvas": {
+   "src": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
+   "zh": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。"
+  },
+  "Aliothmoon/MAA-Meow": {
+   "src": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+   "zh": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+  },
+  "rime/squirrel": {
+   "src": "【鼠鬚管】Rime for macOS",
+   "zh": "【鼠鬚管】Rime for macOS"
+  },
+  "xiufengsun/TokenTracker": {
+   "src": "Local-first AI token usage & cost tracker for 28 coding tools incl. Claude Code, Codex, Cursor, Gemini & Qoder—with native apps. Never reads prompts.",
+   "zh": "本地优先的 AI 令牌使用和成本跟踪器，支持 28 种编码工具，包括 Claude Code、Codex、Cursor、Gemini 和 Qoder——具有本地应用程序。永远不读取提示。"
+  },
+  "paperswithbacktest/awesome-systematic-trading": {
+   "src": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+   "zh": "一个精心策划的优秀库、包、策略、书籍、博客、教程的列表，用于系统交易。"
+  },
+  "HKUDS/OpenSpace": {
+   "src": "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/",
+   "zh": "\"OpenSpace: AI 代理的技能管理层\" -- https://open-space.cloud/"
+  },
+  "lightseekorg/tokenspeed": {
+   "src": "TokenSpeed is a speed-of-light LLM inference engine.",
+   "zh": "TokenSpeed 是一个光速 LLM 推理引擎。"
+  },
+  "IsmaelMartinez/teams-for-linux": {
+   "src": "Unofficial Microsoft Teams for Linux client",
+   "zh": "非官方的 Microsoft Teams Linux 客户端"
+  },
+  "modelcontextprotocol/modelcontextprotocol": {
+   "src": "Specification and documentation for the Model Context Protocol",
+   "zh": "模型上下文协议的规范和文档"
+  },
+  "medusajs/medusa": {
+   "src": "The world's most flexible commerce platform for agents and developers",
+   "zh": "世界上最灵活的代理和开发者商业平台"
+  },
+  "microsoft/azure-devops-mcp": {
+   "src": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.",
+   "zh": "Azure DevOps 的 MCP 服务器，将 Azure DevOps 的强大功能直接带给您的代理。"
+  },
+  "UditAkhourii/adhd": {
+   "src": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+   "zh": "ADHD — 编码代理的技能。基于 Claude 和 Codex Agent SDK 的思维树与修剪。在不同的认知框架下展开平行的发散思维，评分、修剪陷阱，深化幸存者。创意和跨学科工作的无脑技能。"
+  },
+  "woodpecker-ci/woodpecker": {
+   "src": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+   "zh": "Woodpecker 是一个简单而强大的 CI/CD 引擎，具有出色的可扩展性。"
+  },
+  "micro-editor/micro": {
+   "src": "A modern and intuitive terminal-based text editor",
+   "zh": "一个现代且直观的基于终端的文本编辑器"
+  },
+  "alibaba/skill-up": {
+   "src": "An evaluation and evolution tool for Agent Skills.",
+   "zh": "一个用于代理技能的评估和演变工具。"
+  },
+  "mikefarah/yq": {
+   "src": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor",
+   "zh": "yq 是一个便携式命令行 YAML、JSON、XML、CSV、TOML、HCL 和属性处理器"
+  },
+  "tensorzero/tensorzero": {
+   "src": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+   "zh": "TensorZero 是一个开源 LLMOps 平台，统一了 LLM 网关、可观察性、评估、优化和实验。"
+  },
+  "tokio-rs/axum": {
+   "src": "HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity",
+   "zh": "一个专注于人机工程学和模块化的 Rust HTTP 路由和请求处理库"
+  },
+  "aome510/spotify-player": {
+   "src": "A Spotify player in the terminal with full feature parity",
+   "zh": "一个在终端中的 Spotify 播放器，具有完整的功能对等性"
+  },
+  "Minestom/Minestom": {
+   "src": "26.2 Lightweight Minecraft server",
+   "zh": "26.2 轻量级 Minecraft 服务器"
+  },
+  "JingMatrix/Vector": {
+   "src": "Modern Xposed Framework",
+   "zh": "现代 Xposed 框架"
+  },
+  "vicinaehq/vicinae": {
+   "src": "A focused launcher for your desktop - native, fast, extensible",
+   "zh": "一个专注于桌面的启动器 - 原生、快速、可扩展"
+  },
+  "alibaba/MNN": {
+   "src": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+   "zh": "MNN: 一个经过阿里巴巴战斗测试的超快、轻量级推理引擎，为高性能的本地 LLM 和边缘 AI 提供支持。"
+  },
+  "google/skia": {
+   "src": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.",
+   "zh": "Skia 是一个完整的 2D 图形库，用于绘制文本、几何图形和图像。有关贡献说明，请参见文档。"
+  },
+  "quickjs-ng/quickjs": {
+   "src": "QuickJS, the Next Generation: a mighty JavaScript engine",
+   "zh": "QuickJS，下一代：一个强大的 JavaScript 引擎"
+  },
+  "xroche/httrack": {
+   "src": "HTTrack Website Copier, copy websites to your computer (Official repository)",
+   "zh": "HTTrack 网站复制器，将网站复制到您的计算机（官方仓库）"
+  },
+  "sabrogden/Ditto": {
+   "src": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
+   "zh": "Ditto 是 Windows 剪贴板的扩展。您将某些内容复制到剪贴板，Ditto 会将您复制的内容存储在数据库中，以便稍后检索。"
+  },
+  "trezor/trezor-firmware": {
+   "src": ":lock: Trezor Firmware Monorepo",
+   "zh": ":lock: Trezor 固件单一代码库"
+  },
+  "mercedes-benz/ardep": {
+   "src": "Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)",
+   "zh": "汽车快速开发平台 (ARDEP) 的软件和硬件生产文件"
+  },
+  "darktable-org/darktable": {
+   "src": "darktable is an open source photography workflow application and raw developer",
+   "zh": "darktable 是一个开源摄影工作流程应用程序和原始开发工具"
+  },
+  "Greedeks/GTweak": {
+   "src": "Portable Tool for an Ideal Windows Setup",
+   "zh": "理想 Windows 设置的便携工具"
+  },
+  "nopSolutions/nopCommerce": {
+   "src": "ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.",
+   "zh": "ASP.NET Core 电子商务软件。nopCommerce 是一个免费和开源的购物车。"
+  },
+  "amurcanov/proxy-turn-vk-android": {
+   "src": "WireGuard‑туннель через DTLS‑медиарелей ВК TURN‑серверов: трафик проходит от клиента к вашему личному VPS‑серверу через промежуточные медиарелей‑серверы ВК.",
+   "zh": "WireGuard‑通过 DTLS‑中继 VK TURN 服务器的隧道：流量从客户端通过中间的 VK 中继服务器到达您的个人 VPS 服务器。"
+  },
+  "battlecatsultimate/BCU_Android": {
+   "src": "Battle Cats Ultimate for Androids",
+   "zh": "Battle Cats Ultimate for Android"
+  },
+  "FossifyOrg/Gallery": {
+   "src": "Browse your memories without any interruptions with this photo and video gallery",
+   "zh": "无干扰地浏览您的记忆，使用此照片和视频画廊"
+  },
+  "coteditor/CotEditor": {
+   "src": "Lightweight Plain Text Editor for macOS",
+   "zh": "macOS 的轻量级纯文本编辑器"
+  },
+  "WordPress/WordPress-Coding-Standards": {
+   "src": "PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions",
+   "zh": "PHP_CodeSniffer 规则（嗅探器）以强制执行 WordPress 编码规范"
+  },
+  "slims/slims9_bulian": {
+   "src": "SLiMS 9 Bulian official source code repository.",
+   "zh": "SLiMS 9 Bulian 官方源代码仓库。"
   }
  }
 }
