@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-27T14:05:58.152Z",
+ "updatedAt": "2026-07-28T03:53:59.669Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3554,8 +3554,8 @@
    "zh": "轻量级（7MB）以终端为先的AI原生开发工作区"
   },
   "danielmiessler/LifeOS": {
-   "src": "The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]",
-   "zh": "AI 驱动的工具，将您从当前状态转移到理想状态。一个意图工程平台：它在每个任务中传达您最终想要的内容给您的 AI。[编码、构建、创造、商业、生活、工作，...]"
+   "src": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.",
+   "zh": "⛰️一个通用的爬山算法 AI 工具，帮助你在生活和工作中从当前状态移动到理想状态——从编码到创造力。"
   },
   "AnmolSaini16/mapcn": {
    "src": "Beautiful map components. 100% Free, Zero config, one command setup.",
@@ -9290,8 +9290,8 @@
    "zh": "宝可梦存档文件编辑器"
   },
   "permissionlesstech/bitchat-android": {
-   "src": "bluetooth mesh chat, IRC vibes",
-   "zh": "蓝牙网状聊天，IRC 气氛"
+   "src": "decentralized mesh chat",
+   "zh": "去中心化的网状聊天"
   },
   "kiwix/kiwix-android": {
    "src": "Kiwix for Android",
@@ -9686,8 +9686,8 @@
    "zh": "指纹浏览器"
   },
   "K-Dense-AI/scientific-agent-skills": {
-   "src": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-   "zh": "将任何 AI 代理转变为 AI 科学家。全球 170,000+ 科学家使用的科学 #1 代理技能库。154 个现成技能加上 100+ 个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放的 Agent Skills 标准兼容。"
+   "src": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+   "zh": "将任何 AI 代理转变为 AI 科学家。全球 170,000+ 科学家使用的第一大代理技能库。156 个现成技能加上 100+ 个涵盖生物学、化学、医学和药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 和开放的 Agent Skills 标准。"
   },
   "blader/humanizer": {
    "src": "Agent skill that removes signs of AI-generated writing from text",
@@ -9836,6 +9836,14 @@
   "use-novamira/novamira": {
    "src": "MCP server that gives AI agents full access to WordPress through PHP execution and filesystem operations",
    "zh": "MCP 服务器，允许 AI 代理通过 PHP 执行和文件系统操作完全访问 WordPress"
+  },
+  "opengeos/GeoLibre": {
+   "src": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+   "zh": "一个轻量级的云原生 GIS 平台，用于可视化、探索和分析地理空间数据。它可以在网页浏览器、桌面、移动设备和 Jupyter 笔记本中运行。"
+  },
+  "yashab-cyber/opendroid": {
+   "src": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+   "zh": "你的开放自主安卓代理——一个生产就绪的自我规划 AI 助手，由本地/远程 LLM 和以可访问性为驱动的屏幕自动化提供支持。"
   }
  }
 }
