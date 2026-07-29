@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-28T13:22:25.515Z",
+ "updatedAt": "2026-07-29T03:57:42.978Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2203,6 +2203,34 @@
    "repo": "Crosstalk-Solutions/project-nomad",
    "flaggedAt": "2026-07-28T13:22:25.515Z",
    "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "grokability/snipe-it",
+   "flaggedAt": "2026-07-29T03:57:42.515Z",
+   "zScore": 26.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "getarcaneapp/arcane",
+   "flaggedAt": "2026-07-29T03:57:42.707Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "odysseus-dev/odysseus",
+   "flaggedAt": "2026-07-29T03:57:42.855Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "virgiliojr94/book-to-skill",
+   "flaggedAt": "2026-07-29T03:57:42.978Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }

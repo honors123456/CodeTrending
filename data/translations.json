@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-28T13:22:24.129Z",
+ "updatedAt": "2026-07-29T03:57:42.038Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -3554,8 +3554,8 @@
    "zh": "轻量级（7MB）以终端为先的AI原生开发工作区"
   },
   "danielmiessler/LifeOS": {
-   "src": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.",
-   "zh": "⛰️一个通用的爬山算法 AI 工具，帮助你在生活和工作中从当前状态移动到理想状态——从编码到创造力。"
+   "src": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+   "zh": "⛰️一个通用的爬山 AI 工具，帮助您在生活和工作中从当前状态转变为理想状态。"
   },
   "AnmolSaini16/mapcn": {
    "src": "Beautiful map components. 100% Free, Zero config, one command setup.",
@@ -4434,8 +4434,8 @@
    "zh": "现代云工作负载的虚拟机监控器。功能包括 CPU、内存和设备热插拔，支持运行 Windows 和 Linux 客户机，设备卸载与 vhost-user，且占用空间小。使用 Rust 编写，注重安全性。"
   },
   "tonhowtf/omniget": {
-   "src": "Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media downloads via yt-dlp (1.800+ sites). Extensible plugin system.",
-   "zh": "开源桌面应用，用于下载、组织和学习媒体。原生跨平台（Tauri + Rust + Svelte）。PDF/EPUB 阅读器，具有专注模式、时间戳笔记和间隔重复。通过 yt-dlp 下载媒体（支持 1800+ 个网站）。可扩展的插件系统。"
+   "src": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+   "zh": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍——1800+ 个网站，无需终端。适用于 Windows、macOS 和 Linux 的免费开源桌面应用，内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 提供支持。您的文件保留在您的计算机上。"
   },
   "ruffle-rs/ruffle": {
    "src": "A Flash Player emulator written in Rust",
@@ -9686,8 +9686,8 @@
    "zh": "指纹浏览器"
   },
   "K-Dense-AI/scientific-agent-skills": {
-   "src": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-   "zh": "将任何 AI 代理转变为 AI 科学家。全球 170,000+ 科学家使用的第一大代理技能库。156 个现成技能加上 100+ 个涵盖生物学、化学、医学和药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 和开放的 Agent Skills 标准。"
+   "src": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+   "zh": "将任何 AI 代理转变为 AI 科学家。全球 170,000+ 科学家使用的第一大代理技能库。158 个现成的技能加上 100+ 个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放的代理技能标准兼容。"
   },
   "blader/humanizer": {
    "src": "Agent skill that removes signs of AI-generated writing from text",
@@ -9846,8 +9846,8 @@
    "zh": "你的开放自主安卓代理——一个生产就绪的自我规划 AI 助手，由本地/远程 LLM 和以可访问性为驱动的屏幕自动化提供支持。"
   },
   "NanmiCoder/cc-haha": {
-   "src": "本地优先的跨平台 Claude Code /  Agent 桌面工作台：多 Agent、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、任务感知桌面宠物，并支持微信、飞书、钉钉、Telegram、WhatsApp 与 H5 访问。",
-   "zh": "本地优先的跨平台 Claude Code /  Agent 桌面工作台：多 Agent、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、任务感知桌面宠物，并支持微信、飞书、钉钉、Telegram、WhatsApp 与 H5 访问。"
+   "src": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+   "zh": "本地优先的跨平台桌面工作区，适用于 Claude Code / 代理：多代理、Git 工作树、代码差异、技能市场、多模型、计算机使用、任务感知桌面宠物，支持微信、飞书、钉钉、Telegram、WhatsApp 和 H5 访问。"
   },
   "basketikun/infinite-canvas": {
    "src": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
@@ -10000,6 +10000,22 @@
   "slims/slims9_bulian": {
    "src": "SLiMS 9 Bulian official source code repository.",
    "zh": "SLiMS 9 Bulian 官方源代码仓库。"
+  },
+  "Untrivial-ai/agent-orchestrator": {
+   "src": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
+   "zh": "一个代理 IDE，使您能够管理编码代理的队列。它配备了一个代理协调器，能够规划任务、生成代理，并自主处理 CI 修复、合并冲突和代码审查。"
+  },
+  "superdoc/docx-editor": {
+   "src": "🦋️ SuperDoc - Modern DOCX Editor and Agent SDK",
+   "zh": "🦋️ SuperDoc - 现代 DOCX 编辑器和代理 SDK"
+  },
+  "amir20/dozzle": {
+   "src": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s.",
+   "zh": "容器的实时日志查看器。支持 Docker、Swarm 和 K8s。"
+  },
+  "icysymmetra/tiktok-patches-for-morphe": {
+   "src": "This repository is a Morphe patch source for TikTok.  It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3",
+   "zh": "该仓库是 TikTok 的 Morphe 补丁源。它延续了早期社区 TikTok 补丁集的工作，包括 ReVanced，补丁已针对 Morphe 进行了调整，并在较新的 TikTok 版本上进行了测试。当前目标版本为 TikTok 43.8.3。"
   }
  }
 }
