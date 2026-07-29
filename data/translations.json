@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-29T07:07:19.886Z",
+ "updatedAt": "2026-07-29T13:30:24.289Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -5858,8 +5858,8 @@
    "zh": "NVIDIA Linux 开源 GPU 内核模块源代码"
   },
   "DigitallyRefined/android-ip-camera": {
-   "src": "An Android MJPEG / H.264 IP Camera app",
-   "zh": "一个 Android MJPEG / H.264 IP 摄像头应用"
+   "src": "An Android H.264 / MJPEG IP Camera app",
+   "zh": "一个 Android H.264 / MJPEG IP 摄像头应用"
   },
   "stripe/stripe-android": {
    "src": "Stripe Android SDK",
@@ -10016,6 +10016,186 @@
   "icysymmetra/tiktok-patches-for-morphe": {
    "src": "This repository is a Morphe patch source for TikTok.  It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3",
    "zh": "该仓库是 TikTok 的 Morphe 补丁源。它延续了早期社区 TikTok 补丁集的工作，包括 ReVanced，补丁已针对 Morphe 进行了调整，并在较新的 TikTok 版本上进行了测试。当前目标版本为 TikTok 43.8.3。"
+  },
+  "fishjar/kiss-translator": {
+   "src": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+   "zh": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)"
+  },
+  "certimate-go/certimate": {
+   "src": "An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。",
+   "zh": "An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。"
+  },
+  "qxcnm/Codex-Manager": {
+   "src": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。",
+   "zh": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。"
+  },
+  "deepfakes/faceswap": {
+   "src": "Deepfakes Software For All",
+   "zh": "深度伪造软件为所有人"
+  },
+  "microsoft/VibeVoice": {
+   "src": "Open-Source Frontier Voice AI",
+   "zh": "开源前沿语音 AI"
+  },
+  "sgl-project/sglang": {
+   "src": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+   "zh": "SGLang 是一个高性能的服务框架，适用于大型语言模型和多模态模型。"
+  },
+  "polarsource/polar": {
+   "src": "Polar — A billing platform for the intelligence era",
+   "zh": "Polar — 智能时代的计费平台"
+  },
+  "shaka-project/shaka-player": {
+   "src": "JavaScript player library / DASH & HLS client / MSE-EME player",
+   "zh": "JavaScript 播放器库 / DASH & HLS 客户端 / MSE-EME 播放器"
+  },
+  "vrgamegirl19/comfyui-vrgamedevgirl": {
+   "src": "Custom ComfyUI nodes for film grain, color matching, and video enhancement.",
+   "zh": "用于电影颗粒、颜色匹配和视频增强的自定义 ComfyUI 节点。"
+  },
+  "gildas-lormeau/SingleFile": {
+   "src": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+   "zh": "Web 扩展，用于以单个 HTML 文件保存完整网页的真实副本"
+  },
+  "vllm-project/recipes": {
+   "src": "Common recipes to run vLLM",
+   "zh": "运行 vLLM 的常见配方"
+  },
+  "ComposioHQ/composio": {
+   "src": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+   "zh": "Composio 支持 1000 多个工具包、工具搜索、上下文管理、身份验证，以及一个沙盒工作台，帮助您构建将意图转化为行动的 AI 代理。"
+  },
+  "remotion-dev/remotion": {
+   "src": "🎥      Make videos programmatically with React",
+   "zh": "🎥 用 React 程序化制作视频"
+  },
+  "deepcoldy/botmux": {
+   "src": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session",
+   "zh": "将 Feishu/Lark 桥接到 AI 编码 CLI — Claude Code、Codex、Gemini、OpenCode……每个 DM、群组或主题都会生成自己的实时流 CLI 会话"
+  },
+  "linkwarden/linkwarden": {
+   "src": "⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.",
+   "zh": "⚡️⚡️⚡️ 自托管的协作书签管理器，用于收集、阅读、注释和完全保存重要内容，所有内容集中在一个地方。"
+  },
+  "JOYCEQL/magic-resume": {
+   "src": "free online AI resume editor，the only official website is  https://magicv.art",
+   "zh": "免费的在线 AI 简历编辑器，唯一官方网站是 https://magicv.art"
+  },
+  "ag-ui-protocol/ag-ui": {
+   "src": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "zh": "AG-UI：代理-用户交互协议。将代理引入前端应用程序。"
+  },
+  "OneUptime/oneuptime": {
+   "src": "Complete open-source monitoring and observability platform.",
+   "zh": "完整的开源监控和可观察性平台。"
+  },
+  "refactoringhq/tolaria": {
+   "src": "Desktop app to manage markdown knowledge bases",
+   "zh": "桌面应用程序，用于管理 markdown 知识库"
+  },
+  "chenglou/pretext": {
+   "src": "Fast, accurate & comprehensive text measurement & layout",
+   "zh": "快速、准确且全面的文本测量和布局"
+  },
+  "rorkai/App-Store-Connect-CLI": {
+   "src": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts",
+   "zh": "快速、可脚本化的 CLI，用于 App Store Connect API。自动化 TestFlight、构建、提交、签名、分析、截图、订阅等。以 JSON 为先，无交互提示"
+  },
+  "heroiclabs/nakama": {
+   "src": "Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.",
+   "zh": "可扩展的开源游戏后端服务器：多玩家、匹配、排行榜、聊天和社交功能。"
+  },
+  "gitleaks/gitleaks": {
+   "src": "Find secrets with Gitleaks 🔑",
+   "zh": "使用 Gitleaks 查找秘密 🔑"
+  },
+  "modelcontextprotocol/rust-sdk": {
+   "src": "The official Rust SDK for the Model Context Protocol",
+   "zh": "Model Context Protocol 的官方 Rust SDK"
+  },
+  "nolabs-ai/nono": {
+   "src": "Sandbox any AI agent in seconds - zero setup, zero latency.",
+   "zh": "在几秒钟内沙盒任何 AI 代理 - 零设置，零延迟。"
+  },
+  "superradcompany/microsandbox": {
+   "src": "🧱 easy fast local-first microVM runtime and library",
+   "zh": "🧱 简易快速的本地优先微虚拟机运行时和库"
+  },
+  "agavra/tuicr": {
+   "src": "a code review TUI with vim keybindings",
+   "zh": "一个带有 vim 键绑定的代码审查 TUI"
+  },
+  "raphamorim/rio": {
+   "src": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+   "zh": "一个硬件加速的 GPU 终端仿真器，专注于在桌面和浏览器中运行。"
+  },
+  "tracel-ai/burn": {
+   "src": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+   "zh": "Burn 是一个下一代张量库和深度学习框架，不妥协于灵活性、效率和可移植性。"
+  },
+  "TrackerControl/tracker-control-android": {
+   "src": "TrackerControl Android: monitor and control trackers and ads.",
+   "zh": "TrackerControl Android：监控和控制跟踪器和广告。"
+  },
+  "Mininglamp-OSS/octo-android": {
+   "src": "OCTO Android Client — Open-source enterprise IM",
+   "zh": "OCTO Android 客户端 — 开源企业 IM"
+  },
+  "fwupd/fwupd": {
+   "src": "A system daemon to allow session software to update firmware",
+   "zh": "一个系统守护进程，允许会话软件更新固件"
+  },
+  "ufrisk/pcileech": {
+   "src": "Direct Memory Access (DMA) Attack Software",
+   "zh": "直接内存访问 (DMA) 攻击软件"
+  },
+  "esphome/esphome": {
+   "src": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+   "zh": "ESPHome 是一个通过简单而强大的配置文件控制您的 ESP32、ESP8266、BK72xx、RP2040 的系统，并通过家庭自动化系统远程控制它们。"
+  },
+  "geo-tp/ESP32-Bit-Pirate": {
+   "src": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+   "zh": "一个具有基于 Web 的 CLI 的硬件黑客工具，支持所有协议"
+  },
+  "opencv/opencv_contrib": {
+   "src": "Repository for OpenCV's extra modules",
+   "zh": "OpenCV 的额外模块的代码库"
+  },
+  "OrcaSlicer/OrcaSlicer": {
+   "src": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+   "zh": "3D 打印机的 G-code 生成器（Bambu、Prusa、Voron、VzBot、RatRig、Creality 等）。"
+  },
+  "wled/WLED": {
+   "src": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+   "zh": "通过 WiFi 使用 ESP32 控制 WS2812B 和更多类型的数字 RGB LED！"
+  },
+  "google/xls": {
+   "src": "XLS: Accelerated HW Synthesis",
+   "zh": "XLS：加速硬件综合"
+  },
+  "mamedev/mame": {
+   "src": "MAME",
+   "zh": "MAME"
+  },
+  "kungfu-systems/kungfu": {
+   "src": "Continuity for Agent Work",
+   "zh": "代理工作的连续性"
+  },
+  "tharunbirla/LibreCuts": {
+   "src": "LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.",
+   "zh": "LibreCuts 是一个免费的开源视频编辑器，专为 Android 设计，优先考虑简单性和效率。"
+  },
+  "kyujin-cho/pixel-volte-patch": {
+   "src": "Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch",
+   "zh": "Pixel IMS：无根替代 Tensor Pixel VoLTE 补丁"
+  },
+  "roro2239/Stellar": {
+   "src": "Another Shizuku impl",
+   "zh": "另一个 Shizuku 实现"
+  },
+  "ejbills/DockDoor": {
+   "src": "Window peeking, alt-tab and other enhancements for macOS",
+   "zh": "窗口预览、切换应用和其他 macOS 增强功能"
   }
  }
 }
