@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-29T13:30:24.289Z",
+ "updatedAt": "2026-07-30T03:47:14.562Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -894,8 +894,8 @@
    "zh": "这是 Google Android 团队使用的 Rust 课程。它为您提供快速教授 Rust 的材料。"
   },
   "1jehuang/jcode": {
-   "src": "The most RAM effiecent harness",
-   "zh": "最节省 RAM 的工具"
+   "src": "The most RAM efficient harness",
+   "zh": "最节省内存的测试框架"
   },
   "dbt-labs/dbt-core": {
    "src": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
@@ -1970,8 +1970,8 @@
    "zh": "出色的 Golang ORM 库，旨在对开发者友好"
   },
   "router-for-me/CLIProxyAPI": {
-   "src": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
-   "zh": "将 Antigravity、ChatGPT Codex、Claude Code、Grok Build 包装为 OpenAI/Gemini/Claude/Codex 兼容的 API 服务，让您通过 API 享受免费的 Gemini 3.1 Pro、GPT 5.5、Grok 4.3、Claude 模型"
+   "src": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API",
+   "zh": "将 Antigravity、ChatGPT Codex、Claude Code、Grok Build 包装为 OpenAI/Gemini/Claude/Codex 兼容的 API 服务，让你通过 API 享受免费的 Gemini 3.1 Pro、GPT 5.6 系列、Grok 4.5、Claude 模型。"
   },
   "multica-ai/multica": {
    "src": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
@@ -10196,6 +10196,14 @@
   "ejbills/DockDoor": {
    "src": "Window peeking, alt-tab and other enhancements for macOS",
    "zh": "窗口预览、切换应用和其他 macOS 增强功能"
+  },
+  "herdrdev/herdr": {
+   "src": "agent multiplexer that lives in your terminal.",
+   "zh": "在你的终端中运行的代理多路复用器。"
+  },
+  "SimplifyJobs/Summer2027-Internships": {
+   "src": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+   "zh": "2026 年夏季软件工程、数据科学、人工智能、量化、产品管理和硬件实习职位。由 Simplify 和 Pitt CSC 每日更新。"
   }
  }
 }
