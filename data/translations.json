@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-30T07:05:26.865Z",
+ "updatedAt": "2026-07-30T13:17:35.608Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -5974,8 +5974,8 @@
    "zh": "使用 Docker 定义和运行多容器应用程序。"
   },
   "malisper/pgrust": {
-   "src": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-   "zh": "用 Rust 重写的 Postgres，现在通过 100% 的 Postgres 回归测试。"
+   "src": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
+   "zh": "用 Rust 重写的 Postgres，现在比 Postgres 和 Clickhouse 更快"
   },
   "ast-grep/ast-grep": {
    "src": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
@@ -10198,12 +10198,132 @@
    "zh": "窗口预览、切换应用和其他 macOS 增强功能"
   },
   "herdrdev/herdr": {
-   "src": "agent multiplexer that lives in your terminal.",
-   "zh": "在你的终端中运行的代理多路复用器。"
+   "src": "the runtime your coding agents live on",
+   "zh": "你的编码代理所运行的环境"
   },
   "SimplifyJobs/Summer2027-Internships": {
    "src": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
    "zh": "2026 年夏季软件工程、数据科学、人工智能、量化、产品管理和硬件实习职位。由 Simplify 和 Pitt CSC 每日更新。"
+  },
+  "PaddlePaddle/Paddle": {
+   "src": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+   "zh": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）"
+  },
+  "nyxxbit/discord-quest-completer": {
+   "src": "Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.",
+   "zh": "在几秒钟内自动完成每个 Discord Quest。粘贴一个脚本，获取所有奖励。弹性模块加载器，自动索取，自适应速度。无需安装，无需令牌，无依赖。"
+  },
+  "ScrapeGraphAI/Scrapegraph-ai": {
+   "src": "Python scraper based on AI",
+   "zh": "基于 AI 的 Python 爬虫"
+  },
+  "odoo/odoo": {
+   "src": "Odoo. Open Source Apps To Grow Your Business.",
+   "zh": "Odoo。开源应用程序，助力您的业务增长。"
+  },
+  "github/awesome-copilot": {
+   "src": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+   "zh": "社区贡献的说明、代理、技能和配置，帮助您充分利用 GitHub Copilot。"
+  },
+  "streamlit/streamlit": {
+   "src": "Streamlit — A faster way to build and share data apps.",
+   "zh": "Streamlit — 构建和分享数据应用的更快方式。"
+  },
+  "harbor-framework/harbor": {
+   "src": "Framework for evaluating and improving agents",
+   "zh": "评估和改进代理的框架"
+  },
+  "styled-components/styled-components": {
+   "src": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+   "zh": "快速、表达式丰富的 React 样式。服务器组件、客户端组件、流式 SSR、React Native——一个 API。"
+  },
+  "modelcontextprotocol/typescript-sdk": {
+   "src": "The official TypeScript SDK for Model Context Protocol servers and clients",
+   "zh": "Model Context Protocol 服务器和客户端的官方 TypeScript SDK"
+  },
+  "directus/directus": {
+   "src": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+   "zh": "为您的所有项目提供灵活的后端 🐰 将您的数据库转变为无头 CMS、管理面板或具有自定义 UI、即时 API、身份验证等的应用。"
+  },
+  "cert-manager/cert-manager": {
+   "src": "Automatically provision and manage TLS certificates in Kubernetes",
+   "zh": "自动在 Kubernetes 中配置和管理 TLS 证书"
+  },
+  "argoproj/argo-workflows": {
+   "src": "Workflow Engine for Kubernetes",
+   "zh": "Kubernetes 的工作流引擎"
+  },
+  "openshift/origin": {
+   "src": "Conformance test suite for OpenShift",
+   "zh": "OpenShift 的合规性测试套件"
+  },
+  "pulumi/pulumi": {
+   "src": "Pulumi - Infrastructure as Code in any programming language 🚀",
+   "zh": "Pulumi - 任何编程语言的基础设施即代码 🚀"
+  },
+  "ccfos/nightingale": {
+   "src": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
+   "zh": "Nightingale 在监控和警报方面的作用就像 Grafana 在可视化方面的作用。"
+  },
+  "github/gh-aw": {
+   "src": "GitHub Agentic Workflows",
+   "zh": "GitHub Agentic Workflows"
+  },
+  "nianzhibai/91": {
+   "src": "nine one",
+   "zh": "九一"
+  },
+  "slint-ui/slint": {
+   "src": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+   "zh": "Slint 是一个开源声明式 GUI 工具包，用于为 Rust、C++、JavaScript 或 Python 应用构建原生用户界面。"
+  },
+  "clockworklabs/SpacetimeDB": {
+   "src": "Development at the speed of light",
+   "zh": "以光速进行开发"
+  },
+  "cloudflare/pingora": {
+   "src": "A library for building fast, reliable and evolvable network services.",
+   "zh": "一个用于构建快速、可靠和可演变网络服务的库。"
+  },
+  "xoureldeen/Vectras-VM-Android": {
+   "src": "It's a Virtual Machine App for Android Which is Based on QEMU",
+   "zh": "这是一个基于 QEMU 的 Android 虚拟机应用"
+  },
+  "firebase/firebase-ios-sdk": {
+   "src": "Firebase SDK for Apple App Development",
+   "zh": "用于 Apple 应用开发的 Firebase SDK"
+  },
+  "PixarAnimationStudios/OpenUSD": {
+   "src": "Universal Scene Description",
+   "zh": "通用场景描述"
+  },
+  "ARMmbed/mbed-os": {
+   "src": "Arm Mbed OS is a platform operating system designed for the internet of things",
+   "zh": "Arm Mbed OS 是为物联网设计的平台操作系统"
+  },
+  "dotnet/wpf": {
+   "src": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+   "zh": "WPF 是一个 .NET Core UI 框架，用于构建 Windows 桌面应用程序。"
+  },
+  "rommapp/argosy-launcher": {
+   "src": "A native Android client for RomM  for syncing, installing, and launching games on any of your mobile devices",
+   "zh": "一个用于 RomM 的原生 Android 客户端，用于在您的移动设备上同步、安装和启动游戏"
+  },
+  "FossifyOrg/Phone": {
+   "src": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
+   "zh": "一个方便的电话管理器，具有电话簿、号码屏蔽和多 SIM 支持"
+  },
+  "xchacha20-poly1305/husi": {
+   "src": "Husi is a non-professional and recreational proxy tool integration, aiming at promoting proxy customization.",
+   "zh": "Husi 是一个非专业和休闲的代理工具集成，旨在促进代理定制。"
+  },
+  "ppy/osu-web": {
+   "src": "the browser-facing portion of osu!",
+   "zh": "osu! 的浏览器端部分"
+  },
+  "LibreBooking/librebooking": {
+   "src": "LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The \"develop\" branch contains the latest code of the project.",
+   "zh": "LibreBooking 是一个开源资源调度解决方案。它为组织提供了一个灵活、移动友好和可扩展的界面来管理资源预订。\"develop\" 分支包含项目的最新代码。"
   }
  }
 }

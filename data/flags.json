@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-30T07:05:27.429Z",
+ "updatedAt": "2026-07-30T13:17:37.122Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2350,6 +2350,41 @@
    "repo": "ulsklyc/yuvomi",
    "flaggedAt": "2026-07-30T07:05:27.429Z",
    "zScore": 12.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cline/cline",
+   "flaggedAt": "2026-07-30T13:17:36.270Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LiveContainer/LiveContainer",
+   "flaggedAt": "2026-07-30T13:17:36.506Z",
+   "zScore": 8.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TencentCloud/TencentDB-Agent-Memory",
+   "flaggedAt": "2026-07-30T13:17:36.698Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fleetbase/fleetbase",
+   "flaggedAt": "2026-07-30T13:17:36.905Z",
+   "zScore": 21.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenWhispr/openwhispr",
+   "flaggedAt": "2026-07-30T13:17:37.121Z",
+   "zScore": 4.2,
    "newAccountShare": null,
    "confirmed": null
   }
