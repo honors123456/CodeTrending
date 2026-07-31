@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-30T13:17:35.608Z",
+ "updatedAt": "2026-07-31T04:06:33.536Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10324,6 +10324,10 @@
   "LibreBooking/librebooking": {
    "src": "LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The \"develop\" branch contains the latest code of the project.",
    "zh": "LibreBooking 是一个开源资源调度解决方案。它为组织提供了一个灵活、移动友好和可扩展的界面来管理资源预订。\"develop\" 分支包含项目的最新代码。"
+  },
+  "snownico0722/PaperTodo": {
+   "src": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+   "zh": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown."
   }
  }
 }
