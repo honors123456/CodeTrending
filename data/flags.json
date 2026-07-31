@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-31T07:17:49.678Z",
+ "updatedAt": "2026-07-31T13:30:39.837Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2448,6 +2448,55 @@
    "repo": "rohitg00/agentmemory",
    "flaggedAt": "2026-07-31T04:06:35.354Z",
    "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "obsproject/obs-studio",
+   "flaggedAt": "2026-07-31T13:30:38.691Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "multica-ai/multica",
+   "flaggedAt": "2026-07-31T13:30:38.870Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bytedance/deer-flow",
+   "flaggedAt": "2026-07-31T13:30:39.093Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gitroomhq/postiz-app",
+   "flaggedAt": "2026-07-31T13:30:39.301Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "esengine/DeepSeek-Reasonix",
+   "flaggedAt": "2026-07-31T13:30:39.482Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "InsForge/InsForge",
+   "flaggedAt": "2026-07-31T13:30:39.673Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "github/gh-stack",
+   "flaggedAt": "2026-07-31T13:30:39.837Z",
+   "zScore": 12.6,
    "newAccountShare": null,
    "confirmed": null
   }
