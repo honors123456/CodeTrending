@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-01T07:04:23.602Z",
+ "updatedAt": "2026-08-01T12:40:42.067Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2518,6 +2518,20 @@
    "repo": "antirez/ds4",
    "flaggedAt": "2026-08-01T07:04:23.601Z",
    "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Gentleman-Programming/gentle-ai",
+   "flaggedAt": "2026-08-01T12:40:41.883Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/flint-chart",
+   "flaggedAt": "2026-08-01T12:40:42.067Z",
+   "zScore": 3.7,
    "newAccountShare": null,
    "confirmed": null
   }
