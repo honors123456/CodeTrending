@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-02T07:13:38.288Z",
+ "updatedAt": "2026-08-02T12:40:24.518Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2553,6 +2553,20 @@
    "repo": "hcengineering/platform",
    "flaggedAt": "2026-08-02T07:13:38.288Z",
    "zScore": 9.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Z4nzu/hackingtool",
+   "flaggedAt": "2026-08-02T12:40:24.281Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "wxxsfxyzm/InstallerX-Revived",
+   "flaggedAt": "2026-08-02T12:40:24.517Z",
+   "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
   }
