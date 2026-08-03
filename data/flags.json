@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-02T12:40:24.518Z",
+ "updatedAt": "2026-08-03T04:21:58.681Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2567,6 +2567,244 @@
    "repo": "wxxsfxyzm/InstallerX-Revived",
    "flaggedAt": "2026-08-02T12:40:24.517Z",
    "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "django/django",
+   "flaggedAt": "2026-08-03T04:21:53.455Z",
+   "zScore": 6.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "browser-use/video-use",
+   "flaggedAt": "2026-08-03T04:21:53.632Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sveltejs/svelte",
+   "flaggedAt": "2026-08-03T04:21:53.802Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vercel/next.js",
+   "flaggedAt": "2026-08-03T04:21:53.963Z",
+   "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tailwindlabs/tailwindcss",
+   "flaggedAt": "2026-08-03T04:21:54.108Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vuejs/vue",
+   "flaggedAt": "2026-08-03T04:21:54.258Z",
+   "zScore": 6.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/vscode",
+   "flaggedAt": "2026-08-03T04:21:54.494Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "angular/angular",
+   "flaggedAt": "2026-08-03T04:21:54.648Z",
+   "zScore": 10.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "grafana/grafana",
+   "flaggedAt": "2026-08-03T04:21:54.816Z",
+   "zScore": 9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "prometheus/prometheus",
+   "flaggedAt": "2026-08-03T04:21:54.959Z",
+   "zScore": 13.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "golang/go",
+   "flaggedAt": "2026-08-03T04:21:55.118Z",
+   "zScore": 6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kubernetes/kubernetes",
+   "flaggedAt": "2026-08-03T04:21:55.252Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "junegunn/fzf",
+   "flaggedAt": "2026-08-03T04:21:55.378Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rust-lang/rust",
+   "flaggedAt": "2026-08-03T04:21:55.516Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "oven-sh/bun",
+   "flaggedAt": "2026-08-03T04:21:55.706Z",
+   "zScore": 9.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "denoland/deno",
+   "flaggedAt": "2026-08-03T04:21:55.856Z",
+   "zScore": 7.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "elastic/elasticsearch",
+   "flaggedAt": "2026-08-03T04:21:56.016Z",
+   "zScore": 11.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tensorflow/tensorflow",
+   "flaggedAt": "2026-08-03T04:21:56.155Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tmux/tmux",
+   "flaggedAt": "2026-08-03T04:21:56.292Z",
+   "zScore": 9.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fastapi/fastapi",
+   "flaggedAt": "2026-08-03T04:21:56.443Z",
+   "zScore": 8.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "python/cpython",
+   "flaggedAt": "2026-08-03T04:21:56.593Z",
+   "zScore": 8.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "react/react",
+   "flaggedAt": "2026-08-03T04:21:56.769Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "toeverything/AFFiNE",
+   "flaggedAt": "2026-08-03T04:21:56.905Z",
+   "zScore": 9.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BurntSushi/ripgrep",
+   "flaggedAt": "2026-08-03T04:21:57.029Z",
+   "zScore": 5.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sharkdp/bat",
+   "flaggedAt": "2026-08-03T04:21:57.144Z",
+   "zScore": 11.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "astral-sh/ruff",
+   "flaggedAt": "2026-08-03T04:21:57.268Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "apache/kafka",
+   "flaggedAt": "2026-08-03T04:21:57.426Z",
+   "zScore": 11.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "redis/redis",
+   "flaggedAt": "2026-08-03T04:21:57.578Z",
+   "zScore": 7.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jqlang/jq",
+   "flaggedAt": "2026-08-03T04:21:57.806Z",
+   "zScore": 19.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "godotengine/godot",
+   "flaggedAt": "2026-08-03T04:21:57.935Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JetBrains/kotlin",
+   "flaggedAt": "2026-08-03T04:21:58.104Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "prisma/prisma",
+   "flaggedAt": "2026-08-03T04:21:58.370Z",
+   "zScore": 17.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "docker/compose",
+   "flaggedAt": "2026-08-03T04:21:58.527Z",
+   "zScore": 14,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "chaitin/SafeLine",
+   "flaggedAt": "2026-08-03T04:21:58.681Z",
+   "zScore": 8.4,
    "newAccountShare": null,
    "confirmed": null
   }
