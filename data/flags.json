@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-03T04:21:58.681Z",
+ "updatedAt": "2026-08-14T02:00:23.886Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -2805,6 +2805,202 @@
    "repo": "chaitin/SafeLine",
    "flaggedAt": "2026-08-03T04:21:58.681Z",
    "zScore": 8.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tailwindlabs/tailwindcss",
+   "flaggedAt": "2026-08-14T02:00:20.292Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "DayuanJiang/next-ai-draw-io",
+   "flaggedAt": "2026-08-14T02:00:20.402Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "macro-inc/macro",
+   "flaggedAt": "2026-08-14T02:00:20.541Z",
+   "zScore": 25.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "donnemartin/system-design-primer",
+   "flaggedAt": "2026-08-14T02:00:20.669Z",
+   "zScore": 7.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Significant-Gravitas/AutoGPT",
+   "flaggedAt": "2026-08-14T02:00:20.846Z",
+   "zScore": 8.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "huggingface/transformers",
+   "flaggedAt": "2026-08-14T02:00:21.142Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Comfy-Org/ComfyUI",
+   "flaggedAt": "2026-08-14T02:00:21.267Z",
+   "zScore": 9.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TauricResearch/TradingAgents",
+   "flaggedAt": "2026-08-14T02:00:21.401Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "3b1b/manim",
+   "flaggedAt": "2026-08-14T02:00:21.496Z",
+   "zScore": 15.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "paperclipai/paperclip",
+   "flaggedAt": "2026-08-14T02:00:21.628Z",
+   "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LadybirdBrowser/ladybird",
+   "flaggedAt": "2026-08-14T02:00:21.755Z",
+   "zScore": 12.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "barry-ran/QtScrcpy",
+   "flaggedAt": "2026-08-14T02:00:21.880Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bannedbook/fanqiang",
+   "flaggedAt": "2026-08-14T02:00:22.009Z",
+   "zScore": 10.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jaywcjlove/awesome-mac",
+   "flaggedAt": "2026-08-14T02:00:22.115Z",
+   "zScore": 8.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "danielmiessler/LifeOS",
+   "flaggedAt": "2026-08-14T02:00:22.218Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "drawdb-io/drawdb",
+   "flaggedAt": "2026-08-14T02:00:22.334Z",
+   "zScore": 13.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "addyosmani/agent-skills",
+   "flaggedAt": "2026-08-14T02:00:22.438Z",
+   "zScore": 9.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TencentCloud/TencentDB-Agent-Memory",
+   "flaggedAt": "2026-08-14T02:00:22.558Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jdx/mise",
+   "flaggedAt": "2026-08-14T02:00:22.669Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "smicallef/spiderfoot",
+   "flaggedAt": "2026-08-14T02:00:22.774Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "FalkorDB/FalkorDB",
+   "flaggedAt": "2026-08-14T02:00:22.909Z",
+   "zScore": 14.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "opa334/Dopamine",
+   "flaggedAt": "2026-08-14T02:00:23.043Z",
+   "zScore": 19.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cactus-compute/needle",
+   "flaggedAt": "2026-08-14T02:00:23.172Z",
+   "zScore": 32.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "google/skills",
+   "flaggedAt": "2026-08-14T02:00:23.289Z",
+   "zScore": 6.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "freestylefly/awesome-gpt-image-2",
+   "flaggedAt": "2026-08-14T02:00:23.404Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "lightningpixel/modly",
+   "flaggedAt": "2026-08-14T02:00:23.624Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Untrivial-ai/agent-orchestrator",
+   "flaggedAt": "2026-08-14T02:00:23.736Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sgl-project/sglang",
+   "flaggedAt": "2026-08-14T02:00:23.886Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }

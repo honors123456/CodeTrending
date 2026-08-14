@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-03T04:21:52.888Z",
+ "updatedAt": "2026-08-14T02:00:19.772Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -4766,8 +4766,8 @@
    "zh": "一个适合你 CPU（和口袋）的 TTS"
   },
   "XiaoYouChR/Ghost-Downloader-3": {
-   "src": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
-   "zh": "一个基于 Python 和 Qt 构建的 AI 驱动的跨平台多协议流畅设计并发下载器。"
+   "src": "The only downloader you need. 下载器的集大成者.",
+   "zh": "The only downloader you need. 下载器的集大成者."
   },
   "anthropics/claude-plugins-official": {
    "src": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -6398,8 +6398,8 @@
    "zh": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
   },
   "Linsxyx/KugouMusic.NET": {
-   "src": "最好用最轻量的第三方酷狗概念版音乐播放器",
-   "zh": "最好用最轻量的第三方酷狗概念版音乐播放器"
+   "src": "基于 .NET 10 与 Avalonia 打造的轻量级跨平台酷狗音乐客户端。",
+   "zh": "基于 .NET 10 与 Avalonia 打造的轻量级跨平台酷狗音乐客户端。"
   },
   "bigskysoftware/htmx": {
    "src": "</> htmx - high power tools for HTML",
@@ -10356,6 +10356,18 @@
   "Solr159/JavBoss": {
    "src": "开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.",
    "zh": "开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager."
+  },
+  "ZuodaoTech/everyone-can-use-english": {
+   "src": "人人都能用英语",
+   "zh": "人人都能用英语"
+  },
+  "geekjourneyx/md2wechat-skill": {
+   "src": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理",
+   "zh": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理"
+  },
+  "waditu/czsc": {
+   "src": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+   "zh": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易"
   }
  }
 }
