@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-14T02:38:38.816Z",
+ "updatedAt": "2026-08-14T05:43:38.157Z",
  "entries": [
   {
    "repo": "usestrix/strix",
@@ -14764,6 +14764,12 @@
   {
    "repo": "MetrolistGroup/Metrolist",
    "language": "kotlin",
+   "firstSeen": "2026-08-14",
+   "lastSeenOnTrending": "2026-08-14"
+  },
+  {
+   "repo": "deepseek-ai/deepseek-harness",
+   "language": "typescript",
    "firstSeen": "2026-08-14",
    "lastSeenOnTrending": "2026-08-14"
   }
