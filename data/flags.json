@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-15T11:56:58.564Z",
+ "updatedAt": "2026-08-16T02:14:50.452Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3127,6 +3127,20 @@
    "repo": "microsoft/AI-Engineering-Coach",
    "flaggedAt": "2026-08-15T11:56:58.563Z",
    "zScore": 22.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "altic-dev/FluidVoice",
+   "flaggedAt": "2026-08-16T02:14:50.273Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ZSeven-W/openpencil",
+   "flaggedAt": "2026-08-16T02:14:50.452Z",
+   "zScore": 6.2,
    "newAccountShare": null,
    "confirmed": null
   }
