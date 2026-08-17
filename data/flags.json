@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-16T11:56:56.980Z",
+ "updatedAt": "2026-08-17T02:03:31.134Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3190,6 +3190,20 @@
    "repo": "akitaonrails/ai-memory",
    "flaggedAt": "2026-08-16T11:56:56.980Z",
    "zScore": 6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "harry0703/MoneyPrinterTurbo",
+   "flaggedAt": "2026-08-17T02:03:30.796Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nautechsystems/nautilus_trader",
+   "flaggedAt": "2026-08-17T02:03:31.134Z",
+   "zScore": 3.1,
    "newAccountShare": null,
    "confirmed": null
   }
