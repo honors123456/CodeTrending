@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-17T02:03:31.134Z",
+ "updatedAt": "2026-08-17T05:19:03.127Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3204,6 +3204,27 @@
    "repo": "nautechsystems/nautilus_trader",
    "flaggedAt": "2026-08-17T02:03:31.134Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "byoungd/up",
+   "flaggedAt": "2026-08-17T05:19:02.548Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "malisper/pgrust",
+   "flaggedAt": "2026-08-17T05:19:02.800Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "memvid/memvid",
+   "flaggedAt": "2026-08-17T05:19:03.127Z",
+   "zScore": 8.1,
    "newAccountShare": null,
    "confirmed": null
   }
