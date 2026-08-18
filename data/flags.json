@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-18T05:07:35.689Z",
+ "updatedAt": "2026-08-18T12:00:54.518Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3337,6 +3337,83 @@
    "repo": "yashab-cyber/opendroid",
    "flaggedAt": "2026-08-18T05:07:35.688Z",
    "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "django/django",
+   "flaggedAt": "2026-08-18T12:00:52.758Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vuejs/vue",
+   "flaggedAt": "2026-08-18T12:00:52.920Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/vscode",
+   "flaggedAt": "2026-08-18T12:00:53.121Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "multica-ai/multica",
+   "flaggedAt": "2026-08-18T12:00:53.258Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "electron/electron",
+   "flaggedAt": "2026-08-18T12:00:53.462Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "aristocratos/btop",
+   "flaggedAt": "2026-08-18T12:00:53.602Z",
+   "zScore": 7.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PowerShell/PowerShell",
+   "flaggedAt": "2026-08-18T12:00:53.821Z",
+   "zScore": 6.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pocket-id/pocket-id",
+   "flaggedAt": "2026-08-18T12:00:54.044Z",
+   "zScore": 7.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "screenpipe/screenpipe",
+   "flaggedAt": "2026-08-18T12:00:54.210Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "theMackabu/ant",
+   "flaggedAt": "2026-08-18T12:00:54.364Z",
+   "zScore": 9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "marktext/marktext",
+   "flaggedAt": "2026-08-18T12:00:54.518Z",
+   "zScore": 3.7,
    "newAccountShare": null,
    "confirmed": null
   }
