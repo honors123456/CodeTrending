@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-17T11:58:33.225Z",
+ "updatedAt": "2026-08-18T01:56:50.006Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3274,6 +3274,34 @@
    "repo": "Gitlawb/openclaude",
    "flaggedAt": "2026-08-17T11:58:33.225Z",
    "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "santifer/career-ops",
+   "flaggedAt": "2026-08-18T01:56:49.590Z",
+   "zScore": 9.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "agalwood/Motrix",
+   "flaggedAt": "2026-08-18T01:56:49.727Z",
+   "zScore": 39.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "immich-app/immich",
+   "flaggedAt": "2026-08-18T01:56:49.890Z",
+   "zScore": 10.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "duckdb/duckdb",
+   "flaggedAt": "2026-08-18T01:56:50.006Z",
+   "zScore": 3.4,
    "newAccountShare": null,
    "confirmed": null
   }
