@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19T02:12:36.456Z",
+ "updatedAt": "2026-08-19T05:11:41.756Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3442,6 +3442,13 @@
    "repo": "superradcompany/microsandbox",
    "flaggedAt": "2026-08-19T02:12:36.456Z",
    "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "atilaahmettaner/tradingview-mcp",
+   "flaggedAt": "2026-08-19T05:11:41.756Z",
+   "zScore": 9.1,
    "newAccountShare": null,
    "confirmed": null
   }
