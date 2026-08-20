@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-20T05:12:51.197Z",
+ "updatedAt": "2026-08-20T11:58:54.655Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3505,6 +3505,55 @@
    "repo": "debpalash/VoiceStudio",
    "flaggedAt": "2026-08-20T01:55:21.011Z",
    "zScore": 16.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "avelino/awesome-go",
+   "flaggedAt": "2026-08-20T11:58:53.720Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gorhill/uBlock",
+   "flaggedAt": "2026-08-20T11:58:53.836Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "apple/container",
+   "flaggedAt": "2026-08-20T11:58:53.995Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nesquena/hermes-webui",
+   "flaggedAt": "2026-08-20T11:58:54.114Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Effect-TS/effect",
+   "flaggedAt": "2026-08-20T11:58:54.252Z",
+   "zScore": 6.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "trailofbits/skills",
+   "flaggedAt": "2026-08-20T11:58:54.480Z",
+   "zScore": 9.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "langchain-ai/deepagents",
+   "flaggedAt": "2026-08-20T11:58:54.654Z",
+   "zScore": 3.6,
    "newAccountShare": null,
    "confirmed": null
   }
