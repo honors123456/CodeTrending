@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T05:11:01.529Z",
+ "updatedAt": "2026-08-21T11:57:08.829Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3638,6 +3638,69 @@
    "repo": "python/cpython",
    "flaggedAt": "2026-08-21T05:11:01.529Z",
    "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JuliusBrussee/caveman",
+   "flaggedAt": "2026-08-21T11:57:06.747Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "aaif-goose/goose",
+   "flaggedAt": "2026-08-21T11:57:07.051Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "flaggedAt": "2026-08-21T11:57:07.312Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/playwright",
+   "flaggedAt": "2026-08-21T11:57:07.665Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Wei-Shaw/sub2api",
+   "flaggedAt": "2026-08-21T11:57:07.901Z",
+   "zScore": 9.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tencent/WeKnora",
+   "flaggedAt": "2026-08-21T11:57:08.134Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Javis603/token-monitor",
+   "flaggedAt": "2026-08-21T11:57:08.374Z",
+   "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "henrygd/beszel",
+   "flaggedAt": "2026-08-21T11:57:08.574Z",
+   "zScore": 12,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "MetrolistGroup/Metrolist",
+   "flaggedAt": "2026-08-21T11:57:08.829Z",
+   "zScore": 4.1,
    "newAccountShare": null,
    "confirmed": null
   }
