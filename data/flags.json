@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-20T11:58:54.655Z",
+ "updatedAt": "2026-08-21T02:03:23.323Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3554,6 +3554,55 @@
    "repo": "langchain-ai/deepagents",
    "flaggedAt": "2026-08-20T11:58:54.654Z",
    "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/TypeScript",
+   "flaggedAt": "2026-08-21T02:03:21.955Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openai/codex",
+   "flaggedAt": "2026-08-21T02:03:22.142Z",
+   "zScore": 10.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PostHog/posthog",
+   "flaggedAt": "2026-08-21T02:03:22.400Z",
+   "zScore": 20.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "agent-substrate/substrate",
+   "flaggedAt": "2026-08-21T02:03:22.611Z",
+   "zScore": 16.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tashfeenahmed/freellmapi",
+   "flaggedAt": "2026-08-21T02:03:22.817Z",
+   "zScore": 9.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "WorldFlowAI/everything-claude-code",
+   "flaggedAt": "2026-08-21T02:03:23.135Z",
+   "zScore": 7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vorssaint/vorssaint-utils",
+   "flaggedAt": "2026-08-21T02:03:23.322Z",
+   "zScore": 5.5,
    "newAccountShare": null,
    "confirmed": null
   }
