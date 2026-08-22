@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T11:57:08.829Z",
+ "updatedAt": "2026-08-22T02:10:57.286Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3701,6 +3701,13 @@
    "repo": "MetrolistGroup/Metrolist",
    "flaggedAt": "2026-08-21T11:57:08.829Z",
    "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TryGhost/Ghost",
+   "flaggedAt": "2026-08-22T02:10:57.285Z",
+   "zScore": 5.9,
    "newAccountShare": null,
    "confirmed": null
   }
