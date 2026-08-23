@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-22T11:56:31.111Z",
+ "updatedAt": "2026-08-23T02:21:03.498Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -3757,6 +3757,48 @@
    "repo": "sinelaw/fresh",
    "flaggedAt": "2026-08-22T11:56:31.111Z",
    "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/claude-code",
+   "flaggedAt": "2026-08-23T02:21:02.666Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Alishahryar1/free-claude-code",
+   "flaggedAt": "2026-08-23T02:21:02.801Z",
+   "zScore": 9.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "capcom6/android-sms-gateway",
+   "flaggedAt": "2026-08-23T02:21:03.024Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "n8n-io/n8n",
+   "flaggedAt": "2026-08-23T02:21:03.180Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ibelick/ui-skills",
+   "flaggedAt": "2026-08-23T02:21:03.308Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "apple/coreai-models",
+   "flaggedAt": "2026-08-23T02:21:03.497Z",
+   "zScore": 5.8,
    "newAccountShare": null,
    "confirmed": null
   }
