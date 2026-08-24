@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-23T11:52:45.597Z",
+ "updatedAt": "2026-08-24T02:05:42.051Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -122,8 +122,8 @@
    "zh": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
   },
   "byoungd/up": {
-   "src": "An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-   "zh": "An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+   "src": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+   "zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语"
   },
   "chinese-poetry/chinese-poetry": {
    "src": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
@@ -10478,8 +10478,12 @@
    "zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目"
   },
   "shy3130/tick-stock-panel": {
-   "src": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
-   "zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目"
+   "src": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目",
+   "zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目"
+  },
+  "titanwings/distilly": {
+   "src": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+   "zh": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）."
   }
  }
 }
