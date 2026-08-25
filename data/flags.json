@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-24T12:01:32.814Z",
+ "updatedAt": "2026-08-25T02:03:24.284Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4002,6 +4002,20 @@
    "repo": "rorkai/App-Store-Connect-CLI",
    "flaggedAt": "2026-08-24T12:01:32.813Z",
    "zScore": 8.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dreamhunter2333/cloudflare_temp_email",
+   "flaggedAt": "2026-08-25T02:03:24.000Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "poteto/hiring-without-whiteboards",
+   "flaggedAt": "2026-08-25T02:03:24.284Z",
+   "zScore": 7.2,
    "newAccountShare": null,
    "confirmed": null
   }
