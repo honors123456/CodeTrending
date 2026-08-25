@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-25T01:47:44.807Z",
+ "updatedAt": "2026-08-25T04:49:14.351Z",
  "entries": [
   {
    "repo": "usestrix/strix",
@@ -12239,7 +12239,7 @@
    "repo": "liustack/modlens",
    "language": "typescript",
    "firstSeen": "2026-08-15",
-   "lastSeenOnTrending": "2026-08-22"
+   "lastSeenOnTrending": "2026-08-25"
   },
   {
    "repo": "p2r3/convert",
@@ -14656,6 +14656,12 @@
   {
    "repo": "Fission-AI/OpenSpec",
    "language": "typescript",
+   "firstSeen": "2026-08-25",
+   "lastSeenOnTrending": "2026-08-25"
+  },
+  {
+   "repo": "nvm-windows/nvm",
+   "language": "go",
    "firstSeen": "2026-08-25",
    "lastSeenOnTrending": "2026-08-25"
   }
