@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-25T12:00:47.711Z",
+ "updatedAt": "2026-08-26T02:10:22.448Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4093,6 +4093,27 @@
    "repo": "K-Dense-AI/scientific-agent-skills",
    "flaggedAt": "2026-08-25T12:00:47.710Z",
    "zScore": 6.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bannedbook/fanqiang",
+   "flaggedAt": "2026-08-26T02:10:22.154Z",
+   "zScore": 7.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/claude-plugins-official",
+   "flaggedAt": "2026-08-26T02:10:22.314Z",
+   "zScore": 12.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "k4yt3x/video2x",
+   "flaggedAt": "2026-08-26T02:10:22.448Z",
+   "zScore": 26,
    "newAccountShare": null,
    "confirmed": null
   }
