@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T05:15:37.056Z",
+ "updatedAt": "2026-08-26T11:59:15.607Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4135,6 +4135,83 @@
    "repo": "palmier-io/palmier-pro",
    "flaggedAt": "2026-08-26T05:15:37.055Z",
    "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "facebook/astryx",
+   "flaggedAt": "2026-08-26T11:59:13.379Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vllm-project/vllm",
+   "flaggedAt": "2026-08-26T11:59:13.743Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tonhowtf/omniget",
+   "flaggedAt": "2026-08-26T11:59:13.924Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenCut-app/OpenCut",
+   "flaggedAt": "2026-08-26T11:59:14.119Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/BitNet",
+   "flaggedAt": "2026-08-26T11:59:14.440Z",
+   "zScore": 8.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "directus/directus",
+   "flaggedAt": "2026-08-26T11:59:14.645Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bmad-code-org/BMAD-METHOD",
+   "flaggedAt": "2026-08-26T11:59:14.816Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "flexprice/flexprice",
+   "flaggedAt": "2026-08-26T11:59:15.008Z",
+   "zScore": 33.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Unity-Technologies/skills",
+   "flaggedAt": "2026-08-26T11:59:15.193Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AntigmaLabs/ante",
+   "flaggedAt": "2026-08-26T11:59:15.388Z",
+   "zScore": 10.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ongridio/ongrid",
+   "flaggedAt": "2026-08-26T11:59:15.607Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }
