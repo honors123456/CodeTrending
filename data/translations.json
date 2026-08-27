@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T11:59:12.662Z",
+ "updatedAt": "2026-08-27T09:51:21.123Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -4766,8 +4766,8 @@
    "zh": "一个适合你 CPU（和口袋）的 TTS"
   },
   "XiaoYouChR/Ghost-Downloader-3": {
-   "src": "The only downloader you need. 下载器的集大成者.",
-   "zh": "The only downloader you need. 下载器的集大成者."
+   "src": "The only downloader you need. 下载器的集大成者。",
+   "zh": "The only downloader you need. 下载器的集大成者。"
   },
   "anthropics/claude-plugins-official": {
    "src": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -10492,6 +10492,10 @@
   "zenstory-ai/oh-story-claudecode": {
    "src": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.",
    "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction."
+  },
+  "nwiizo/nippo": {
+   "src": "日報管理リポジトリ",
+   "zh": "日報管理リポジトリ"
   }
  }
 }

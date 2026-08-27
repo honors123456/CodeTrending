@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T11:59:15.607Z",
+ "updatedAt": "2026-08-27T09:51:24.863Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4212,6 +4212,111 @@
    "repo": "ongridio/ongrid",
    "flaggedAt": "2026-08-26T11:59:15.607Z",
    "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "calesthio/OpenMontage",
+   "flaggedAt": "2026-08-27T09:51:21.846Z",
+   "zScore": 12.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tailscale/tailscale",
+   "flaggedAt": "2026-08-27T09:51:22.045Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "GyulyVGC/sniffnet",
+   "flaggedAt": "2026-08-27T09:51:22.214Z",
+   "zScore": 19.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NationalSecurityAgency/ghidra",
+   "flaggedAt": "2026-08-27T09:51:22.425Z",
+   "zScore": 5.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "browser-use/browser-use",
+   "flaggedAt": "2026-08-27T09:51:22.744Z",
+   "zScore": 31.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mrdoob/three.js",
+   "flaggedAt": "2026-08-27T09:51:22.912Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ComposioHQ/awesome-claude-skills",
+   "flaggedAt": "2026-08-27T09:51:23.164Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bethington/ghidra-mcp",
+   "flaggedAt": "2026-08-27T09:51:23.344Z",
+   "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tranvuongquocdat/SideScreen",
+   "flaggedAt": "2026-08-27T09:51:23.540Z",
+   "zScore": 13.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "twentyhq/twenty",
+   "flaggedAt": "2026-08-27T09:51:23.743Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "n0-computer/iroh",
+   "flaggedAt": "2026-08-27T09:51:24.023Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sickn33/agentic-awesome-skills",
+   "flaggedAt": "2026-08-27T09:51:24.230Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "android/skills",
+   "flaggedAt": "2026-08-27T09:51:24.474Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "conorbronsdon/avoid-ai-writing",
+   "flaggedAt": "2026-08-27T09:51:24.672Z",
+   "zScore": 18.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rohitg00/agentmemory",
+   "flaggedAt": "2026-08-27T09:51:24.863Z",
+   "zScore": 6.3,
    "newAccountShare": null,
    "confirmed": null
   }
