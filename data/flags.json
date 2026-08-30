@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-30T05:36:46.538Z",
+ "updatedAt": "2026-08-30T15:42:03.042Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4709,6 +4709,41 @@
    "repo": "Osmantic/ODS",
    "flaggedAt": "2026-08-30T05:36:46.537Z",
    "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "checkstyle/checkstyle",
+   "flaggedAt": "2026-08-30T15:42:02.149Z",
+   "zScore": 10.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "superplanehq/superplane",
+   "flaggedAt": "2026-08-30T15:42:02.328Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "majd/ipatool",
+   "flaggedAt": "2026-08-30T15:42:02.693Z",
+   "zScore": 6.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LibreTranslate/LibreTranslate",
+   "flaggedAt": "2026-08-30T15:42:02.855Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "darkzOGx/youtube-automation-agent",
+   "flaggedAt": "2026-08-30T15:42:03.041Z",
+   "zScore": 3,
    "newAccountShare": null,
    "confirmed": null
   }
