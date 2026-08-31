@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-31T05:44:53.080Z",
+ "updatedAt": "2026-08-31T18:15:36.072Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4793,6 +4793,55 @@
    "repo": "yuaotian/antigravity-proxy",
    "flaggedAt": "2026-08-31T05:44:53.079Z",
    "zScore": 14.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TencentCloud/CubeSandbox",
+   "flaggedAt": "2026-08-31T18:15:35.096Z",
+   "zScore": 11.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "temporalio/temporal",
+   "flaggedAt": "2026-08-31T18:15:35.287Z",
+   "zScore": 13.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PurpleAILAB/Decepticon",
+   "flaggedAt": "2026-08-31T18:15:35.439Z",
+   "zScore": 13.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dmtrKovalenko/fff",
+   "flaggedAt": "2026-08-31T18:15:35.607Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TecharoHQ/anubis",
+   "flaggedAt": "2026-08-31T18:15:35.750Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "firecrawl/pdf-inspector",
+   "flaggedAt": "2026-08-31T18:15:35.924Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pacifio/atlas",
+   "flaggedAt": "2026-08-31T18:15:36.071Z",
+   "zScore": 4.1,
    "newAccountShare": null,
    "confirmed": null
   }
