@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01T05:18:37.814Z",
+ "updatedAt": "2026-09-01T15:46:40.713Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -4926,6 +4926,328 @@
    "repo": "google-research/timesfm",
    "flaggedAt": "2026-09-01T05:18:37.813Z",
    "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "decolua/9router",
+   "flaggedAt": "2026-09-01T15:46:27.795Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "zarazhangrui/frontend-slides",
+   "flaggedAt": "2026-09-01T15:46:28.192Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "stablyai/orca",
+   "flaggedAt": "2026-09-01T15:46:28.622Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "garrytan/gstack",
+   "flaggedAt": "2026-09-01T15:46:28.929Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kubernetes/kubernetes",
+   "flaggedAt": "2026-09-01T15:46:29.313Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "juanfont/headscale",
+   "flaggedAt": "2026-09-01T15:46:29.814Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jesseduffield/lazygit",
+   "flaggedAt": "2026-09-01T15:46:30.077Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "optiscaler/OptiScaler",
+   "flaggedAt": "2026-09-01T15:46:30.345Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "DeusData/codebase-memory-mcp",
+   "flaggedAt": "2026-09-01T15:46:30.565Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "2dust/v2rayN",
+   "flaggedAt": "2026-09-01T15:46:31.093Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "2dust/v2rayNG",
+   "flaggedAt": "2026-09-01T15:46:31.346Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "infiniflow/ragflow",
+   "flaggedAt": "2026-09-01T15:46:31.670Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "donnemartin/system-design-primer",
+   "flaggedAt": "2026-09-01T15:46:31.904Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "practical-tutorials/project-based-learning",
+   "flaggedAt": "2026-09-01T15:46:32.204Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "521xueweihan/HelloGitHub",
+   "flaggedAt": "2026-09-01T15:46:32.517Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "langchain-ai/langchain",
+   "flaggedAt": "2026-09-01T15:46:32.814Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "github/spec-kit",
+   "flaggedAt": "2026-09-01T15:46:33.185Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fastapi/fastapi",
+   "flaggedAt": "2026-09-01T15:46:33.403Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hacksider/Deep-Live-Cam",
+   "flaggedAt": "2026-09-01T15:46:33.669Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "3b1b/manim",
+   "flaggedAt": "2026-09-01T15:46:33.974Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "langgenius/dify",
+   "flaggedAt": "2026-09-01T15:46:34.321Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "clash-verge-rev/clash-verge-rev",
+   "flaggedAt": "2026-09-01T15:46:34.529Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "astral-sh/uv",
+   "flaggedAt": "2026-09-01T15:46:34.752Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rtk-ai/rtk",
+   "flaggedAt": "2026-09-01T15:46:34.972Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "torvalds/linux",
+   "flaggedAt": "2026-09-01T15:46:35.282Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dragonflydb/dragonfly",
+   "flaggedAt": "2026-09-01T15:46:35.540Z",
+   "zScore": 14.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "coreyhaines31/marketingskills",
+   "flaggedAt": "2026-09-01T15:46:35.783Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LiveContainer/LiveContainer",
+   "flaggedAt": "2026-09-01T15:46:36.044Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "addyosmani/agent-skills",
+   "flaggedAt": "2026-09-01T15:46:36.233Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jingyaogong/minimind",
+   "flaggedAt": "2026-09-01T15:46:36.413Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "emilk/egui",
+   "flaggedAt": "2026-09-01T15:46:36.604Z",
+   "zScore": 7.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "FalkorDB/FalkorDB",
+   "flaggedAt": "2026-09-01T15:46:36.910Z",
+   "zScore": 10,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "EKKOLearnAI/hermes-studio",
+   "flaggedAt": "2026-09-01T15:46:37.164Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jackwener/OpenCLI",
+   "flaggedAt": "2026-09-01T15:46:37.387Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenWhispr/openwhispr",
+   "flaggedAt": "2026-09-01T15:46:37.642Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Gitlawb/openclaude",
+   "flaggedAt": "2026-09-01T15:46:37.995Z",
+   "zScore": 34.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Automattic/harper",
+   "flaggedAt": "2026-09-01T15:46:38.250Z",
+   "zScore": 6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "maximhq/bifrost",
+   "flaggedAt": "2026-09-01T15:46:38.544Z",
+   "zScore": 5.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "remotion-dev/remotion",
+   "flaggedAt": "2026-09-01T15:46:38.910Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "certimate-go/certimate",
+   "flaggedAt": "2026-09-01T15:46:39.152Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "SimplifyJobs/Summer2027-Internships",
+   "flaggedAt": "2026-09-01T15:46:39.374Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "marktext/marktext",
+   "flaggedAt": "2026-09-01T15:46:39.669Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Emily2040/seedance-2.0",
+   "flaggedAt": "2026-09-01T15:46:39.964Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "KeygraphHQ/shannon",
+   "flaggedAt": "2026-09-01T15:46:40.309Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "MakazhanAlpamys/Soup",
+   "flaggedAt": "2026-09-01T15:46:40.499Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fayazara/Screendrop",
+   "flaggedAt": "2026-09-01T15:46:40.712Z",
+   "zScore": 3.7,
    "newAccountShare": null,
    "confirmed": null
   }

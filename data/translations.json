@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01T05:18:34.372Z",
+ "updatedAt": "2026-09-01T15:46:26.905Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10528,6 +10528,22 @@
   "MewX/light-novel-library_Wenku8_Android": {
    "src": "[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
    "zh": "[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。"
+  },
+  "eze-is/web-access": {
+   "src": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
+   "zh": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
+  },
+  "JoeanAmier/XHS-Downloader": {
+   "src": "小红书（XiaoHongShu、RedNote）链接提取/作品采集工具",
+   "zh": "小红书（XiaoHongShu、RedNote）链接提取/作品采集工具"
+  },
+  "maotoumao/MusicFree": {
+   "src": "插件化、定制化、无广告的免费音乐播放器",
+   "zh": "插件化、定制化、无广告的免费音乐播放器"
+  },
+  "metasequoiaime/MetasequoiaImeTsf": {
+   "src": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142",
+   "zh": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142"
   }
  }
 }
