@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02T04:40:25.990Z",
+ "updatedAt": "2026-09-02T15:22:10.400Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10544,6 +10544,18 @@
   "metasequoiaime/MetasequoiaImeTsf": {
    "src": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142",
    "zh": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142"
+  },
+  "sngyai/Sequoia-X": {
+   "src": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+   "zh": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
+  },
+  "PDFMathTranslate/PDFMathTranslate": {
+   "src": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+   "zh": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+  },
+  "shaxiu/XianyuAutoAgent": {
+   "src": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。",
+   "zh": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。"
   }
  }
 }
