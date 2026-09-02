@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01T15:46:40.713Z",
+ "updatedAt": "2026-09-02T04:40:26.979Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -5248,6 +5248,27 @@
    "repo": "fayazara/Screendrop",
    "flaggedAt": "2026-09-01T15:46:40.712Z",
    "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "monicahq/monica",
+   "flaggedAt": "2026-09-02T04:40:26.646Z",
+   "zScore": 19,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "David-Crty/databasement",
+   "flaggedAt": "2026-09-02T04:40:26.831Z",
+   "zScore": 5.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Effect-TS/effect",
+   "flaggedAt": "2026-09-02T04:40:26.979Z",
+   "zScore": 4.8,
    "newAccountShare": null,
    "confirmed": null
   }
