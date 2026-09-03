@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-03T04:29:51.254Z",
+ "updatedAt": "2026-09-03T15:16:17.650Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -122,8 +122,8 @@
    "zh": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
   },
   "byoungd/up": {
-   "src": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-   "zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+   "src": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+   "zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语"
   },
   "chinese-poetry/chinese-poetry": {
    "src": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
@@ -10556,6 +10556,14 @@
   "shaxiu/XianyuAutoAgent": {
    "src": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。",
    "zh": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。"
+  },
+  "Achilng/floral-notepaper": {
+   "src": "花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览",
+   "zh": "花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览"
+  },
+  "tbphp/gpt-load": {
+   "src": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
+   "zh": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。"
   }
  }
 }
