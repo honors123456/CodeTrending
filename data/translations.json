@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04T04:41:30.873Z",
+ "updatedAt": "2026-09-04T15:14:14.350Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10564,6 +10564,14 @@
   "tbphp/gpt-load": {
    "src": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
    "zh": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。"
+  },
+  "metasequoiaime/MSIME-Windows": {
+   "src": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142",
+   "zh": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142"
+  },
+  "jihe520/MathModelAgent": {
+   "src": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+   "zh": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
   }
  }
 }
