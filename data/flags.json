@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-05T14:13:34.849Z",
+ "updatedAt": "2026-09-06T04:50:25.873Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -5633,6 +5633,34 @@
    "repo": "winsiderss/systeminformer",
    "flaggedAt": "2026-09-05T14:13:34.849Z",
    "zScore": 10.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vxcontrol/pentagi",
+   "flaggedAt": "2026-09-06T04:50:25.356Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BraveOPotato/FckSignups",
+   "flaggedAt": "2026-09-06T04:50:25.560Z",
+   "zScore": 38.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Untrivial-ai/agent-orchestrator",
+   "flaggedAt": "2026-09-06T04:50:25.719Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AgriciDaniel/claude-ads",
+   "flaggedAt": "2026-09-06T04:50:25.873Z",
+   "zScore": 4.6,
    "newAccountShare": null,
    "confirmed": null
   }
