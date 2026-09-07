@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-06T14:23:51.581Z",
+ "updatedAt": "2026-09-07T04:51:03.841Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -5752,6 +5752,34 @@
    "repo": "nasa-gibs/worldview",
    "flaggedAt": "2026-09-06T14:23:51.580Z",
    "zScore": 17.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/markitdown",
+   "flaggedAt": "2026-09-07T04:51:03.313Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ahujasid/blender-mcp",
+   "flaggedAt": "2026-09-07T04:51:03.524Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rorkai/App-Store-Connect-CLI",
+   "flaggedAt": "2026-09-07T04:51:03.682Z",
+   "zScore": 13.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "abue-ammar/tinycast",
+   "flaggedAt": "2026-09-07T04:51:03.840Z",
+   "zScore": 3.2,
    "newAccountShare": null,
    "confirmed": null
   }
