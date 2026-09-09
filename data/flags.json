@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-08T15:27:12.271Z",
+ "updatedAt": "2026-09-09T04:48:50.590Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6200,6 +6200,20 @@
    "repo": "maotoumao/MusicFree",
    "flaggedAt": "2026-09-08T15:27:12.271Z",
    "zScore": 9.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Automattic/harper",
+   "flaggedAt": "2026-09-09T04:48:50.324Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "marktext/marktext",
+   "flaggedAt": "2026-09-09T04:48:50.589Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }
