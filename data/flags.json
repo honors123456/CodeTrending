@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09T04:48:50.590Z",
+ "updatedAt": "2026-09-09T15:32:07.786Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6214,6 +6214,62 @@
    "repo": "marktext/marktext",
    "flaggedAt": "2026-09-09T04:48:50.589Z",
    "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "netbirdio/netbird",
+   "flaggedAt": "2026-09-09T15:32:05.865Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "facebook/zstd",
+   "flaggedAt": "2026-09-09T15:32:06.239Z",
+   "zScore": 9.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "browser-use/browser-use",
+   "flaggedAt": "2026-09-09T15:32:06.484Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "files-community/Files",
+   "flaggedAt": "2026-09-09T15:32:06.733Z",
+   "zScore": 12.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AlexsJones/llmfit",
+   "flaggedAt": "2026-09-09T15:32:06.965Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "herdrdev/herdr",
+   "flaggedAt": "2026-09-09T15:32:07.330Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JustVugg/colibri",
+   "flaggedAt": "2026-09-09T15:32:07.530Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "slidevjs/slidev",
+   "flaggedAt": "2026-09-09T15:32:07.786Z",
+   "zScore": 14.1,
    "newAccountShare": null,
    "confirmed": null
   }
