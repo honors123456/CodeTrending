@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T04:59:26.550Z",
+ "updatedAt": "2026-09-10T15:23:49.251Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6284,6 +6284,48 @@
    "repo": "alphaXiv/OpenResearch",
    "flaggedAt": "2026-09-10T04:59:26.550Z",
    "zScore": 24.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vercel-labs/skills",
+   "flaggedAt": "2026-09-10T15:23:47.794Z",
+   "zScore": 5.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sickn33/agentic-awesome-skills",
+   "flaggedAt": "2026-09-10T15:23:48.173Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "RyanCodrai/turbovec",
+   "flaggedAt": "2026-09-10T15:23:48.423Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "googleworkspace/cli",
+   "flaggedAt": "2026-09-10T15:23:48.717Z",
+   "zScore": 6.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "titanwings/distilly",
+   "flaggedAt": "2026-09-10T15:23:48.998Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nashsu/llm_wiki",
+   "flaggedAt": "2026-09-10T15:23:49.250Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }

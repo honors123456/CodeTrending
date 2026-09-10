@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T04:59:25.410Z",
+ "updatedAt": "2026-09-10T15:23:47.039Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -6678,8 +6678,8 @@
    "zh": "The Excalibur of Hyper-V / Hyper-V 神器"
   },
   "HuangZhuoRui/LocationSpoofer": {
-   "src": "一款虚拟定位软件，主要是定位，路线模拟什么的，比较随缘，其实更新也随缘，功能也是看心情",
-   "zh": "一款虚拟定位软件，主要是定位，路线模拟什么的，比较随缘，其实更新也随缘，功能也是看心情"
+   "src": "虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，",
+   "zh": "虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，"
   },
   "rpamis/comet": {
    "src": "Comet: agent skill harness for turning ideas into evaluated workflows",
@@ -8914,8 +8914,8 @@
    "zh": "基于Python的开源量化交易平台开发框架"
   },
   "freestylefly/awesome-gpt-image-2": {
-   "src": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-   "zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+   "src": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+   "zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
   },
   "QLHazyCoder/FlowPilot": {
    "src": "Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、相关反代项目（CPA/Sub）回调上传",
@@ -10386,8 +10386,8 @@
    "zh": "📜 诗泉：高性能中国古诗词 API 服务"
   },
   "luolangaga/tubatools": {
-   "src": "图吧工具箱 winUI3 版",
-   "zh": "图吧工具箱 winUI3 版"
+   "src": "图吧工具箱 CE",
+   "zh": "图吧工具箱 CE"
   },
   "titanwings/colleague-skill": {
    "src": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
