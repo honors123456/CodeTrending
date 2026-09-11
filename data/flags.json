@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T15:23:49.251Z",
+ "updatedAt": "2026-09-11T04:59:37.217Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6326,6 +6326,27 @@
    "repo": "nashsu/llm_wiki",
    "flaggedAt": "2026-09-10T15:23:49.250Z",
    "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "yuliskov/SmartTube",
+   "flaggedAt": "2026-09-11T04:59:36.660Z",
+   "zScore": 14.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Sonarr/Sonarr",
+   "flaggedAt": "2026-09-11T04:59:36.987Z",
+   "zScore": 23.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "github/spec-kit",
+   "flaggedAt": "2026-09-11T04:59:37.216Z",
+   "zScore": 5.2,
    "newAccountShare": null,
    "confirmed": null
   }
