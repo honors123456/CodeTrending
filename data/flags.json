@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12T04:53:07.266Z",
+ "updatedAt": "2026-09-12T14:21:54.532Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6403,6 +6403,69 @@
    "repo": "sepinf-inc/IPED",
    "flaggedAt": "2026-09-12T04:53:07.265Z",
    "zScore": 19.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "davila7/claude-code-templates",
+   "flaggedAt": "2026-09-12T14:21:53.255Z",
+   "zScore": 7.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "chthollyphile/folia-major",
+   "flaggedAt": "2026-09-12T14:21:53.410Z",
+   "zScore": 14.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "duixcom/Duix-Avatar",
+   "flaggedAt": "2026-09-12T14:21:53.562Z",
+   "zScore": 12,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "git-ai-project/git-ai",
+   "flaggedAt": "2026-09-12T14:21:53.748Z",
+   "zScore": 23.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "stanfordnlp/dspy",
+   "flaggedAt": "2026-09-12T14:21:53.920Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fleetbase/fleetbase",
+   "flaggedAt": "2026-09-12T14:21:54.083Z",
+   "zScore": 19,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "alibaba/open-code-review",
+   "flaggedAt": "2026-09-12T14:21:54.224Z",
+   "zScore": 8.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "max-sixty/worktrunk",
+   "flaggedAt": "2026-09-12T14:21:54.360Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jihe520/MathModelAgent",
+   "flaggedAt": "2026-09-12T14:21:54.531Z",
+   "zScore": 3.5,
    "newAccountShare": null,
    "confirmed": null
   }
