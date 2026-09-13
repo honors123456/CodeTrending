@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12T14:21:54.532Z",
+ "updatedAt": "2026-09-13T05:09:19.880Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6466,6 +6466,34 @@
    "repo": "jihe520/MathModelAgent",
    "flaggedAt": "2026-09-12T14:21:54.531Z",
    "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Untrivial-ai/agent-orchestrator",
+   "flaggedAt": "2026-09-13T05:09:19.429Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Egonex-AI/Understand-Anything",
+   "flaggedAt": "2026-09-13T05:09:19.590Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vxcontrol/pentagi",
+   "flaggedAt": "2026-09-13T05:09:19.742Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "peetzweg/opendisplay",
+   "flaggedAt": "2026-09-13T05:09:19.880Z",
+   "zScore": 4.5,
    "newAccountShare": null,
    "confirmed": null
   }
