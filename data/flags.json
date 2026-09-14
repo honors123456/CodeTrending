@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T15:22:14.746Z",
+ "updatedAt": "2026-09-14T05:18:06.249Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6585,6 +6585,20 @@
    "repo": "tbphp/gpt-load",
    "flaggedAt": "2026-09-13T15:22:14.746Z",
    "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NationalSecurityAgency/ghidra",
+   "flaggedAt": "2026-09-14T05:18:05.987Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Fincept-Corporation/FinceptTerminal",
+   "flaggedAt": "2026-09-14T05:18:06.248Z",
+   "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
   }
