@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-14T17:24:02.232Z",
+ "updatedAt": "2026-09-15T05:18:23.594Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6683,6 +6683,174 @@
    "repo": "huynhsontung/Screenbox",
    "flaggedAt": "2026-09-14T17:24:02.231Z",
    "zScore": 14.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "home-assistant/core",
+   "flaggedAt": "2026-09-15T05:18:18.629Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "supabase/supabase",
+   "flaggedAt": "2026-09-15T05:18:18.979Z",
+   "zScore": 5.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jamiepine/voicebox",
+   "flaggedAt": "2026-09-15T05:18:19.166Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TencentCloud/CubeSandbox",
+   "flaggedAt": "2026-09-15T05:18:19.366Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "denoland/deno",
+   "flaggedAt": "2026-09-15T05:18:19.575Z",
+   "zScore": 9.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rustdesk/rustdesk",
+   "flaggedAt": "2026-09-15T05:18:19.777Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Stirling-Tools/Stirling-PDF",
+   "flaggedAt": "2026-09-15T05:18:19.986Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "usememos/memos",
+   "flaggedAt": "2026-09-15T05:18:20.207Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "karpathy/autoresearch",
+   "flaggedAt": "2026-09-15T05:18:20.417Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tradesdontlie/tradingview-mcp",
+   "flaggedAt": "2026-09-15T05:18:20.627Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rustfs/rustfs",
+   "flaggedAt": "2026-09-15T05:18:20.835Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "lfnovo/open-notebook",
+   "flaggedAt": "2026-09-15T05:18:21.025Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kunchenguid/lavish-axi",
+   "flaggedAt": "2026-09-15T05:18:21.209Z",
+   "zScore": 11,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Acode-Foundation/Acode",
+   "flaggedAt": "2026-09-15T05:18:21.403Z",
+   "zScore": 12.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/AI-Engineering-Coach",
+   "flaggedAt": "2026-09-15T05:18:21.658Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "playcanvas/engine",
+   "flaggedAt": "2026-09-15T05:18:21.838Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "blakeblackshear/frigate",
+   "flaggedAt": "2026-09-15T05:18:22.045Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tencent/AI-Infra-Guard",
+   "flaggedAt": "2026-09-15T05:18:22.303Z",
+   "zScore": 10,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ItzCrazyKns/Vane",
+   "flaggedAt": "2026-09-15T05:18:22.505Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "withastro/astro",
+   "flaggedAt": "2026-09-15T05:18:22.701Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/data-formulator",
+   "flaggedAt": "2026-09-15T05:18:22.954Z",
+   "zScore": 12.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Neroued/ninfer",
+   "flaggedAt": "2026-09-15T05:18:23.117Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "abue-ammar/tinycast",
+   "flaggedAt": "2026-09-15T05:18:23.289Z",
+   "zScore": 7.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AIPentest/CyberStrikeAI",
+   "flaggedAt": "2026-09-15T05:18:23.593Z",
+   "zScore": 11.9,
    "newAccountShare": null,
    "confirmed": null
   }
