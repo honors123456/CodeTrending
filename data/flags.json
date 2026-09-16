@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15T16:04:10.210Z",
+ "updatedAt": "2026-09-16T05:08:55.415Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -6893,6 +6893,244 @@
    "repo": "thewh1teagle/vibe",
    "flaggedAt": "2026-09-15T16:04:10.209Z",
    "zScore": 7.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "usestrix/strix",
+   "flaggedAt": "2026-09-16T05:08:46.721Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "soxoj/maigret",
+   "flaggedAt": "2026-09-16T05:08:47.031Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "prettier/prettier",
+   "flaggedAt": "2026-09-16T05:08:47.321Z",
+   "zScore": 19.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "koala73/worldmonitor",
+   "flaggedAt": "2026-09-16T05:08:47.544Z",
+   "zScore": 8.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Graphify-Labs/graphify",
+   "flaggedAt": "2026-09-16T05:08:47.794Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "yangshun/tech-interview-handbook",
+   "flaggedAt": "2026-09-16T05:08:48.052Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "immich-app/immich",
+   "flaggedAt": "2026-09-16T05:08:48.300Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "firecracker-microvm/firecracker",
+   "flaggedAt": "2026-09-16T05:08:48.597Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "duckdb/duckdb",
+   "flaggedAt": "2026-09-16T05:08:48.841Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gitroomhq/postiz-app",
+   "flaggedAt": "2026-09-16T05:08:49.049Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cjpais/Handy",
+   "flaggedAt": "2026-09-16T05:08:49.278Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "addyosmani/agent-skills",
+   "flaggedAt": "2026-09-16T05:08:49.473Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/claude-plugins-official",
+   "flaggedAt": "2026-09-16T05:08:49.811Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "atlassian/atlassian-mcp-server",
+   "flaggedAt": "2026-09-16T05:08:50.060Z",
+   "zScore": 39.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "biomejs/biome",
+   "flaggedAt": "2026-09-16T05:08:50.299Z",
+   "zScore": 9.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "oxc-project/oxc",
+   "flaggedAt": "2026-09-16T05:08:50.550Z",
+   "zScore": 9.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "opendataloader-project/opendataloader-pdf",
+   "flaggedAt": "2026-09-16T05:08:50.796Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Crosstalk-Solutions/project-nomad",
+   "flaggedAt": "2026-09-16T05:08:51.028Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "alam00000/bentopdf",
+   "flaggedAt": "2026-09-16T05:08:51.248Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tphakala/birdnet-go",
+   "flaggedAt": "2026-09-16T05:08:51.465Z",
+   "zScore": 12.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "xuanyustudio/LocalMiniDrama",
+   "flaggedAt": "2026-09-16T05:08:51.808Z",
+   "zScore": 13.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kubernetes-sigs/agent-sandbox",
+   "flaggedAt": "2026-09-16T05:08:52.133Z",
+   "zScore": 9.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "block/buzz",
+   "flaggedAt": "2026-09-16T05:08:52.390Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "seaweedfs/seaweedfs",
+   "flaggedAt": "2026-09-16T05:08:52.629Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "marktext/marktext",
+   "flaggedAt": "2026-09-16T05:08:52.861Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "goauthentik/authentik",
+   "flaggedAt": "2026-09-16T05:08:53.155Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "darkzOGx/youtube-automation-agent",
+   "flaggedAt": "2026-09-16T05:08:53.668Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "coder/coder",
+   "flaggedAt": "2026-09-16T05:08:53.942Z",
+   "zScore": 11.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AgriciDaniel/claude-obsidian",
+   "flaggedAt": "2026-09-16T05:08:54.163Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JetBrains/go-modern-guidelines",
+   "flaggedAt": "2026-09-16T05:08:54.441Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "GCWing/OpenBitFun",
+   "flaggedAt": "2026-09-16T05:08:54.686Z",
+   "zScore": 15.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JoeanAmier/TikTokDownloader",
+   "flaggedAt": "2026-09-16T05:08:54.917Z",
+   "zScore": 11.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "e2b-dev/runtime",
+   "flaggedAt": "2026-09-16T05:08:55.172Z",
+   "zScore": 18.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "yyjeqhc/webcodex",
+   "flaggedAt": "2026-09-16T05:08:55.414Z",
+   "zScore": 6.3,
    "newAccountShare": null,
    "confirmed": null
   }
