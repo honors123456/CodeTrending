@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17T05:16:33.286Z",
+ "updatedAt": "2026-09-17T16:02:10.831Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7558,6 +7558,27 @@
    "repo": "dbt-labs/dbt",
    "flaggedAt": "2026-09-17T05:16:33.285Z",
    "zScore": 15.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sickn33/agentic-awesome-skills",
+   "flaggedAt": "2026-09-17T16:02:10.415Z",
+   "zScore": 9.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Nutlope/logocreator",
+   "flaggedAt": "2026-09-17T16:02:10.608Z",
+   "zScore": 6.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bobeff/open-source-games",
+   "flaggedAt": "2026-09-17T16:02:10.831Z",
+   "zScore": 3.1,
    "newAccountShare": null,
    "confirmed": null
   }
