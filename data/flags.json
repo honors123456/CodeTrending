@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T15:53:30.436Z",
+ "updatedAt": "2026-09-17T05:16:33.286Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7446,6 +7446,118 @@
    "repo": "ultralytics/ultralytics",
    "flaggedAt": "2026-09-16T15:53:30.435Z",
    "zScore": 7.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sharkdp/fd",
+   "flaggedAt": "2026-09-17T05:16:30.090Z",
+   "zScore": 18.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "caddyserver/caddy",
+   "flaggedAt": "2026-09-17T05:16:30.349Z",
+   "zScore": 5.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Mintplex-Labs/anything-llm",
+   "flaggedAt": "2026-09-17T05:16:30.524Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mozilla/pdf.js",
+   "flaggedAt": "2026-09-17T05:16:30.776Z",
+   "zScore": 29.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "juspay/hyperswitch",
+   "flaggedAt": "2026-09-17T05:16:30.981Z",
+   "zScore": 25.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hashicorp/vault",
+   "flaggedAt": "2026-09-17T05:16:31.268Z",
+   "zScore": 19.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nats-io/nats-server",
+   "flaggedAt": "2026-09-17T05:16:31.516Z",
+   "zScore": 18.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jarrodwatts/claude-hud",
+   "flaggedAt": "2026-09-17T05:16:31.731Z",
+   "zScore": 14.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cilium/cilium",
+   "flaggedAt": "2026-09-17T05:16:31.961Z",
+   "zScore": 11.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "googleapis/mcp-toolbox",
+   "flaggedAt": "2026-09-17T05:16:32.121Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ToolJet/ToolJet",
+   "flaggedAt": "2026-09-17T05:16:32.308Z",
+   "zScore": 21.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cloudnative-pg/cloudnative-pg",
+   "flaggedAt": "2026-09-17T05:16:32.462Z",
+   "zScore": 16.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "stdlib-js/stdlib",
+   "flaggedAt": "2026-09-17T05:16:32.629Z",
+   "zScore": 16.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "uutils/coreutils",
+   "flaggedAt": "2026-09-17T05:16:32.786Z",
+   "zScore": 18.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "supermemoryai/supermemory",
+   "flaggedAt": "2026-09-17T05:16:33.066Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dbt-labs/dbt",
+   "flaggedAt": "2026-09-17T05:16:33.285Z",
+   "zScore": 15.9,
    "newAccountShare": null,
    "confirmed": null
   }
