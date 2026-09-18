@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T05:05:38.782Z",
+ "updatedAt": "2026-09-18T15:24:57.253Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10632,6 +10632,22 @@
   "jieapi/AiCode": {
    "src": "在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。",
    "zh": "在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。"
+  },
+  "jinchenma94/bazi-skill": {
+   "src": "四柱八字命理分析",
+   "zh": "四柱八字命理分析"
+  },
+  "pjialin/py12306": {
+   "src": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+   "zh": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理"
+  },
+  "yynxxxxx/Codex-X": {
+   "src": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+   "zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+  },
+  "guohuiyuan/go-music-dl": {
+   "src": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+   "zh": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923"
   }
  }
 }
