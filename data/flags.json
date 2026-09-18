@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17T16:02:10.831Z",
+ "updatedAt": "2026-09-18T05:05:40.845Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7579,6 +7579,55 @@
    "repo": "bobeff/open-source-games",
    "flaggedAt": "2026-09-17T16:02:10.831Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "junegunn/fzf",
+   "flaggedAt": "2026-09-18T05:05:39.452Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Fission-AI/OpenSpec",
+   "flaggedAt": "2026-09-18T05:05:39.673Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "browser-use/browser-harness",
+   "flaggedAt": "2026-09-18T05:05:39.857Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "asciimoo/hister",
+   "flaggedAt": "2026-09-18T05:05:40.043Z",
+   "zScore": 64.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "securo-finance/securo",
+   "flaggedAt": "2026-09-18T05:05:40.269Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "remorses/gpuix",
+   "flaggedAt": "2026-09-18T05:05:40.555Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NVlabs/cuda-oxide",
+   "flaggedAt": "2026-09-18T05:05:40.844Z",
+   "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
   }
