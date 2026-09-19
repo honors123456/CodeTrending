@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T05:02:52.795Z",
+ "updatedAt": "2026-09-19T14:53:53.558Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7761,6 +7761,48 @@
    "repo": "krillinai/OpenCreator",
    "flaggedAt": "2026-09-19T05:02:52.795Z",
    "zScore": 19,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BuilderIO/agent-native",
+   "flaggedAt": "2026-09-19T14:53:52.426Z",
+   "zScore": 13.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cloudflare/quiche",
+   "flaggedAt": "2026-09-19T14:53:52.757Z",
+   "zScore": 22.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "lobehub/lobehub",
+   "flaggedAt": "2026-09-19T14:53:52.945Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cloudflare/cloudflared",
+   "flaggedAt": "2026-09-19T14:53:53.167Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cactus-compute/needle",
+   "flaggedAt": "2026-09-19T14:53:53.369Z",
+   "zScore": 5.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jarun/nnn",
+   "flaggedAt": "2026-09-19T14:53:53.558Z",
+   "zScore": 21.7,
    "newAccountShare": null,
    "confirmed": null
   }
