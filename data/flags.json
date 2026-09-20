@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T14:53:53.558Z",
+ "updatedAt": "2026-09-20T05:18:39.884Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7803,6 +7803,20 @@
    "repo": "jarun/nnn",
    "flaggedAt": "2026-09-19T14:53:53.558Z",
    "zScore": 21.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mnfst/awesome-free-llm-apis",
+   "flaggedAt": "2026-09-20T05:18:39.716Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ZuodaoTech/everyone-can-use-english",
+   "flaggedAt": "2026-09-20T05:18:39.883Z",
+   "zScore": 7.1,
    "newAccountShare": null,
    "confirmed": null
   }
