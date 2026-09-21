@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T15:09:40.967Z",
+ "updatedAt": "2026-09-21T05:19:40.111Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7866,6 +7866,13 @@
    "repo": "NeoApplications/Neo-Store",
    "flaggedAt": "2026-09-20T15:09:40.967Z",
    "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "paperless-ngx/paperless-ngx",
+   "flaggedAt": "2026-09-21T05:19:40.111Z",
+   "zScore": 34,
    "newAccountShare": null,
    "confirmed": null
   }
