@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T05:19:40.111Z",
+ "updatedAt": "2026-09-21T17:28:02.044Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7873,6 +7873,20 @@
    "repo": "paperless-ngx/paperless-ngx",
    "flaggedAt": "2026-09-21T05:19:40.111Z",
    "zScore": 34,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pacifio/atlas",
+   "flaggedAt": "2026-09-21T17:28:01.629Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/agent-framework",
+   "flaggedAt": "2026-09-21T17:28:02.043Z",
+   "zScore": 3.8,
    "newAccountShare": null,
    "confirmed": null
   }

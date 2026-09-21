@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T05:19:39.348Z",
+ "updatedAt": "2026-09-21T17:28:00.885Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10664,6 +10664,22 @@
   "bbfamily/abu": {
    "src": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
    "zh": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构"
+  },
+  "cv-cat/DouYin_Spider": {
+   "src": "抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听",
+   "zh": "抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听"
+  },
+  "TNT-Likely/PanWatch": {
+   "src": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+   "zh": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送"
+  },
+  "zhoushoujianwork/easyeda-agent": {
+   "src": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+   "zh": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP."
+  },
+  "kknifer7/FreeBox": {
+   "src": "TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展",
+   "zh": "TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展"
   }
  }
 }
