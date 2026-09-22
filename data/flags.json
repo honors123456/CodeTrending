@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T05:17:29.423Z",
+ "updatedAt": "2026-09-22T15:59:32.431Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -7964,6 +7964,188 @@
    "repo": "code-yeongyu/lazycodex",
    "flaggedAt": "2026-09-22T05:17:29.422Z",
    "zScore": 12.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "davila7/claude-code-templates",
+   "flaggedAt": "2026-09-22T15:59:27.079Z",
+   "zScore": 6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openai/codex-plugin-cc",
+   "flaggedAt": "2026-09-22T15:59:27.327Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ashishps1/awesome-system-design-resources",
+   "flaggedAt": "2026-09-22T15:59:27.592Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "yt-dlp/yt-dlp",
+   "flaggedAt": "2026-09-22T15:59:27.804Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "swisskyrepo/PayloadsAllTheThings",
+   "flaggedAt": "2026-09-22T15:59:28.012Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "juliangarnier/anime",
+   "flaggedAt": "2026-09-22T15:59:28.198Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "clash-verge-rev/clash-verge-rev",
+   "flaggedAt": "2026-09-22T15:59:28.391Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tinyhumansai/openhuman",
+   "flaggedAt": "2026-09-22T15:59:28.594Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "RikkaApps/Shizuku",
+   "flaggedAt": "2026-09-22T15:59:28.801Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LiveContainer/LiveContainer",
+   "flaggedAt": "2026-09-22T15:59:29.011Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mvanhorn/last30days-skill",
+   "flaggedAt": "2026-09-22T15:59:29.234Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "can1357/oh-my-pi",
+   "flaggedAt": "2026-09-22T15:59:29.419Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "drawdb-io/drawdb",
+   "flaggedAt": "2026-09-22T15:59:29.642Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "moghtech/komodo",
+   "flaggedAt": "2026-09-22T15:59:29.993Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tokio-rs/topcoat",
+   "flaggedAt": "2026-09-22T15:59:30.184Z",
+   "zScore": 11.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Osmantic/ODS",
+   "flaggedAt": "2026-09-22T15:59:30.431Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "corsairdev/corsair",
+   "flaggedAt": "2026-09-22T15:59:30.658Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "zzet/gortex",
+   "flaggedAt": "2026-09-22T15:59:30.848Z",
+   "zScore": 46.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "open-gsd/gsd-core",
+   "flaggedAt": "2026-09-22T15:59:31.039Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jundot/omlx",
+   "flaggedAt": "2026-09-22T15:59:31.238Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+   "flaggedAt": "2026-09-22T15:59:31.433Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pipecat-ai/pipecat",
+   "flaggedAt": "2026-09-22T15:59:31.627Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Nasiko-Labs/nasiko",
+   "flaggedAt": "2026-09-22T15:59:31.815Z",
+   "zScore": 9.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "weave-os/router",
+   "flaggedAt": "2026-09-22T15:59:32.052Z",
+   "zScore": 7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "simonlin1212/TradingAgents-astock",
+   "flaggedAt": "2026-09-22T15:59:32.225Z",
+   "zScore": 12.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "MG1937/ASC",
+   "flaggedAt": "2026-09-22T15:59:32.431Z",
+   "zScore": 3.6,
    "newAccountShare": null,
    "confirmed": null
   }
