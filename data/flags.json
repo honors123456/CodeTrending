@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T05:05:24.101Z",
+ "updatedAt": "2026-09-24T16:18:01.103Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8244,6 +8244,27 @@
    "repo": "HKUDS/CLI-Anything",
    "flaggedAt": "2026-09-24T05:05:24.101Z",
    "zScore": 8.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "paperclipai/paperclip",
+   "flaggedAt": "2026-09-24T16:18:00.691Z",
+   "zScore": 11.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "leejet/stable-diffusion.cpp",
+   "flaggedAt": "2026-09-24T16:18:00.876Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "shy3130/tick-stock-panel",
+   "flaggedAt": "2026-09-24T16:18:01.102Z",
+   "zScore": 3.2,
    "newAccountShare": null,
    "confirmed": null
   }
