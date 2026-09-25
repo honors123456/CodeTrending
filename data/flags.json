@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T05:19:29.875Z",
+ "updatedAt": "2026-09-25T16:17:30.148Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8286,6 +8286,13 @@
    "repo": "strands-agents/harness-sdk",
    "flaggedAt": "2026-09-25T05:19:29.874Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mobile-next/mobile-mcp",
+   "flaggedAt": "2026-09-25T16:17:30.147Z",
+   "zScore": 8.6,
    "newAccountShare": null,
    "confirmed": null
   }
