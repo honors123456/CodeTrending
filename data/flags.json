@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-26T05:20:10.143Z",
+ "updatedAt": "2026-09-26T15:31:52.205Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8349,6 +8349,97 @@
    "repo": "willfaust/Madeira",
    "flaggedAt": "2026-09-26T05:20:10.143Z",
    "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pytorch/pytorch",
+   "flaggedAt": "2026-09-26T15:31:49.314Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pbakaus/impeccable",
+   "flaggedAt": "2026-09-26T15:31:49.673Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "EbookFoundation/free-programming-books",
+   "flaggedAt": "2026-09-26T15:31:49.857Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Z4nzu/hackingtool",
+   "flaggedAt": "2026-09-26T15:31:50.102Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "juspay/hyperswitch",
+   "flaggedAt": "2026-09-26T15:31:50.405Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hmjz100/LinkSwift",
+   "flaggedAt": "2026-09-26T15:31:50.645Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "oblien/openship",
+   "flaggedAt": "2026-09-26T15:31:50.884Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "putyy/res-downloader",
+   "flaggedAt": "2026-09-26T15:31:51.128Z",
+   "zScore": 7.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "seemoo-lab/openhaystack",
+   "flaggedAt": "2026-09-26T15:31:51.333Z",
+   "zScore": 20.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "backnotprop/plannotator",
+   "flaggedAt": "2026-09-26T15:31:51.584Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/claude-code-action",
+   "flaggedAt": "2026-09-26T15:31:51.816Z",
+   "zScore": 15.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "career-ops-hq/career-ops",
+   "flaggedAt": "2026-09-26T15:31:52.017Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tianyu199509/DeskBox",
+   "flaggedAt": "2026-09-26T15:31:52.205Z",
+   "zScore": 8.2,
    "newAccountShare": null,
    "confirmed": null
   }
