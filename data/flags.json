@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T05:41:55.367Z",
+ "updatedAt": "2026-09-27T16:10:17.362Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8454,6 +8454,27 @@
    "repo": "openbao/openbao",
    "flaggedAt": "2026-09-27T05:41:55.366Z",
    "zScore": 15.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openai/tart",
+   "flaggedAt": "2026-09-27T16:10:16.911Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vrtmrz/obsidian-livesync",
+   "flaggedAt": "2026-09-27T16:10:17.153Z",
+   "zScore": 16.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "loopx-project/loopx",
+   "flaggedAt": "2026-09-27T16:10:17.362Z",
+   "zScore": 4.4,
    "newAccountShare": null,
    "confirmed": null
   }
