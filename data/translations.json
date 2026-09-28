@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T16:10:16.068Z",
+ "updatedAt": "2026-09-28T05:46:09.496Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10670,8 +10670,8 @@
    "zh": "抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听"
   },
   "TNT-Likely/PanWatch": {
-   "src": "PanWatch — Self-hosted AI stock monitoring and portfolio intelligence powered by TradingAgents. Multi-agent research, real-time alerts and automated reports for A-shares, Hong Kong and U.S. markets. | 盯盘侠：自托管 AI 盯盘与持仓智能平台，覆盖 A 股、港股、美股，支持多 Agent 投研、实时预警和自动报告。",
-   "zh": "PanWatch — Self-hosted AI stock monitoring and portfolio intelligence powered by TradingAgents. Multi-agent research, real-time alerts and automated reports for A-shares, Hong Kong and U.S. markets. | 盯盘侠：自托管 AI 盯盘与持仓智能平台，覆盖 A 股、港股、美股，支持多 Agent 投研、实时预警和自动报告。"
+   "src": "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。",
+   "zh": "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。"
   },
   "zhoushoujianwork/easyeda-agent": {
    "src": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
@@ -10716,6 +10716,10 @@
   "lanyeeee/bilibili-video-downloader": {
    "src": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库",
    "zh": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库"
+  },
+  "huilang-me/CF-Server-Monitor": {
+   "src": "一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。",
+   "zh": "一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。"
   }
  }
 }
