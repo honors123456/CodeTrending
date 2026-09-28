@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T05:46:14.109Z",
+ "updatedAt": "2026-09-28T19:03:57.757Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8608,6 +8608,48 @@
    "repo": "hydra-db/hydradb",
    "flaggedAt": "2026-09-28T05:46:14.108Z",
    "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NVIDIA/OpenShell",
+   "flaggedAt": "2026-09-28T19:03:56.201Z",
+   "zScore": 29.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "byoungd/up",
+   "flaggedAt": "2026-09-28T19:03:56.605Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "moeru-ai/airi",
+   "flaggedAt": "2026-09-28T19:03:56.838Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kangarooking/cangjie-skill",
+   "flaggedAt": "2026-09-28T19:03:57.225Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "VectifyAI/PageIndex",
+   "flaggedAt": "2026-09-28T19:03:57.526Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tgeorgiadis/quiver-launcher",
+   "flaggedAt": "2026-09-28T19:03:57.756Z",
+   "zScore": 56.9,
    "newAccountShare": null,
    "confirmed": null
   }
