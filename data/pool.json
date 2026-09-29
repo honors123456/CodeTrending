@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T18:34:44.149Z",
+ "updatedAt": "2026-09-29T05:36:22.105Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -9977,7 +9977,7 @@
    "repo": "0xCUB3/wBlock",
    "language": "swift",
    "firstSeen": "2026-09-02",
-   "lastSeenOnTrending": "2026-09-02"
+   "lastSeenOnTrending": "2026-09-29"
   },
   {
    "repo": "kvcache-ai/ktransformers",
@@ -15868,6 +15868,12 @@
   {
    "repo": "kuaifan/dootask",
    "language": "php",
+   "firstSeen": "2026-09-29",
+   "lastSeenOnTrending": "2026-09-29"
+  },
+  {
+   "repo": "YuKongA/ghostlock-app",
+   "language": "c",
    "firstSeen": "2026-09-29",
    "lastSeenOnTrending": "2026-09-29"
   }
