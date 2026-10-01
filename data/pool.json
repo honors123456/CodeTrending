@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T16:48:28.183Z",
+ "updatedAt": "2026-10-01T05:41:32.368Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -9659,7 +9659,7 @@
    "repo": "docker/compose",
    "language": "go",
    "firstSeen": "2026-09-02",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-01"
   },
   {
    "repo": "livekit/livekit",
@@ -15838,6 +15838,18 @@
   {
    "repo": "lively-community/lively",
    "language": "csharp",
+   "firstSeen": "2026-10-01",
+   "lastSeenOnTrending": "2026-10-01"
+  },
+  {
+   "repo": "mokshablr/gander",
+   "language": "javascript",
+   "firstSeen": "2026-10-01",
+   "lastSeenOnTrending": "2026-10-01"
+  },
+  {
+   "repo": "ahXN00/OwnTV",
+   "language": "kotlin",
    "firstSeen": "2026-10-01",
    "lastSeenOnTrending": "2026-10-01"
   }
