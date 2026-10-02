@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T17:48:45.428Z",
+ "updatedAt": "2026-10-02T05:57:19.326Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8881,6 +8881,34 @@
    "repo": "bbfamily/abu",
    "flaggedAt": "2026-10-01T17:48:45.428Z",
    "zScore": 13.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kestra-io/kestra",
+   "flaggedAt": "2026-10-02T05:57:18.534Z",
+   "zScore": 5.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Effect-TS/effect",
+   "flaggedAt": "2026-10-02T05:57:18.743Z",
+   "zScore": 11.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cloudflare/cloudflare-os",
+   "flaggedAt": "2026-10-02T05:57:19.067Z",
+   "zScore": 9.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "meituan-longcat/LongCat-Video",
+   "flaggedAt": "2026-10-02T05:57:19.325Z",
+   "zScore": 3.1,
    "newAccountShare": null,
    "confirmed": null
   }
