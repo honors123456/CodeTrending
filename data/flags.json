@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T05:57:19.326Z",
+ "updatedAt": "2026-10-02T17:02:34.947Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8909,6 +8909,20 @@
    "repo": "meituan-longcat/LongCat-Video",
    "flaggedAt": "2026-10-02T05:57:19.325Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "google/skills",
+   "flaggedAt": "2026-10-02T17:02:34.690Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "getsentry/sentry",
+   "flaggedAt": "2026-10-02T17:02:34.946Z",
+   "zScore": 16.6,
    "newAccountShare": null,
    "confirmed": null
   }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T05:57:17.840Z",
+ "updatedAt": "2026-10-02T17:02:34.037Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10732,6 +10732,10 @@
   "SemiAnalysisAI/InferenceX": {
    "src": "Open Source Inference Research Platform Standard / 开源推理研究平台",
    "zh": "Open Source Inference Research Platform Standard / 开源推理研究平台"
+  },
+  "zerx-lab/FluxDown": {
+   "src": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+   "zh": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。"
   }
  }
 }
