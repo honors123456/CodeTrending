@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T17:02:34.947Z",
+ "updatedAt": "2026-10-03T05:40:03.616Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -8923,6 +8923,55 @@
    "repo": "getsentry/sentry",
    "flaggedAt": "2026-10-02T17:02:34.946Z",
    "zScore": 16.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Panniantong/Agent-Reach",
+   "flaggedAt": "2026-10-03T05:40:02.404Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JuliusBrussee/caveman",
+   "flaggedAt": "2026-10-03T05:40:02.632Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "coreyhaines31/marketingskills",
+   "flaggedAt": "2026-10-03T05:40:02.844Z",
+   "zScore": 5.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cjpais/Handy",
+   "flaggedAt": "2026-10-03T05:40:03.085Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "antirez/ds4",
+   "flaggedAt": "2026-10-03T05:40:03.267Z",
+   "zScore": 7.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jo-inc/camofox-browser",
+   "flaggedAt": "2026-10-03T05:40:03.438Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "willfaust/Madeira",
+   "flaggedAt": "2026-10-03T05:40:03.615Z",
+   "zScore": 4.5,
    "newAccountShare": null,
    "confirmed": null
   }
