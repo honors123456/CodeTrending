@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-04T06:12:39.829Z",
+ "updatedAt": "2026-10-04T16:18:09.158Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -9161,6 +9161,55 @@
    "repo": "DuarteSantos8/openGym",
    "flaggedAt": "2026-10-04T06:12:39.828Z",
    "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "caddyserver/caddy",
+   "flaggedAt": "2026-10-04T16:18:07.763Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Stremio/stremio-web",
+   "flaggedAt": "2026-10-04T16:18:08.134Z",
+   "zScore": 13.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "earthtojake/text-to-cad",
+   "flaggedAt": "2026-10-04T16:18:08.324Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NdoleStudio/httpsms",
+   "flaggedAt": "2026-10-04T16:18:08.568Z",
+   "zScore": 6.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AdventDevInc/kudu",
+   "flaggedAt": "2026-10-04T16:18:08.742Z",
+   "zScore": 10.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "chthollyphile/folia-major",
+   "flaggedAt": "2026-10-04T16:18:08.977Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "withmarbleapp/os-taxonomy",
+   "flaggedAt": "2026-10-04T16:18:09.157Z",
+   "zScore": 13,
    "newAccountShare": null,
    "confirmed": null
   }
