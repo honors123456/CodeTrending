@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T15:39:34.683Z",
+ "updatedAt": "2026-10-04T06:12:39.829Z",
  "flags": [
   {
    "repo": "nilbuild/developer-roadmap",
@@ -9126,6 +9126,41 @@
    "repo": "getopenscreen/openscreen",
    "flaggedAt": "2026-10-03T15:39:34.682Z",
    "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pingdotgg/t3code",
+   "flaggedAt": "2026-10-04T06:12:39.174Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "numpy/numpy",
+   "flaggedAt": "2026-10-04T06:12:39.343Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Joooook/12306-mcp",
+   "flaggedAt": "2026-10-04T06:12:39.506Z",
+   "zScore": 16.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "python/cpython",
+   "flaggedAt": "2026-10-04T06:12:39.697Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "DuarteSantos8/openGym",
+   "flaggedAt": "2026-10-04T06:12:39.828Z",
+   "zScore": 3.5,
    "newAccountShare": null,
    "confirmed": null
   }
