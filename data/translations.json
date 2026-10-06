@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T06:42:09.384Z",
+ "updatedAt": "2026-10-06T17:39:37.669Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10748,6 +10748,18 @@
   "laoma528/awesome-zhuiju-free": {
    "src": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
    "zh": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。"
+  },
+  "ranxianglei/billion-context": {
+   "src": "基本稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+   "zh": "基本稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need"
+  },
+  "lishuangqiang/AI-Meeting": {
+   "src": "基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。",
+   "zh": "基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。"
+  },
+  "CYQawa/YunX": {
+   "src": "✨一个安卓网盘解析下载app✨",
+   "zh": "✨一个安卓网盘解析下载app✨"
   }
  }
 }
