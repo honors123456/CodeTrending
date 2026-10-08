@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T06:23:26.952Z",
+ "updatedAt": "2026-10-08T18:14:59.087Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10764,6 +10764,18 @@
   "MDX-Tom/gpt-instruct": {
    "src": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
    "zh": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。"
+  },
+  "XCQ0607/lxserver": {
+   "src": "LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。",
+   "zh": "LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。"
+  },
+  "yuxino/Mimi": {
+   "src": "把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio.",
+   "zh": "把电脑或麦克风声音转成实时翻译字幕。Live translated subtitles from computer or microphone audio."
+  },
+  "HD838A/remote-mic-app": {
+   "src": "无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备",
+   "zh": "无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备"
   }
  }
 }
