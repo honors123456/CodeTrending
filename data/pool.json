@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T17:46:49.031Z",
+ "updatedAt": "2026-10-08T05:53:11.766Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -4271,7 +4271,7 @@
    "repo": "ankidroid/Anki-Android",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-02"
+   "lastSeenOnTrending": "2026-10-08"
   },
   {
    "repo": "github/CopilotForXcode",
@@ -15460,6 +15460,12 @@
   {
    "repo": "shlinkio/shlink",
    "language": "php",
+   "firstSeen": "2026-10-08",
+   "lastSeenOnTrending": "2026-10-08"
+  },
+  {
+   "repo": "sambanks/octabam",
+   "language": "python",
    "firstSeen": "2026-10-08",
    "lastSeenOnTrending": "2026-10-08"
   }

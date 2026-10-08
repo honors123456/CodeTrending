@@ -1,13 +1,6 @@
 {
- "updatedAt": "2026-10-07T18:12:12.722Z",
+ "updatedAt": "2026-10-08T06:23:29.861Z",
  "flags": [
-  {
-   "repo": "nilbuild/developer-roadmap",
-   "flaggedAt": "2026-07-10T04:11:30.686Z",
-   "zScore": 4.8,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
   {
    "repo": "ansible/ansible",
    "flaggedAt": "2026-07-10T13:22:56.588Z",
@@ -9469,6 +9462,69 @@
    "repo": "Kelsidavis/WoWee",
    "flaggedAt": "2026-10-07T18:12:12.721Z",
    "zScore": 27.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pocket-id/pocket-id",
+   "flaggedAt": "2026-10-08T06:23:27.721Z",
+   "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "shiyu-coder/Kronos",
+   "flaggedAt": "2026-10-08T06:23:28.070Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ayghri/i-have-adhd",
+   "flaggedAt": "2026-10-08T06:23:28.296Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "unslothai/unsloth",
+   "flaggedAt": "2026-10-08T06:23:28.575Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "upscayl/upscayl",
+   "flaggedAt": "2026-10-08T06:23:28.825Z",
+   "zScore": 5.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ItzCrazyKns/Vane",
+   "flaggedAt": "2026-10-08T06:23:29.058Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "docker/docker-agent",
+   "flaggedAt": "2026-10-08T06:23:29.311Z",
+   "zScore": 260.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/mxc",
+   "flaggedAt": "2026-10-08T06:23:29.636Z",
+   "zScore": 34.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dmtrKovalenko/fframes",
+   "flaggedAt": "2026-10-08T06:23:29.861Z",
+   "zScore": 3.3,
    "newAccountShare": null,
    "confirmed": null
   }
