@@ -1,20 +1,6 @@
 {
- "updatedAt": "2026-10-09T06:29:43.540Z",
+ "updatedAt": "2026-10-09T17:50:37.778Z",
  "flags": [
-  {
-   "repo": "gitroomhq/postiz-app",
-   "flaggedAt": "2026-07-11T12:07:25.194Z",
-   "zScore": 4,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "Leantime/leantime",
-   "flaggedAt": "2026-07-11T12:07:28.779Z",
-   "zScore": 25.1,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "HKUDS/Vibe-Trading",
    "flaggedAt": "2026-07-12T03:53:28.113Z",
@@ -8706,6 +8692,13 @@
    "repo": "PimpinPumpkin/Vela",
    "flaggedAt": "2026-10-09T06:29:43.540Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BerriAI/litellm",
+   "flaggedAt": "2026-10-09T17:50:37.777Z",
+   "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
   }
