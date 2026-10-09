@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T17:54:41.692Z",
+ "updatedAt": "2026-10-09T06:00:19.128Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -6743,7 +6743,7 @@
    "repo": "frknkrc44/HMA-OSS",
    "language": "kotlin",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-03"
+   "lastSeenOnTrending": "2026-10-09"
   },
   {
    "repo": "sky-map-team/stardroid",
@@ -15388,6 +15388,12 @@
   {
    "repo": "HiEventsDev/Hi.Events",
    "language": "php",
+   "firstSeen": "2026-10-09",
+   "lastSeenOnTrending": "2026-10-09"
+  },
+  {
+   "repo": "Anil-matcha/open-dots",
+   "language": "python",
    "firstSeen": "2026-10-09",
    "lastSeenOnTrending": "2026-10-09"
   }
