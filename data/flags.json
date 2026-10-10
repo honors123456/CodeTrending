@@ -1,41 +1,6 @@
 {
- "updatedAt": "2026-10-10T06:09:44.257Z",
+ "updatedAt": "2026-10-10T16:41:05.605Z",
  "flags": [
-  {
-   "repo": "router-for-me/CLIProxyAPI",
-   "flaggedAt": "2026-07-12T06:47:12.597Z",
-   "zScore": 3.9,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "shadps4-emu/shadPS4",
-   "flaggedAt": "2026-07-12T12:10:09.177Z",
-   "zScore": 4.1,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "3b1b/manim",
-   "flaggedAt": "2026-07-12T12:10:14.123Z",
-   "zScore": 11.1,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "sherlock-project/sherlock",
-   "flaggedAt": "2026-07-12T12:10:18.911Z",
-   "zScore": 4.8,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "kurikomi-labs/komi-store",
-   "flaggedAt": "2026-07-12T12:10:22.914Z",
-   "zScore": 6.3,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
   {
    "repo": "Augani/openreel-video",
    "flaggedAt": "2026-07-13T03:57:53.432Z",
@@ -8839,6 +8804,20 @@
    "repo": "xtool-org/xtool",
    "flaggedAt": "2026-10-10T06:09:44.256Z",
    "zScore": 98,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/BitNet",
+   "flaggedAt": "2026-10-10T16:41:05.312Z",
+   "zScore": 50.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tencent/teamai-cli",
+   "flaggedAt": "2026-10-10T16:41:05.605Z",
+   "zScore": 8.1,
    "newAccountShare": null,
    "confirmed": null
   }
