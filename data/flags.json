@@ -1,97 +1,6 @@
 {
- "updatedAt": "2026-10-11T05:59:53.847Z",
+ "updatedAt": "2026-10-11T17:05:25.968Z",
  "flags": [
-  {
-   "repo": "Ebullioscopic/Atoll",
-   "flaggedAt": "2026-07-13T07:36:10.547Z",
-   "zScore": 3.4,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
-  {
-   "repo": "robinebers/openusage",
-   "flaggedAt": "2026-07-13T07:36:14.163Z",
-   "zScore": 5,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "github/spec-kit",
-   "flaggedAt": "2026-07-13T07:36:19.272Z",
-   "zScore": 4.9,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "zarazhangrui/frontend-slides",
-   "flaggedAt": "2026-07-13T13:33:40.608Z",
-   "zScore": 4,
-   "newAccountShare": 0.1,
-   "confirmed": false
-  },
-  {
-   "repo": "stablyai/orca",
-   "flaggedAt": "2026-07-13T13:33:45.237Z",
-   "zScore": 3.1,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "IceWhaleTech/CasaOS",
-   "flaggedAt": "2026-07-13T13:33:50.127Z",
-   "zScore": 3.9,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "darrylmorley/whatcable",
-   "flaggedAt": "2026-07-13T13:33:54.168Z",
-   "zScore": 20,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "danielmiessler/Fabric",
-   "flaggedAt": "2026-07-13T13:33:58.865Z",
-   "zScore": 7.5,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "Graphify-Labs/graphify",
-   "flaggedAt": "2026-07-13T13:34:04.006Z",
-   "zScore": 3.7,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "juliangarnier/anime",
-   "flaggedAt": "2026-07-13T13:34:09.858Z",
-   "zScore": 5,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "clash-verge-rev/clash-verge-rev",
-   "flaggedAt": "2026-07-13T13:34:16.069Z",
-   "zScore": 3,
-   "newAccountShare": 0.167,
-   "confirmed": false
-  },
-  {
-   "repo": "helix-editor/helix",
-   "flaggedAt": "2026-07-13T13:34:21.571Z",
-   "zScore": 3.2,
-   "newAccountShare": 0.1,
-   "confirmed": false
-  },
-  {
-   "repo": "THU-MAIC/OpenMAIC",
-   "flaggedAt": "2026-07-13T13:34:25.754Z",
-   "zScore": 3.2,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
   {
    "repo": "openinterpreter/openinterpreter",
    "flaggedAt": "2026-07-14T03:29:47.440Z",
@@ -8895,6 +8804,27 @@
    "repo": "breferrari/obsidian-mind",
    "flaggedAt": "2026-10-11T05:59:53.846Z",
    "zScore": 9.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "opendataloader-project/opendataloader-pdf",
+   "flaggedAt": "2026-10-11T17:05:25.534Z",
+   "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Javis603/token-monitor",
+   "flaggedAt": "2026-10-11T17:05:25.784Z",
+   "zScore": 8.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenBMB/VoxCPM",
+   "flaggedAt": "2026-10-11T17:05:25.968Z",
+   "zScore": 9.2,
    "newAccountShare": null,
    "confirmed": null
   }
