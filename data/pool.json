@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T16:37:46.805Z",
+ "updatedAt": "2026-10-12T05:47:11.823Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -15190,6 +15190,12 @@
   {
    "repo": "voku/portable-ascii",
    "language": "php",
+   "firstSeen": "2026-10-12",
+   "lastSeenOnTrending": "2026-10-12"
+  },
+  {
+   "repo": "littledivy/mimic",
+   "language": "python",
    "firstSeen": "2026-10-12",
    "lastSeenOnTrending": "2026-10-12"
   }

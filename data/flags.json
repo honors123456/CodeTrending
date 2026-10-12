@@ -1,13 +1,6 @@
 {
- "updatedAt": "2026-10-11T17:05:25.968Z",
+ "updatedAt": "2026-10-12T06:14:38.301Z",
  "flags": [
-  {
-   "repo": "openinterpreter/openinterpreter",
-   "flaggedAt": "2026-07-14T03:29:47.440Z",
-   "zScore": 119.8,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "coreyhaines31/marketingskills",
    "flaggedAt": "2026-07-14T06:26:40.953Z",
@@ -8825,6 +8818,111 @@
    "repo": "OpenBMB/VoxCPM",
    "flaggedAt": "2026-10-11T17:05:25.968Z",
    "zScore": 9.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Alishahryar1/free-claude-code",
+   "flaggedAt": "2026-10-12T06:14:34.791Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BurntSushi/ripgrep",
+   "flaggedAt": "2026-10-12T06:14:35.137Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "unclecode/crawl4ai",
+   "flaggedAt": "2026-10-12T06:14:35.359Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rmyndharis/OpenWA",
+   "flaggedAt": "2026-10-12T06:14:35.591Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "HuangZhuoRui/LocationSpoofer",
+   "flaggedAt": "2026-10-12T06:14:35.836Z",
+   "zScore": 11,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "googleworkspace/cli",
+   "flaggedAt": "2026-10-12T06:14:36.077Z",
+   "zScore": 13.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "wshobson/agents",
+   "flaggedAt": "2026-10-12T06:14:36.290Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rlaope/oh-my-hermes",
+   "flaggedAt": "2026-10-12T06:14:36.585Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rommapp/romm",
+   "flaggedAt": "2026-10-12T06:14:36.855Z",
+   "zScore": 13.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "blader/humanizer",
+   "flaggedAt": "2026-10-12T06:14:37.148Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gtsteffaniak/filebrowser",
+   "flaggedAt": "2026-10-12T06:14:37.374Z",
+   "zScore": 9.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vercel-labs/skills",
+   "flaggedAt": "2026-10-12T06:14:37.654Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "chthollyphile/folia-major",
+   "flaggedAt": "2026-10-12T06:14:37.858Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "huanfeng/WindInput",
+   "flaggedAt": "2026-10-12T06:14:38.073Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Crosstalk-Solutions/project-nomad",
+   "flaggedAt": "2026-10-12T06:14:38.301Z",
+   "zScore": 4.7,
    "newAccountShare": null,
    "confirmed": null
   }
