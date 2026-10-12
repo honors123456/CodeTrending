@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-10-12T06:14:38.301Z",
+ "updatedAt": "2026-10-12T20:40:41.246Z",
  "flags": [
-  {
-   "repo": "coreyhaines31/marketingskills",
-   "flaggedAt": "2026-07-14T06:26:40.953Z",
-   "zScore": 3,
-   "newAccountShare": 0.333,
-   "confirmed": false
-  },
-  {
-   "repo": "BuilderIO/agent-native",
-   "flaggedAt": "2026-07-14T12:24:59.435Z",
-   "zScore": 5.3,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "pocketbase/pocketbase",
-   "flaggedAt": "2026-07-14T12:25:04.437Z",
-   "zScore": 8.5,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "microsoft/markitdown",
-   "flaggedAt": "2026-07-14T12:25:10.232Z",
-   "zScore": 5.4,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "duckdb/duckdb",
-   "flaggedAt": "2026-07-14T12:25:15.494Z",
-   "zScore": 7.6,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "nikitabobko/AeroSpace",
-   "flaggedAt": "2026-07-14T12:25:19.513Z",
-   "zScore": 6.9,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "browseros-ai/BrowserOS",
-   "flaggedAt": "2026-07-14T12:25:23.413Z",
-   "zScore": 3.7,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "yangshun/tech-interview-handbook",
    "flaggedAt": "2026-07-15T03:32:24.758Z",
@@ -8923,6 +8874,62 @@
    "repo": "Crosstalk-Solutions/project-nomad",
    "flaggedAt": "2026-10-12T06:14:38.301Z",
    "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "open-webui/open-webui",
+   "flaggedAt": "2026-10-12T20:40:39.413Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "78/xiaozhi-esp32",
+   "flaggedAt": "2026-10-12T20:40:39.724Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "krillinai/OpenCreator",
+   "flaggedAt": "2026-10-12T20:40:39.933Z",
+   "zScore": 7.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "koharu-rs/koharu",
+   "flaggedAt": "2026-10-12T20:40:40.146Z",
+   "zScore": 7.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "google-research/timesfm",
+   "flaggedAt": "2026-10-12T20:40:40.555Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vxcontrol/pentagi",
+   "flaggedAt": "2026-10-12T20:40:40.764Z",
+   "zScore": 94.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jamiepine/voicebox",
+   "flaggedAt": "2026-10-12T20:40:41.037Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Paymenter/Paymenter",
+   "flaggedAt": "2026-10-12T20:40:41.246Z",
+   "zScore": 4.2,
    "newAccountShare": null,
    "confirmed": null
   }

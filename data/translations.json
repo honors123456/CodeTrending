@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T06:14:33.985Z",
+ "updatedAt": "2026-10-12T20:40:38.578Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -122,8 +122,8 @@
    "zh": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
   },
   "byoungd/up": {
-   "src": "韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
-   "zh": "韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。"
+   "src": "韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
+   "zh": "韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。"
   },
   "chinese-poetry/chinese-poetry": {
    "src": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
@@ -10796,6 +10796,18 @@
   "studyzy/imewlconverter": {
    "src": "”深蓝词库转换“ 一款开源免费的输入法词库转换程序",
    "zh": "”深蓝词库转换“ 一款开源免费的输入法词库转换程序"
+  },
+  "HEXUXIU/M365-Copilot2API": {
+   "src": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。",
+   "zh": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。"
+  },
+  "Christ9038/Ydisks-Xianyu-Helper": {
+   "src": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
+   "zh": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建"
+  },
+  "wuwangzhang1216/ChinaTextbookStudyFree": {
+   "src": "给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。",
+   "zh": "给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。"
   }
  }
 }
