@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-10-13T07:04:12.040Z",
+ "updatedAt": "2026-10-13T18:35:57.279Z",
  "flags": [
-  {
-   "repo": "tt-a1i/archify",
-   "flaggedAt": "2026-07-15T12:28:37.491Z",
-   "zScore": 4.3,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "Anil-matcha/Open-Generative-AI",
-   "flaggedAt": "2026-07-15T12:28:41.629Z",
-   "zScore": 3.8,
-   "newAccountShare": 0.1,
-   "confirmed": false
-  },
-  {
-   "repo": "practical-tutorials/project-based-learning",
-   "flaggedAt": "2026-07-15T12:28:51.704Z",
-   "zScore": 4,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "ggbond268/MacTools",
-   "flaggedAt": "2026-07-15T12:28:55.434Z",
-   "zScore": 4.5,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "SagerNet/sing-box",
-   "flaggedAt": "2026-07-15T12:28:59.764Z",
-   "zScore": 4.3,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "deskflow/deskflow",
-   "flaggedAt": "2026-07-15T12:29:04.226Z",
-   "zScore": 11,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "supertone-inc/supertonic",
-   "flaggedAt": "2026-07-15T12:29:08.769Z",
-   "zScore": 8.3,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "gastownhall/beads",
    "flaggedAt": "2026-07-16T03:38:12.750Z",
@@ -9077,6 +9028,55 @@
    "repo": "CYQawa/YunX",
    "flaggedAt": "2026-10-13T07:04:12.039Z",
    "zScore": 12,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "home-assistant/core",
+   "flaggedAt": "2026-10-13T18:35:55.613Z",
+   "zScore": 8.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NanmiCoder/MediaCrawler",
+   "flaggedAt": "2026-10-13T18:35:55.864Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hmjz100/LinkSwift",
+   "flaggedAt": "2026-10-13T18:35:56.071Z",
+   "zScore": 12.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NVIDIA/personaplex",
+   "flaggedAt": "2026-10-13T18:35:56.367Z",
+   "zScore": 43.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "plugin87/ux-ui-agent-skills",
+   "flaggedAt": "2026-10-13T18:35:56.766Z",
+   "zScore": 9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "python/cpython",
+   "flaggedAt": "2026-10-13T18:35:57.020Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ifixai-ai/iFixAi",
+   "flaggedAt": "2026-10-13T18:35:57.279Z",
+   "zScore": 3.5,
    "newAccountShare": null,
    "confirmed": null
   }
