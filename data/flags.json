@@ -1,20 +1,6 @@
 {
- "updatedAt": "2026-10-12T20:40:41.246Z",
+ "updatedAt": "2026-10-13T07:04:12.040Z",
  "flags": [
-  {
-   "repo": "yangshun/tech-interview-handbook",
-   "flaggedAt": "2026-07-15T03:32:24.758Z",
-   "zScore": 5.5,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "juspay/hyperswitch",
-   "flaggedAt": "2026-07-15T06:29:11.003Z",
-   "zScore": 8.8,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "tt-a1i/archify",
    "flaggedAt": "2026-07-15T12:28:37.491Z",
@@ -8930,6 +8916,167 @@
    "repo": "Paymenter/Paymenter",
    "flaggedAt": "2026-10-12T20:40:41.246Z",
    "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ChromeDevTools/chrome-devtools-mcp",
+   "flaggedAt": "2026-10-13T07:04:05.745Z",
+   "zScore": 5.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "supabase/supabase",
+   "flaggedAt": "2026-10-13T07:04:06.141Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "1jehuang/jcode",
+   "flaggedAt": "2026-10-13T07:04:06.525Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "babalae/better-genshin-impact",
+   "flaggedAt": "2026-10-13T07:04:06.787Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Sonarr/Sonarr",
+   "flaggedAt": "2026-10-13T07:04:07.069Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rtk-ai/rtk",
+   "flaggedAt": "2026-10-13T07:04:07.346Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "FFmpeg/FFmpeg",
+   "flaggedAt": "2026-10-13T07:04:07.672Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "utkarshdalal/GameNative",
+   "flaggedAt": "2026-10-13T07:04:07.954Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "opendatalab/MinerU",
+   "flaggedAt": "2026-10-13T07:04:08.257Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TencentCloud/TencentDB-Agent-Memory",
+   "flaggedAt": "2026-10-13T07:04:08.557Z",
+   "zScore": 9.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mksglu/context-mode",
+   "flaggedAt": "2026-10-13T07:04:08.881Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tashfeenahmed/freellmapi",
+   "flaggedAt": "2026-10-13T07:04:09.089Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "agalwood/Motrix",
+   "flaggedAt": "2026-10-13T07:04:09.338Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "docling-project/docling",
+   "flaggedAt": "2026-10-13T07:04:09.549Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Armur-Ai/Pentest-Swarm-AI",
+   "flaggedAt": "2026-10-13T07:04:09.871Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nashsu/llm_wiki",
+   "flaggedAt": "2026-10-13T07:04:10.093Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Imbad0202/academic-research-skills",
+   "flaggedAt": "2026-10-13T07:04:10.348Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "lkimuk/ReArk",
+   "flaggedAt": "2026-10-13T07:04:10.630Z",
+   "zScore": 13,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "paperless-ngx/paperless-ngx",
+   "flaggedAt": "2026-10-13T07:04:10.981Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jithin-sabu/purge-app",
+   "flaggedAt": "2026-10-13T07:04:11.206Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hicccc77/WeFlow",
+   "flaggedAt": "2026-10-13T07:04:11.453Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "morluto/rea",
+   "flaggedAt": "2026-10-13T07:04:11.694Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "CYQawa/YunX",
+   "flaggedAt": "2026-10-13T07:04:12.039Z",
+   "zScore": 12,
    "newAccountShare": null,
    "confirmed": null
   }
