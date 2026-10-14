@@ -1,27 +1,6 @@
 {
- "updatedAt": "2026-10-14T05:10:42.558Z",
+ "updatedAt": "2026-10-14T16:15:33.333Z",
  "flags": [
-  {
-   "repo": "Alishahryar1/free-claude-code",
-   "flaggedAt": "2026-07-16T12:51:24.412Z",
-   "zScore": 5.1,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
-  {
-   "repo": "TheAlgorithms/Python",
-   "flaggedAt": "2026-07-16T12:51:32.184Z",
-   "zScore": 3.2,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
-  {
-   "repo": "minh-ton/reynard-browser",
-   "flaggedAt": "2026-07-16T12:51:36.483Z",
-   "zScore": 13.1,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "Robbyant/lingbot-map",
    "flaggedAt": "2026-07-17T03:39:53.401Z",
@@ -9126,6 +9105,27 @@
    "repo": "arnegiacomo/fugleramme",
    "flaggedAt": "2026-10-14T05:10:42.558Z",
    "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "K-Dense-AI/scientific-agent-skills",
+   "flaggedAt": "2026-10-14T16:15:32.639Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "usebruno/bruno",
+   "flaggedAt": "2026-10-14T16:15:33.083Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "xerj-org/xerj",
+   "flaggedAt": "2026-10-14T16:15:33.332Z",
+   "zScore": 4.1,
    "newAccountShare": null,
    "confirmed": null
   }
