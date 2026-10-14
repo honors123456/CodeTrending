@@ -1,13 +1,6 @@
 {
- "updatedAt": "2026-10-13T18:35:57.279Z",
+ "updatedAt": "2026-10-14T05:10:42.558Z",
  "flags": [
-  {
-   "repo": "gastownhall/beads",
-   "flaggedAt": "2026-07-16T03:38:12.750Z",
-   "zScore": 6.1,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "Alishahryar1/free-claude-code",
    "flaggedAt": "2026-07-16T12:51:24.412Z",
@@ -9077,6 +9070,62 @@
    "repo": "ifixai-ai/iFixAi",
    "flaggedAt": "2026-10-13T18:35:57.279Z",
    "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "career-ops-hq/career-ops",
+   "flaggedAt": "2026-10-14T05:10:40.929Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "WerWolv/ImHex",
+   "flaggedAt": "2026-10-14T05:10:41.221Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nautechsystems/nautilus_trader",
+   "flaggedAt": "2026-10-14T05:10:41.489Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bojieli/ai-agent-book",
+   "flaggedAt": "2026-10-14T05:10:41.691Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Automattic/harper",
+   "flaggedAt": "2026-10-14T05:10:41.929Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "MakazhanAlpamys/Soup",
+   "flaggedAt": "2026-10-14T05:10:42.131Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/claude-plugins-official",
+   "flaggedAt": "2026-10-14T05:10:42.374Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "arnegiacomo/fugleramme",
+   "flaggedAt": "2026-10-14T05:10:42.558Z",
+   "zScore": 4.4,
    "newAccountShare": null,
    "confirmed": null
   }

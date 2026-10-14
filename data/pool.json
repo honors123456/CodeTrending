@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T18:10:26.516Z",
+ "updatedAt": "2026-10-14T04:44:28.528Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -14231,7 +14231,7 @@
    "repo": "Lelonio/Square",
    "language": "kotlin",
    "firstSeen": "2026-10-09",
-   "lastSeenOnTrending": "2026-10-11"
+   "lastSeenOnTrending": "2026-10-14"
   },
   {
    "repo": "linroid/Ketch",
@@ -15040,6 +15040,12 @@
   {
    "repo": "php-fig/http-message",
    "language": "php",
+   "firstSeen": "2026-10-14",
+   "lastSeenOnTrending": "2026-10-14"
+  },
+  {
+   "repo": "Lucas0623z/NoteLite",
+   "language": "java",
    "firstSeen": "2026-10-14",
    "lastSeenOnTrending": "2026-10-14"
   }
