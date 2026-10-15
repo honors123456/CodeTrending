@@ -1,41 +1,6 @@
 {
- "updatedAt": "2026-10-14T16:15:33.333Z",
+ "updatedAt": "2026-10-15T04:53:33.322Z",
  "flags": [
-  {
-   "repo": "Robbyant/lingbot-map",
-   "flaggedAt": "2026-07-17T03:39:53.401Z",
-   "zScore": 3.5,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "lobehub/lobehub",
-   "flaggedAt": "2026-07-17T03:39:58.042Z",
-   "zScore": 15.9,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "BurntSushi/ripgrep",
-   "flaggedAt": "2026-07-17T03:40:02.537Z",
-   "zScore": 3.4,
-   "newAccountShare": 0.233,
-   "confirmed": false
-  },
-  {
-   "repo": "XiaoYouChR/Ghost-Downloader-3",
-   "flaggedAt": "2026-07-17T03:40:06.228Z",
-   "zScore": 29,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "github/copilot-sdk",
-   "flaggedAt": "2026-07-17T03:40:09.856Z",
-   "zScore": 31.9,
-   "newAccountShare": 0.233,
-   "confirmed": false
-  },
   {
    "repo": "tmux/tmux",
    "flaggedAt": "2026-07-17T06:29:32.103Z",
@@ -9126,6 +9091,160 @@
    "repo": "xerj-org/xerj",
    "flaggedAt": "2026-10-14T16:15:33.332Z",
    "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tailscale/tailscale",
+   "flaggedAt": "2026-10-15T04:53:28.025Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "skylot/jadx",
+   "flaggedAt": "2026-10-15T04:53:28.368Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "altic-dev/FluidVoice",
+   "flaggedAt": "2026-10-15T04:53:28.600Z",
+   "zScore": 8.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Mintplex-Labs/anything-llm",
+   "flaggedAt": "2026-10-15T04:53:28.838Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Leonxlnx/taste-skill",
+   "flaggedAt": "2026-10-15T04:53:29.066Z",
+   "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ruvnet/ruflo",
+   "flaggedAt": "2026-10-15T04:53:29.290Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rohitg00/agentmemory",
+   "flaggedAt": "2026-10-15T04:53:29.517Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "geo-tp/ESP32-Bit-Pirate",
+   "flaggedAt": "2026-10-15T04:53:29.719Z",
+   "zScore": 10.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "HKUDS/CLI-Anything",
+   "flaggedAt": "2026-10-15T04:53:29.982Z",
+   "zScore": 12.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Kelsidavis/WoWee",
+   "flaggedAt": "2026-10-15T04:53:30.212Z",
+   "zScore": 25.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "peetzweg/opendisplay",
+   "flaggedAt": "2026-10-15T04:53:30.434Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Anil-matcha/Open-Generative-AI",
+   "flaggedAt": "2026-10-15T04:53:30.689Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mobile-next/mobile-mcp",
+   "flaggedAt": "2026-10-15T04:53:30.943Z",
+   "zScore": 9.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "p1neappleXpress/OpenFlux",
+   "flaggedAt": "2026-10-15T04:53:31.157Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BuilderIO/agent-native",
+   "flaggedAt": "2026-10-15T04:53:31.402Z",
+   "zScore": 6.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Homebrew/BrewUI",
+   "flaggedAt": "2026-10-15T04:53:31.621Z",
+   "zScore": 8.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ahujasid/mcp-for-blender",
+   "flaggedAt": "2026-10-15T04:53:31.854Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PenglongHuang/chinese-novelist-skill",
+   "flaggedAt": "2026-10-15T04:53:32.078Z",
+   "zScore": 44.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mattt/iMCP",
+   "flaggedAt": "2026-10-15T04:53:32.331Z",
+   "zScore": 66.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/SkillOpt",
+   "flaggedAt": "2026-10-15T04:53:32.704Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Twigpine/openclaude",
+   "flaggedAt": "2026-10-15T04:53:33.023Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "laoma528/awesome-zhuiju-free",
+   "flaggedAt": "2026-10-15T04:53:33.321Z",
+   "zScore": 7.6,
    "newAccountShare": null,
    "confirmed": null
   }
