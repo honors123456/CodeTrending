@@ -1,48 +1,6 @@
 {
- "updatedAt": "2026-10-16T04:34:12.220Z",
+ "updatedAt": "2026-10-16T15:44:16.178Z",
  "flags": [
-  {
-   "repo": "1jehuang/jcode",
-   "flaggedAt": "2026-07-18T12:12:22.459Z",
-   "zScore": 9.3,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "ruvnet/ruflo",
-   "flaggedAt": "2026-07-18T12:12:27.235Z",
-   "zScore": 4.5,
-   "newAccountShare": 0.1,
-   "confirmed": false
-  },
-  {
-   "repo": "sxyazi/yazi",
-   "flaggedAt": "2026-07-18T12:12:31.564Z",
-   "zScore": 3.5,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "protocolbuffers/protobuf",
-   "flaggedAt": "2026-07-18T12:12:36.446Z",
-   "zScore": 19.6,
-   "newAccountShare": 0.1,
-   "confirmed": false
-  },
-  {
-   "repo": "ryfineZ/carrier-ims-for-pixel",
-   "flaggedAt": "2026-07-18T12:12:40.358Z",
-   "zScore": 24.7,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
-  {
-   "repo": "SigNoz/signoz",
-   "flaggedAt": "2026-07-18T12:12:44.699Z",
-   "zScore": 4.9,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
   {
    "repo": "iflytek/skillhub",
    "flaggedAt": "2026-07-19T03:51:43.467Z",
@@ -9847,6 +9805,90 @@
    "repo": "typesense/typesense",
    "flaggedAt": "2026-10-16T04:34:12.219Z",
    "zScore": 11.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "spring-projects/spring-boot",
+   "flaggedAt": "2026-10-16T15:44:11.736Z",
+   "zScore": 11.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mozilla-ai/llamafile",
+   "flaggedAt": "2026-10-16T15:44:13.971Z",
+   "zScore": 10.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "apache/kafka",
+   "flaggedAt": "2026-10-16T15:44:14.151Z",
+   "zScore": 12.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "redis/redis",
+   "flaggedAt": "2026-10-16T15:44:14.382Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "superplanehq/superplane",
+   "flaggedAt": "2026-10-16T15:44:14.601Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "henrygd/beszel",
+   "flaggedAt": "2026-10-16T15:44:14.784Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "akitaonrails/ai-memory",
+   "flaggedAt": "2026-10-16T15:44:14.969Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "calcom/cal.diy",
+   "flaggedAt": "2026-10-16T15:44:15.165Z",
+   "zScore": 5.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Jakubantalik/Libraries.dev",
+   "flaggedAt": "2026-10-16T15:44:15.497Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tgeorgiadis/quiver-launcher",
+   "flaggedAt": "2026-10-16T15:44:15.678Z",
+   "zScore": 10.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "michael-denyer/pstack-claude",
+   "flaggedAt": "2026-10-16T15:44:15.841Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hexgrad/kokoro",
+   "flaggedAt": "2026-10-16T15:44:16.178Z",
+   "zScore": 5.7,
    "newAccountShare": null,
    "confirmed": null
   }
