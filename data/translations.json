@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T15:57:19.276Z",
+ "updatedAt": "2026-10-16T04:34:11.027Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -9678,8 +9678,8 @@
    "zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
   },
   "LibreSpark/LibreTV": {
-   "src": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
-   "zh": "一分钟搭建影视站，支持Vercel/Docker等部署方式"
+   "src": "一分钟搭建影视站，支持Docker等部署方式",
+   "zh": "一分钟搭建影视站，支持Docker等部署方式"
   },
   "black-ant/Ant-Browser": {
    "src": "指纹浏览器",
@@ -10820,6 +10820,10 @@
   "dimthink/PriceAI": {
    "src": "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。",
    "zh": "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。"
+  },
+  "Minglink/dsh-infinite-gen-5": {
+   "src": "DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进",
+   "zh": "DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进"
   }
  }
 }

@@ -1,13 +1,6 @@
 {
- "updatedAt": "2026-10-15T15:57:46.204Z",
+ "updatedAt": "2026-10-16T04:34:12.220Z",
  "flags": [
-  {
-   "repo": "rivet-dev/agentos",
-   "flaggedAt": "2026-07-18T03:28:14.081Z",
-   "zScore": 9.9,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "1jehuang/jcode",
    "flaggedAt": "2026-07-18T12:12:22.459Z",
@@ -9833,6 +9826,27 @@
    "repo": "ggml-org/Llama-Windows",
    "flaggedAt": "2026-10-15T15:57:46.204Z",
    "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Gentleman-Programming/engram",
+   "flaggedAt": "2026-10-16T04:34:11.808Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "GCWing/OpenBitFun",
+   "flaggedAt": "2026-10-16T04:34:12.060Z",
+   "zScore": 43,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "typesense/typesense",
+   "flaggedAt": "2026-10-16T04:34:12.219Z",
+   "zScore": 11.8,
    "newAccountShare": null,
    "confirmed": null
   }
