@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T04:45:53.428Z",
+ "updatedAt": "2026-10-18T14:54:59.907Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10844,6 +10844,18 @@
   "Clarklevis1995/dsh-mobile": {
    "src": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
    "zh": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言"
+  },
+  "guoyue2010/lxmusic-": {
+   "src": "lxmusic(洛雪音乐)全网最新最全音源",
+   "zh": "lxmusic(洛雪音乐)全网最新最全音源"
+  },
+  "Mag1cFall/AIStudio2API": {
+   "src": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+   "zh": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API"
+  },
+  "ANYNC/TaskbarLyrics": {
+   "src": "Windows 任务栏歌词工具",
+   "zh": "Windows 任务栏歌词工具"
   }
  }
 }

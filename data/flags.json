@@ -1,41 +1,6 @@
 {
- "updatedAt": "2026-10-18T04:45:54.181Z",
+ "updatedAt": "2026-10-18T14:55:01.476Z",
  "flags": [
-  {
-   "repo": "tranvuongquocdat/SideScreen",
-   "flaggedAt": "2026-07-20T07:34:42.137Z",
-   "zScore": 3.4,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "Dokploy/dokploy",
-   "flaggedAt": "2026-07-20T13:24:59.324Z",
-   "zScore": 4.3,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "longbridge/gpui-component",
-   "flaggedAt": "2026-07-20T13:25:05.481Z",
-   "zScore": 9,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "traycerai/traycer",
-   "flaggedAt": "2026-07-20T13:25:11.183Z",
-   "zScore": 3.6,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "kangarooking/cangjie-skill",
-   "flaggedAt": "2026-07-20T13:25:16.778Z",
-   "zScore": 3.6,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
   {
    "repo": "koala73/worldmonitor",
    "flaggedAt": "2026-07-21T03:51:15.356Z",
@@ -9833,6 +9798,55 @@
    "repo": "anthropics/claude-code",
    "flaggedAt": "2026-10-18T04:45:54.180Z",
    "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "apple/container",
+   "flaggedAt": "2026-10-18T14:55:00.501Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LiveContainer/LiveContainer",
+   "flaggedAt": "2026-10-18T14:55:00.683Z",
+   "zScore": 17.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "MadsLorentzen/ai-job-search",
+   "flaggedAt": "2026-10-18T14:55:00.828Z",
+   "zScore": 5.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "livekit/livekit",
+   "flaggedAt": "2026-10-18T14:55:01.011Z",
+   "zScore": 8.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NangoHQ/nango",
+   "flaggedAt": "2026-10-18T14:55:01.130Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "DmNote-App/DmNote",
+   "flaggedAt": "2026-10-18T14:55:01.259Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/TRELLIS.2",
+   "flaggedAt": "2026-10-18T14:55:01.476Z",
+   "zScore": 4.1,
    "newAccountShare": null,
    "confirmed": null
   }
