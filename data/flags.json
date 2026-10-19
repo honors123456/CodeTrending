@@ -1,34 +1,6 @@
 {
- "updatedAt": "2026-10-18T14:55:01.476Z",
+ "updatedAt": "2026-10-19T04:54:11.439Z",
  "flags": [
-  {
-   "repo": "koala73/worldmonitor",
-   "flaggedAt": "2026-07-21T03:51:15.356Z",
-   "zScore": 61.8,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "rclone/rclone",
-   "flaggedAt": "2026-07-21T03:51:20.567Z",
-   "zScore": 5,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
-  {
-   "repo": "tradesdontlie/tradingview-mcp",
-   "flaggedAt": "2026-07-21T03:51:25.268Z",
-   "zScore": 4.6,
-   "newAccountShare": 0.067,
-   "confirmed": false
-  },
-  {
-   "repo": "expo/expo",
-   "flaggedAt": "2026-07-21T03:51:30.251Z",
-   "zScore": 8.7,
-   "newAccountShare": 0.033,
-   "confirmed": false
-  },
   {
    "repo": "earendil-works/pi",
    "flaggedAt": "2026-07-21T06:49:09.817Z",
@@ -9847,6 +9819,55 @@
    "repo": "microsoft/TRELLIS.2",
    "flaggedAt": "2026-10-18T14:55:01.476Z",
    "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Comfy-Org/ComfyUI",
+   "flaggedAt": "2026-10-19T04:54:10.083Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "iBotPeaches/Apktool",
+   "flaggedAt": "2026-10-19T04:54:10.392Z",
+   "zScore": 8.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "shy3130/tick-stock-panel",
+   "flaggedAt": "2026-10-19T04:54:10.613Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "shiyu-coder/Kronos",
+   "flaggedAt": "2026-10-19T04:54:10.803Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "FareedKhan-dev/train-llm-from-scratch",
+   "flaggedAt": "2026-10-19T04:54:11.045Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "maxgoedjen/secretive",
+   "flaggedAt": "2026-10-19T04:54:11.237Z",
+   "zScore": 6.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tonyantony300/dashbeam",
+   "flaggedAt": "2026-10-19T04:54:11.439Z",
+   "zScore": 4.8,
    "newAccountShare": null,
    "confirmed": null
   }
