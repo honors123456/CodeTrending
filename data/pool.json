@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T17:26:16.248Z",
+ "updatedAt": "2026-10-20T04:39:49.946Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -14614,6 +14614,12 @@
   {
    "repo": "opnsense/plugins",
    "language": "php",
+   "firstSeen": "2026-10-20",
+   "lastSeenOnTrending": "2026-10-20"
+  },
+  {
+   "repo": "Renhuai123/ziwei-doushu",
+   "language": "typescript",
    "firstSeen": "2026-10-20",
    "lastSeenOnTrending": "2026-10-20"
   }

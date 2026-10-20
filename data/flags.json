@@ -1,20 +1,6 @@
 {
- "updatedAt": "2026-10-19T17:46:29.350Z",
+ "updatedAt": "2026-10-20T05:03:53.040Z",
  "flags": [
-  {
-   "repo": "chinese-poetry/chinese-poetry",
-   "flaggedAt": "2026-07-22T03:52:00.527Z",
-   "zScore": 5.7,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
-  {
-   "repo": "chojs23/concord",
-   "flaggedAt": "2026-07-22T03:52:04.518Z",
-   "zScore": 17.4,
-   "newAccountShare": 0,
-   "confirmed": false
-  },
   {
    "repo": "tonhowtf/omniget",
    "flaggedAt": "2026-07-22T06:55:09.218Z",
@@ -9798,6 +9784,153 @@
    "repo": "k2-fsa/OmniVoice",
    "flaggedAt": "2026-10-19T17:46:29.349Z",
    "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "usestrix/strix",
+   "flaggedAt": "2026-10-20T05:03:48.318Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "coollabsio/coolify",
+   "flaggedAt": "2026-10-20T05:03:48.648Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mudler/LocalAI",
+   "flaggedAt": "2026-10-20T05:03:48.830Z",
+   "zScore": 13,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "3b1b/manim",
+   "flaggedAt": "2026-10-20T05:03:49.026Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openclaw/openclaw",
+   "flaggedAt": "2026-10-20T05:03:49.242Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "warpdotdev/warp",
+   "flaggedAt": "2026-10-20T05:03:49.428Z",
+   "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "citrolabs/ego-lite",
+   "flaggedAt": "2026-10-20T05:03:49.648Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vivizzz007/vivi-music",
+   "flaggedAt": "2026-10-20T05:03:49.879Z",
+   "zScore": 8.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rmyndharis/OpenWA",
+   "flaggedAt": "2026-10-20T05:03:50.175Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "shiaho777/web-to-app",
+   "flaggedAt": "2026-10-20T05:03:50.438Z",
+   "zScore": 14.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "cloudflare/security-audit-skill",
+   "flaggedAt": "2026-10-20T05:03:50.668Z",
+   "zScore": 5.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "twentyhq/twenty",
+   "flaggedAt": "2026-10-20T05:03:50.928Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AgriciDaniel/claude-seo",
+   "flaggedAt": "2026-10-20T05:03:51.212Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "akiralereal/iptv",
+   "flaggedAt": "2026-10-20T05:03:51.418Z",
+   "zScore": 7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openbao/openbao",
+   "flaggedAt": "2026-10-20T05:03:51.687Z",
+   "zScore": 9.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "zenbu-labs/terminal-browser",
+   "flaggedAt": "2026-10-20T05:03:51.951Z",
+   "zScore": 8.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "harry0703/MangoDisk",
+   "flaggedAt": "2026-10-20T05:03:52.152Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "davidmonterocrespo24/velxio",
+   "flaggedAt": "2026-10-20T05:03:52.370Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "headroomlabs-ai/headroom",
+   "flaggedAt": "2026-10-20T05:03:52.597Z",
+   "zScore": 7.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tarwin/tinyjsapp",
+   "flaggedAt": "2026-10-20T05:03:52.820Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kushagrasinghx/BitChord",
+   "flaggedAt": "2026-10-20T05:03:53.040Z",
+   "zScore": 3.2,
    "newAccountShare": null,
    "confirmed": null
   }
