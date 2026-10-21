@@ -1,20 +1,6 @@
 {
- "updatedAt": "2026-10-20T15:58:52.618Z",
+ "updatedAt": "2026-10-21T04:52:03.981Z",
  "flags": [
-  {
-   "repo": "vercel-labs/agent-skills",
-   "flaggedAt": "2026-07-23T03:56:18.112Z",
-   "zScore": 3.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "OtterMind/Chat2DB",
-   "flaggedAt": "2026-07-23T03:56:18.263Z",
-   "zScore": 9.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "ruvnet/RuView",
    "flaggedAt": "2026-07-23T06:55:00.021Z",
@@ -10253,6 +10239,27 @@
    "repo": "Yeachan-Heo/oh-my-claudecode",
    "flaggedAt": "2026-10-20T15:58:52.618Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ultraworkers/claw-code",
+   "flaggedAt": "2026-10-21T04:52:03.500Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "remorses/gpuix",
+   "flaggedAt": "2026-10-21T04:52:03.733Z",
+   "zScore": 11.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Asymptote-Labs/agent-beacon",
+   "flaggedAt": "2026-10-21T04:52:03.980Z",
+   "zScore": 47.1,
    "newAccountShare": null,
    "confirmed": null
   }
