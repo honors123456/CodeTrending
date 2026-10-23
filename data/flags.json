@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T04:57:04.051Z",
+ "updatedAt": "2026-10-23T16:02:04.252Z",
  "flags": [
   {
    "repo": "BuilderIO/agent-native",
@@ -10379,6 +10379,13 @@
    "repo": "KittenML/KittenTTS",
    "flaggedAt": "2026-10-23T04:57:04.050Z",
    "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "harvard-edge/cs249r_book",
+   "flaggedAt": "2026-10-23T16:02:04.251Z",
+   "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
   }
