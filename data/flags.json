@@ -1,34 +1,6 @@
 {
- "updatedAt": "2026-10-23T16:02:04.252Z",
+ "updatedAt": "2026-10-24T04:48:22.510Z",
  "flags": [
-  {
-   "repo": "BuilderIO/agent-native",
-   "flaggedAt": "2026-07-26T04:11:56.831Z",
-   "zScore": 4.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "byoungd/up",
-   "flaggedAt": "2026-07-26T04:11:56.996Z",
-   "zScore": 3.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "wailsapp/wails",
-   "flaggedAt": "2026-07-26T04:11:57.157Z",
-   "zScore": 19.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "agentscope-ai/QwenPaw",
-   "flaggedAt": "2026-07-26T04:11:57.296Z",
-   "zScore": 45.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "NanmiCoder/MediaCrawler",
    "flaggedAt": "2026-07-26T07:04:14.196Z",
@@ -10385,6 +10357,97 @@
   {
    "repo": "harvard-edge/cs249r_book",
    "flaggedAt": "2026-10-23T16:02:04.251Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nodejs/node",
+   "flaggedAt": "2026-10-24T04:48:19.954Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/PowerToys",
+   "flaggedAt": "2026-10-24T04:48:20.332Z",
+   "zScore": 6.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "permissionlesstech/bitchat",
+   "flaggedAt": "2026-10-24T04:48:20.550Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "momenbasel/PureMac",
+   "flaggedAt": "2026-10-24T04:48:20.714Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fayazara/Screendrop",
+   "flaggedAt": "2026-10-24T04:48:20.934Z",
+   "zScore": 12.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pass-with-high-score/blockads-android",
+   "flaggedAt": "2026-10-24T04:48:21.125Z",
+   "zScore": 25.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jamwithai/production-agentic-rag-course",
+   "flaggedAt": "2026-10-24T04:48:21.314Z",
+   "zScore": 8.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ever-co/ever-gauzy",
+   "flaggedAt": "2026-10-24T04:48:21.496Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PCL-Community/PCL-CE",
+   "flaggedAt": "2026-10-24T04:48:21.670Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Lelonio/Square",
+   "flaggedAt": "2026-10-24T04:48:21.870Z",
+   "zScore": 12,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "makecindy/cindy",
+   "flaggedAt": "2026-10-24T04:48:22.072Z",
+   "zScore": 16.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "elysia395/dsh-wallpaper-engine",
+   "flaggedAt": "2026-10-24T04:48:22.303Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pauljoda/Crest",
+   "flaggedAt": "2026-10-24T04:48:22.509Z",
    "zScore": 3.9,
    "newAccountShare": null,
    "confirmed": null
