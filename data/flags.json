@@ -1,125 +1,6 @@
 {
- "updatedAt": "2026-10-24T04:48:22.510Z",
+ "updatedAt": "2026-10-24T14:33:59.107Z",
  "flags": [
-  {
-   "repo": "NanmiCoder/MediaCrawler",
-   "flaggedAt": "2026-07-26T07:04:14.196Z",
-   "zScore": 3.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "Ebullioscopic/Atoll",
-   "flaggedAt": "2026-07-26T07:04:14.398Z",
-   "zScore": 3.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "RikkaApps/Shizuku",
-   "flaggedAt": "2026-07-26T07:04:14.585Z",
-   "zScore": 4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "darkroomengineering/lenis",
-   "flaggedAt": "2026-07-26T07:04:14.791Z",
-   "zScore": 3.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "seakee/CPA-Manager-Plus",
-   "flaggedAt": "2026-07-26T07:04:15.124Z",
-   "zScore": 3.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "huggingface/speech-to-speech",
-   "flaggedAt": "2026-07-26T12:36:35.062Z",
-   "zScore": 3.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "affaan-m/ECC",
-   "flaggedAt": "2026-07-26T12:36:35.222Z",
-   "zScore": 3.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "pbakaus/impeccable",
-   "flaggedAt": "2026-07-26T12:36:35.498Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "QuantConnect/Lean",
-   "flaggedAt": "2026-07-26T12:36:35.671Z",
-   "zScore": 4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "rikkahub/rikkahub",
-   "flaggedAt": "2026-07-26T12:36:35.843Z",
-   "zScore": 5.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "EchoMusicApp/Echo-Music",
-   "flaggedAt": "2026-07-26T12:36:36.032Z",
-   "zScore": 3.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "n8n-io/n8n",
-   "flaggedAt": "2026-07-26T12:36:36.241Z",
-   "zScore": 3.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "dani-garcia/vaultwarden",
-   "flaggedAt": "2026-07-26T12:36:36.389Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "termux/termux-app",
-   "flaggedAt": "2026-07-26T12:36:36.570Z",
-   "zScore": 3.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "karpathy/nanoGPT",
-   "flaggedAt": "2026-07-26T12:36:36.743Z",
-   "zScore": 4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "calesthio/Crucix",
-   "flaggedAt": "2026-07-26T12:36:36.905Z",
-   "zScore": 15.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "rmyndharis/OpenWA",
-   "flaggedAt": "2026-07-26T12:36:37.076Z",
-   "zScore": 4.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "nodejs/node",
    "flaggedAt": "2026-07-27T04:21:38.896Z",
@@ -10449,6 +10330,160 @@
    "repo": "pauljoda/Crest",
    "flaggedAt": "2026-10-24T04:48:22.509Z",
    "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "aaif-goose/goose",
+   "flaggedAt": "2026-10-24T14:33:53.956Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "xiaojieonly/Ehviewer_CN_SXJ",
+   "flaggedAt": "2026-10-24T14:33:54.224Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "obsproject/obs-studio",
+   "flaggedAt": "2026-10-24T14:33:54.438Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "syncthing/syncthing",
+   "flaggedAt": "2026-10-24T14:33:54.644Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "yt-dlp/yt-dlp",
+   "flaggedAt": "2026-10-24T14:33:54.845Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "google-gemini/gemini-cli",
+   "flaggedAt": "2026-10-24T14:33:55.191Z",
+   "zScore": 10.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "qbittorrent/qBittorrent",
+   "flaggedAt": "2026-10-24T14:33:55.439Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "aquasecurity/trivy",
+   "flaggedAt": "2026-10-24T14:33:55.707Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "moeru-ai/airi",
+   "flaggedAt": "2026-10-24T14:33:55.925Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "block/buzz",
+   "flaggedAt": "2026-10-24T14:33:56.125Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "imputnet/helium",
+   "flaggedAt": "2026-10-24T14:33:56.309Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "keepassxreboot/keepassxc",
+   "flaggedAt": "2026-10-24T14:33:56.590Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Free-TV/IPTV",
+   "flaggedAt": "2026-10-24T14:33:57.081Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenBMB/VoxCPM",
+   "flaggedAt": "2026-10-24T14:33:57.323Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/knowledge-work-plugins",
+   "flaggedAt": "2026-10-24T14:33:57.619Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ulsklyc/yuvomi",
+   "flaggedAt": "2026-10-24T14:33:57.863Z",
+   "zScore": 18.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "calcom/cal.diy",
+   "flaggedAt": "2026-10-24T14:33:58.138Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Gaurav-Gosain/tuios",
+   "flaggedAt": "2026-10-24T14:33:58.293Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mlmvpn/mlmvpn_android",
+   "flaggedAt": "2026-10-24T14:33:58.524Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "aws/agent-toolkit-for-aws",
+   "flaggedAt": "2026-10-24T14:33:58.726Z",
+   "zScore": 12.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "CYQawa/YunX",
+   "flaggedAt": "2026-10-24T14:33:58.927Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "garrytan/gbrain",
+   "flaggedAt": "2026-10-24T14:33:59.106Z",
+   "zScore": 3.4,
    "newAccountShare": null,
    "confirmed": null
   }
