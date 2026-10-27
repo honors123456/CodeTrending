@@ -1,118 +1,6 @@
 {
- "updatedAt": "2026-10-27T05:10:21.634Z",
+ "updatedAt": "2026-10-27T16:45:58.185Z",
  "flags": [
-  {
-   "repo": "Unclecheng-li/VulnClaw",
-   "flaggedAt": "2026-07-29T07:07:20.314Z",
-   "zScore": 7.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "iluwatar/java-design-patterns",
-   "flaggedAt": "2026-07-29T07:07:20.506Z",
-   "zScore": 15.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "BoundaryML/baml",
-   "flaggedAt": "2026-07-29T07:07:20.695Z",
-   "zScore": 3.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "super-productivity/super-productivity",
-   "flaggedAt": "2026-07-29T07:07:20.848Z",
-   "zScore": 3.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "calesthio/OpenMontage",
-   "flaggedAt": "2026-07-29T13:30:24.854Z",
-   "zScore": 4.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "kunchenguid/treehouse",
-   "flaggedAt": "2026-07-29T13:30:25.053Z",
-   "zScore": 8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "NationalSecurityAgency/ghidra",
-   "flaggedAt": "2026-07-29T13:30:25.256Z",
-   "zScore": 5.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "harry0703/MoneyPrinterTurbo",
-   "flaggedAt": "2026-07-29T13:30:25.450Z",
-   "zScore": 5.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "bregman-arie/devops-exercises",
-   "flaggedAt": "2026-07-29T13:30:25.620Z",
-   "zScore": 4.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "astral-sh/uv",
-   "flaggedAt": "2026-07-29T13:30:25.841Z",
-   "zScore": 4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "openwrt/openwrt",
-   "flaggedAt": "2026-07-29T13:30:26.022Z",
-   "zScore": 19.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "opendatalab/MinerU",
-   "flaggedAt": "2026-07-29T13:30:26.223Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "jingyaogong/minimind",
-   "flaggedAt": "2026-07-29T13:30:26.408Z",
-   "zScore": 4.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "jdx/mise",
-   "flaggedAt": "2026-07-29T13:30:26.584Z",
-   "zScore": 3.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "zarazhangrui/follow-builders",
-   "flaggedAt": "2026-07-29T13:30:26.761Z",
-   "zScore": 8.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "atuinsh/atuin",
-   "flaggedAt": "2026-07-29T13:30:26.919Z",
-   "zScore": 5.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "ulsklyc/yuvomi",
    "flaggedAt": "2026-07-30T07:05:27.429Z",
@@ -10407,6 +10295,55 @@
    "repo": "baidu/Unlimited-OCR",
    "flaggedAt": "2026-10-27T05:10:21.633Z",
    "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ruvnet/RuView",
+   "flaggedAt": "2026-10-27T16:45:57.113Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AprilNEA/OpenLogi",
+   "flaggedAt": "2026-10-27T16:45:57.294Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jithin-sabu/purge-app",
+   "flaggedAt": "2026-10-27T16:45:57.469Z",
+   "zScore": 6.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "macro-inc/macro",
+   "flaggedAt": "2026-10-27T16:45:57.650Z",
+   "zScore": 7.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "fabio-rovai/open-ontologies",
+   "flaggedAt": "2026-10-27T16:45:57.830Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Robbyant/lingbot-map",
+   "flaggedAt": "2026-10-27T16:45:58.007Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "trymirai/uzu",
+   "flaggedAt": "2026-10-27T16:45:58.184Z",
+   "zScore": 6.4,
    "newAccountShare": null,
    "confirmed": null
   }
