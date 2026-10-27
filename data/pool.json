@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T17:17:47.228Z",
+ "updatedAt": "2026-10-27T04:53:15.754Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -13115,7 +13115,7 @@
    "repo": "Unity-Technologies/unity-agent-plugin",
    "language": "csharp",
    "firstSeen": "2026-10-21",
-   "lastSeenOnTrending": "2026-10-21"
+   "lastSeenOnTrending": "2026-10-27"
   },
   {
    "repo": "scosman/Biscotti",
@@ -13661,7 +13661,7 @@
    "repo": "metadist/synaplan-nextcloud",
    "language": "php",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-26"
+   "lastSeenOnTrending": "2026-10-27"
   },
   {
    "repo": "Niko1221/Strata",
@@ -14056,6 +14056,12 @@
   {
    "repo": "team-spotube/spotube",
    "language": "kotlin",
+   "firstSeen": "2026-10-27",
+   "lastSeenOnTrending": "2026-10-27"
+  },
+  {
+   "repo": "postgres/postgres",
+   "language": "c",
    "firstSeen": "2026-10-27",
    "lastSeenOnTrending": "2026-10-27"
   }
