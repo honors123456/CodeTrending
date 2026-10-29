@@ -1,69 +1,6 @@
 {
- "updatedAt": "2026-10-28T17:26:07.197Z",
+ "updatedAt": "2026-10-29T05:54:24.854Z",
  "flags": [
-  {
-   "repo": "ansible/ansible",
-   "flaggedAt": "2026-07-31T04:06:34.009Z",
-   "zScore": 6.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "ChromeDevTools/chrome-devtools-mcp",
-   "flaggedAt": "2026-07-31T04:06:34.205Z",
-   "zScore": 8.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "google-labs-code/design.md",
-   "flaggedAt": "2026-07-31T04:06:34.375Z",
-   "zScore": 3.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "microsoft/PowerToys",
-   "flaggedAt": "2026-07-31T04:06:34.569Z",
-   "zScore": 5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "karpathy/autoresearch",
-   "flaggedAt": "2026-07-31T04:06:34.724Z",
-   "zScore": 4.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "WhiskeySockets/Baileys",
-   "flaggedAt": "2026-07-31T04:06:34.904Z",
-   "zScore": 17.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "binwiederhier/ntfy",
-   "flaggedAt": "2026-07-31T04:06:35.021Z",
-   "zScore": 3.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "cjpais/Handy",
-   "flaggedAt": "2026-07-31T04:06:35.202Z",
-   "zScore": 4.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "rohitg00/agentmemory",
-   "flaggedAt": "2026-07-31T04:06:35.354Z",
-   "zScore": 3.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "obsproject/obs-studio",
    "flaggedAt": "2026-07-31T13:30:38.691Z",
@@ -10414,6 +10351,83 @@
    "repo": "Nasiko-Labs/nasiko",
    "flaggedAt": "2026-10-28T17:26:07.196Z",
    "zScore": 37.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TheAlgorithms/Python",
+   "flaggedAt": "2026-10-29T05:54:22.559Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tw93/Pake",
+   "flaggedAt": "2026-10-29T05:54:22.835Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "smicallef/spiderfoot",
+   "flaggedAt": "2026-10-29T05:54:23.067Z",
+   "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "glanceapp/glance",
+   "flaggedAt": "2026-10-29T05:54:23.275Z",
+   "zScore": 9.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "SimoHypers/limusic",
+   "flaggedAt": "2026-10-29T05:54:23.586Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vectorize-io/hindsight",
+   "flaggedAt": "2026-10-29T05:54:23.825Z",
+   "zScore": 6.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nyakang/nyaterm",
+   "flaggedAt": "2026-10-29T05:54:24.007Z",
+   "zScore": 14.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "achillean/shodan-python",
+   "flaggedAt": "2026-10-29T05:54:24.251Z",
+   "zScore": 49,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "HD838A/remote-mic-app",
+   "flaggedAt": "2026-10-29T05:54:24.491Z",
+   "zScore": 5.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "repowise-dev/repowise",
+   "flaggedAt": "2026-10-29T05:54:24.674Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "CopilotKit/OpenBot",
+   "flaggedAt": "2026-10-29T05:54:24.854Z",
+   "zScore": 3,
    "newAccountShare": null,
    "confirmed": null
   }
