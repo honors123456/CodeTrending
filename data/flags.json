@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-10-29T05:54:24.854Z",
+ "updatedAt": "2026-10-29T17:40:55.132Z",
  "flags": [
-  {
-   "repo": "obsproject/obs-studio",
-   "flaggedAt": "2026-07-31T13:30:38.691Z",
-   "zScore": 4.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "multica-ai/multica",
-   "flaggedAt": "2026-07-31T13:30:38.870Z",
-   "zScore": 3.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "bytedance/deer-flow",
-   "flaggedAt": "2026-07-31T13:30:39.093Z",
-   "zScore": 3.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "gitroomhq/postiz-app",
-   "flaggedAt": "2026-07-31T13:30:39.301Z",
-   "zScore": 4.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "esengine/DeepSeek-Reasonix",
-   "flaggedAt": "2026-07-31T13:30:39.482Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "InsForge/InsForge",
-   "flaggedAt": "2026-07-31T13:30:39.673Z",
-   "zScore": 6.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "github/gh-stack",
-   "flaggedAt": "2026-07-31T13:30:39.837Z",
-   "zScore": 12.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "AnmolSaini16/mapcn",
    "flaggedAt": "2026-08-01T04:15:08.602Z",
@@ -10428,6 +10379,20 @@
    "repo": "CopilotKit/OpenBot",
    "flaggedAt": "2026-10-29T05:54:24.854Z",
    "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rlaope/oh-my-hermes",
+   "flaggedAt": "2026-10-29T17:40:54.887Z",
+   "zScore": 8.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anomalyco/hex",
+   "flaggedAt": "2026-10-29T17:40:55.131Z",
+   "zScore": 3.1,
    "newAccountShare": null,
    "confirmed": null
   }
