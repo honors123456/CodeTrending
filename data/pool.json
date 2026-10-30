@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T17:23:59.095Z",
+ "updatedAt": "2026-10-30T05:36:07.005Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -10457,7 +10457,7 @@
    "repo": "hugohe3/ppt-master",
    "language": "python",
    "firstSeen": "2026-10-10",
-   "lastSeenOnTrending": "2026-10-14"
+   "lastSeenOnTrending": "2026-10-30"
   },
   {
    "repo": "hiroi-sora/Umi-OCR",
@@ -13948,6 +13948,12 @@
   {
    "repo": "apollographql/apollo-ios",
    "language": "swift",
+   "firstSeen": "2026-10-30",
+   "lastSeenOnTrending": "2026-10-30"
+  },
+  {
+   "repo": "JCodesMore/ai-website-cloner-template",
+   "language": "typescript",
    "firstSeen": "2026-10-30",
    "lastSeenOnTrending": "2026-10-30"
   }

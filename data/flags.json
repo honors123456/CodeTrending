@@ -1,20 +1,6 @@
 {
- "updatedAt": "2026-10-29T17:40:55.132Z",
+ "updatedAt": "2026-10-30T05:53:46.298Z",
  "flags": [
-  {
-   "repo": "AnmolSaini16/mapcn",
-   "flaggedAt": "2026-08-01T04:15:08.602Z",
-   "zScore": 16.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "virattt/ai-hedge-fund",
-   "flaggedAt": "2026-08-01T04:15:08.757Z",
-   "zScore": 3.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "antirez/ds4",
    "flaggedAt": "2026-08-01T07:04:23.601Z",
@@ -10393,6 +10379,34 @@
    "repo": "anomalyco/hex",
    "flaggedAt": "2026-10-29T17:40:55.131Z",
    "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "thedotmack/claude-mem",
+   "flaggedAt": "2026-10-30T05:53:45.694Z",
+   "zScore": 8.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "zeux/meshoptimizer",
+   "flaggedAt": "2026-10-30T05:53:45.877Z",
+   "zScore": 9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/BitNet",
+   "flaggedAt": "2026-10-30T05:53:46.081Z",
+   "zScore": 8.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pingdotgg/t3code",
+   "flaggedAt": "2026-10-30T05:53:46.297Z",
+   "zScore": 7.1,
    "newAccountShare": null,
    "confirmed": null
   }
