@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-10-30T05:36:07.005Z",
+ "updatedAt": "2026-10-30T17:00:00.005Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "anthropics/claude-code",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "django/django",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "home-assistant/core",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Alishahryar1/free-claude-code",
@@ -35,7 +35,7 @@
    "repo": "langflow-ai/langflow",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "browser-use/video-use",
@@ -53,7 +53,7 @@
    "repo": "Panniantong/Agent-Reach",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openai/codex-plugin-cc",
@@ -65,13 +65,13 @@
    "repo": "JuliusBrussee/caveman",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sveltejs/svelte",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "decolua/9router",
@@ -83,43 +83,43 @@
    "repo": "affaan-m/ECC",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vercel/next.js",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "webpack/webpack",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ryanmcdermott/clean-code-javascript",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pbakaus/impeccable",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nodejs/node",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "expressjs/express",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "asgeirtj/system_prompts_leaks",
@@ -131,13 +131,13 @@
    "repo": "mui/material-ui",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "thedotmack/claude-mem",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ChromeDevTools/chrome-devtools-mcp",
@@ -149,19 +149,19 @@
    "repo": "supabase/supabase",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tailwindlabs/tailwindcss",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vuejs/vue",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "diegosouzapw/OmniRoute",
@@ -173,19 +173,19 @@
    "repo": "microsoft/vscode",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "freeCodeCamp/freeCodeCamp",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "angular/angular",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "wonderwhy-er/DesktopCommanderMCP",
@@ -203,7 +203,7 @@
    "repo": "stablyai/orca",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "every-app/open-seo",
@@ -215,49 +215,49 @@
    "repo": "grafana/grafana",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "storybookjs/storybook",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "garrytan/gstack",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "koala73/worldmonitor",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "prometheus/prometheus",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "golang/go",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hashicorp/terraform",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kubernetes/kubernetes",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "yorukot/superfile",
@@ -269,7 +269,7 @@
    "repo": "ethereum/go-ethereum",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "larksuite/cli",
@@ -287,13 +287,13 @@
    "repo": "tailscale/tailscale",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "moby/moby",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "charmbracelet/crush",
@@ -305,31 +305,31 @@
    "repo": "juanfont/headscale",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "argoproj/argo-cd",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-22"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "junegunn/fzf",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fatedier/frp",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jesseduffield/lazygit",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kubernetes-sigs/kueue",
@@ -341,7 +341,7 @@
    "repo": "avelino/awesome-go",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Gentleman-Programming/gentle-ai",
@@ -359,61 +359,55 @@
    "repo": "rust-lang/rust",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "oven-sh/bun",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "GyulyVGC/sniffnet",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "denoland/deno",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "aaif-goose/goose",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rustdesk/rustdesk",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sharkdp/fd",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rust-unofficial/awesome-rust",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
-  },
-  {
-   "repo": "cloudflare/quiche",
-   "language": "rust",
-   "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pola-rs/polars",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "servo/servo",
@@ -425,19 +419,19 @@
    "repo": "elastic/elasticsearch",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "spring-projects/spring-boot",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "opensearch-project/OpenSearch",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iflytek/skillhub",
@@ -449,13 +443,13 @@
    "repo": "Stirling-Tools/Stirling-PDF",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cryptomator/cryptomator",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apache/cassandra",
@@ -473,7 +467,7 @@
    "repo": "kestra-io/kestra",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "modelcontextprotocol/java-sdk",
@@ -485,49 +479,49 @@
    "repo": "yuliskov/SmartTube",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "skylot/jadx",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "krahets/hello-algo",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Anuken/Mindustry",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tensorflow/tensorflow",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bitcoin/bitcoin",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zeux/meshoptimizer",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ocornut/imgui",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gabime/spdlog",
@@ -545,7 +539,7 @@
    "repo": "grpc/grpc",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mozilla-ai/llamafile",
@@ -557,7 +551,7 @@
    "repo": "carbon-language/carbon-lang",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "catchorg/Catch2",
@@ -569,19 +563,19 @@
    "repo": "ggml-org/whisper.cpp",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "shadps4-emu/shadPS4",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/googletest",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "optiscaler/OptiScaler",
@@ -593,13 +587,13 @@
    "repo": "google-ai-edge/mediapipe",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FreeCAD/FreeCAD",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Tencent/ncnn",
@@ -611,43 +605,43 @@
    "repo": "SerenityOS/serenity",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "curl/curl",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nginx/nginx",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openssl/openssl",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "xiaojieonly/Ehviewer_CN_SXJ",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nothings/stb",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lvgl/lvgl",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tr4m0ryp/tr4mpass",
@@ -659,25 +653,25 @@
    "repo": "Mbed-TLS/mbedtls",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-25"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/mimalloc",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-25"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ventoy/Ventoy",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "taosdata/TDengine",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DaveGamble/cJSON",
@@ -689,25 +683,25 @@
    "repo": "pgvector/pgvector",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "libuv/libuv",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DeusData/codebase-memory-mcp",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/PowerToys",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "facebook/zstd",
@@ -719,37 +713,37 @@
    "repo": "php/php-src",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tmux/tmux",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fastfetch-cli/fastfetch",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "git/git",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "obsproject/obs-studio",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Genymobile/scrcpy",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "memstechtips/Winhance",
@@ -761,43 +755,43 @@
    "repo": "dotnet/aspnetcore",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "k1tbyte/Wand-Enhancer",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "2dust/v2rayN",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "babalae/better-genshin-impact",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dotnet/skills",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CoplayDev/unity-mcp",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dotnet/roslyn",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Cysharp/UniTask",
@@ -809,13 +803,13 @@
    "repo": "NickeManarin/ScreenToGif",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "git-ecosystem/git-credential-manager",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HotCakeX/Harden-Windows-Security",
@@ -827,37 +821,37 @@
    "repo": "QuantConnect/Lean",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Tyrrrz/YoutubeDownloader",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/aspire",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Sonarr/Sonarr",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ppy/osu",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dotnet/runtime",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MudBlazor/MudBlazor",
@@ -875,7 +869,7 @@
    "repo": "OpenRA/OpenRA",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tModLoader/tModLoader",
@@ -887,7 +881,7 @@
    "repo": "seerge/g-helper",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dotnet/sdk",
@@ -899,13 +893,13 @@
    "repo": "ReVanced/revanced-manager",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "2dust/v2rayNG",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "thejaustin/ShizukuPlus",
@@ -923,19 +917,13 @@
    "repo": "android/nowinandroid",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MatsuriDayo/NekoBoxForAndroid",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
-  },
-  {
-   "repo": "keiyoushi/extensions-source",
-   "language": "kotlin",
-   "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HapeLee/legado-with-MD3",
@@ -953,19 +941,19 @@
    "repo": "iamgio/quarkdown",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "JunkFood02/Seal",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mihonapp/mihon",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "capcom6/android-sms-gateway",
@@ -989,19 +977,19 @@
    "repo": "tiann/KernelSU",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "steipete/CodexBar",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ReactiveX/RxSwift",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Beingpax/VoiceInk",
@@ -1013,13 +1001,13 @@
    "repo": "Moya/Moya",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "SwiftyJSON/SwiftyJSON",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "darrylmorley/whatcable",
@@ -1031,13 +1019,13 @@
    "repo": "vapor/vapor",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hackiftekhar/IQKeyboardManager",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FluidInference/FluidAudio",
@@ -1049,13 +1037,13 @@
    "repo": "manaflow-ai/cmux",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pointfreeco/swift-composable-architecture",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "altic-dev/FluidVoice",
@@ -1073,7 +1061,7 @@
    "repo": "groue/GRDB.swift",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TelegramMessenger/Telegram-iOS",
@@ -1085,49 +1073,49 @@
    "repo": "airbnb/lottie-ios",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "realm/SwiftLint",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "robinebers/openusage",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PHPMailer/PHPMailer",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "WordPress/wordpress-develop",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "matomo-org/matomo",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "coollabsio/coolify",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nikic/PHP-Parser",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lizhipay/acg-faka",
@@ -1139,13 +1127,13 @@
    "repo": "kimai/kimai",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "laravel/framework",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "laravel/ai",
@@ -1157,7 +1145,7 @@
    "repo": "nextcloud/server",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DenverCoder1/readme-typing-svg",
@@ -1169,7 +1157,7 @@
    "repo": "shopware/shopware",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "joomla/joomla-cms",
@@ -1181,97 +1169,97 @@
    "repo": "mautic/mautic",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-26"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "woocommerce/woocommerce",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "grokability/snipe-it",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "danielmiessler/SecLists",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "symfony/symfony",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bagisto/bagisto",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "filamentphp/filament",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "invoiceninja/invoiceninja",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PHPOffice/PhpSpreadsheet",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PrestaShop/PrestaShop",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Seldaek/monolog",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jenkinsci/jenkins",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "keycloak/keycloak",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/guava",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/nacos",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "SeleniumHQ/selenium",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kunal-kushwaha/DSA-Bootcamp-Java",
@@ -1283,211 +1271,211 @@
    "repo": "ashishps1/awesome-system-design-resources",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "NationalSecurityAgency/ghidra",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dbeaver/dbeaver",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ollama/ollama",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gohugoio/hugo",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gin-gonic/gin",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "syncthing/syncthing",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "infiniflow/ragflow",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "netdata/netdata",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "caddyserver/caddy",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nektos/act",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "traefik/traefik",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "minio/minio",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "usememos/memos",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pocketbase/pocketbase",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FiloSottile/mkcert",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rclone/rclone",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "go-gitea/gitea",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "wagoodman/dive",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "etcd-io/etcd",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jesseduffield/lazydocker",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "AlistGo/alist",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gogs/gogs",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mudler/LocalAI",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "v2ray/v2ray-core",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cli/cli",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "milvus-io/milvus",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "spf13/cobra",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "astaxie/build-web-application-with-golang",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "charmbracelet/bubbletea",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "danielmiessler/Fabric",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MHSanaei/3x-ui",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "QuantumNous/new-api",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pingcap/tidb",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "XTLS/Xray-core",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "photoprism/photoprism",
@@ -1499,235 +1487,235 @@
    "repo": "router-for-me/CLIProxyAPI",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "multica-ai/multica",
    "language": "go",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "public-apis/public-apis",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "EbookFoundation/free-programming-books",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "donnemartin/system-design-primer",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vinta/awesome-python",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "practical-tutorials/project-based-learning",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TheAlgorithms/Python",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "NousResearch/hermes-agent",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Significant-Gravitas/AutoGPT",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "yt-dlp/yt-dlp",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "AUTOMATIC1111/stable-diffusion-webui",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "521xueweihan/HelloGitHub",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/markitdown",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "huggingface/transformers",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "anthropics/skills",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "open-webui/open-webui",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "langchain-ai/langchain",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ytdl-org/youtube-dl",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Comfy-Org/ComfyUI",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "github/spec-kit",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Shubhamsaboo/awesome-llm-apps",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openai/whisper",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "deepseek-ai/DeepSeek-V3",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "browser-use/browser-use",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fastapi/fastapi",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nvbn/thefuck",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "harry0703/MoneyPrinterTurbo",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hacksider/Deep-Live-Cam",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TauricResearch/TradingAgents",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "karpathy/autoresearch",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "3b1b/manim",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sherlock-project/sherlock",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vllm-project/vllm",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PaddlePaddle/PaddleOCR",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bregman-arie/devops-exercises",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fighting41love/funNLP",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "OpenHands/OpenHands",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "swisskyrepo/PayloadsAllTheThings",
@@ -1745,397 +1733,397 @@
    "repo": "Graphify-Labs/graphify",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bytedance/deer-flow",
    "language": "python",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "react/react",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "trekhleb/javascript-algorithms",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Snailclimb/JavaGuide",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "airbnb/javascript",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Chalarangelo/30-seconds-of-code",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mrdoob/three.js",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "axios/axios",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "react/create-react-app",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/Web-Dev-For-Beginners",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "louislam/uptime-kuma",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "anuraghazra/github-readme-stats",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FortAwesome/Font-Awesome",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "typicode/json-server",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DietrichGebert/ponytail",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hakimel/reveal.js",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "juliangarnier/anime",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "chartjs/Chart.js",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "leonardomso/33-js-concepts",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gorhill/uBlock",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gsd-build/get-shit-done",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "resume/resume.github.com",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Mintplex-Labs/anything-llm",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jgraph/drawio-desktop",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lodash/lodash",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "atom/atom",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "adam-p/markdown-here",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jquery/jquery",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "angular/angular.js",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "h5bp/html5-boilerplate",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "scutan90/DeepLearning-500-questions",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gatsbyjs/gatsby",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Leonxlnx/taste-skill",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "azl397985856/leetcode",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "byoungd/up",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mozilla/pdf.js",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "chinese-poetry/chinese-poetry",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openclaw/openclaw",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nilbuild/developer-roadmap",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "n8n-io/n8n",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "anomalyco/opencode",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "langgenius/dify",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "firecrawl/firecrawl",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "yangshun/tech-interview-handbook",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iptv-org/iptv",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "clash-verge-rev/clash-verge-rev",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "excalidraw/excalidraw",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "shadcn-ui/ui",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/TypeScript",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google-gemini/gemini-cli",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "immich-app/immich",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ant-design/ant-design",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "puppeteer/puppeteer",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/playwright",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mermaid-js/mermaid",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ChatGPTNextWeb/NextChat",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "modelcontextprotocol/servers",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "realworld-apps/realworld",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vitejs/vite",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hoppscotch/hoppscotch",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "coder/code-server",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nestjs/nest",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nexu-io/open-design",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "paperclipai/paperclip",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Eugeny/tabby",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "strapi/strapi",
@@ -2147,7 +2135,7 @@
    "repo": "Egonex-AI/Understand-Anything",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "toeverything/AFFiNE",
@@ -2159,7 +2147,7 @@
    "repo": "earendil-works/pi",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cline/cline",
@@ -2171,187 +2159,187 @@
    "repo": "ruvnet/ruflo",
    "language": "typescript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ultraworkers/claw-code",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "farion1231/cc-switch",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tauri-apps/tauri",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openai/codex",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "astral-sh/uv",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zed-industries/zed",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ruvnet/RuView",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "unionlabs/union",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rtk-ai/rtk",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "BurntSushi/ripgrep",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alacritty/alacritty",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openinterpreter/openinterpreter",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rust-lang/rustlings",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dani-garcia/vaultwarden",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "warpdotdev/warp",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FuelLabs/sway",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sharkdp/bat",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tw93/Pake",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "starship/starship",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "meilisearch/meilisearch",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FuelLabs/fuel-core",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "typst/typst",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lencx/ChatGPT",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "astral-sh/ruff",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bevyengine/bevy",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "helix-editor/helix",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "juspay/hyperswitch",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FuelLabs/fuels-rs",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sxyazi/yazi",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nushell/nushell",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Hmbown/CodeWhale",
@@ -2369,25 +2357,25 @@
    "repo": "spacedriveapp/spacedrive",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ajeetdsouza/zoxide",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vercel-labs/agent-browser",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DioxusLabs/dioxus",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pnpm/pnpm",
@@ -2405,217 +2393,217 @@
    "repo": "tinyhumansai/openhuman",
    "language": "rust",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iluwatar/java-design-patterns",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "macrozheng/mall",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "doocs/advanced-java",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MisterBooo/LeetCodeAnimation",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TheAlgorithms/Java",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kdn251/interviews",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "spring-projects/spring-framework",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "termux/termux-app",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ReactiveX/RxJava",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jeecgboot/JeecgBoot",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apache/dubbo",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "halo-dev/halo",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TeamNewPipe/NewPipe",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PhilJay/MPAndroidChart",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "YunaiV/ruoyi-vue-pro",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/arthas",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "eugenp/tutorials",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "doocs/leetcode",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "geekxh/hello-algorithm",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "airbnb/lottie-android",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bumptech/glide",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "netty/netty",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "xkcoding/spring-boot-demo",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zxing/zxing",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/easyexcel",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Blankj/AndroidUtilCode",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apache/kafka",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "binarywang/WxJava",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "conductor-oss/conductor",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ityouknow/spring-boot-examples",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "xuxueli/xxl-job",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "chinabugotech/hutool",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apolloconfig/apollo",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/canal",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DrKLO/Telegram",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/spring-cloud-alibaba",
@@ -2627,163 +2615,163 @@
    "repo": "torvalds/linux",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "redis/redis",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FFmpeg/FFmpeg",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "wg/wrk",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pbatard/rufus",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mpv-player/mpv",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jqlang/jq",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "raysan5/raylib",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "valinet/ExplorerPatcher",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bilibili/ijkplayer",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lizongying/my-tv",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kingToolbox/WindTerm",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "coolsnowwolf/lede",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cfenollosa/os-tutorial",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "asmvik/yabai",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ValdikSS/GoodbyeDPI",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openwrt/openwrt",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ggreer/the_silver_searcher",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pjreddie/darknet",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "valkey-io/valkey",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hashcat/hashcat",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "robertdavidgraham/masscan",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "arendst/Tasmota",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "radareorg/radare2",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HandBrake/HandBrake",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "timescale/timescaledb",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iovisor/bcc",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TheAlgorithms/C",
@@ -2795,205 +2783,205 @@
    "repo": "micropython/micropython",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DarkFlippers/unleashed-firmware",
    "language": "c",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-27"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "react/react-native",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "electron/electron",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ggml-org/llama.cpp",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "godotengine/godot",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/terminal",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "opencv/opencv",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nomic-ai/gpt4all",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tesseract-ocr/tesseract",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "protocolbuffers/protobuf",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "LadybirdBrowser/ladybird",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "WerWolv/ImHex",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nlohmann/json",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "x64dbg/x64dbg",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ClickHouse/ClickHouse",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zhongyang219/TrafficMonitor",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Light-City/CPlusPlusThings",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "aria2/aria2",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "facebookresearch/faiss",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/leveldb",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "duckdb/duckdb",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "LizardByte/Sunshine",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "qbittorrent/qBittorrent",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "huihut/interview",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "aseprite/aseprite",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hyprwm/Hyprland",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "BVLC/caffe",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TheAlgorithms/C-Plus-Plus",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CMU-Perceptual-Computing-Lab/openpose",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "aristocratos/btop",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/WSL",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "telegramdesktop/tdesktop",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ValveSoftware/Proton",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "facebook/rocksdb",
@@ -3005,7 +2993,7 @@
    "repo": "microsoft/calculator",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dragonflydb/dragonfly",
@@ -3023,211 +3011,205 @@
    "repo": "barry-ran/QtScrcpy",
    "language": "cpp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "shadowsocks/shadowsocks-windows",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PowerShell/PowerShell",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jellyfin/jellyfin",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "files-community/Files",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ShareX/ShareX",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "huiyadanli/RevokeMsgPatcher",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DevToys-app/DevToys",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "AvaloniaUI/Avalonia",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dnSpy/dnSpy",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/semantic-kernel",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "BeyondDimension/SteamTools",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "icsharpcode/ILSpy",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mxgmn/WaveFunctionCollapse",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Devolutions/UniGetUI",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dotnet-architecture/eShopOnContainers",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "QL-Win/QuickLook",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dotnet/maui",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CodeHubApp/CodeHub",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "thangchung/awesome-dotnet-core",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jasontaylordev/CleanArchitecture",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "peass-ng/PEASS-ng",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "BCUninstaller/Bulk-Crap-Uninstaller",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Unity-Technologies/ml-agents",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "BluePointLilac/ContextMenuManager",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bitwarden/server",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TGSAN/CMWTAT_Digital_Edition",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
-  },
-  {
-   "repo": "rocksdanister/lively",
-   "language": "csharp",
-   "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DapperLib/Dapper",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ardalis/CleanArchitecture",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hellzerg/optimizer",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "netchx/netch",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MaterialDesignInXAML/MaterialDesignInXamlToolkit",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nilaoda/N_m3u8DL-CLI",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Jackett/Jackett",
    "language": "csharp",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Perfare/AssetStudio",
@@ -3263,139 +3245,139 @@
    "repo": "topjohnwu/Magisk",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "JetBrains/kotlin",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bannedbook/fanqiang",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gedoor/legado",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "android/architecture-samples",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gkd-kit/gkd",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "shadowsocks/shadowsocks-android",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/p3c",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "square/leakcanary",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "signalapp/Signal-Android",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "librepods-org/librepods",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "RikkaApps/Shizuku",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pppscn/SmsForwarder",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CymChad/BaseRecyclerViewAdapterHelper",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google-ai-edge/gallery",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "android/compose-samples",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/iosched",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "afollestad/material-dialogs",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "JetBrains/compose-multiplatform",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "square/picasso",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "open-ani/animeko",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/flexbox-layout",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "android/sunflower",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "facebook/fresco",
@@ -3407,61 +3389,61 @@
    "repo": "amir1376/ab-download-manager",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nickbutcher/plaid",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Kotlin/anko",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mamoe/mirai",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mobile-dev-inc/Maestro",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ktorio/ktor",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Kotlin/kotlinx.coroutines",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "thunderbird/thunderbird-android",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "T8RIN/ImageToolbox",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "android/uamp",
    "language": "kotlin",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Tamsiree/RxTool",
@@ -3485,199 +3467,199 @@
    "repo": "jaywcjlove/awesome-mac",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "swiftlang/swift",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vsouza/awesome-ios",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apple/container",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iina/iina",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Alamofire/Alamofire",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "exelban/stats",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "utmapp/UTM",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MonitorControl/MonitorControl",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "shadowsocks/ShadowsocksX-NG",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rxhanson/Rectangle",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kodecocodes/swift-algorithm-club",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jordanbaird/Ice",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ChartsOrg/Charts",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "permissionlesstech/bitchat",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "onevcat/Kingfisher",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CodeEditApp/CodeEdit",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HeroTransitions/Hero",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "nikitabobko/AeroSpace",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "JohnCoates/Aerial",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Caldis/Mos",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "p0deje/Maccy",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "SnapKit/SnapKit",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ReactiveCocoa/ReactiveCocoa",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "OpenEmu/OpenEmu",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ianyh/Amethyst",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lwouis/alt-tab-macos",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ipader/SwiftGuide",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ochococo/Design-Patterns-In-Swift",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Carthage/Carthage",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Whisky-App/Whisky",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "SwifterSwift/SwifterSwift",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dwarvesf/hidden",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mxcl/PromiseKit",
@@ -3689,193 +3671,193 @@
    "repo": "altstoreio/AltStore",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alienator88/Pearcleaner",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tisfeng/Easydict",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "blueimp/jQuery-File-Upload",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "composer/composer",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fzaninotto/Faker",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "monicahq/monica",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "firefly-iii/firefly-iii",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "livewire/livewire",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "guzzle/guzzle",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DesignPatternsPHP/DesignPatternsPHP",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "WordPress/WordPress",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sebastianbergmann/phpunit",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fruitcake/laravel-debugbar",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "BookStackApp/BookStack",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "easychen/howto-make-more-money",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bcit-ci/CodeIgniter",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "koel/koel",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "briannesbitt/Carbon",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "flarum/flarum",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "easychen/opc-methodology",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "getgrav/grav",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FreshRSS/FreshRSS",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cachethq/cachet",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "erusev/parsedown",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "barryvdh/laravel-ide-helper",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Intervention/image",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "yiisoft/yii2",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "phpstan/phpstan",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Qloapps/QloApps",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "thephpleague/flysystem",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PHP-CS-Fixer/PHP-CS-Fixer",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vlucas/phpdotenv",
@@ -3887,43 +3869,43 @@
    "repo": "digininja/DVWA",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "filp/whoops",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "roots/sage",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "spatie/laravel-permission",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "star7th/showdoc",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "wallabag/wallabag",
    "language": "php",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zen-browser/desktop",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Stremio/stremio-web",
@@ -3935,13 +3917,13 @@
    "repo": "citrolabs/ego-lite",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "coreyhaines31/marketingskills",
    "language": "javascript",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "aquasecurity/trivy",
@@ -3977,19 +3959,19 @@
    "repo": "openjdk/jdk",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apache/flink",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "agentscope-ai/agentscope-java",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PaperMC/Paper",
@@ -4001,7 +3983,7 @@
    "repo": "iBotPeaches/Apktool",
    "language": "java",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/flatbuffers",
@@ -4169,7 +4151,7 @@
    "repo": "Wei-Shaw/sub2api",
    "language": "go",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cjpais/Handy",
@@ -4217,7 +4199,7 @@
    "repo": "eclipse-mosquitto/mosquitto",
    "language": "c",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-10-21"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "espressif/esp-idf",
@@ -4283,19 +4265,19 @@
    "repo": "pterodactyl/panel",
    "language": "php",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Dolibarr/dolibarr",
    "language": "php",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-10-27"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openemr/openemr",
    "language": "php",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-10-27"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "magento/magento2",
@@ -4307,7 +4289,7 @@
    "repo": "nextcloud/all-in-one",
    "language": "php",
    "firstSeen": "2026-07-05",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ComposioHQ/awesome-claude-skills",
@@ -4379,7 +4361,7 @@
    "repo": "madler/zlib",
    "language": "c",
    "firstSeen": "2026-07-06",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FWGS/xash3d-fwgs",
@@ -4475,13 +4457,13 @@
    "repo": "antirez/ds4",
    "language": "c",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "addyosmani/agent-skills",
    "language": "javascript",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mnfst/awesome-free-llm-apis",
@@ -4547,13 +4529,13 @@
    "repo": "78/xiaozhi-esp32",
    "language": "cpp",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lemonade-sdk/lemonade",
    "language": "cpp",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "SchedMD/slurm",
@@ -4565,13 +4547,13 @@
    "repo": "zephyrproject-rtos/zephyr",
    "language": "c",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iOfficeAI/OfficeCLI",
    "language": "csharp",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TechnitiumSoftware/DnsServer",
@@ -4613,7 +4595,7 @@
    "repo": "aureuserp/aureuserp",
    "language": "php",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "roundcube/roundcubemail",
@@ -4625,7 +4607,7 @@
    "repo": "glpi-project/glpi",
    "language": "php",
    "firstSeen": "2026-07-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "atlassian/atlassian-mcp-server",
@@ -4667,7 +4649,7 @@
    "repo": "quarkusio/quarkus",
    "language": "java",
    "firstSeen": "2026-07-08",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "JosefNemec/Playnite",
@@ -4697,13 +4679,13 @@
    "repo": "opensourcepos/opensourcepos",
    "language": "php",
    "firstSeen": "2026-07-08",
-   "lastSeenOnTrending": "2026-10-26"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "unclecode/crawl4ai",
    "language": "python",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zitadel/zitadel",
@@ -4715,7 +4697,7 @@
    "repo": "opendataloader-project/opendataloader-pdf",
    "language": "java",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "crimera/piko",
@@ -4727,19 +4709,19 @@
    "repo": "spring-projects/spring-ai",
    "language": "java",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "google/perfetto",
    "language": "cpp",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ai-dynamo/nixl",
    "language": "cpp",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-01"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "FreeRTOS/FreeRTOS-Kernel",
@@ -4763,7 +4745,7 @@
    "repo": "microsoft/mcp",
    "language": "csharp",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "IvanMurzak/Unity-MCP",
@@ -4781,7 +4763,7 @@
    "repo": "Lakr233/vphone-cli",
    "language": "swift",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "facebook/facebook-ios-sdk",
@@ -4793,7 +4775,7 @@
    "repo": "SuiteCRM/SuiteCRM",
    "language": "php",
    "firstSeen": "2026-07-09",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "freescout-help-desk/freescout",
@@ -4823,7 +4805,7 @@
    "repo": "actions/runner",
    "language": "csharp",
    "firstSeen": "2026-07-10",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "signalwire/freeswitch",
@@ -4835,7 +4817,7 @@
    "repo": "fluent/fluent-bit",
    "language": "c",
    "firstSeen": "2026-07-10",
-   "lastSeenOnTrending": "2026-10-01"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sonic-net/sonic-buildimage",
@@ -4847,7 +4829,7 @@
    "repo": "ImageMagick/ImageMagick",
    "language": "c",
    "firstSeen": "2026-07-10",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "asterisk/asterisk",
@@ -4871,7 +4853,7 @@
    "repo": "akaunting/akaunting",
    "language": "php",
    "firstSeen": "2026-07-10",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "WordPress/mcp-adapter",
@@ -4937,13 +4919,13 @@
    "repo": "hmjz100/LinkSwift",
    "language": "javascript",
    "firstSeen": "2026-07-12",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "heygen-com/hyperframes",
    "language": "typescript",
    "firstSeen": "2026-07-12",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "checkstyle/checkstyle",
@@ -4991,13 +4973,13 @@
    "repo": "palmier-io/palmier-pro",
    "language": "swift",
    "firstSeen": "2026-07-12",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "OpenCut-app/OpenCut",
    "language": "typescript",
    "firstSeen": "2026-07-13",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rmyndharis/OpenWA",
@@ -5015,7 +4997,7 @@
    "repo": "schollz/croc",
    "language": "go",
    "firstSeen": "2026-07-13",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "AlexsJones/llmfit",
@@ -5033,7 +5015,7 @@
    "repo": "trinodb/trino",
    "language": "java",
    "firstSeen": "2026-07-13",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MaaAssistantArknights/MaaAssistantArknights",
@@ -5105,7 +5087,7 @@
    "repo": "agentgateway/agentgateway",
    "language": "rust",
    "firstSeen": "2026-07-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ankitects/anki",
@@ -5123,7 +5105,7 @@
    "repo": "apache/doris",
    "language": "java",
    "firstSeen": "2026-07-14",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ROCm/rocm-systems",
@@ -5135,7 +5117,7 @@
    "repo": "Fincept-Corporation/FinceptTerminal",
    "language": "cpp",
    "firstSeen": "2026-07-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lz4/lz4",
@@ -5213,7 +5195,7 @@
    "repo": "odysseus-dev/odysseus",
    "language": "python",
    "firstSeen": "2026-07-15",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "fleetbase/fleetbase",
@@ -5261,13 +5243,13 @@
    "repo": "microsoft/BitNet",
    "language": "cpp",
    "firstSeen": "2026-07-16",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lysine-dev/okhttp",
    "language": "kotlin",
    "firstSeen": "2026-07-17",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "poteto/hiring-without-whiteboards",
@@ -5327,7 +5309,7 @@
    "repo": "lysine-dev/retrofit",
    "language": "java",
    "firstSeen": "2026-07-17",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jo-inc/camofox-browser",
@@ -5399,7 +5381,7 @@
    "repo": "momenbasel/PureMac",
    "language": "swift",
    "firstSeen": "2026-07-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Javis603/token-monitor",
@@ -5441,7 +5423,7 @@
    "repo": "colbymchenry/codegraph",
    "language": "c",
    "firstSeen": "2026-07-21",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rohitg00/agentmemory",
@@ -5453,19 +5435,19 @@
    "repo": "HMCL-dev/HMCL",
    "language": "java",
    "firstSeen": "2026-07-21",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DependencyTrack/dependency-track",
    "language": "java",
    "firstSeen": "2026-07-21",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alibaba/open-code-review",
    "language": "go",
    "firstSeen": "2026-07-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "open-telemetry/opentelemetry-collector",
@@ -5495,7 +5477,7 @@
    "repo": "damontecres/Wholphin",
    "language": "kotlin",
    "firstSeen": "2026-07-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "AndyShaman/BYDMate",
@@ -5543,7 +5525,7 @@
    "repo": "LSPosed/LSPosed",
    "language": "java",
    "firstSeen": "2026-07-23",
-   "lastSeenOnTrending": "2026-10-27"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "questdb/questdb",
@@ -5573,19 +5555,13 @@
    "repo": "krayin/laravel-crm",
    "language": "php",
    "firstSeen": "2026-07-24",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "akitaonrails/ai-memory",
    "language": "rust",
    "firstSeen": "2026-07-25",
-   "lastSeenOnTrending": "2026-10-30"
-  },
-  {
-   "repo": "evolution-foundation/evolution-go",
-   "language": "go",
-   "firstSeen": "2026-07-26",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "helm/helm",
@@ -5612,16 +5588,10 @@
    "lastSeenOnTrending": "2026-10-09"
   },
   {
-   "repo": "mRemoteNG/mRemoteNG",
-   "language": "csharp",
-   "firstSeen": "2026-07-26",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "tashfeenahmed/freellmapi",
    "language": "typescript",
    "firstSeen": "2026-07-26",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "K-Dense-AI/scientific-agent-skills",
@@ -5657,13 +5627,13 @@
    "repo": "JingMatrix/Vector",
    "language": "java",
    "firstSeen": "2026-07-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "remotion-dev/remotion",
    "language": "typescript",
    "firstSeen": "2026-07-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rorkai/App-Store-Connect-CLI",
@@ -5693,13 +5663,13 @@
    "repo": "github/awesome-copilot",
    "language": "python",
    "firstSeen": "2026-07-30",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "github/gh-aw",
    "language": "go",
    "firstSeen": "2026-07-30",
-   "lastSeenOnTrending": "2026-10-27"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "snownico0722/PaperTodo",
@@ -5759,7 +5729,7 @@
    "repo": "thebookisclosed/ViVe",
    "language": "csharp",
    "firstSeen": "2026-08-01",
-   "lastSeenOnTrending": "2026-10-13"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alextselegidis/easyappointments",
@@ -5771,7 +5741,7 @@
    "repo": "JustVugg/colibri",
    "language": "c",
    "firstSeen": "2026-08-02",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "woheller69/FreeDroidWarn",
@@ -5789,7 +5759,7 @@
    "repo": "bazelbuild/bazel",
    "language": "java",
    "firstSeen": "2026-08-02",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "LavaGang/MelonLoader",
@@ -5885,25 +5855,25 @@
    "repo": "rushiranpise/morphe-patches",
    "language": "kotlin",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vorssaint/vorssaint-utils",
    "language": "swift",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MetrolistGroup/Metrolist",
    "language": "kotlin",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "deepseek-ai/deepseek-harness",
    "language": "typescript",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "darkzOGx/youtube-automation-agent",
@@ -5939,7 +5909,7 @@
    "repo": "systemd/systemd",
    "language": "c",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "madoiscool/LuaTools",
@@ -5963,7 +5933,7 @@
    "repo": "luolangaga/tubatools",
    "language": "csharp",
    "firstSeen": "2026-08-14",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "d4rken-org/sdmaid-se",
@@ -6050,16 +6020,10 @@
    "lastSeenOnTrending": "2026-10-29"
   },
   {
-   "repo": "WinNative-Emu/WinNative",
-   "language": "kotlin",
-   "firstSeen": "2026-08-16",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "D4Vinci/Scrapling",
    "language": "python",
    "firstSeen": "2026-08-17",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "authelia/authelia",
@@ -6072,12 +6036,6 @@
    "language": "java",
    "firstSeen": "2026-08-17",
    "lastSeenOnTrending": "2026-10-29"
-  },
-  {
-   "repo": "ikawrakow/ik_llama.cpp",
-   "language": "cpp",
-   "firstSeen": "2026-08-17",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "gotson/komga",
@@ -6119,7 +6077,7 @@
    "repo": "apache/seatunnel",
    "language": "java",
    "firstSeen": "2026-08-18",
-   "lastSeenOnTrending": "2026-10-17"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "awalol/DS5Dongle",
@@ -6197,7 +6155,7 @@
    "repo": "magnitudedev/magnitude",
    "language": "typescript",
    "firstSeen": "2026-08-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bethington/ghidra-mcp",
@@ -6209,7 +6167,7 @@
    "repo": "cloudflare/security-audit-skill",
    "language": "javascript",
    "firstSeen": "2026-08-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "emanuele-f/PCAPdroid",
@@ -6239,7 +6197,7 @@
    "repo": "debpalash/VoiceStudio",
    "language": "python",
    "firstSeen": "2026-08-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ItzCrazyKns/Vane",
@@ -6317,7 +6275,7 @@
    "repo": "elabftw/elabftw",
    "language": "php",
    "firstSeen": "2026-08-23",
-   "lastSeenOnTrending": "2026-10-23"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Anil-matcha/Open-Generative-AI",
@@ -6431,7 +6389,7 @@
    "repo": "fayazara/Screendrop",
    "language": "swift",
    "firstSeen": "2026-08-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "own-pay/OwnPay",
@@ -6449,13 +6407,13 @@
    "repo": "janhq/jan",
    "language": "typescript",
    "firstSeen": "2026-08-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "open-telemetry/opentelemetry-collector-contrib",
    "language": "go",
    "firstSeen": "2026-08-27",
-   "lastSeenOnTrending": "2026-10-23"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hashicorp/vault",
@@ -6485,7 +6443,7 @@
    "repo": "SukiSU-Ultra/SukiSU-Ultra",
    "language": "kotlin",
    "firstSeen": "2026-08-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "pixelfed/pixelfed",
@@ -6503,19 +6461,19 @@
    "repo": "AgriciDaniel/claude-seo",
    "language": "python",
    "firstSeen": "2026-08-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bilawalsidhu/gods-eye-view",
    "language": "javascript",
    "firstSeen": "2026-08-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "openai/plugins",
    "language": "javascript",
    "firstSeen": "2026-08-28",
-   "lastSeenOnTrending": "2026-10-02"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tradingview/lightweight-charts",
@@ -6527,13 +6485,7 @@
    "repo": "docker/docker-agent",
    "language": "go",
    "firstSeen": "2026-08-28",
-   "lastSeenOnTrending": "2026-10-16"
-  },
-  {
-   "repo": "freerouting/freerouting",
-   "language": "java",
-   "firstSeen": "2026-08-28",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "espeak-ng/espeak-ng",
@@ -6569,7 +6521,7 @@
    "repo": "tt-a1i/archify",
    "language": "javascript",
    "firstSeen": "2026-08-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tailscale/tailcat",
@@ -6623,7 +6575,7 @@
    "repo": "OpenWhispr/openwhispr",
    "language": "javascript",
    "firstSeen": "2026-08-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "qeeqbox/social-analyzer",
@@ -6743,7 +6695,7 @@
    "repo": "openmediavault/openmediavault",
    "language": "php",
    "firstSeen": "2026-09-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "NdoleStudio/httpsms",
@@ -6755,7 +6707,7 @@
    "repo": "NVIDIA/SkillSpector",
    "language": "python",
    "firstSeen": "2026-09-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "VectifyAI/PageIndex",
@@ -6767,19 +6719,13 @@
    "repo": "NVIDIA/OpenShell",
    "language": "rust",
    "firstSeen": "2026-09-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gosom/google-maps-scraper",
    "language": "go",
    "firstSeen": "2026-09-01",
    "lastSeenOnTrending": "2026-10-27"
-  },
-  {
-   "repo": "mltframework/shotcut",
-   "language": "cpp",
-   "firstSeen": "2026-09-01",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "pass-with-high-score/blockads-android",
@@ -6791,13 +6737,13 @@
    "repo": "career-ops-hq/career-ops",
    "language": "javascript",
    "firstSeen": "2026-09-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "komi-store/komi-store",
    "language": "kotlin",
    "firstSeen": "2026-09-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alphaXiv/OpenResearch",
@@ -6815,7 +6761,7 @@
    "repo": "datawhalechina/hello-agents",
    "language": "python",
    "firstSeen": "2026-09-02",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tphakala/birdnet-go",
@@ -6827,7 +6773,7 @@
    "repo": "docker/compose",
    "language": "go",
    "firstSeen": "2026-09-02",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "livekit/livekit",
@@ -6842,12 +6788,6 @@
    "lastSeenOnTrending": "2026-10-08"
   },
   {
-   "repo": "sepinf-inc/IPED",
-   "language": "java",
-   "firstSeen": "2026-09-02",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "rui314/mold",
    "language": "cpp",
    "firstSeen": "2026-09-02",
@@ -6857,13 +6797,13 @@
    "repo": "streetcomplete/StreetComplete",
    "language": "kotlin",
    "firstSeen": "2026-09-02",
-   "lastSeenOnTrending": "2026-10-22"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CapSoftware/Cap",
    "language": "rust",
    "firstSeen": "2026-09-03",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tbphp/gpt-load",
@@ -6941,7 +6881,7 @@
    "repo": "sgl-project/sglang",
    "language": "python",
    "firstSeen": "2026-09-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "humanlayer/skills",
@@ -6989,7 +6929,7 @@
    "repo": "farzaa/clicky",
    "language": "swift",
    "firstSeen": "2026-09-04",
-   "lastSeenOnTrending": "2026-10-25"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Automattic/jetpack",
@@ -7025,7 +6965,7 @@
    "repo": "SpriteOvO/AirPodsDesktop",
    "language": "cpp",
    "firstSeen": "2026-09-05",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ed0ard/CS2-Bot-Improver",
@@ -7058,12 +6998,6 @@
    "lastSeenOnTrending": "2026-10-06"
   },
   {
-   "repo": "iflytek/astron-agent",
-   "language": "java",
-   "firstSeen": "2026-09-06",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "Creators-of-Create/Create",
    "language": "java",
    "firstSeen": "2026-09-06",
@@ -7085,13 +7019,13 @@
    "repo": "keepassxreboot/keepassxc",
    "language": "cpp",
    "firstSeen": "2026-09-06",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "libarchive/libarchive",
    "language": "c",
    "firstSeen": "2026-09-06",
-   "lastSeenOnTrending": "2026-10-20"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "xororz/local-dream",
@@ -7103,7 +7037,7 @@
    "repo": "home-assistant/android",
    "language": "kotlin",
    "firstSeen": "2026-09-06",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iliyami/MacSai",
@@ -7163,7 +7097,7 @@
    "repo": "OrcaSlicer/OrcaSlicer",
    "language": "cpp",
    "firstSeen": "2026-09-08",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rmcrackan/Libation",
@@ -7187,7 +7121,7 @@
    "repo": "herdrdev/herdr",
    "language": "rust",
    "firstSeen": "2026-09-08",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Tencent/teamai-cli",
@@ -7271,7 +7205,7 @@
    "repo": "open-gsd/gsd-core",
    "language": "javascript",
    "firstSeen": "2026-09-09",
-   "lastSeenOnTrending": "2026-10-01"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jamiepine/voicebox",
@@ -7295,13 +7229,13 @@
    "repo": "ximeiorg/Xime",
    "language": "kotlin",
    "firstSeen": "2026-09-09",
-   "lastSeenOnTrending": "2026-10-10"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "metadist/synaplan",
    "language": "php",
    "firstSeen": "2026-09-09",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "alsk1992/CloddsBot",
@@ -7355,7 +7289,7 @@
    "repo": "kserve/kserve",
    "language": "go",
    "firstSeen": "2026-09-11",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "0xShug0/audio.cpp",
@@ -7409,7 +7343,7 @@
    "repo": "SnailSploit/Claude-Red",
    "language": "python",
    "firstSeen": "2026-09-12",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "multimodal-art-projection/YuE",
@@ -7499,7 +7433,7 @@
    "repo": "Crosstalk-Solutions/project-nomad",
    "language": "typescript",
    "firstSeen": "2026-09-15",
-   "lastSeenOnTrending": "2026-10-16"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "reconurge/flowsint",
@@ -7589,7 +7523,7 @@
    "repo": "anthropics/knowledge-work-plugins",
    "language": "python",
    "firstSeen": "2026-09-16",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "TencentCloud/Octop",
@@ -7602,12 +7536,6 @@
    "language": "python",
    "firstSeen": "2026-09-16",
    "lastSeenOnTrending": "2026-10-10"
-  },
-  {
-   "repo": "Q00/ouroboros",
-   "language": "python",
-   "firstSeen": "2026-09-16",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "vercel/eve",
@@ -7727,7 +7655,7 @@
    "repo": "lobehub/lobehub",
    "language": "typescript",
    "firstSeen": "2026-09-18",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "shiyu-coder/Kronos",
@@ -7766,22 +7694,10 @@
    "lastSeenOnTrending": "2026-10-09"
   },
   {
-   "repo": "yynxxxxx/Codex-X",
-   "language": "rust",
-   "firstSeen": "2026-09-18",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "l0ng-ai/tty7",
    "language": "rust",
    "firstSeen": "2026-09-18",
    "lastSeenOnTrending": "2026-10-02"
-  },
-  {
-   "repo": "felinics/Memoh",
-   "language": "go",
-   "firstSeen": "2026-09-18",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "guohuiyuan/go-music-dl",
@@ -7818,12 +7734,6 @@
    "language": "swift",
    "firstSeen": "2026-09-18",
    "lastSeenOnTrending": "2026-10-14"
-  },
-  {
-   "repo": "mem0ai/mem0",
-   "language": "python",
-   "firstSeen": "2026-09-19",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "Open-Dev-Society/OpenStock",
@@ -7892,24 +7802,6 @@
    "lastSeenOnTrending": "2026-10-03"
   },
   {
-   "repo": "FareedKhan-dev/train-llm-from-scratch",
-   "language": "python",
-   "firstSeen": "2026-09-20",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "harvard-edge/cs249r_book",
-   "language": "python",
-   "firstSeen": "2026-09-20",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "browserbase/stagehand",
-   "language": "typescript",
-   "firstSeen": "2026-09-20",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "krillinai/OpenCreator",
    "language": "typescript",
    "firstSeen": "2026-09-20",
@@ -7946,12 +7838,6 @@
    "lastSeenOnTrending": "2026-10-04"
   },
   {
-   "repo": "TNT-Likely/PanWatch",
-   "language": "python",
-   "firstSeen": "2026-09-22",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "AminMGMT/BackPack",
    "language": "go",
    "firstSeen": "2026-09-22",
@@ -7974,12 +7860,6 @@
    "language": "cpp",
    "firstSeen": "2026-09-22",
    "lastSeenOnTrending": "2026-10-30"
-  },
-  {
-   "repo": "Codensity30/Strivers-A2Z-DSA-Sheet",
-   "language": "cpp",
-   "firstSeen": "2026-09-22",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "mcneel/RhinoAI",
@@ -8027,7 +7907,7 @@
    "repo": "vectorize-io/hindsight",
    "language": "python",
    "firstSeen": "2026-09-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dream-num/univer",
@@ -8039,7 +7919,7 @@
    "repo": "google/ax",
    "language": "go",
    "firstSeen": "2026-09-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "chenyme/grok2api",
@@ -8063,7 +7943,7 @@
    "repo": "samber/cc-skills-golang",
    "language": "go",
    "firstSeen": "2026-09-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hydra-db/hydradb",
@@ -8075,7 +7955,7 @@
    "repo": "Nasiko-Labs/nasiko",
    "language": "rust",
    "firstSeen": "2026-09-22",
-   "lastSeenOnTrending": "2026-10-05"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tokio-rs/topcoat",
@@ -8112,12 +7992,6 @@
    "language": "c",
    "firstSeen": "2026-09-23",
    "lastSeenOnTrending": "2026-10-16"
-  },
-  {
-   "repo": "tddworks/baguette",
-   "language": "swift",
-   "firstSeen": "2026-09-23",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "poloclub/transformer-explainer",
@@ -8165,7 +8039,7 @@
    "repo": "tgeorgiadis/quiver-launcher",
    "language": "csharp",
    "firstSeen": "2026-09-23",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "NethermindEth/nethermind",
@@ -8312,12 +8186,6 @@
    "lastSeenOnTrending": "2026-10-18"
   },
   {
-   "repo": "NginxProxyManager/nginx-proxy-manager",
-   "language": "typescript",
-   "firstSeen": "2026-09-25",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "mvschwarz/openrig",
    "language": "typescript",
    "firstSeen": "2026-09-25",
@@ -8346,12 +8214,6 @@
    "language": "cpp",
    "firstSeen": "2026-09-25",
    "lastSeenOnTrending": "2026-10-25"
-  },
-  {
-   "repo": "xournalpp/xournalpp",
-   "language": "cpp",
-   "firstSeen": "2026-09-25",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "greenshot/greenshot",
@@ -8453,13 +8315,13 @@
    "repo": "matz/spinel",
    "language": "c",
    "firstSeen": "2026-09-27",
-   "lastSeenOnTrending": "2026-10-19"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ulsklyc/yuvomi",
    "language": "javascript",
    "firstSeen": "2026-09-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "calcom/cal.diy",
@@ -8540,22 +8402,10 @@
    "lastSeenOnTrending": "2026-10-08"
   },
   {
-   "repo": "microsoft/SkillOpt",
-   "language": "python",
-   "firstSeen": "2026-09-29",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
    "repo": "topoteretes/cognee",
    "language": "python",
    "firstSeen": "2026-09-29",
    "lastSeenOnTrending": "2026-10-07"
-  },
-  {
-   "repo": "crocodilestick/Calibre-Web-Automated",
-   "language": "javascript",
-   "firstSeen": "2026-09-29",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "moeru-ai/airi",
@@ -8573,7 +8423,7 @@
    "repo": "macro-inc/macro",
    "language": "rust",
    "firstSeen": "2026-09-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ffuf/ffuf",
@@ -8597,19 +8447,13 @@
    "repo": "geode-sdk/geode",
    "language": "cpp",
    "firstSeen": "2026-09-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "windirstat/windirstat",
    "language": "cpp",
    "firstSeen": "2026-09-29",
    "lastSeenOnTrending": "2026-10-02"
-  },
-  {
-   "repo": "smartstore/Smartstore",
-   "language": "csharp",
-   "firstSeen": "2026-09-29",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "YuKongA/ghostlock-app",
@@ -8621,55 +8465,13 @@
    "repo": "QwenAudio/qwen-audio-agent",
    "language": "javascript",
    "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "tiagozip/cap",
-   "language": "javascript",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "eyaltoledano/claude-task-master",
-   "language": "javascript",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "SemiAnalysisAI/InferenceX",
-   "language": "python",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "chrisryugj/kordoc",
-   "language": "typescript",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cloudflare/vinext",
    "language": "typescript",
    "firstSeen": "2026-09-30",
    "lastSeenOnTrending": "2026-10-03"
-  },
-  {
-   "repo": "cypress-io/cypress",
-   "language": "typescript",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "VoltAgent/voltagent",
-   "language": "typescript",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
-  },
-  {
-   "repo": "OpenCTI-Platform/opencti",
-   "language": "typescript",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "rakyll/hey",
@@ -8694,12 +8496,6 @@
    "language": "go",
    "firstSeen": "2026-09-30",
    "lastSeenOnTrending": "2026-10-21"
-  },
-  {
-   "repo": "tw93/Kaku",
-   "language": "rust",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "ccfddl/ccf-deadlines",
@@ -8729,7 +8525,7 @@
    "repo": "camunda/camunda",
    "language": "java",
    "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "yash-srivastava/Overdrive-release",
@@ -8742,12 +8538,6 @@
    "language": "c",
    "firstSeen": "2026-09-30",
    "lastSeenOnTrending": "2026-10-14"
-  },
-  {
-   "repo": "Syllo/nvtop",
-   "language": "c",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "SirDiabo/GithubLauncher",
@@ -8772,12 +8562,6 @@
    "language": "kotlin",
    "firstSeen": "2026-09-30",
    "lastSeenOnTrending": "2026-10-04"
-  },
-  {
-   "repo": "PortSwigger/mcp-server",
-   "language": "kotlin",
-   "firstSeen": "2026-09-30",
-   "lastSeenOnTrending": "2026-09-30"
   },
   {
    "repo": "kaishi00/hermes-conduit",
@@ -8807,7 +8591,7 @@
    "repo": "NomaDamas/k-skill",
    "language": "javascript",
    "firstSeen": "2026-10-01",
-   "lastSeenOnTrending": "2026-10-13"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "WesselKroos/youtube-ambilight",
@@ -8855,7 +8639,7 @@
    "repo": "aws/agent-toolkit-for-aws",
    "language": "python",
    "firstSeen": "2026-10-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HunxByts/GhostTrack",
@@ -9017,7 +8801,7 @@
    "repo": "vimeo/psalm",
    "language": "php",
    "firstSeen": "2026-10-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PipraPay/PipraPay",
@@ -9035,7 +8819,7 @@
    "repo": "lively-community/lively",
    "language": "csharp",
    "firstSeen": "2026-10-01",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mokshablr/gander",
@@ -9083,7 +8867,7 @@
    "repo": "nyakang/nyaterm",
    "language": "typescript",
    "firstSeen": "2026-10-02",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ag-ui-protocol/ag-ui",
@@ -9221,7 +9005,7 @@
    "repo": "PimpinPumpkin/Vela",
    "language": "kotlin",
    "firstSeen": "2026-10-02",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "microsoft/VibeVoice",
@@ -9317,7 +9101,7 @@
    "repo": "androidx/media",
    "language": "java",
    "firstSeen": "2026-10-03",
-   "lastSeenOnTrending": "2026-10-03"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "simdjson/simdjson",
@@ -9443,7 +9227,7 @@
    "repo": "pingdotgg/t3code",
    "language": "typescript",
    "firstSeen": "2026-10-03",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Comfy-Org/workflow_templates",
@@ -9557,19 +9341,19 @@
    "repo": "boykopovar/AnyPS5",
    "language": "cpp",
    "firstSeen": "2026-10-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "orhanobut/logger",
    "language": "kotlin",
    "firstSeen": "2026-10-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "gnachman/iTerm2",
    "language": "swift",
    "firstSeen": "2026-10-04",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kanoqwq/UFI-TOOLS",
@@ -9701,7 +9485,7 @@
    "repo": "codewhale-hq/Codewhale",
    "language": "rust",
    "firstSeen": "2026-10-05",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dortania/OpenCore-Legacy-Patcher",
@@ -9755,7 +9539,7 @@
    "repo": "slavakurilyak/awesome-ai-agents",
    "language": "go",
    "firstSeen": "2026-10-06",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bettercap/bettercap",
@@ -9869,7 +9653,7 @@
    "repo": "morluto/rea",
    "language": "typescript",
    "firstSeen": "2026-10-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "msitarzewski/agency-agents-app",
@@ -9941,7 +9725,7 @@
    "repo": "CYQawa/YunX",
    "language": "kotlin",
    "firstSeen": "2026-10-07",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ggml-org/Llama-macOS",
@@ -10061,7 +9845,7 @@
    "repo": "fabio-rovai/open-ontologies",
    "language": "rust",
    "firstSeen": "2026-10-08",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "harry0703/MangoDisk",
@@ -10073,7 +9857,7 @@
    "repo": "xerj-org/xerj",
    "language": "rust",
    "firstSeen": "2026-10-08",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "oauth2-proxy/oauth2-proxy",
@@ -10133,7 +9917,7 @@
    "repo": "LorisYounger/VPet",
    "language": "csharp",
    "firstSeen": "2026-10-08",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "torlando-tech/columba",
@@ -10361,7 +10145,7 @@
    "repo": "Lelonio/Square",
    "language": "kotlin",
    "firstSeen": "2026-10-09",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "linroid/Ketch",
@@ -10505,7 +10289,7 @@
    "repo": "makecindy/cindy",
    "language": "typescript",
    "firstSeen": "2026-10-10",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sharkdp/hyperfine",
@@ -10583,13 +10367,13 @@
    "repo": "robbietilton/Compositor",
    "language": "swift",
    "firstSeen": "2026-10-10",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "phpdotenv/phpdotenv",
    "language": "php",
    "firstSeen": "2026-10-10",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "greensock/GSAP",
@@ -10637,7 +10421,7 @@
    "repo": "eugenioenko/ttt",
    "language": "go",
    "firstSeen": "2026-10-11",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Autumn-27/ScopeSentry",
@@ -10673,7 +10457,7 @@
    "repo": "trymirai/uzu",
    "language": "rust",
    "firstSeen": "2026-10-11",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "libgdx/libgdx",
@@ -10721,7 +10505,7 @@
    "repo": "storytold/photocraft",
    "language": "rust",
    "firstSeen": "2026-10-11",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "MagicMirrorOrg/MagicMirror",
@@ -10829,7 +10613,7 @@
    "repo": "BuSung-dev/Root-My-Galaxy",
    "language": "kotlin",
    "firstSeen": "2026-10-12",
-   "lastSeenOnTrending": "2026-10-12"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "throneproj/ThroneForAndroid",
@@ -10847,7 +10631,7 @@
    "repo": "kushagrasinghx/BitChord",
    "language": "kotlin",
    "firstSeen": "2026-10-12",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bobsupra/NuvioTVOS",
@@ -11027,7 +10811,7 @@
    "repo": "ntdevlabs/tiny11builder",
    "language": "csharp",
    "firstSeen": "2026-10-13",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "truelockmc/streambert",
@@ -11351,7 +11135,7 @@
    "repo": "ErTasselli/OpenTerminal",
    "language": "typescript",
    "firstSeen": "2026-10-15",
-   "lastSeenOnTrending": "2026-10-22"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "dimthink/PriceAI",
@@ -11429,7 +11213,7 @@
    "repo": "android/skills",
    "language": "kotlin",
    "firstSeen": "2026-10-15",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "realidkroo/musicfy",
@@ -11453,7 +11237,7 @@
    "repo": "LoopKit/Loop",
    "language": "swift",
    "firstSeen": "2026-10-15",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "LiveContainer/LiveContainer",
@@ -11615,7 +11399,7 @@
    "repo": "pollen-robotics/microduck",
    "language": "rust",
    "firstSeen": "2026-10-16",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zeldaret/botw",
@@ -11681,7 +11465,7 @@
    "repo": "1lck/Lithe-IDEA",
    "language": "swift",
    "firstSeen": "2026-10-16",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lihaoyun6/QuickRecorder",
@@ -11963,7 +11747,7 @@
    "repo": "rileytestut/Delta",
    "language": "swift",
    "firstSeen": "2026-10-18",
-   "lastSeenOnTrending": "2026-10-27"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "iFurySt/open-computer-use",
@@ -11975,7 +11759,7 @@
    "repo": "pauljoda/Crest",
    "language": "swift",
    "firstSeen": "2026-10-18",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Clipy/Clipy",
@@ -12041,7 +11825,7 @@
    "repo": "strelov1/freehire",
    "language": "go",
    "firstSeen": "2026-10-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "smg-project/smg",
@@ -12131,7 +11915,7 @@
    "repo": "Renhuai123/ziwei-doushu",
    "language": "typescript",
    "firstSeen": "2026-10-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "sickn33/agentic-awesome-skills",
@@ -12209,7 +11993,7 @@
    "repo": "ZSeven-W/openpencil",
    "language": "rust",
    "firstSeen": "2026-10-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "PatchMon/PatchMon",
@@ -12251,13 +12035,13 @@
    "repo": "btcpayserver/btcpayserver",
    "language": "csharp",
    "firstSeen": "2026-10-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "getsentry/sentry-cocoa",
    "language": "swift",
    "firstSeen": "2026-10-20",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "lycorp-jp/sim-use",
@@ -12293,7 +12077,7 @@
    "repo": "luongnv89/claude-howto",
    "language": "python",
    "firstSeen": "2026-10-21",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Emily2040/seedance-2.0",
@@ -12305,7 +12089,7 @@
    "repo": "ethanplusai/harvey",
    "language": "python",
    "firstSeen": "2026-10-21",
-   "lastSeenOnTrending": "2026-10-26"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cloudwego/eino",
@@ -12341,7 +12125,7 @@
    "repo": "kksimp/Mac.apk",
    "language": "java",
    "firstSeen": "2026-10-21",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "c-ares/c-ares",
@@ -12353,7 +12137,7 @@
    "repo": "PCL-Community/PCL-CE",
    "language": "csharp",
    "firstSeen": "2026-10-21",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Unity-Technologies/unity-agent-plugin",
@@ -12383,13 +12167,13 @@
    "repo": "cheaper-inference/OmniRoute",
    "language": "typescript",
    "firstSeen": "2026-10-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Droid-Deck/DroidDeck",
    "language": "kotlin",
    "firstSeen": "2026-10-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "adobe/skills",
@@ -12437,7 +12221,7 @@
    "repo": "EveryInc/compound-engineering-plugin",
    "language": "typescript",
    "firstSeen": "2026-10-22",
-   "lastSeenOnTrending": "2026-10-23"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "github/docs",
@@ -12449,7 +12233,7 @@
    "repo": "CopilotKit/OpenBot",
    "language": "typescript",
    "firstSeen": "2026-10-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "grafana/alloy",
@@ -12527,7 +12311,7 @@
    "repo": "tailscale/tailscale-android",
    "language": "kotlin",
    "firstSeen": "2026-10-22",
-   "lastSeenOnTrending": "2026-10-23"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rime/squirrel",
@@ -12539,7 +12323,7 @@
    "repo": "4jean/lav_sms",
    "language": "php",
    "firstSeen": "2026-10-22",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bowenliang123/dsh-context",
@@ -12611,25 +12395,25 @@
    "repo": "fleetdm/fleet",
    "language": "go",
    "firstSeen": "2026-10-23",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "chaitin/SafeLine",
    "language": "go",
    "firstSeen": "2026-10-23",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "stalwartlabs/stalwart",
    "language": "rust",
    "firstSeen": "2026-10-23",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "anomalyco/hex",
    "language": "rust",
    "firstSeen": "2026-10-23",
-   "lastSeenOnTrending": "2026-10-24"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "OpenRefine/OpenRefine",
@@ -12743,7 +12527,7 @@
    "repo": "google/brotli",
    "language": "typescript",
    "firstSeen": "2026-10-24",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "firebase/firebase-tools",
@@ -12761,7 +12545,7 @@
    "repo": "anthropics/sandbox-runtime",
    "language": "typescript",
    "firstSeen": "2026-10-24",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "umami-software/umami",
@@ -12773,7 +12557,7 @@
    "repo": "langfuse/langfuse",
    "language": "typescript",
    "firstSeen": "2026-10-24",
-   "lastSeenOnTrending": "2026-10-25"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "basketikun/infinite-canvas",
@@ -12827,7 +12611,7 @@
    "repo": "floci-io/floci",
    "language": "java",
    "firstSeen": "2026-10-24",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "qaiu/netdisk-fast-download",
@@ -12869,13 +12653,13 @@
    "repo": "Davidona/StreamVault-IPTV",
    "language": "kotlin",
    "firstSeen": "2026-10-24",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "bjzhou/PhotonCamera",
    "language": "kotlin",
    "firstSeen": "2026-10-24",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "YangJiiii/3105",
@@ -12911,13 +12695,13 @@
    "repo": "Niko1221/Strata",
    "language": "cpp",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "slopus/happy",
    "language": "swift",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "is-a-dev/register",
@@ -12941,7 +12725,7 @@
    "repo": "HKUDS/DeepTutor",
    "language": "python",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "experientiallabs/experiential",
@@ -12959,7 +12743,7 @@
    "repo": "JetBrains/thinkrail",
    "language": "typescript",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "mantrakp04/ardia",
@@ -12977,7 +12761,7 @@
    "repo": "nightly-labs/openbot",
    "language": "typescript",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ever-co/ever-gauzy",
@@ -12989,7 +12773,7 @@
    "repo": "microsoft/skill-recorder",
    "language": "typescript",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "humanlayer/humanlayer",
@@ -13055,7 +12839,7 @@
    "repo": "wailsapp/wails",
    "language": "go",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apache/pulsar",
@@ -13115,7 +12899,7 @@
    "repo": "subhra74/xdm",
    "language": "kotlin",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "spacecowboy/Feeder",
@@ -13133,7 +12917,7 @@
    "repo": "milika/SmartTubeIOS",
    "language": "swift",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HarunRRayhan/content-machine",
@@ -13163,7 +12947,7 @@
    "repo": "CyC2018/CS-Notes",
    "language": "python",
    "firstSeen": "2026-10-25",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "jub0t/Concat",
@@ -13199,7 +12983,7 @@
    "repo": "higgsfield-ai/skills",
    "language": "python",
    "firstSeen": "2026-10-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "homeassistant-ai/ha-mcp",
@@ -13217,7 +13001,7 @@
    "repo": "gitroomhq/postiz-app",
    "language": "typescript",
    "firstSeen": "2026-10-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CodebuffAI/freebuff",
@@ -13301,13 +13085,13 @@
    "repo": "team-spotube/spotube",
    "language": "kotlin",
    "firstSeen": "2026-10-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "postgres/postgres",
    "language": "c",
    "firstSeen": "2026-10-27",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "HKUDS/AutoSwarm",
@@ -13379,7 +13163,7 @@
    "repo": "VictoriaMetrics/VictoriaMetrics",
    "language": "go",
    "firstSeen": "2026-10-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "kopia/kopia",
@@ -13391,7 +13175,7 @@
    "repo": "cloudflare/cloudflared",
    "language": "go",
    "firstSeen": "2026-10-28",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "glanceapp/glance",
@@ -13415,13 +13199,13 @@
    "repo": "xai-org/x-algorithm",
    "language": "rust",
    "firstSeen": "2026-10-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "grafana/loki",
    "language": "go",
    "firstSeen": "2026-10-28",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "vespa-engine/vespa",
@@ -13445,7 +13229,7 @@
    "repo": "snesrev/zelda3",
    "language": "c",
    "firstSeen": "2026-10-28",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "DualCoder/vgpu_unlock",
@@ -13457,7 +13241,7 @@
    "repo": "veracrypt/VeraCrypt",
    "language": "c",
    "firstSeen": "2026-10-28",
-   "lastSeenOnTrending": "2026-10-28"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "espressif/esp-emulator",
@@ -13577,7 +13361,7 @@
    "repo": "KeygraphHQ/shannon",
    "language": "typescript",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "ParadevAI/Paradev",
@@ -13595,7 +13379,7 @@
    "repo": "mvanhorn/cli-printing-press",
    "language": "go",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "tulir/whatsmeow",
@@ -13607,7 +13391,7 @@
    "repo": "plandex-ai/plandex",
    "language": "go",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "anchore/syft",
@@ -13619,7 +13403,7 @@
    "repo": "argoproj/argo-workflows",
    "language": "go",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cocoindex-io/cocoindex",
@@ -13631,13 +13415,13 @@
    "repo": "github/copilot-sdk",
    "language": "java",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "apache/iceberg",
    "language": "java",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-29"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "oceanbase/seekdb",
@@ -13661,7 +13445,7 @@
    "repo": "realidkroo/Mochy-Music",
    "language": "kotlin",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Tencent-TDS/KuiklyUI",
@@ -13673,7 +13457,7 @@
    "repo": "carloslfu/slotstream",
    "language": "swift",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "cmagnussen/blitztext-app",
@@ -13709,7 +13493,7 @@
    "repo": "KnifeLemon/Filee",
    "language": "csharp",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "meta/rocksdb",
@@ -13721,13 +13505,13 @@
    "repo": "meta/zstd",
    "language": "c",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "meta/fresco",
    "language": "kotlin",
    "firstSeen": "2026-10-29",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "rlaope/oh-my-hermes",
@@ -13745,7 +13529,7 @@
    "repo": "blader/humanizer",
    "language": "python",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "zarazhangrui/frontend-slides",
@@ -13763,7 +13547,7 @@
    "repo": "milind-soni/OpenMausBot",
    "language": "typescript",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "CopilotKit/CopilotKit",
@@ -13787,7 +13571,7 @@
    "repo": "lfnovo/open-notebook",
    "language": "typescript",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "prisma/orm",
@@ -13811,13 +13595,13 @@
    "repo": "NVIDIA/cuda-rust",
    "language": "rust",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "Mesh-LLM/mesh-llm",
    "language": "rust",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "hydro-project/infinity",
@@ -13835,7 +13619,7 @@
    "repo": "screenpipe/screenpipe",
    "language": "rust",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "neo4j/neo4j",
@@ -13847,7 +13631,7 @@
    "repo": "spring-projects/spring-security",
    "language": "java",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "appdevforall/CodeOnTheGo",
@@ -13919,7 +13703,7 @@
    "repo": "OrchardCMS/OrchardCore",
    "language": "csharp",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "OpenTabletDriver/OpenTabletDriver",
@@ -13931,7 +13715,7 @@
    "repo": "JetBrains/koog",
    "language": "kotlin",
    "firstSeen": "2026-10-30",
-   "lastSeenOnTrending": "2026-10-30"
+   "lastSeenOnTrending": "2026-10-31"
   },
   {
    "repo": "techjarves/Mobile-Harness",
@@ -13956,6 +13740,198 @@
    "language": "typescript",
    "firstSeen": "2026-10-30",
    "lastSeenOnTrending": "2026-10-30"
+  },
+  {
+   "repo": "MemPalace/mempalace",
+   "language": "python",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "langchain-ai/deepagents",
+   "language": "python",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "kirodotdev/KiroCrew",
+   "language": "python",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "NVIDIA-NeMo/Speech",
+   "language": "python",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "IamRamgarhia/Free-GST-Billing-Software",
+   "language": "javascript",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "Orkas-AI/Orkas",
+   "language": "javascript",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "phaserjs/phaser",
+   "language": "javascript",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "QwenLM/qwen-code",
+   "language": "typescript",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "AdguardTeam/AdGuardHome",
+   "language": "typescript",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "crossplane/crossplane",
+   "language": "go",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "hashicorp/nomad",
+   "language": "go",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "infosave2007/aivpn",
+   "language": "rust",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "daeuniverse/honk",
+   "language": "rust",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "rivet-dev/rivet",
+   "language": "rust",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "openrewrite/rewrite",
+   "language": "java",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "apache/druid",
+   "language": "java",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "FasterXML/jackson-databind",
+   "language": "java",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "openmrs/openmrs-core",
+   "language": "java",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "amnezia-vpn/amnezia-client",
+   "language": "cpp",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "jrouwe/JoltPhysics",
+   "language": "cpp",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "TokisanGames/Terrain3D",
+   "language": "cpp",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "dmlc/xgboost",
+   "language": "cpp",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "nextcloud/desktop",
+   "language": "cpp",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "openxla/xla",
+   "language": "cpp",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "cilium/tetragon",
+   "language": "c",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "glfw/glfw",
+   "language": "c",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "Serial-Studio/Serial-Studio",
+   "language": "c",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "unicorn-engine/unicorn",
+   "language": "c",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "GlassHaven/Haven",
+   "language": "kotlin",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "duckduckgo/Android",
+   "language": "kotlin",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "TheBoredTeam/boring.notch",
+   "language": "swift",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
+  },
+  {
+   "repo": "api-platform/core",
+   "language": "php",
+   "firstSeen": "2026-10-31",
+   "lastSeenOnTrending": "2026-10-31"
   }
  ]
 }
