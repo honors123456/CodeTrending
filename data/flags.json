@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T06:08:07.791Z",
+ "updatedAt": "2026-11-02T20:59:15.768Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -10414,6 +10414,41 @@
    "repo": "dimthink/PriceAI",
    "flaggedAt": "2026-11-02T06:08:07.791Z",
    "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "toeverything/AFFiNE",
+   "flaggedAt": "2026-11-02T20:59:14.580Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "oblien/openship",
+   "flaggedAt": "2026-11-02T20:59:14.928Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "MakazhanAlpamys/Soup",
+   "flaggedAt": "2026-11-02T20:59:15.348Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "maillab/cloud-mail",
+   "flaggedAt": "2026-11-02T20:59:15.530Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "HarnessRouter/harnessrouter",
+   "flaggedAt": "2026-11-02T20:59:15.767Z",
+   "zScore": 5.4,
    "newAccountShare": null,
    "confirmed": null
   }
