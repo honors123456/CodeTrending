@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T06:52:01.921Z",
+ "updatedAt": "2026-11-03T18:37:53.602Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -26,8 +26,8 @@
    "zh": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction."
   },
   "chthollyphile/folia-major": {
-   "src": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
-   "zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器"
+   "src": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics.",
+   "zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics."
   },
   "hicccc77/WeFlow": {
    "src": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
@@ -10940,6 +10940,30 @@
   "maicong/music": {
    "src": "音乐搜索器 - 多站合一音乐搜索解决方案",
    "zh": "音乐搜索器 - 多站合一音乐搜索解决方案"
+  },
+  "HunYiSage/dsh-purge": {
+   "src": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+   "zh": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
+  },
+  "csyangwen/dsh-memory-evolve": {
+   "src": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+   "zh": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。"
+  },
+  "Usagi-org/ai-goofish-monitor": {
+   "src": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+   "zh": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。"
+  },
+  "Yuan1z0825/nature-skills": {
+   "src": "符合nature论文学术表达和科研绘图的Skill",
+   "zh": "符合nature论文学术表达和科研绘图的Skill"
+  },
+  "gdy666/lucky": {
+   "src": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
+   "zh": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser"
+  },
+  "jimmgreen/pulse": {
+   "src": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。  |   QQ Group  1043250162",
+   "zh": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。  |   QQ Group  1043250162"
   }
  }
 }

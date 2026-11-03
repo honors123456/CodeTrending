@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T06:52:04.916Z",
+ "updatedAt": "2026-11-03T18:37:54.882Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -10526,6 +10526,27 @@
    "repo": "NVIDIA/auto-ontology",
    "flaggedAt": "2026-11-03T06:52:04.916Z",
    "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "superplanehq/superplane",
+   "flaggedAt": "2026-11-03T18:37:54.370Z",
+   "zScore": 6.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "guohuiyuan/go-music-dl",
+   "flaggedAt": "2026-11-03T18:37:54.633Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "spotify/portal-ai-plugins",
+   "flaggedAt": "2026-11-03T18:37:54.881Z",
+   "zScore": 9,
    "newAccountShare": null,
    "confirmed": null
   }
