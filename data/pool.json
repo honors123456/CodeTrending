@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T18:22:44.121Z",
+ "updatedAt": "2026-11-04T06:04:09.718Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -13756,6 +13756,12 @@
   {
    "repo": "alexjustesen/speedtest-tracker",
    "language": "php",
+   "firstSeen": "2026-11-04",
+   "lastSeenOnTrending": "2026-11-04"
+  },
+  {
+   "repo": "YizhengWw/HachimoDock",
+   "language": "c",
    "firstSeen": "2026-11-04",
    "lastSeenOnTrending": "2026-11-04"
   }
