@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:19:05.231Z",
+ "updatedAt": "2026-11-04T18:51:30.576Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10886,8 +10886,8 @@
    "zh": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)"
   },
   "missuo/kumone": {
-   "src": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI",
-   "zh": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI"
+   "src": "雲の音 — A native music player for macOS and iOS, built with SwiftUI",
+   "zh": "雲の音 — A native music player for macOS and iOS, built with SwiftUI"
   },
   "bowenliang123/dsh-context": {
    "src": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
@@ -10964,6 +10964,10 @@
   "jimmgreen/pulse": {
    "src": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。  |   QQ Group  1043250162",
    "zh": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。  |   QQ Group  1043250162"
+  },
+  "Thysrael/Horizon": {
+   "src": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+   "zh": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
   }
  }
 }
