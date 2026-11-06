@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T18:41:13.776Z",
+ "updatedAt": "2026-11-06T06:28:08.988Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -13780,6 +13780,12 @@
   {
    "repo": "tidain/YunX-Desktop",
    "language": "kotlin",
+   "firstSeen": "2026-11-06",
+   "lastSeenOnTrending": "2026-11-06"
+  },
+  {
+   "repo": "parcel-bundler/parcel",
+   "language": "rust",
    "firstSeen": "2026-11-06",
    "lastSeenOnTrending": "2026-11-06"
   }
