@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T06:41:49.203Z",
+ "updatedAt": "2026-11-06T18:11:36.448Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -10833,6 +10833,76 @@
   {
    "repo": "bowenliang123/dsh-context",
    "flaggedAt": "2026-11-06T06:41:49.202Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "angular/angular",
+   "flaggedAt": "2026-11-06T18:11:34.487Z",
+   "zScore": 13.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "prometheus/prometheus",
+   "flaggedAt": "2026-11-06T18:11:34.813Z",
+   "zScore": 9.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "rust-lang/rust",
+   "flaggedAt": "2026-11-06T18:11:34.988Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "symfony/symfony",
+   "flaggedAt": "2026-11-06T18:11:35.232Z",
+   "zScore": 17.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "etcd-io/etcd",
+   "flaggedAt": "2026-11-06T18:11:35.456Z",
+   "zScore": 7.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "astral-sh/ruff",
+   "flaggedAt": "2026-11-06T18:11:35.689Z",
+   "zScore": 6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nushell/nushell",
+   "flaggedAt": "2026-11-06T18:11:35.879Z",
+   "zScore": 11.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "apache/kafka",
+   "flaggedAt": "2026-11-06T18:11:36.090Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mpv-player/mpv",
+   "flaggedAt": "2026-11-06T18:11:36.263Z",
+   "zScore": 8.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "samolego/Canta",
+   "flaggedAt": "2026-11-06T18:11:36.447Z",
    "zScore": 4.7,
    "newAccountShare": null,
    "confirmed": null
