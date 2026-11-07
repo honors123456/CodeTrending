@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T18:11:36.448Z",
+ "updatedAt": "2026-11-07T06:08:09.273Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -10904,6 +10904,188 @@
    "repo": "samolego/Canta",
    "flaggedAt": "2026-11-06T18:11:36.447Z",
    "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sveltejs/svelte",
+   "flaggedAt": "2026-11-07T06:08:04.733Z",
+   "zScore": 5.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vuejs/vue",
+   "flaggedAt": "2026-11-07T06:08:04.953Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "moby/moby",
+   "flaggedAt": "2026-11-07T06:08:05.140Z",
+   "zScore": 11.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "oven-sh/bun",
+   "flaggedAt": "2026-11-07T06:08:05.351Z",
+   "zScore": 9.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "denoland/deno",
+   "flaggedAt": "2026-11-07T06:08:05.535Z",
+   "zScore": 6.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sharkdp/fd",
+   "flaggedAt": "2026-11-07T06:08:05.696Z",
+   "zScore": 8.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "servo/servo",
+   "flaggedAt": "2026-11-07T06:08:05.878Z",
+   "zScore": 7.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openssl/openssl",
+   "flaggedAt": "2026-11-07T06:08:06.050Z",
+   "zScore": 17.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gin-gonic/gin",
+   "flaggedAt": "2026-11-07T06:08:06.212Z",
+   "zScore": 9.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "spf13/cobra",
+   "flaggedAt": "2026-11-07T06:08:06.371Z",
+   "zScore": 10.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/TypeScript",
+   "flaggedAt": "2026-11-07T06:08:06.578Z",
+   "zScore": 8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vitejs/vite",
+   "flaggedAt": "2026-11-07T06:08:06.747Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "astral-sh/uv",
+   "flaggedAt": "2026-11-07T06:08:06.923Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "BurntSushi/ripgrep",
+   "flaggedAt": "2026-11-07T06:08:07.097Z",
+   "zScore": 8.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sharkdp/bat",
+   "flaggedAt": "2026-11-07T06:08:07.280Z",
+   "zScore": 8.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "helix-editor/helix",
+   "flaggedAt": "2026-11-07T06:08:07.479Z",
+   "zScore": 9.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ShareX/ShareX",
+   "flaggedAt": "2026-11-07T06:08:07.655Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "RikkaApps/Shizuku",
+   "flaggedAt": "2026-11-07T06:08:07.815Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "AAswordman/Operit",
+   "flaggedAt": "2026-11-07T06:08:07.950Z",
+   "zScore": 10.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "pocket-id/pocket-id",
+   "flaggedAt": "2026-11-07T06:08:08.216Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "herdrdev/herdr",
+   "flaggedAt": "2026-11-07T06:08:08.441Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jamiepine/voicebox",
+   "flaggedAt": "2026-11-07T06:08:08.603Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "python/cpython",
+   "flaggedAt": "2026-11-07T06:08:08.789Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tianyu199509/DeskBox",
+   "flaggedAt": "2026-11-07T06:08:08.949Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tokio-rs/tokio",
+   "flaggedAt": "2026-11-07T06:08:09.127Z",
+   "zScore": 13.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mantrakp04/ardia",
+   "flaggedAt": "2026-11-07T06:08:09.272Z",
+   "zScore": 5.1,
    "newAccountShare": null,
    "confirmed": null
   }

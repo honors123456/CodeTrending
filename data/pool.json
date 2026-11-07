@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T17:54:42.978Z",
+ "updatedAt": "2026-11-07T05:49:28.751Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -1013,7 +1013,7 @@
    "repo": "pointfreeco/swift-composable-architecture",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-10-31"
+   "lastSeenOnTrending": "2026-11-07"
   },
   {
    "repo": "altic-dev/FluidVoice",
@@ -13978,6 +13978,18 @@
   {
    "repo": "pestphp/pest",
    "language": "php",
+   "firstSeen": "2026-11-07",
+   "lastSeenOnTrending": "2026-11-07"
+  },
+  {
+   "repo": "HaD0Yun/CozyClay",
+   "language": "javascript",
+   "firstSeen": "2026-11-07",
+   "lastSeenOnTrending": "2026-11-07"
+  },
+  {
+   "repo": "ethanplusai/sellbird",
+   "language": "python",
    "firstSeen": "2026-11-07",
    "lastSeenOnTrending": "2026-11-07"
   }
