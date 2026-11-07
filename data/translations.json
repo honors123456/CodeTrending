@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T06:08:04.144Z",
+ "updatedAt": "2026-11-07T17:05:25.834Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -9418,8 +9418,8 @@
    "zh": "用于构建 AI 驱动应用程序的开源框架，支持 JavaScript、Go 和 Python，由 Google 构建并在生产中使用。"
   },
   "chaitin/MonkeyCode": {
-   "src": "AI coding platform for teams",
-   "zh": "团队的 AI 编码平台。"
+   "src": "企业级 AI 办公工作台",
+   "zh": "企业级 AI 办公工作台"
   },
   "open-metadata/OpenMetadata": {
    "src": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
@@ -10758,8 +10758,8 @@
    "zh": "基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。"
   },
   "CYQawa/YunX": {
-   "src": "✨一个安卓 网盘解析 + 视频平台解析 下载app✨",
-   "zh": "✨一个安卓 网盘解析 + 视频平台解析 下载app✨"
+   "src": "YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨",
+   "zh": "YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨"
   },
   "MDX-Tom/gpt-instruct": {
    "src": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
@@ -10972,6 +10972,10 @@
   "tidain/YunX-Desktop": {
    "src": "YunX（云析）的官方 windows 桌面端",
    "zh": "YunX（云析）的官方 windows 桌面端"
+  },
+  "babygoton/WorkDaddy": {
+   "src": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
+   "zh": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。"
   }
  }
 }
