@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T06:08:45.108Z",
+ "updatedAt": "2026-11-08T17:17:47.747Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -11163,6 +11163,41 @@
    "repo": "emdash-cms/emdash",
    "flaggedAt": "2026-11-08T06:08:45.108Z",
    "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "GyulyVGC/sniffnet",
+   "flaggedAt": "2026-11-08T17:17:44.597Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "google-deepmind/mujoco",
+   "flaggedAt": "2026-11-08T17:17:44.869Z",
+   "zScore": 18.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gosom/google-maps-scraper",
+   "flaggedAt": "2026-11-08T17:17:45.175Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vercel-labs/json-render",
+   "flaggedAt": "2026-11-08T17:17:45.383Z",
+   "zScore": 6.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "anthropics/claude-quickstarts",
+   "flaggedAt": "2026-11-08T17:17:47.746Z",
+   "zScore": 19.5,
    "newAccountShare": null,
    "confirmed": null
   }
