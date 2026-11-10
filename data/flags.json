@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T21:40:42.694Z",
+ "updatedAt": "2026-11-10T07:18:24.635Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -11408,6 +11408,391 @@
    "repo": "ShayanAbbas1/dbdelve",
    "flaggedAt": "2026-11-09T21:40:42.693Z",
    "zScore": 24.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "langflow-ai/langflow",
+   "flaggedAt": "2026-11-10T07:18:11.437Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "JuliusBrussee/caveman",
+   "flaggedAt": "2026-11-10T07:18:11.659Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "stablyai/orca",
+   "flaggedAt": "2026-11-10T07:18:11.856Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "projectdiscovery/nuclei",
+   "flaggedAt": "2026-11-10T07:18:12.069Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "juanfont/headscale",
+   "flaggedAt": "2026-11-10T07:18:12.336Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "avelino/awesome-go",
+   "flaggedAt": "2026-11-10T07:18:12.579Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Stirling-Tools/Stirling-PDF",
+   "flaggedAt": "2026-11-10T07:18:12.890Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "FreeCAD/FreeCAD",
+   "flaggedAt": "2026-11-10T07:18:13.142Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "xiaojieonly/Ehviewer_CN_SXJ",
+   "flaggedAt": "2026-11-10T07:18:13.359Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tiann/KernelSU",
+   "flaggedAt": "2026-11-10T07:18:13.576Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "syncthing/syncthing",
+   "flaggedAt": "2026-11-10T07:18:13.788Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "infiniflow/ragflow",
+   "flaggedAt": "2026-11-10T07:18:14.056Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Shubhamsaboo/awesome-llm-apps",
+   "flaggedAt": "2026-11-10T07:18:14.242Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "browser-use/browser-use",
+   "flaggedAt": "2026-11-10T07:18:14.486Z",
+   "zScore": 4.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenHands/OpenHands",
+   "flaggedAt": "2026-11-10T07:18:14.720Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "swisskyrepo/PayloadsAllTheThings",
+   "flaggedAt": "2026-11-10T07:18:14.922Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "d2l-ai/d2l-zh",
+   "flaggedAt": "2026-11-10T07:18:15.187Z",
+   "zScore": 7.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mrdoob/three.js",
+   "flaggedAt": "2026-11-10T07:18:15.381Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Mintplex-Labs/anything-llm",
+   "flaggedAt": "2026-11-10T07:18:15.605Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nilbuild/developer-roadmap",
+   "flaggedAt": "2026-11-10T07:18:15.816Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "firecrawl/firecrawl",
+   "flaggedAt": "2026-11-10T07:18:16.032Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "termux/termux-app",
+   "flaggedAt": "2026-11-10T07:18:16.270Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "torvalds/linux",
+   "flaggedAt": "2026-11-10T07:18:16.494Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LizardByte/Sunshine",
+   "flaggedAt": "2026-11-10T07:18:16.757Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "amir1376/ab-download-manager",
+   "flaggedAt": "2026-11-10T07:18:16.937Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "aquasecurity/trivy",
+   "flaggedAt": "2026-11-10T07:18:17.149Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mnfst/awesome-free-llm-apis",
+   "flaggedAt": "2026-11-10T07:18:17.381Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tencent/WeKnora",
+   "flaggedAt": "2026-11-10T07:18:17.624Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "emilk/egui",
+   "flaggedAt": "2026-11-10T07:18:17.851Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "vercel-labs/agent-skills",
+   "flaggedAt": "2026-11-10T07:18:18.089Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gitleaks/gitleaks",
+   "flaggedAt": "2026-11-10T07:18:18.309Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Fission-AI/OpenSpec",
+   "flaggedAt": "2026-11-10T07:18:18.542Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bilawalsidhu/gods-eye-view",
+   "flaggedAt": "2026-11-10T07:18:18.822Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "handsomestWei/patent-disclosure-skill",
+   "flaggedAt": "2026-11-10T07:18:19.043Z",
+   "zScore": 3.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "harry7557558/spirula-studio",
+   "flaggedAt": "2026-11-10T07:18:19.243Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ahujasid/mcp-for-blender",
+   "flaggedAt": "2026-11-10T07:18:19.455Z",
+   "zScore": 5.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nab138/iloader",
+   "flaggedAt": "2026-11-10T07:18:19.656Z",
+   "zScore": 9.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Crosstalk-Solutions/project-nomad",
+   "flaggedAt": "2026-11-10T07:18:19.857Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "lobehub/lobehub",
+   "flaggedAt": "2026-11-10T07:18:20.177Z",
+   "zScore": 3.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "krillinai/OpenCreator",
+   "flaggedAt": "2026-11-10T07:18:20.415Z",
+   "zScore": 3.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "usestrix/strix",
+   "flaggedAt": "2026-11-10T07:18:20.623Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "calcom/cal.diy",
+   "flaggedAt": "2026-11-10T07:18:20.885Z",
+   "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NomaDamas/k-skill",
+   "flaggedAt": "2026-11-10T07:18:21.094Z",
+   "zScore": 7.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "boykopovar/AnyPS5",
+   "flaggedAt": "2026-11-10T07:18:21.287Z",
+   "zScore": 3.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "CYQawa/YunX",
+   "flaggedAt": "2026-11-10T07:18:21.488Z",
+   "zScore": 5.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "greensock/GSAP",
+   "flaggedAt": "2026-11-10T07:18:21.681Z",
+   "zScore": 4.4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "microsoft/TRELLIS.2",
+   "flaggedAt": "2026-11-10T07:18:22.032Z",
+   "zScore": 4.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "sp00nznet/xboxrecomp",
+   "flaggedAt": "2026-11-10T07:18:22.968Z",
+   "zScore": 24.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ace-step/ACE-Step-1.5",
+   "flaggedAt": "2026-11-10T07:18:23.160Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Dokploy/dokploy",
+   "flaggedAt": "2026-11-10T07:18:23.401Z",
+   "zScore": 5.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "crewAIInc/crewAI",
+   "flaggedAt": "2026-11-10T07:18:23.669Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TriliumNext/Trilium",
+   "flaggedAt": "2026-11-10T07:18:23.908Z",
+   "zScore": 8.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jub0t/Concat",
+   "flaggedAt": "2026-11-10T07:18:24.197Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "langchain-ai/deepagents",
+   "flaggedAt": "2026-11-10T07:18:24.420Z",
+   "zScore": 3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "guillaumemeyer/watermarks-remover",
+   "flaggedAt": "2026-11-10T07:18:24.634Z",
+   "zScore": 4.4,
    "newAccountShare": null,
    "confirmed": null
   }

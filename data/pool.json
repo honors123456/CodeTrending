@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T21:24:39.318Z",
+ "updatedAt": "2026-11-10T07:06:53.364Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -13774,6 +13774,12 @@
   {
    "repo": "omegaup/omegaup",
    "language": "php",
+   "firstSeen": "2026-11-10",
+   "lastSeenOnTrending": "2026-11-10"
+  },
+  {
+   "repo": "snap-stanford/memorilla",
+   "language": "python",
    "firstSeen": "2026-11-10",
    "lastSeenOnTrending": "2026-11-10"
   }
