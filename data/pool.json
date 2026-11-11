@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T18:38:32.514Z",
+ "updatedAt": "2026-11-11T05:59:08.101Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -13768,6 +13768,18 @@
   {
    "repo": "ChurchCRM/CRM",
    "language": "php",
+   "firstSeen": "2026-11-11",
+   "lastSeenOnTrending": "2026-11-11"
+  },
+  {
+   "repo": "Smart-Paocai/VioletToolBox",
+   "language": "csharp",
+   "firstSeen": "2026-11-11",
+   "lastSeenOnTrending": "2026-11-11"
+  },
+  {
+   "repo": "SunshineStream/Sunshine",
+   "language": "cpp",
    "firstSeen": "2026-11-11",
    "lastSeenOnTrending": "2026-11-11"
   }
