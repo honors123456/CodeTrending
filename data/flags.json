@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T06:14:30.151Z",
+ "updatedAt": "2026-11-11T18:54:09.950Z",
  "flags": [
   {
    "repo": "tailwindlabs/tailwindcss",
@@ -11877,6 +11877,69 @@
    "repo": "Thysrael/Horizon",
    "flaggedAt": "2026-11-11T06:14:30.150Z",
    "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "home-assistant/core",
+   "flaggedAt": "2026-11-11T18:54:08.014Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "expressjs/express",
+   "flaggedAt": "2026-11-11T18:54:08.242Z",
+   "zScore": 13.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "ashishps1/awesome-system-design-resources",
+   "flaggedAt": "2026-11-11T18:54:08.494Z",
+   "zScore": 6.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "nestjs/nest",
+   "flaggedAt": "2026-11-11T18:54:08.662Z",
+   "zScore": 10.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tauri-apps/tauri",
+   "flaggedAt": "2026-11-11T18:54:08.910Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "TheAlgorithms/Java",
+   "flaggedAt": "2026-11-11T18:54:09.129Z",
+   "zScore": 6.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "maxgoedjen/secretive",
+   "flaggedAt": "2026-11-11T18:54:09.378Z",
+   "zScore": 7.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openai/codex-security",
+   "flaggedAt": "2026-11-11T18:54:09.628Z",
+   "zScore": 11.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Tencent-Hunyuan/Hy-MT2",
+   "flaggedAt": "2026-11-11T18:54:09.949Z",
+   "zScore": 19.9,
    "newAccountShare": null,
    "confirmed": null
   }
