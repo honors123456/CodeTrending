@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T18:38:07.781Z",
+ "updatedAt": "2026-11-12T07:00:46.651Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -13792,6 +13792,12 @@
   {
    "repo": "Sylius/Sylius",
    "language": "php",
+   "firstSeen": "2026-11-12",
+   "lastSeenOnTrending": "2026-11-12"
+  },
+  {
+   "repo": "tiagozip/cap",
+   "language": "javascript",
    "firstSeen": "2026-11-12",
    "lastSeenOnTrending": "2026-11-12"
   }
