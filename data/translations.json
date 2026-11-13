@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T06:44:52.459Z",
+ "updatedAt": "2026-11-13T18:45:00.483Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10996,6 +10996,10 @@
   "shanliuling/dsh-image-gen": {
    "src": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
    "zh": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI."
+  },
+  "aimod-cc/Agent2API": {
+   "src": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理",
+   "zh": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理"
   }
  }
 }
