@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T06:30:18.010Z",
+ "updatedAt": "2026-11-15T17:56:01.431Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -11008,6 +11008,14 @@
   "kunkundi/crossdesk": {
    "src": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
    "zh": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。"
+  },
+  "bojieli/ai-infra-book": {
+   "src": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+   "zh": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验"
+  },
+  "suversal/WrapPin": {
+   "src": "iOS 27+ 本机虚拟定位与步行路线测试工具",
+   "zh": "iOS 27+ 本机虚拟定位与步行路线测试工具"
   }
  }
 }
