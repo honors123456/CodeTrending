@@ -1,69 +1,6 @@
 {
- "updatedAt": "2026-11-15T17:56:02.789Z",
+ "updatedAt": "2026-11-16T06:30:34.134Z",
  "flags": [
-  {
-   "repo": "santifer/career-ops",
-   "flaggedAt": "2026-08-18T01:56:49.590Z",
-   "zScore": 9.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "agalwood/Motrix",
-   "flaggedAt": "2026-08-18T01:56:49.727Z",
-   "zScore": 39.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "immich-app/immich",
-   "flaggedAt": "2026-08-18T01:56:49.890Z",
-   "zScore": 10.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "duckdb/duckdb",
-   "flaggedAt": "2026-08-18T01:56:50.006Z",
-   "zScore": 3.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "react/react",
-   "flaggedAt": "2026-08-18T05:07:34.852Z",
-   "zScore": 4.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "longbridge/gpui-component",
-   "flaggedAt": "2026-08-18T05:07:35.083Z",
-   "zScore": 6.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "unchihugo/FluentFlyout",
-   "flaggedAt": "2026-08-18T05:07:35.273Z",
-   "zScore": 6.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "millionco/react-doctor",
-   "flaggedAt": "2026-08-18T05:07:35.476Z",
-   "zScore": 6.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "yashab-cyber/opendroid",
-   "flaggedAt": "2026-08-18T05:07:35.688Z",
-   "zScore": 3.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "django/django",
    "flaggedAt": "2026-08-18T12:00:52.758Z",
@@ -11835,6 +11772,69 @@
    "repo": "snap-stanford/memorilla",
    "flaggedAt": "2026-11-15T17:56:02.788Z",
    "zScore": 7.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "asgeirtj/system_prompts_leaks",
+   "flaggedAt": "2026-11-16T06:30:31.947Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "eclipse-mosquitto/mosquitto",
+   "flaggedAt": "2026-11-16T06:30:32.327Z",
+   "zScore": 18.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "OpenCut-app/OpenCut",
+   "flaggedAt": "2026-11-16T06:30:32.577Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Billionmail/BillionMail",
+   "flaggedAt": "2026-11-16T06:30:32.776Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tgeorgiadis/quiver-launcher",
+   "flaggedAt": "2026-11-16T06:30:33.005Z",
+   "zScore": 4,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jean-voila/FeurStagram",
+   "flaggedAt": "2026-11-16T06:30:33.334Z",
+   "zScore": 7.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hieunc229/mailflare",
+   "flaggedAt": "2026-11-16T06:30:33.563Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "FujiwaraChoki/supoclip",
+   "flaggedAt": "2026-11-16T06:30:33.827Z",
+   "zScore": 3.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "hanliang97/MatrixMedia",
+   "flaggedAt": "2026-11-16T06:30:34.133Z",
+   "zScore": 12.8,
    "newAccountShare": null,
    "confirmed": null
   }

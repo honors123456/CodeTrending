@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T17:43:22.469Z",
+ "updatedAt": "2026-11-16T06:13:13.797Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -6275,7 +6275,7 @@
    "repo": "metadist/synaplan",
    "language": "php",
    "firstSeen": "2026-09-09",
-   "lastSeenOnTrending": "2026-11-15"
+   "lastSeenOnTrending": "2026-11-16"
   },
   {
    "repo": "google-ai-edge/LiteRT-LM",
@@ -13822,6 +13822,12 @@
   {
    "repo": "the-benchmarker/web-frameworks",
    "language": "php",
+   "firstSeen": "2026-11-16",
+   "lastSeenOnTrending": "2026-11-16"
+  },
+  {
+   "repo": "simonlin1212/Vibe-Research",
+   "language": "typescript",
    "firstSeen": "2026-11-16",
    "lastSeenOnTrending": "2026-11-16"
   }
