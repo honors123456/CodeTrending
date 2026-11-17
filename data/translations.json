@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T08:03:04.553Z",
+ "updatedAt": "2026-11-17T20:03:00.561Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -10874,8 +10874,8 @@
    "zh": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物"
   },
   "Jamailar/Beav": {
-   "src": "小红书 AI 运营 工具，多账号矩阵，智能选题推荐系统",
-   "zh": "小红书 AI 运营 工具，多账号矩阵，智能选题推荐系统"
+   "src": "小红书 AI 运营 工具，多账号矩阵，智能选题推荐系统，小红书 商家 AI 视频 图文 一键生成 批量创作，自媒体AI工作台",
+   "zh": "小红书 AI 运营 工具，多账号矩阵，智能选题推荐系统，小红书 商家 AI 视频 图文 一键生成 批量创作，自媒体AI工作台"
   },
   "xmanrui/dsh-im": {
    "src": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
@@ -11020,6 +11020,14 @@
   "simonlin1212/Vibe-Research": {
    "src": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.",
    "zh": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks."
+  },
+  "3441293738/creatorhub": {
+   "src": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok",
+   "zh": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok"
+  },
+  "basketikun/chatgpt2api": {
+   "src": "ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件",
+   "zh": "ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件"
   }
  }
 }
