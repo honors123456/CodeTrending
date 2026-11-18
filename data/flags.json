@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-11-18T07:29:38.984Z",
+ "updatedAt": "2026-11-18T19:39:22.464Z",
  "flags": [
-  {
-   "repo": "avelino/awesome-go",
-   "flaggedAt": "2026-08-20T11:58:53.720Z",
-   "zScore": 3.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "gorhill/uBlock",
-   "flaggedAt": "2026-08-20T11:58:53.836Z",
-   "zScore": 4.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "apple/container",
-   "flaggedAt": "2026-08-20T11:58:53.995Z",
-   "zScore": 4.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "nesquena/hermes-webui",
-   "flaggedAt": "2026-08-20T11:58:54.114Z",
-   "zScore": 4.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "Effect-TS/effect",
-   "flaggedAt": "2026-08-20T11:58:54.252Z",
-   "zScore": 6.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "trailofbits/skills",
-   "flaggedAt": "2026-08-20T11:58:54.480Z",
-   "zScore": 9.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "langchain-ai/deepagents",
-   "flaggedAt": "2026-08-20T11:58:54.654Z",
-   "zScore": 3.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "microsoft/TypeScript",
    "flaggedAt": "2026-08-21T02:03:21.955Z",
@@ -12024,6 +11975,34 @@
    "repo": "babygoton/WorkDaddy",
    "flaggedAt": "2026-11-18T07:29:38.984Z",
    "zScore": 5.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "NickvisionApps/Parabolic",
+   "flaggedAt": "2026-11-18T19:39:21.485Z",
+   "zScore": 12.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "openvinotoolkit/openvino",
+   "flaggedAt": "2026-11-18T19:39:21.926Z",
+   "zScore": 16.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "boykopovar/AnyPS5",
+   "flaggedAt": "2026-11-18T19:39:22.186Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "solidjs/solid",
+   "flaggedAt": "2026-11-18T19:39:22.464Z",
+   "zScore": 6.5,
    "newAccountShare": null,
    "confirmed": null
   }
