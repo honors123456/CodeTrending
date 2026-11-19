@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T19:22:56.150Z",
+ "updatedAt": "2026-11-19T07:16:59.251Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -12770,12 +12770,6 @@
    "lastSeenOnTrending": "2026-11-14"
   },
   {
-   "repo": "daijro/camoufox",
-   "language": "c",
-   "firstSeen": "2026-11-14",
-   "lastSeenOnTrending": "2026-11-14"
-  },
-  {
    "repo": "bloxstraplabs/bloxstrap",
    "language": "csharp",
    "firstSeen": "2026-11-14",
@@ -13744,6 +13738,12 @@
   {
    "repo": "FOSSBilling/FOSSBilling",
    "language": "php",
+   "firstSeen": "2026-11-19",
+   "lastSeenOnTrending": "2026-11-19"
+  },
+  {
+   "repo": "incoai/splash",
+   "language": "cpp",
    "firstSeen": "2026-11-19",
    "lastSeenOnTrending": "2026-11-19"
   }
