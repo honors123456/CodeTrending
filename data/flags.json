@@ -1,20 +1,6 @@
 {
- "updatedAt": "2026-11-21T07:14:00.527Z",
+ "updatedAt": "2026-11-21T18:12:17.073Z",
  "flags": [
-  {
-   "repo": "rizinorg/cutter",
-   "flaggedAt": "2026-08-23T11:52:46.314Z",
-   "zScore": 15.4,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "kunchenguid/lavish-axi",
-   "flaggedAt": "2026-08-23T11:52:46.517Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "projectdiscovery/nuclei",
    "flaggedAt": "2026-08-24T02:05:42.684Z",
@@ -11989,6 +11975,27 @@
    "repo": "FlashML-org/FreeToken",
    "flaggedAt": "2026-11-21T07:14:00.526Z",
    "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PenglongHuang/chinese-novelist-skill",
+   "flaggedAt": "2026-11-21T18:12:16.538Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "video-db/call.md",
+   "flaggedAt": "2026-11-21T18:12:16.901Z",
+   "zScore": 14.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "conorbronsdon/avoid-ai-writing",
+   "flaggedAt": "2026-11-21T18:12:17.073Z",
+   "zScore": 5.8,
    "newAccountShare": null,
    "confirmed": null
   }
