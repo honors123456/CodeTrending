@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T07:35:42.294Z",
+ "updatedAt": "2026-11-23T22:47:27.541Z",
  "entries": {
   "xbtlin/ai-berkshire": {
    "src": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
@@ -11032,6 +11032,14 @@
   "N3urda/hongguoTV": {
    "src": "安卓 TV 红果短剧客户端",
    "zh": "安卓 TV 红果短剧客户端"
+  },
+  "misakano7545/workbuddy2api-panel": {
+   "src": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+   "zh": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支"
+  },
+  "qier222/YesPlayMusic": {
+   "src": "高颜值的原生桌面音乐播放器，支持本地音乐、媒体服务器与第三方插件 。｜A better-looking desktop music player for local files, media servers, and plugins. Support macOS, Windows and Linux.",
+   "zh": "高颜值的原生桌面音乐播放器，支持本地音乐、媒体服务器与第三方插件 。｜A better-looking desktop music player for local files, media servers, and plugins. Support macOS, Windows and Linux."
   }
  }
 }
