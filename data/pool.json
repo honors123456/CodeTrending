@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T18:26:56.879Z",
+ "updatedAt": "2026-11-23T07:23:31.604Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -3515,7 +3515,7 @@
    "repo": "altstoreio/AltStore",
    "language": "swift",
    "firstSeen": "2026-07-04",
-   "lastSeenOnTrending": "2026-11-12"
+   "lastSeenOnTrending": "2026-11-23"
   },
   {
    "repo": "alienator88/Pearcleaner",
@@ -13361,7 +13361,7 @@
    "repo": "driceroland/Search",
    "language": "swift",
    "firstSeen": "2026-11-21",
-   "lastSeenOnTrending": "2026-11-22"
+   "lastSeenOnTrending": "2026-11-23"
   },
   {
    "repo": "N3urda/hongguoTV",
@@ -13384,6 +13384,12 @@
   {
    "repo": "Saffsanity/sill",
    "language": "swift",
+   "firstSeen": "2026-11-23",
+   "lastSeenOnTrending": "2026-11-23"
+  },
+  {
+   "repo": "ardia-browser/ardia",
+   "language": "typescript",
    "firstSeen": "2026-11-23",
    "lastSeenOnTrending": "2026-11-23"
   }
