@@ -1,83 +1,6 @@
 {
- "updatedAt": "2026-11-24T09:57:50.787Z",
+ "updatedAt": "2026-11-24T21:18:05.253Z",
  "flags": [
-  {
-   "repo": "facebook/astryx",
-   "flaggedAt": "2026-08-26T11:59:13.379Z",
-   "zScore": 3.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "vllm-project/vllm",
-   "flaggedAt": "2026-08-26T11:59:13.743Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "tonhowtf/omniget",
-   "flaggedAt": "2026-08-26T11:59:13.924Z",
-   "zScore": 7.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "OpenCut-app/OpenCut",
-   "flaggedAt": "2026-08-26T11:59:14.119Z",
-   "zScore": 3.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "microsoft/BitNet",
-   "flaggedAt": "2026-08-26T11:59:14.440Z",
-   "zScore": 8.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "directus/directus",
-   "flaggedAt": "2026-08-26T11:59:14.645Z",
-   "zScore": 3.8,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "bmad-code-org/BMAD-METHOD",
-   "flaggedAt": "2026-08-26T11:59:14.816Z",
-   "zScore": 4.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "flexprice/flexprice",
-   "flaggedAt": "2026-08-26T11:59:15.008Z",
-   "zScore": 33.6,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "Unity-Technologies/skills",
-   "flaggedAt": "2026-08-26T11:59:15.193Z",
-   "zScore": 6.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "AntigmaLabs/ante",
-   "flaggedAt": "2026-08-26T11:59:15.388Z",
-   "zScore": 10.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "ongridio/ongrid",
-   "flaggedAt": "2026-08-26T11:59:15.607Z",
-   "zScore": 3.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "calesthio/OpenMontage",
    "flaggedAt": "2026-08-27T09:51:21.846Z",
@@ -11982,6 +11905,20 @@
    "repo": "lnkiai/m3e-canvas",
    "flaggedAt": "2026-11-24T09:57:50.786Z",
    "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "junegunn/fzf",
+   "flaggedAt": "2026-11-24T21:18:05.014Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "derv82/wifit3",
+   "flaggedAt": "2026-11-24T21:18:05.252Z",
+   "zScore": 5.4,
    "newAccountShare": null,
    "confirmed": null
   }
