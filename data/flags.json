@@ -1,48 +1,6 @@
 {
- "updatedAt": "2026-11-23T22:47:29.068Z",
+ "updatedAt": "2026-11-24T09:57:50.787Z",
  "flags": [
-  {
-   "repo": "bannedbook/fanqiang",
-   "flaggedAt": "2026-08-26T02:10:22.154Z",
-   "zScore": 7.1,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "anthropics/claude-plugins-official",
-   "flaggedAt": "2026-08-26T02:10:22.314Z",
-   "zScore": 12.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "k4yt3x/video2x",
-   "flaggedAt": "2026-08-26T02:10:22.448Z",
-   "zScore": 26,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "Shubhamsaboo/awesome-llm-apps",
-   "flaggedAt": "2026-08-26T05:15:36.721Z",
-   "zScore": 3.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "DietrichGebert/ponytail",
-   "flaggedAt": "2026-08-26T05:15:36.905Z",
-   "zScore": 3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "palmier-io/palmier-pro",
-   "flaggedAt": "2026-08-26T05:15:37.055Z",
-   "zScore": 3.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "facebook/astryx",
    "flaggedAt": "2026-08-26T11:59:13.379Z",
@@ -11926,6 +11884,104 @@
    "repo": "croffasia/itsaplan",
    "flaggedAt": "2026-11-23T22:47:29.067Z",
    "zScore": 5.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bytedance/deer-flow",
+   "flaggedAt": "2026-11-24T09:57:47.021Z",
+   "zScore": 4.3,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "LizardByte/Sunshine",
+   "flaggedAt": "2026-11-24T09:57:47.393Z",
+   "zScore": 4.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "unslothai/unsloth",
+   "flaggedAt": "2026-11-24T09:57:47.618Z",
+   "zScore": 4.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "jlcodes99/cockpit-tools",
+   "flaggedAt": "2026-11-24T09:57:47.979Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Free-TV/IPTV",
+   "flaggedAt": "2026-11-24T09:57:48.265Z",
+   "zScore": 5.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "0xJacky/nginx-ui",
+   "flaggedAt": "2026-11-24T09:57:48.632Z",
+   "zScore": 27.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "stalwartlabs/stalwart",
+   "flaggedAt": "2026-11-24T09:57:48.916Z",
+   "zScore": 7.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "HarnessRouter/harnessrouter",
+   "flaggedAt": "2026-11-24T09:57:49.177Z",
+   "zScore": 11.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "google-gemini/gemini-skills",
+   "flaggedAt": "2026-11-24T09:57:49.499Z",
+   "zScore": 27.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "mg-chao/snow-shot",
+   "flaggedAt": "2026-11-24T09:57:49.738Z",
+   "zScore": 3.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "getpaseo/paseo",
+   "flaggedAt": "2026-11-24T09:57:50.021Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "dreammis/social-auto-upload",
+   "flaggedAt": "2026-11-24T09:57:50.304Z",
+   "zScore": 5.5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "kunkundi/crossdesk",
+   "flaggedAt": "2026-11-24T09:57:50.542Z",
+   "zScore": 4.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "lnkiai/m3e-canvas",
+   "flaggedAt": "2026-11-24T09:57:50.786Z",
+   "zScore": 4.6,
    "newAccountShare": null,
    "confirmed": null
   }
