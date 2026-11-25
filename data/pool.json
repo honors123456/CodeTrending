@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T21:05:56.811Z",
+ "updatedAt": "2026-11-25T08:19:01.736Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -6689,7 +6689,7 @@
    "repo": "pingdotgg/t3code",
    "language": "typescript",
    "firstSeen": "2026-10-03",
-   "lastSeenOnTrending": "2026-11-19"
+   "lastSeenOnTrending": "2026-11-25"
   },
   {
    "repo": "open-telemetry/opentelemetry-go",
@@ -13031,6 +13031,18 @@
    "repo": "yetone/magpie",
    "language": "go",
    "firstSeen": "2026-11-24",
+   "lastSeenOnTrending": "2026-11-25"
+  },
+  {
+   "repo": "qqxpee/antigravity2-cn",
+   "language": "javascript",
+   "firstSeen": "2026-11-25",
+   "lastSeenOnTrending": "2026-11-25"
+  },
+  {
+   "repo": "diabl0w/DFRoot",
+   "language": "c",
+   "firstSeen": "2026-11-25",
    "lastSeenOnTrending": "2026-11-25"
   }
  ]
