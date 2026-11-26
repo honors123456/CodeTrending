@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T20:27:03.333Z",
+ "updatedAt": "2026-11-26T08:04:14.250Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -4511,7 +4511,7 @@
    "repo": "schollz/croc",
    "language": "go",
    "firstSeen": "2026-07-13",
-   "lastSeenOnTrending": "2026-11-25"
+   "lastSeenOnTrending": "2026-11-26"
   },
   {
    "repo": "AndroidIDEOfficial/AndroidIDE",
@@ -12707,13 +12707,13 @@
    "repo": "samuelgursky/davinci-resolve-mcp",
    "language": "python",
    "firstSeen": "2026-11-24",
-   "lastSeenOnTrending": "2026-11-25"
+   "lastSeenOnTrending": "2026-11-26"
   },
   {
    "repo": "misakano7545/workbuddy2api-panel",
    "language": "go",
    "firstSeen": "2026-11-24",
-   "lastSeenOnTrending": "2026-11-25"
+   "lastSeenOnTrending": "2026-11-26"
   },
   {
    "repo": "qier222/YesPlayMusic",
@@ -12748,6 +12748,12 @@
   {
    "repo": "n8n-io/nod",
    "language": "typescript",
+   "firstSeen": "2026-11-26",
+   "lastSeenOnTrending": "2026-11-26"
+  },
+  {
+   "repo": "CroqueMr/libreelec-CB1",
+   "language": "c",
    "firstSeen": "2026-11-26",
    "lastSeenOnTrending": "2026-11-26"
   }
