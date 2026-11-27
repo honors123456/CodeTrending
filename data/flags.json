@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-11-26T20:16:29.270Z",
+ "updatedAt": "2026-11-27T08:21:36.076Z",
  "flags": [
-  {
-   "repo": "ChromeDevTools/chrome-devtools-mcp",
-   "flaggedAt": "2026-08-29T07:21:26.513Z",
-   "zScore": 11,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "Gentleman-Programming/gentle-ai",
-   "flaggedAt": "2026-08-29T07:21:26.921Z",
-   "zScore": 5.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "workweave/router",
-   "flaggedAt": "2026-08-29T07:21:27.122Z",
-   "zScore": 25.2,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "HKUDS/AI-Trader",
-   "flaggedAt": "2026-08-29T07:21:27.310Z",
-   "zScore": 8.7,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "AdguardTeam/AdGuardHome",
-   "flaggedAt": "2026-08-29T07:21:27.502Z",
-   "zScore": 15.3,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "microsoft/microsoft-ui-xaml",
-   "flaggedAt": "2026-08-29T07:21:27.768Z",
-   "zScore": 28.5,
-   "newAccountShare": null,
-   "confirmed": null
-  },
-  {
-   "repo": "usekaneo/kaneo",
-   "flaggedAt": "2026-08-29T07:21:27.970Z",
-   "zScore": 6.9,
-   "newAccountShare": null,
-   "confirmed": null
-  },
   {
    "repo": "langflow-ai/langflow",
    "flaggedAt": "2026-08-29T15:57:41.897Z",
@@ -11842,6 +11793,90 @@
    "repo": "rohitg00/ai-engineering-from-scratch",
    "flaggedAt": "2026-11-26T20:16:29.269Z",
    "zScore": 4.7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "github/spec-kit",
+   "flaggedAt": "2026-11-27T08:21:33.142Z",
+   "zScore": 7,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "gorhill/uBlock",
+   "flaggedAt": "2026-11-27T08:21:33.507Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "PostHog/posthog",
+   "flaggedAt": "2026-11-27T08:21:33.778Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tt-a1i/archify",
+   "flaggedAt": "2026-11-27T08:21:34.004Z",
+   "zScore": 3.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "trycua/cua",
+   "flaggedAt": "2026-11-27T08:21:34.251Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "HKUDS/DeepTutor",
+   "flaggedAt": "2026-11-27T08:21:34.536Z",
+   "zScore": 4.6,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "THU-MAIC/OpenMAIC",
+   "flaggedAt": "2026-11-27T08:21:34.779Z",
+   "zScore": 10.2,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "Usagi-org/ai-goofish-monitor",
+   "flaggedAt": "2026-11-27T08:21:35.050Z",
+   "zScore": 3.9,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "bradautomates/claude-video",
+   "flaggedAt": "2026-11-27T08:21:35.279Z",
+   "zScore": 3.1,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "totec448-spec/chat-on-steroids",
+   "flaggedAt": "2026-11-27T08:21:35.580Z",
+   "zScore": 21.8,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "motion-canvas/motion-canvas",
+   "flaggedAt": "2026-11-27T08:21:35.820Z",
+   "zScore": 5,
+   "newAccountShare": null,
+   "confirmed": null
+  },
+  {
+   "repo": "tianma-if/edgeever",
+   "flaggedAt": "2026-11-27T08:21:36.075Z",
+   "zScore": 8.6,
    "newAccountShare": null,
    "confirmed": null
   }
