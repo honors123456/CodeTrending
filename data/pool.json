@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T19:54:16.354Z",
+ "updatedAt": "2026-11-28T07:36:07.159Z",
  "entries": [
   {
    "repo": "pytorch/pytorch",
@@ -5753,7 +5753,7 @@
    "repo": "metadist/synaplan",
    "language": "php",
    "firstSeen": "2026-09-09",
-   "lastSeenOnTrending": "2026-11-27"
+   "lastSeenOnTrending": "2026-11-28"
   },
   {
    "repo": "google-ai-edge/LiteRT-LM",
@@ -12203,7 +12203,7 @@
    "repo": "samuelgursky/davinci-resolve-mcp",
    "language": "python",
    "firstSeen": "2026-11-24",
-   "lastSeenOnTrending": "2026-11-27"
+   "lastSeenOnTrending": "2026-11-28"
   },
   {
    "repo": "misakano7545/workbuddy2api-panel",
@@ -12263,6 +12263,12 @@
    "repo": "MorpheApp/morphe-patches",
    "language": "java",
    "firstSeen": "2026-11-27",
+   "lastSeenOnTrending": "2026-11-28"
+  },
+  {
+   "repo": "NYLLON-SOFTWARE/SignuDoc",
+   "language": "typescript",
+   "firstSeen": "2026-11-28",
    "lastSeenOnTrending": "2026-11-28"
   }
  ]
